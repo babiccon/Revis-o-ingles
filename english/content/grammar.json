@@ -1,0 +1,1655 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "level": "A2",
+      "topic": "Past Simple (Regular & Irregular)",
+      "explanation": "O Past Simple descreve ações que começaram e terminaram no passado. Para verbos regulares, adicionamos -ed (worked, played). Para irregulares, cada verbo tem sua forma própria (go→went, eat→ate). Na negativa usamos didn't + verbo base. Na interrogativa: Did + sujeito + verbo base?",
+      "rules": [
+        "Afirmativa regular: sujeito + verbo-ed (I worked, she played)",
+        "Afirmativa irregular: sujeito + forma irregular (I went, she ate)",
+        "Negativa: sujeito + didn't + verbo base (I didn't work, she didn't go)",
+        "Interrogativa: Did + sujeito + verbo base? (Did you work? Did she go?)",
+        "Marcadores de tempo: yesterday, last week, ago, in 2020"
+      ],
+      "examples": [
+        {"en": "I worked here last year.", "pt": "Eu trabalhei aqui ano passado."},
+        {"en": "She went to Paris in 2019.", "pt": "Ela foi a Paris em 2019."},
+        {"en": "They didn't finish the project.", "pt": "Eles não terminaram o projeto."},
+        {"en": "Did you see the movie?", "pt": "Você viu o filme?"},
+        {"en": "He bought a new car yesterday.", "pt": "Ele comprou um carro novo ontem."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I didn't went.", "correct": "I didn't go.", "explanation": "Após 'didn't', o verbo fica na forma base (infinitivo sem 'to')."},
+        {"wrong": "Did she went?", "correct": "Did she go?", "explanation": "Após 'Did', o verbo fica na forma base."},
+        {"wrong": "I goed to school.", "correct": "I went to school.", "explanation": "'Go' é irregular. A forma no passado é 'went', não 'goed'."}
+      ],
+      "flashcards": [
+        {"front": "go (past simple)", "back": "went"},
+        {"front": "eat (past simple)", "back": "ate"},
+        {"front": "buy (past simple)", "back": "bought"},
+        {"front": "see (past simple)", "back": "saw"},
+        {"front": "take (past simple)", "back": "took"},
+        {"front": "make (past simple)", "back": "made"},
+        {"front": "come (past simple)", "back": "came"},
+        {"front": "give (past simple)", "back": "gave"},
+        {"front": "think (past simple)", "back": "thought"},
+        {"front": "write (past simple)", "back": "wrote"},
+        {"front": "speak (past simple)", "back": "spoke"},
+        {"front": "run (past simple)", "back": "ran"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ to the store yesterday.",
+          "options": ["go", "goes", "went", "goed"],
+          "answer": 2,
+          "explanation": "'Go' é irregular. No Past Simple, usamos 'went'. 'Yesterday' indica passado."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "They ___ the homework last night.",
+          "options": ["didn't finished", "didn't finish", "not finished", "don't finish"],
+          "answer": 1,
+          "explanation": "Na negativa do Past Simple, usamos 'didn't' + verbo na forma base: 'didn't finish'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you ___ the email? (receive - interrogativa no passado)",
+          "answer": "Did you receive",
+          "explanation": "Interrogativa no Past Simple: Did + sujeito + verbo base."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I ___ a great book last weekend.",
+          "options": ["readed", "red", "read", "reading"],
+          "answer": 2,
+          "explanation": "'Read' é irregular. No passado, a escrita é igual ('read'), mas a pronúncia muda para /rɛd/."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We ___ (play) soccer when we were kids.",
+          "answer": "played",
+          "explanation": "'Play' é regular. No Past Simple, adicionamos -ed: 'played'."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "A2",
+      "topic": "Present Continuous",
+      "explanation": "O Present Continuous descreve ações que estão acontecendo agora, neste momento. Também pode descrever planos futuros já definidos. Formação: sujeito + am/is/are + verbo-ing. Em português, equivale ao gerúndio (estou fazendo).",
+      "rules": [
+        "Afirmativa: sujeito + am/is/are + verbo-ing (I am working, she is eating)",
+        "Negativa: sujeito + am/is/are + not + verbo-ing (I am not working)",
+        "Interrogativa: Am/Is/Are + sujeito + verbo-ing? (Are you working?)",
+        "Usado para: ações acontecendo agora, planos futuros definidos, situações temporárias",
+        "Marcadores: now, right now, at the moment, currently, today"
+      ],
+      "examples": [
+        {"en": "I am studying English right now.", "pt": "Eu estou estudando inglês agora."},
+        {"en": "She is working from home today.", "pt": "Ela está trabalhando de casa hoje."},
+        {"en": "They aren't listening to me.", "pt": "Eles não estão me ouvindo."},
+        {"en": "Are you coming to the party tonight?", "pt": "Você vai vir à festa hoje à noite?"},
+        {"en": "He is living in London temporarily.", "pt": "Ele está morando em Londres temporariamente."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I am agree with you.", "correct": "I agree with you.", "explanation": "'Agree' é um verbo de estado (stative verb). Não usamos Present Continuous com verbos de estado."},
+        {"wrong": "She is have lunch.", "correct": "She is having lunch.", "explanation": "Devemos adicionar -ing ao verbo principal: 'having'."},
+        {"wrong": "I'm study now.", "correct": "I'm studying now.", "explanation": "O Present Continuous exige verbo-ing após am/is/are."}
+      ],
+      "flashcards": [
+        {"front": "Eu estou comendo", "back": "I am eating"},
+        {"front": "Ela está dormindo", "back": "She is sleeping"},
+        {"front": "Eles estão trabalhando", "back": "They are working"},
+        {"front": "Nós estamos aprendendo", "back": "We are learning"},
+        {"front": "Você está ouvindo?", "back": "Are you listening?"},
+        {"front": "Ele não está correndo", "back": "He is not running"},
+        {"front": "Estou morando aqui temporariamente", "back": "I am living here temporarily"},
+        {"front": "O que você está fazendo?", "back": "What are you doing?"},
+        {"front": "Está chovendo agora", "back": "It is raining now"},
+        {"front": "Eles estão vindo amanhã", "back": "They are coming tomorrow"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Look! The children ___ in the park.",
+          "options": ["play", "plays", "are playing", "is playing"],
+          "answer": 2,
+          "explanation": "'Look!' indica algo acontecendo agora → Present Continuous. 'Children' é plural → 'are playing'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ a book at the moment.",
+          "options": ["reads", "is reading", "read", "reading"],
+          "answer": 1,
+          "explanation": "'At the moment' indica ação em progresso → Present Continuous: 'is reading'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I ___ (not/watch) TV right now.",
+          "answer": "am not watching",
+          "explanation": "Negativa do Present Continuous: am/is/are + not + verbo-ing."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase está correta?",
+          "options": ["I am knowing the answer.", "I know the answer.", "I am know the answer.", "I knowing the answer."],
+          "answer": 1,
+          "explanation": "'Know' é um verbo de estado (stative verb). Não se usa com Present Continuous. O correto é 'I know'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ they ___ (come) to the meeting tomorrow?",
+          "answer": "Are they coming",
+          "explanation": "Present Continuous também expressa planos futuros definidos: Are + sujeito + verbo-ing."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "A2",
+      "topic": "Comparatives & Superlatives",
+      "explanation": "Comparativos comparam duas coisas (mais... que). Superlativos indicam o extremo em um grupo (o mais...). Adjetivos curtos (1-2 sílabas): adicionamos -er/-est. Adjetivos longos (3+ sílabas): usamos more/most. Alguns são irregulares (good→better→best).",
+      "rules": [
+        "Curtos (1 sílaba): tall → taller → tallest",
+        "Terminados em -e: nice → nicer → nicest",
+        "Terminados em consoante+vogal+consoante: big → bigger → biggest",
+        "Terminados em -y: happy → happier → happiest",
+        "Longos (3+ sílabas): beautiful → more beautiful → most beautiful",
+        "Irregulares: good→better→best, bad→worse→worst, far→farther→farthest",
+        "Comparativo: adjetivo-er + than / more + adjetivo + than",
+        "Superlativo: the + adjetivo-est / the most + adjetivo"
+      ],
+      "examples": [
+        {"en": "She is taller than her brother.", "pt": "Ela é mais alta que o irmão dela."},
+        {"en": "This is the most expensive restaurant in town.", "pt": "Este é o restaurante mais caro da cidade."},
+        {"en": "My car is faster than yours.", "pt": "Meu carro é mais rápido que o seu."},
+        {"en": "English is easier than Chinese.", "pt": "Inglês é mais fácil que chinês."},
+        {"en": "He is the best player on the team.", "pt": "Ele é o melhor jogador do time."}
+      ],
+      "common_mistakes": [
+        {"wrong": "She is more tall than me.", "correct": "She is taller than me.", "explanation": "'Tall' tem uma sílaba. Adjetivos curtos usam -er, não 'more'."},
+        {"wrong": "This is the most good.", "correct": "This is the best.", "explanation": "'Good' é irregular: good → better → best."},
+        {"wrong": "He is more better.", "correct": "He is better.", "explanation": "Nunca use 'more' com formas comparativas que já terminam em -er. É redundante."}
+      ],
+      "flashcards": [
+        {"front": "good → comparativo → superlativo", "back": "good → better → best"},
+        {"front": "bad → comparativo → superlativo", "back": "bad → worse → worst"},
+        {"front": "far → comparativo → superlativo", "back": "far → farther → farthest"},
+        {"front": "happy → comparativo", "back": "happier"},
+        {"front": "beautiful → superlativo", "back": "the most beautiful"},
+        {"front": "big → comparativo", "back": "bigger"},
+        {"front": "interesting → comparativo", "back": "more interesting"},
+        {"front": "hot → superlativo", "back": "the hottest"},
+        {"front": "little → comparativo → superlativo", "back": "little → less → least"},
+        {"front": "many/much → comparativo → superlativo", "back": "many/much → more → most"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "This book is ___ than that one.",
+          "options": ["interestinger", "more interesting", "most interesting", "interesting"],
+          "answer": 1,
+          "explanation": "'Interesting' tem 4 sílabas → usamos 'more interesting' para o comparativo."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She is the ___ student in the class.",
+          "options": ["more smart", "smartest", "most smart", "smarter"],
+          "answer": 1,
+          "explanation": "'Smart' tem 1 sílaba → superlativo com -est: 'the smartest'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Today is ___ (bad) than yesterday.",
+          "answer": "worse",
+          "explanation": "'Bad' é irregular. O comparativo é 'worse', não 'badder' ou 'more bad'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Mount Everest is the ___ mountain in the world.",
+          "options": ["higher", "highest", "most high", "more high"],
+          "answer": 1,
+          "explanation": "'High' tem 1 sílaba → superlativo com -est: 'the highest'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "This exercise is ___ (easy) than the last one.",
+          "answer": "easier",
+          "explanation": "'Easy' termina em -y → troca por -ier: 'easier'."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "A2",
+      "topic": "Subject-Verb Agreement",
+      "explanation": "Em inglês, o verbo deve concordar com o sujeito em número. No presente simples, verbos com he/she/it ganham -s ou -es. 'I have' mas 'he has'. 'They are' mas 'she is'. Brasileiros frequentemente esquecem o -s da terceira pessoa.",
+      "rules": [
+        "I/you/we/they + verbo base: I work, they play",
+        "He/she/it + verbo-s: He works, she plays",
+        "Verbos terminados em -s/-sh/-ch/-x/-o: adicionar -es: he goes, she watches",
+        "Verbos terminados em consoante+y: trocar y por -ies: he studies, she carries",
+        "Be: I am, you/we/they are, he/she/it is",
+        "Have: I/you/we/they have, he/she/it has",
+        "Do: I/you/we/they do, he/she/it does"
+      ],
+      "examples": [
+        {"en": "She works at a bank.", "pt": "Ela trabalha em um banco."},
+        {"en": "He has two brothers.", "pt": "Ele tem dois irmãos."},
+        {"en": "The dog runs fast.", "pt": "O cachorro corre rápido."},
+        {"en": "My parents live in Brazil.", "pt": "Meus pais moram no Brasil."},
+        {"en": "It doesn't matter.", "pt": "Não importa."}
+      ],
+      "common_mistakes": [
+        {"wrong": "She have a car.", "correct": "She has a car.", "explanation": "Com he/she/it, 'have' vira 'has'."},
+        {"wrong": "He don't like it.", "correct": "He doesn't like it.", "explanation": "Com he/she/it, 'do' vira 'does' → negativa: 'doesn't'."},
+        {"wrong": "The children plays outside.", "correct": "The children play outside.", "explanation": "'Children' é plural → verbo sem -s: 'play'."},
+        {"wrong": "She go to school.", "correct": "She goes to school.", "explanation": "Com 'she', o verbo precisa de -s/-es: 'goes'."}
+      ],
+      "flashcards": [
+        {"front": "She ___ (have)", "back": "She has"},
+        {"front": "He ___ (do)", "back": "He does"},
+        {"front": "It ___ (be)", "back": "It is"},
+        {"front": "They ___ (be)", "back": "They are"},
+        {"front": "She ___ (go)", "back": "She goes"},
+        {"front": "He ___ (study)", "back": "He studies"},
+        {"front": "It ___ (watch)", "back": "It watches"},
+        {"front": "She ___ (not/like)", "back": "She doesn't like"},
+        {"front": "___ he ___ (know)?", "back": "Does he know?"},
+        {"front": "The team ___ (play) well.", "back": "The team plays well."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ English every day.",
+          "options": ["study", "studies", "studys", "studying"],
+          "answer": 1,
+          "explanation": "'Study' com he/she/it: consoante + y → troca y por -ies: 'studies'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The children ___ in the garden.",
+          "options": ["plays", "is playing", "play", "does play"],
+          "answer": 2,
+          "explanation": "'Children' é plural → verbo sem -s: 'play'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "He ___ (not/have) any money.",
+          "answer": "doesn't have",
+          "explanation": "Negativa com he/she/it: doesn't + verbo base."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "My mother ___ cooking.",
+          "options": ["love", "loves", "loving", "are loving"],
+          "answer": 1,
+          "explanation": "'My mother' = she → verbo com -s: 'loves'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ your father ___ (work) here?",
+          "answer": "Does your father work",
+          "explanation": "Interrogativa com he/she/it: Does + sujeito + verbo base."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "A2",
+      "topic": "Prepositions of Time (in/on/at)",
+      "explanation": "Preposições de tempo em inglês seguem regras específicas: 'at' para horas e momentos específicos, 'on' para dias e datas, 'in' para meses, anos, estações e períodos longos. Diferente do português, onde usamos 'em' para quase tudo.",
+      "rules": [
+        "AT: horas (at 5 o'clock), momentos (at noon, at midnight, at night, at the weekend)",
+        "ON: dias da semana (on Monday), datas (on July 4th), dias especiais (on Christmas Day)",
+        "IN: meses (in January), anos (in 2024), estações (in summer), períodos do dia (in the morning/afternoon/evening)",
+        "Sem preposição: today, tomorrow, yesterday, tonight, last/next/every + tempo",
+        "Exceção importante: AT night, mas IN the morning/afternoon/evening"
+      ],
+      "examples": [
+        {"en": "The meeting is at 3 o'clock.", "pt": "A reunião é às 3 horas."},
+        {"en": "I was born on March 15th.", "pt": "Eu nasci em 15 de março."},
+        {"en": "She arrived in January.", "pt": "Ela chegou em janeiro."},
+        {"en": "We go to the gym on Mondays.", "pt": "Nós vamos à academia nas segundas."},
+        {"en": "I study in the morning and work at night.", "pt": "Eu estudo de manhã e trabalho à noite."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I wake up in 7 o'clock.", "correct": "I wake up at 7 o'clock.", "explanation": "Horas usam 'at', não 'in'."},
+        {"wrong": "She was born in Monday.", "correct": "She was born on Monday.", "explanation": "Dias da semana usam 'on', não 'in'."},
+        {"wrong": "I'll see you in tomorrow.", "correct": "I'll see you tomorrow.", "explanation": "'Tomorrow' não precisa de preposição."},
+        {"wrong": "He studies on the night.", "correct": "He studies at night.", "explanation": "Usamos 'at night' (sem artigo), é uma exceção."}
+      ],
+      "flashcards": [
+        {"front": "___ Monday (preposição)", "back": "on Monday"},
+        {"front": "___ 9 o'clock (preposição)", "back": "at 9 o'clock"},
+        {"front": "___ January (preposição)", "back": "in January"},
+        {"front": "___ the morning (preposição)", "back": "in the morning"},
+        {"front": "___ night (preposição)", "back": "at night"},
+        {"front": "___ 2024 (preposição)", "back": "in 2024"},
+        {"front": "___ Christmas Day (preposição)", "back": "on Christmas Day"},
+        {"front": "___ summer (preposição)", "back": "in summer"},
+        {"front": "___ the weekend (preposição)", "back": "at the weekend"},
+        {"front": "___ July 4th (preposição)", "back": "on July 4th"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I have a meeting ___ Wednesday.",
+          "options": ["in", "at", "on", "to"],
+          "answer": 2,
+          "explanation": "Dias da semana usam 'on': on Wednesday."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She was born ___ 1995.",
+          "options": ["on", "at", "in", "by"],
+          "answer": 2,
+          "explanation": "Anos usam 'in': in 1995."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The class starts ___ 8:30 ___ the morning.",
+          "answer": "at 8:30 in the morning",
+          "explanation": "Horas usam 'at'. Períodos do dia usam 'in': at 8:30 in the morning."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "We don't work ___ Sundays.",
+          "options": ["in", "at", "on", "during"],
+          "answer": 2,
+          "explanation": "Dias da semana usam 'on': on Sundays."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I like to read ___ night.",
+          "options": ["in", "on", "in the", "at"],
+          "answer": 3,
+          "explanation": "'Night' é exceção: usamos 'at night' (não 'in the night')."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "A2",
+      "topic": "Future (will / going to)",
+      "explanation": "Em inglês, há duas formas principais de falar sobre o futuro. 'Will' é usado para decisões espontâneas, promessas e previsões sem evidência. 'Going to' é usado para planos já decididos e previsões com evidência visível. Ambos traduzem como futuro em português.",
+      "rules": [
+        "Will: sujeito + will + verbo base (I will help you)",
+        "Will negativa: sujeito + won't + verbo base (I won't forget)",
+        "Going to: sujeito + am/is/are + going to + verbo base (I'm going to study)",
+        "Will: decisões no momento, promessas, ofertas, previsões opinativas",
+        "Going to: planos/intenções anteriores, previsões com evidência",
+        "Contrações: I'll, you'll, he'll, she'll, we'll, they'll, won't"
+      ],
+      "examples": [
+        {"en": "I'll help you with that. (decisão no momento)", "pt": "Eu vou te ajudar com isso."},
+        {"en": "I'm going to visit my parents next week. (plano)", "pt": "Eu vou visitar meus pais semana que vem."},
+        {"en": "Look at those clouds! It's going to rain. (evidência)", "pt": "Olha aquelas nuvens! Vai chover."},
+        {"en": "I think Brazil will win the World Cup. (opinião)", "pt": "Eu acho que o Brasil vai ganhar a Copa."},
+        {"en": "I won't tell anyone. (promessa)", "pt": "Eu não vou contar para ninguém."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I will going to study.", "correct": "I'm going to study. / I will study.", "explanation": "Nunca combine 'will' com 'going to'. Use um ou outro."},
+        {"wrong": "She will goes.", "correct": "She will go.", "explanation": "Após 'will', o verbo fica na forma base, sem -s."},
+        {"wrong": "I gonna do it.", "correct": "I'm gonna do it. / I'm going to do it.", "explanation": "'Gonna' é informal para 'going to', mas sempre precisa do verbo 'to be' antes."}
+      ],
+      "flashcards": [
+        {"front": "Eu vou te ligar amanhã. (plano)", "back": "I'm going to call you tomorrow."},
+        {"front": "Eu te ajudo! (decisão agora)", "back": "I'll help you!"},
+        {"front": "Vai chover. (evidência)", "back": "It's going to rain."},
+        {"front": "Eu acho que ela vai gostar. (opinião)", "back": "I think she'll like it."},
+        {"front": "Eu não vou esquecer. (promessa)", "back": "I won't forget."},
+        {"front": "O que você vai fazer no sábado? (plano)", "back": "What are you going to do on Saturday?"},
+        {"front": "Espere, eu abro a porta. (oferta)", "back": "Wait, I'll open the door."},
+        {"front": "Eles vão se casar em junho. (plano)", "back": "They're going to get married in June."},
+        {"front": "Será que vai nevar? (previsão)", "back": "Will it snow? / Is it going to snow?"},
+        {"front": "Eu prometo que não vou me atrasar.", "back": "I promise I won't be late."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Look out! The vase ___ fall! (evidência visual)",
+          "options": ["will", "is going to", "shall", "does"],
+          "answer": 1,
+          "explanation": "Com evidência visível (Look out!), usamos 'going to': 'is going to fall'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "\"The phone is ringing!\" \"I ___ answer it.\" (decisão espontânea)",
+          "options": ["am going to", "will", "going to", "am"],
+          "answer": 1,
+          "explanation": "Decisão tomada no momento → 'will': 'I'll answer it'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We ___ (visit) our grandparents next Sunday. It's already planned.",
+          "answer": "are going to visit",
+          "explanation": "Plano já decidido → 'going to': 'are going to visit'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I think it ___ be a great party.",
+          "options": ["is going to", "will", "going to", "is"],
+          "answer": 1,
+          "explanation": "Opinião/previsão sem evidência concreta ('I think') → 'will'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Don't worry, I ___ (not/tell) anyone your secret.",
+          "answer": "won't tell",
+          "explanation": "Promessa → 'will' (negativa: won't): 'won't tell'."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level": "A2",
+      "topic": "Modal Verbs (can/could/must)",
+      "explanation": "Verbos modais são verbos auxiliares que expressam habilidade, possibilidade, obrigação ou permissão. 'Can' = poder/conseguir, 'could' = podia/poderia (passado de can ou possibilidade), 'must' = dever/ter que (obrigação forte). Modais nunca recebem -s e são seguidos de verbo base.",
+      "rules": [
+        "Modais + verbo base (sem 'to'): I can swim, she must go",
+        "Sem -s na terceira pessoa: He can (não 'cans'), she must (não 'musts')",
+        "Negativa: modal + not: can't, couldn't, mustn't",
+        "Can: habilidade (I can drive), permissão (Can I go?), possibilidade",
+        "Could: habilidade no passado (I could swim as a child), pedido educado (Could you help?)",
+        "Must: obrigação forte (You must study), dedução (He must be tired)",
+        "Mustn't = proibição (You mustn't smoke here)"
+      ],
+      "examples": [
+        {"en": "I can speak three languages.", "pt": "Eu consigo falar três idiomas."},
+        {"en": "She couldn't come to the party.", "pt": "Ela não pôde vir à festa."},
+        {"en": "You must wear a seatbelt.", "pt": "Você deve usar cinto de segurança."},
+        {"en": "Could you open the window, please?", "pt": "Você poderia abrir a janela, por favor?"},
+        {"en": "He must be very rich. (dedução)", "pt": "Ele deve ser muito rico. (dedução)"}
+      ],
+      "common_mistakes": [
+        {"wrong": "She cans swim.", "correct": "She can swim.", "explanation": "Modais nunca recebem -s. É 'she can', não 'she cans'."},
+        {"wrong": "I can to drive.", "correct": "I can drive.", "explanation": "Após modais, o verbo vem na forma base sem 'to'."},
+        {"wrong": "I must to go.", "correct": "I must go.", "explanation": "Após 'must', não se usa 'to'. O verbo vem na forma base."},
+        {"wrong": "He not can come.", "correct": "He can't come.", "explanation": "A negativa é modal + not: can't, couldn't, mustn't."}
+      ],
+      "flashcards": [
+        {"front": "Eu sei nadar.", "back": "I can swim."},
+        {"front": "Ela não conseguia dormir.", "back": "She couldn't sleep."},
+        {"front": "Você deve estudar mais.", "back": "You must study more."},
+        {"front": "Posso ir ao banheiro?", "back": "Can I go to the bathroom?"},
+        {"front": "Você poderia me ajudar?", "back": "Could you help me?"},
+        {"front": "Você não pode fumar aqui.", "back": "You mustn't smoke here."},
+        {"front": "Eu conseguia correr rápido quando criança.", "back": "I could run fast when I was a child."},
+        {"front": "Ele deve estar em casa. (dedução)", "back": "He must be at home."},
+        {"front": "Posso usar seu telefone?", "back": "Can I use your phone?"},
+        {"front": "Eles não conseguem nos ver.", "back": "They can't see us."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ play the piano very well.",
+          "options": ["cans", "can", "could to", "can to"],
+          "answer": 1,
+          "explanation": "Modais não recebem -s e são seguidos de verbo base: 'can play'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "You ___ drive without a license. It's illegal.",
+          "options": ["mustn't", "don't must", "can", "must"],
+          "answer": 0,
+          "explanation": "Proibição → 'mustn't': 'You mustn't drive without a license.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you help me with this bag, please? (pedido educado)",
+          "answer": "Could",
+          "explanation": "'Could' é mais educado que 'can' para pedidos."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "When I was young, I ___ climb trees easily.",
+          "options": ["can", "must", "could", "should"],
+          "answer": 2,
+          "explanation": "Habilidade no passado → 'could': 'I could climb trees.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "He's been working all day. He ___ be exhausted. (dedução)",
+          "answer": "must",
+          "explanation": "Dedução com certeza forte → 'must': 'He must be exhausted.'"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level": "B1",
+      "topic": "Present Perfect (have done vs did)",
+      "explanation": "O Present Perfect conecta o passado ao presente. Formação: have/has + particípio passado. Diferente do Past Simple, que fala de ações acabadas no passado. O Present Perfect é um dos pontos mais difíceis para brasileiros porque em português usamos o passado simples em muitos casos onde o inglês exige Present Perfect.",
+      "rules": [
+        "Formação: have/has + past participle (I have worked, she has gone)",
+        "Usado para: experiências de vida (I have been to London), ações recentes com efeito no presente (I have lost my keys), ações que começaram no passado e continuam (I have lived here for 5 years)",
+        "Marcadores: ever, never, already, yet, just, since, for, recently",
+        "Past Simple: tempo definido (yesterday, last week, in 2020)",
+        "Present Perfect: tempo indefinido ou conectado ao presente (ever, never, already)",
+        "Since + ponto no tempo (since 2020, since Monday)",
+        "For + duração (for 3 years, for a long time)"
+      ],
+      "examples": [
+        {"en": "I have never been to Japan.", "pt": "Eu nunca fui ao Japão."},
+        {"en": "She has already finished her homework.", "pt": "Ela já terminou a lição de casa."},
+        {"en": "I have lived here since 2018.", "pt": "Eu moro aqui desde 2018."},
+        {"en": "Have you ever eaten sushi?", "pt": "Você já comeu sushi?"},
+        {"en": "I've just arrived.", "pt": "Eu acabei de chegar."},
+        {"en": "He has worked here for 10 years.", "pt": "Ele trabalha aqui há 10 anos."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I have been to London last year.", "correct": "I went to London last year.", "explanation": "Com tempo definido (last year), use Past Simple, não Present Perfect."},
+        {"wrong": "I live here since 2018.", "correct": "I have lived here since 2018.", "explanation": "Com 'since' (ação que continua), use Present Perfect."},
+        {"wrong": "Did you ever eat sushi?", "correct": "Have you ever eaten sushi?", "explanation": "Com 'ever' (experiência de vida), use Present Perfect."},
+        {"wrong": "I have went there.", "correct": "I have gone there. / I have been there.", "explanation": "Após have/has, use o particípio passado: 'gone', não 'went'."}
+      ],
+      "flashcards": [
+        {"front": "Eu nunca vi neve.", "back": "I have never seen snow."},
+        {"front": "Ela já saiu.", "back": "She has already left."},
+        {"front": "Você já viajou para fora do país?", "back": "Have you ever traveled abroad?"},
+        {"front": "Eu moro aqui há 5 anos.", "back": "I have lived here for 5 years."},
+        {"front": "Ele acabou de ligar.", "back": "He has just called."},
+        {"front": "Nós nos conhecemos desde 2015.", "back": "We have known each other since 2015."},
+        {"front": "Eu perdi minhas chaves. (ainda não achei)", "back": "I have lost my keys."},
+        {"front": "Quantos livros você já leu este ano?", "back": "How many books have you read this year?"},
+        {"front": "Ela ainda não respondeu.", "back": "She hasn't replied yet."},
+        {"front": "Eu já assisti esse filme.", "back": "I've already watched that movie."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ to Paris three times in my life.",
+          "options": ["went", "have been", "have went", "was"],
+          "answer": 1,
+          "explanation": "Experiência de vida (in my life) → Present Perfect: 'have been'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ her homework yet.",
+          "options": ["didn't finish", "hasn't finished", "haven't finished", "not finished"],
+          "answer": 1,
+          "explanation": "'Yet' indica Present Perfect negativo: 'hasn't finished yet'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I ___ (live) in this city ___ 10 years.",
+          "answer": "have lived ... for",
+          "explanation": "Ação que começou no passado e continua → Present Perfect + 'for' (duração)."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase está correta?",
+          "options": ["I have seen him yesterday.", "I saw him yesterday.", "I have saw him yesterday.", "I did see him yesterday."],
+          "answer": 1,
+          "explanation": "'Yesterday' é tempo definido → Past Simple: 'I saw him yesterday.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you ever ___ (try) Thai food?",
+          "answer": "Have you ever tried",
+          "explanation": "Experiência de vida com 'ever' → Present Perfect: 'Have you ever tried.'"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "level": "B1",
+      "topic": "Past Continuous",
+      "explanation": "O Past Continuous descreve ações em progresso no passado, frequentemente interrompidas por outra ação. Formação: was/were + verbo-ing. Equivale ao 'estava fazendo' em português. Muito usado com 'when' e 'while'.",
+      "rules": [
+        "Formação: was/were + verbo-ing (I was working, they were sleeping)",
+        "Negativa: was/were + not + verbo-ing (I wasn't working)",
+        "Interrogativa: Was/Were + sujeito + verbo-ing? (Were you working?)",
+        "Uso 1: Ação em progresso no passado interrompida por outra: I was cooking when the phone rang",
+        "Uso 2: Duas ações simultâneas no passado: While I was reading, she was watching TV",
+        "Uso 3: Descrever o cenário/contexto: The sun was shining and birds were singing",
+        "When + Past Simple (ação pontual), While + Past Continuous (ação em progresso)"
+      ],
+      "examples": [
+        {"en": "I was studying when you called.", "pt": "Eu estava estudando quando você ligou."},
+        {"en": "They were sleeping at midnight.", "pt": "Eles estavam dormindo à meia-noite."},
+        {"en": "While she was cooking, he was cleaning.", "pt": "Enquanto ela cozinhava, ele limpava."},
+        {"en": "It was raining when I left home.", "pt": "Estava chovendo quando eu saí de casa."},
+        {"en": "What were you doing at 8 pm?", "pt": "O que você estava fazendo às 8 da noite?"}
+      ],
+      "common_mistakes": [
+        {"wrong": "I was study when he arrived.", "correct": "I was studying when he arrived.", "explanation": "Past Continuous exige verbo-ing: 'was studying'."},
+        {"wrong": "When I was cooking, the phone was ringing.", "correct": "While I was cooking, the phone rang.", "explanation": "A interrupção (ação curta) usa Past Simple: 'rang'. A ação em progresso usa Past Continuous: 'was cooking'."},
+        {"wrong": "I were sleeping.", "correct": "I was sleeping.", "explanation": "Com I/he/she/it usamos 'was'. Com you/we/they usamos 'were'."}
+      ],
+      "flashcards": [
+        {"front": "Eu estava dormindo quando o alarme tocou.", "back": "I was sleeping when the alarm went off."},
+        {"front": "Eles estavam jogando futebol.", "back": "They were playing soccer."},
+        {"front": "O que você estava fazendo?", "back": "What were you doing?"},
+        {"front": "Ela estava lendo enquanto ele assistia TV.", "back": "She was reading while he was watching TV."},
+        {"front": "Estava nevando ontem de manhã.", "back": "It was snowing yesterday morning."},
+        {"front": "Nós estávamos esperando o ônibus.", "back": "We were waiting for the bus."},
+        {"front": "Eu não estava prestando atenção.", "back": "I wasn't paying attention."},
+        {"front": "Ele estava dirigindo quando viu o acidente.", "back": "He was driving when he saw the accident."},
+        {"front": "Vocês estavam estudando às 10?", "back": "Were you studying at 10?"},
+        {"front": "O sol estava brilhando.", "back": "The sun was shining."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ TV when the power went out.",
+          "options": ["watched", "was watching", "were watching", "am watching"],
+          "answer": 1,
+          "explanation": "Ação em progresso interrompida → Past Continuous: 'was watching'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "While she ___ dinner, the doorbell rang.",
+          "options": ["cooked", "was cooking", "is cooking", "cooks"],
+          "answer": 1,
+          "explanation": "'While' + ação em progresso → Past Continuous: 'was cooking'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "What ___ you ___ (do) at 9 pm last night?",
+          "answer": "were you doing",
+          "explanation": "Perguntando sobre ação em progresso no passado → Past Continuous."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "They ___ and laughing all evening.",
+          "options": ["were talking", "was talking", "talked", "are talking"],
+          "answer": 0,
+          "explanation": "'They' → 'were'. Ações contínuas descrevendo cenário → Past Continuous."
+        },
+        {
+          "type": "fill_blank",
+          "question": "It ___ (rain) when I ___ (leave) the house.",
+          "answer": "was raining ... left",
+          "explanation": "'Raining' = ação em progresso (Past Continuous). 'Left' = ação pontual (Past Simple)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "level": "B1",
+      "topic": "First & Second Conditional",
+      "explanation": "Condicionais expressam situações hipotéticas. O First Conditional fala de situações possíveis/prováveis no futuro. O Second Conditional fala de situações imaginárias/improváveis no presente ou futuro. Em português, equivalem ao 'se... então...'.",
+      "rules": [
+        "First Conditional (possível/provável): If + Present Simple, will + verbo base",
+        "Exemplo: If it rains, I will stay home.",
+        "Second Conditional (imaginário/improvável): If + Past Simple, would + verbo base",
+        "Exemplo: If I had money, I would travel the world.",
+        "Com 'be' no Second Conditional: usa-se 'were' para todos: If I were you...",
+        "A ordem pode ser invertida sem vírgula: I will stay home if it rains.",
+        "Would = contração: I'd, you'd, he'd, she'd, we'd, they'd"
+      ],
+      "examples": [
+        {"en": "If I study hard, I will pass the exam.", "pt": "Se eu estudar bastante, vou passar na prova."},
+        {"en": "If she calls, I'll answer.", "pt": "Se ela ligar, eu atendo."},
+        {"en": "If I were rich, I would buy a yacht.", "pt": "Se eu fosse rico, compraria um iate."},
+        {"en": "If I had more time, I would learn Japanese.", "pt": "Se eu tivesse mais tempo, aprenderia japonês."},
+        {"en": "If I were you, I would apologize.", "pt": "Se eu fosse você, pediria desculpas."}
+      ],
+      "common_mistakes": [
+        {"wrong": "If I will study, I will pass.", "correct": "If I study, I will pass.", "explanation": "No First Conditional, a cláusula com 'if' usa Present Simple, não 'will'."},
+        {"wrong": "If I would have money, I would travel.", "correct": "If I had money, I would travel.", "explanation": "No Second Conditional, a cláusula com 'if' usa Past Simple, não 'would'."},
+        {"wrong": "If I was you, I would go.", "correct": "If I were you, I would go.", "explanation": "No Second Conditional, 'be' vira 'were' para todas as pessoas: 'If I were'."}
+      ],
+      "flashcards": [
+        {"front": "Se chover, eu fico em casa.", "back": "If it rains, I'll stay home."},
+        {"front": "Se eu fosse rico, viajaria o mundo.", "back": "If I were rich, I would travel the world."},
+        {"front": "Se ela estudar, vai passar.", "back": "If she studies, she will pass."},
+        {"front": "Se eu tivesse mais tempo, aprenderia guitarra.", "back": "If I had more time, I would learn guitar."},
+        {"front": "Se eu fosse você, não faria isso.", "back": "If I were you, I wouldn't do that."},
+        {"front": "Se eles nos convidarem, nós iremos.", "back": "If they invite us, we will go."},
+        {"front": "Se eu pudesse voar, iria para todo lugar.", "back": "If I could fly, I would go everywhere."},
+        {"front": "O que você faria se ganhasse na loteria?", "back": "What would you do if you won the lottery?"},
+        {"front": "Se não chover, faremos um piquenique.", "back": "If it doesn't rain, we'll have a picnic."},
+        {"front": "Se eu morasse na praia, nadaria todo dia.", "back": "If I lived at the beach, I would swim every day."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "If it ___ tomorrow, we'll cancel the picnic.",
+          "options": ["will rain", "rains", "rained", "would rain"],
+          "answer": 1,
+          "explanation": "First Conditional: If + Present Simple → 'rains', não 'will rain'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "If I ___ a million dollars, I ___ a house on the beach.",
+          "options": ["have / will buy", "had / would buy", "would have / bought", "has / will buy"],
+          "answer": 1,
+          "explanation": "Situação imaginária → Second Conditional: If + Past Simple, would + verbo base."
+        },
+        {
+          "type": "fill_blank",
+          "question": "If I ___ (be) you, I ___ (accept) the job offer.",
+          "answer": "were ... would accept",
+          "explanation": "Second Conditional com 'be': 'If I were you, I would accept.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "If she ___ harder, she will get a promotion.",
+          "options": ["works", "worked", "will work", "would work"],
+          "answer": 0,
+          "explanation": "First Conditional (situação possível): If + Present Simple → 'works'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "What ___ you ___ (do) if you ___ (find) a wallet on the street?",
+          "answer": "would you do ... found",
+          "explanation": "Situação hipotética → Second Conditional: 'What would you do if you found...'"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "level": "B1",
+      "topic": "Passive Voice",
+      "explanation": "A voz passiva é usada quando o foco está na ação ou no objeto, não em quem faz a ação. Formação: sujeito + be (conjugado) + particípio passado. Em português: 'O livro foi escrito por ela.' O agente (quem faz) pode ser omitido se não for importante.",
+      "rules": [
+        "Formação: sujeito + verbo be (conjugado no tempo) + particípio passado (+ by agente)",
+        "Present Simple Passive: am/is/are + PP (English is spoken here)",
+        "Past Simple Passive: was/were + PP (The book was written in 1990)",
+        "Present Perfect Passive: have/has been + PP (The email has been sent)",
+        "Future Passive: will be + PP (The project will be completed tomorrow)",
+        "Modal Passive: modal + be + PP (This can be fixed easily)",
+        "O agente (by...) é opcional e geralmente omitido quando é óbvio ou desconhecido"
+      ],
+      "examples": [
+        {"en": "English is spoken in many countries.", "pt": "Inglês é falado em muitos países."},
+        {"en": "The window was broken by the kids.", "pt": "A janela foi quebrada pelas crianças."},
+        {"en": "The report has been submitted.", "pt": "O relatório foi enviado."},
+        {"en": "The meeting will be held on Friday.", "pt": "A reunião será realizada na sexta."},
+        {"en": "This problem can be solved easily.", "pt": "Este problema pode ser resolvido facilmente."}
+      ],
+      "common_mistakes": [
+        {"wrong": "The cake was eat by the children.", "correct": "The cake was eaten by the children.", "explanation": "Na passiva, use o particípio passado: 'eaten', não 'eat' ou 'ate'."},
+        {"wrong": "English is speak here.", "correct": "English is spoken here.", "explanation": "Particípio passado de 'speak' é 'spoken'."},
+        {"wrong": "The house built in 1990.", "correct": "The house was built in 1990.", "explanation": "A passiva precisa do verbo 'be' conjugado: 'was built'."}
+      ],
+      "flashcards": [
+        {"front": "Inglês é falado aqui.", "back": "English is spoken here."},
+        {"front": "O livro foi escrito por Machado.", "back": "The book was written by Machado."},
+        {"front": "O e-mail foi enviado.", "back": "The email has been sent."},
+        {"front": "A reunião será cancelada.", "back": "The meeting will be cancelled."},
+        {"front": "Isso pode ser consertado.", "back": "This can be fixed."},
+        {"front": "O ladrão foi preso.", "back": "The thief was arrested."},
+        {"front": "Muitos carros são fabricados aqui.", "back": "Many cars are manufactured here."},
+        {"front": "A carta ainda não foi entregue.", "back": "The letter hasn't been delivered yet."},
+        {"front": "O jantar está sendo preparado.", "back": "Dinner is being prepared."},
+        {"front": "As regras devem ser seguidas.", "back": "The rules must be followed."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The Mona Lisa ___ by Leonardo da Vinci.",
+          "options": ["painted", "was painted", "is painted", "has painted"],
+          "answer": 1,
+          "explanation": "Ação no passado + foco no objeto → Past Simple Passive: 'was painted'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Portuguese ___ in Brazil.",
+          "options": ["speaks", "is speaking", "is spoken", "spoken"],
+          "answer": 2,
+          "explanation": "Fato geral, voz passiva → Present Simple Passive: 'is spoken'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The report ___ already ___ (submit).",
+          "answer": "has already been submitted",
+          "explanation": "Present Perfect Passive: has/have + been + particípio passado."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The new hospital ___ next year.",
+          "options": ["will built", "will be built", "is built", "built"],
+          "answer": 1,
+          "explanation": "Futuro passivo: will be + particípio passado: 'will be built'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "These products ___ (make) in China.",
+          "answer": "are made",
+          "explanation": "Present Simple Passive: are + particípio passado: 'are made'."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "level": "B1",
+      "topic": "Reported Speech",
+      "explanation": "Reported Speech (discurso indireto) é quando contamos o que alguém disse sem usar as palavras exatas. Em inglês, os tempos verbais 'recuam' um passo no passado. 'I am happy' → She said she was happy. Pronomes e expressões de tempo também mudam.",
+      "rules": [
+        "Present Simple → Past Simple: 'I like it' → She said she liked it",
+        "Present Continuous → Past Continuous: 'I am working' → He said he was working",
+        "Past Simple → Past Perfect: 'I went' → She said she had gone",
+        "Will → Would: 'I will come' → He said he would come",
+        "Can → Could: 'I can do it' → She said she could do it",
+        "Must → Had to: 'I must leave' → He said he had to leave",
+        "Pronomes mudam: I→he/she, my→his/her, we→they",
+        "Tempo muda: today→that day, tomorrow→the next day, yesterday→the day before, here→there, this→that"
+      ],
+      "examples": [
+        {"en": "\"I am tired.\" → She said she was tired.", "pt": "'Estou cansada.' → Ela disse que estava cansada."},
+        {"en": "\"I will call you.\" → He said he would call me.", "pt": "'Vou te ligar.' → Ele disse que me ligaria."},
+        {"en": "\"I can't come tomorrow.\" → She said she couldn't come the next day.", "pt": "'Não posso ir amanhã.' → Ela disse que não poderia ir no dia seguinte."},
+        {"en": "\"We are leaving.\" → They said they were leaving.", "pt": "'Estamos saindo.' → Eles disseram que estavam saindo."},
+        {"en": "\"I bought a car yesterday.\" → He said he had bought a car the day before.", "pt": "'Comprei um carro ontem.' → Ele disse que tinha comprado um carro no dia anterior."}
+      ],
+      "common_mistakes": [
+        {"wrong": "She said she is tired.", "correct": "She said she was tired.", "explanation": "No Reported Speech, o Present Simple recua para Past Simple."},
+        {"wrong": "He said me he would come.", "correct": "He told me he would come. / He said he would come.", "explanation": "'Said' não leva objeto direto de pessoa. Use 'told me' ou 'said (that)'."},
+        {"wrong": "She said that I am happy.", "correct": "She said that she was happy.", "explanation": "O pronome 'I' muda para 'she' (quem disse) e o verbo recua."}
+      ],
+      "flashcards": [
+        {"front": "'I am happy.' → She said...", "back": "She said she was happy."},
+        {"front": "'I will help you.' → He said...", "back": "He said he would help me."},
+        {"front": "'I can swim.' → She said...", "back": "She said she could swim."},
+        {"front": "'I am studying.' → He said...", "back": "He said he was studying."},
+        {"front": "'I went to Paris.' → She said...", "back": "She said she had gone to Paris."},
+        {"front": "'I must leave now.' → He said...", "back": "He said he had to leave then."},
+        {"front": "'We are coming tomorrow.' → They said...", "back": "They said they were coming the next day."},
+        {"front": "'I don't like this.' → She said...", "back": "She said she didn't like that."},
+        {"front": "said vs told", "back": "said (that) / told someone (that) — told always needs an object"},
+        {"front": "today → / tomorrow → / yesterday →", "back": "that day / the next day / the day before"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "\"I am busy.\" → She said she ___ busy.",
+          "options": ["is", "was", "has been", "were"],
+          "answer": 1,
+          "explanation": "Present Simple → Past Simple no Reported Speech: 'am' → 'was'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "\"I will come tomorrow.\" → He said he ___ come the next day.",
+          "options": ["will", "would", "is going to", "shall"],
+          "answer": 1,
+          "explanation": "'Will' → 'would' no Reported Speech."
+        },
+        {
+          "type": "fill_blank",
+          "question": "\"I can't find my keys.\" → She said she ___ find her keys.",
+          "answer": "couldn't",
+          "explanation": "'Can' → 'could' no Reported Speech: 'couldn't find'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "\"I bought a new phone.\" → He said he ___ a new phone.",
+          "options": ["bought", "had bought", "has bought", "buys"],
+          "answer": 1,
+          "explanation": "Past Simple → Past Perfect: 'bought' → 'had bought'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "\"We are leaving now.\" → They said they ___ leaving ___.",
+          "answer": "were leaving then",
+          "explanation": "'Are' → 'were', 'now' → 'then' no Reported Speech."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "level": "B1",
+      "topic": "Relative Clauses (who/which/that)",
+      "explanation": "Relative clauses (orações relativas) dão informação extra sobre um substantivo. 'Who' para pessoas, 'which' para coisas, 'that' para ambos. 'Where' para lugares, 'whose' para posse. Podem ser definidoras (essenciais) ou explicativas (extra, entre vírgulas).",
+      "rules": [
+        "Who: para pessoas (The man who called is my boss)",
+        "Which: para coisas/animais (The book which I read was great)",
+        "That: para pessoas ou coisas (The car that I bought is red)",
+        "Where: para lugares (The city where I was born)",
+        "Whose: posse (The woman whose bag was stolen)",
+        "Defining clause (sem vírgula): informação essencial para identificar",
+        "Non-defining clause (com vírgulas): informação extra, removível",
+        "Em defining clauses, who/which/that podem ser omitidos quando são objeto"
+      ],
+      "examples": [
+        {"en": "The woman who lives next door is a doctor.", "pt": "A mulher que mora ao lado é médica."},
+        {"en": "The movie that we watched was boring.", "pt": "O filme que nós assistimos foi chato."},
+        {"en": "I work in a company which makes software.", "pt": "Eu trabalho em uma empresa que faz software."},
+        {"en": "Paris, which is the capital of France, is beautiful.", "pt": "Paris, que é a capital da França, é linda."},
+        {"en": "The boy whose father is a pilot wants to fly.", "pt": "O menino cujo pai é piloto quer voar."}
+      ],
+      "common_mistakes": [
+        {"wrong": "The man which called.", "correct": "The man who called.", "explanation": "Para pessoas, use 'who' ou 'that', não 'which'."},
+        {"wrong": "The city who I visited.", "correct": "The city that I visited.", "explanation": "Para coisas/lugares como objeto, use 'that' ou 'which', não 'who'."},
+        {"wrong": "My brother, that lives in London, is a teacher.", "correct": "My brother, who lives in London, is a teacher.", "explanation": "Em non-defining clauses (com vírgulas), não use 'that'. Use 'who' ou 'which'."}
+      ],
+      "flashcards": [
+        {"front": "O homem que me ajudou era gentil.", "back": "The man who helped me was kind."},
+        {"front": "O livro que eu li era ótimo.", "back": "The book that I read was great."},
+        {"front": "A cidade onde eu nasci é pequena.", "back": "The city where I was born is small."},
+        {"front": "A mulher cujo carro foi roubado ligou para a polícia.", "back": "The woman whose car was stolen called the police."},
+        {"front": "who = para ___", "back": "who = para pessoas"},
+        {"front": "which = para ___", "back": "which = para coisas/animais"},
+        {"front": "that = para ___", "back": "that = para pessoas ou coisas"},
+        {"front": "whose = para ___", "back": "whose = para posse (cujo/cuja)"},
+        {"front": "where = para ___", "back": "where = para lugares"},
+        {"front": "O restaurante que (nós) fomos era caro.", "back": "The restaurant (that) we went to was expensive."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The teacher ___ teaches us English is from Canada.",
+          "options": ["which", "who", "whose", "where"],
+          "answer": 1,
+          "explanation": "'Teacher' é pessoa → 'who'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The laptop ___ I bought last week is already broken.",
+          "options": ["who", "whose", "that", "where"],
+          "answer": 2,
+          "explanation": "'Laptop' é coisa → 'that' ou 'which'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "That's the restaurant ___ we had dinner last Friday.",
+          "answer": "where",
+          "explanation": "Para lugares, usamos 'where'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The girl ___ mother is a famous singer won the competition.",
+          "options": ["who", "which", "whose", "that"],
+          "answer": 2,
+          "explanation": "Indicando posse ('mother is') → 'whose'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "London, ___ is the capital of England, has over 8 million people.",
+          "answer": "which",
+          "explanation": "Non-defining clause (entre vírgulas) para coisa/lugar → 'which' (não 'that')."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "level": "B1",
+      "topic": "Used to / Would (Past Habits)",
+      "explanation": "'Used to' descreve hábitos ou estados do passado que não são mais verdade. 'Would' também descreve hábitos repetidos do passado, mas NÃO estados. Em português, equivale a 'costumava' ou 'sempre fazia'. Cuidado para não confundir 'used to' com 'be used to' (estar acostumado).",
+      "rules": [
+        "Used to + verbo base: hábitos e estados passados que não continuam",
+        "I used to play soccer. (Eu costumava jogar futebol.)",
+        "Negativa: didn't use to (I didn't use to like coffee.)",
+        "Interrogativa: Did you use to...? (Did you use to live here?)",
+        "Would + verbo base: hábitos repetidos no passado (não estados!)",
+        "Would não funciona com estados: I used to live there (não 'I would live there')",
+        "Be used to + gerúndio/substantivo = estar acostumado: I'm used to waking up early",
+        "Get used to + gerúndio = acostumar-se: I'm getting used to the cold"
+      ],
+      "examples": [
+        {"en": "I used to smoke, but I quit.", "pt": "Eu costumava fumar, mas parei."},
+        {"en": "She didn't use to like vegetables.", "pt": "Ela não costumava gostar de vegetais."},
+        {"en": "We would always go to the beach in summer.", "pt": "Nós sempre íamos à praia no verão."},
+        {"en": "Did you use to play an instrument?", "pt": "Você costumava tocar algum instrumento?"},
+        {"en": "I'm used to working late. (estar acostumado)", "pt": "Estou acostumado a trabalhar até tarde."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I use to play soccer.", "correct": "I used to play soccer.", "explanation": "Na afirmativa, é 'used to' (com -d), não 'use to'."},
+        {"wrong": "I would have a dog when I was a kid.", "correct": "I used to have a dog when I was a kid.", "explanation": "'Have' é estado, não ação repetida. Use 'used to' para estados."},
+        {"wrong": "I didn't used to like it.", "correct": "I didn't use to like it.", "explanation": "Após 'didn't', o verbo fica na forma base: 'use to' (sem -d)."},
+        {"wrong": "I'm used to wake up early.", "correct": "I'm used to waking up early.", "explanation": "'Be used to' é seguido de gerúndio (-ing), não infinitivo."}
+      ],
+      "flashcards": [
+        {"front": "Eu costumava morar em São Paulo.", "back": "I used to live in São Paulo."},
+        {"front": "Ela não costumava gostar de inglês.", "back": "She didn't use to like English."},
+        {"front": "Nós sempre jogávamos futebol depois da escola.", "back": "We would always play soccer after school."},
+        {"front": "Você costumava assistir desenhos?", "back": "Did you use to watch cartoons?"},
+        {"front": "Eu estou acostumado ao frio.", "back": "I'm used to the cold."},
+        {"front": "Estou me acostumando a acordar cedo.", "back": "I'm getting used to waking up early."},
+        {"front": "Ele costumava ser tímido.", "back": "He used to be shy."},
+        {"front": "Elas costumavam estudar juntas.", "back": "They used to study together."},
+        {"front": "used to = ___", "back": "costumava (hábito passado que parou)"},
+        {"front": "be used to = ___", "back": "estar acostumado a"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ play tennis, but now I prefer swimming.",
+          "options": ["use to", "used to", "would to", "am used to"],
+          "answer": 1,
+          "explanation": "Hábito passado que não continua → 'used to'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ have long hair when she was young.",
+          "options": ["would", "used to", "is used to", "use to"],
+          "answer": 1,
+          "explanation": "'Have long hair' é estado, não ação repetida → 'used to' (não 'would')."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I'm ___ (acostumado a) driving on the left now.",
+          "answer": "used to",
+          "explanation": "'Be used to' + gerúndio = estar acostumado: 'I'm used to driving'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "When we were kids, we ___ always ride our bikes to school.",
+          "options": ["used to", "would", "use to", "were used to"],
+          "answer": 1,
+          "explanation": "Ação repetida no passado → 'would' funciona aqui (ride = ação, não estado)."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you ___ (use to) live in another city?",
+          "answer": "Did you use to",
+          "explanation": "Interrogativa: Did + sujeito + use to (sem -d)."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "level": "B1",
+      "topic": "Phrasal Verbs Comuns",
+      "explanation": "Phrasal verbs são combinações de verbo + preposição/advérbio que criam um significado diferente do verbo original. 'Give up' não é 'dar para cima', mas 'desistir'. São essenciais no inglês do dia a dia e uma das maiores dificuldades para brasileiros.",
+      "rules": [
+        "Phrasal verb = verbo + partícula (preposição ou advérbio)",
+        "O significado muda completamente: look up = procurar (não 'olhar para cima')",
+        "Separáveis: o objeto pode ir entre o verbo e a partícula: turn off the TV / turn the TV off",
+        "Inseparáveis: o objeto deve ir após a partícula: look after the kids (não 'look the kids after')",
+        "Com pronomes, separáveis sempre separam: turn it off (não 'turn off it')",
+        "Dica: aprenda phrasal verbs em contexto, não em listas isoladas"
+      ],
+      "examples": [
+        {"en": "I need to look up this word in the dictionary.", "pt": "Eu preciso procurar esta palavra no dicionário."},
+        {"en": "She gave up smoking last year.", "pt": "Ela parou/desistiu de fumar ano passado."},
+        {"en": "Can you turn off the lights?", "pt": "Você pode apagar as luzes?"},
+        {"en": "I ran into my old teacher at the mall.", "pt": "Eu encontrei por acaso meu antigo professor no shopping."},
+        {"en": "We need to figure out a solution.", "pt": "Precisamos descobrir uma solução."}
+      ],
+      "common_mistakes": [
+        {"wrong": "Turn off it.", "correct": "Turn it off.", "explanation": "Com pronomes, phrasal verbs separáveis sempre separam: 'turn it off'."},
+        {"wrong": "I will look it up in the dictionary.", "correct": "I will look up the word. / I will look it up.", "explanation": "Ambas estão certas aqui! 'Look it up' é correto com pronome."},
+        {"wrong": "She looks after to her grandmother.", "correct": "She looks after her grandmother.", "explanation": "'Look after' já inclui a preposição. Não adicione 'to'."}
+      ],
+      "flashcards": [
+        {"front": "give up", "back": "desistir, parar de (He gave up smoking.)"},
+        {"front": "look up", "back": "procurar/pesquisar (Look up the word in the dictionary.)"},
+        {"front": "turn on / turn off", "back": "ligar / desligar (Turn on the TV. Turn off the lights.)"},
+        {"front": "find out", "back": "descobrir (I found out the truth.)"},
+        {"front": "run into", "back": "encontrar por acaso (I ran into an old friend.)"},
+        {"front": "look after", "back": "cuidar de (She looks after her kids.)"},
+        {"front": "put off", "back": "adiar (Don't put off your homework.)"},
+        {"front": "get along (with)", "back": "se dar bem (com) (I get along with my neighbors.)"},
+        {"front": "come up with", "back": "inventar/ter uma ideia (She came up with a great idea.)"},
+        {"front": "figure out", "back": "descobrir/entender (I can't figure out this problem.)"},
+        {"front": "pick up", "back": "pegar/buscar (Pick up the kids at school.)"},
+        {"front": "break down", "back": "quebrar/pifar (The car broke down.)"},
+        {"front": "set up", "back": "montar/configurar (Set up the new computer.)"},
+        {"front": "bring up", "back": "mencionar/criar (filhos) (Don't bring up that topic.)"},
+        {"front": "take off", "back": "decolar / tirar (roupa) (The plane took off. Take off your shoes.)"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Don't ___ ! You can still pass the exam.",
+          "options": ["give up", "give in", "give out", "give off"],
+          "answer": 0,
+          "explanation": "'Give up' = desistir. 'Don't give up!' = 'Não desista!'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Can you ___ the music? It's too loud.",
+          "options": ["turn off", "turn up", "turn down", "turn on"],
+          "answer": 2,
+          "explanation": "'Turn down' = abaixar o volume. 'Turn off' = desligar completamente."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I ___ ___ my ex-girlfriend at the supermarket yesterday. (encontrar por acaso)",
+          "answer": "ran into",
+          "explanation": "'Run into' = encontrar por acaso (passado: 'ran into')."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ with a brilliant idea for the project.",
+          "options": ["came up", "came out", "came in", "came off"],
+          "answer": 0,
+          "explanation": "'Come up with' = ter/inventar uma ideia."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I need to ___ ___ what time the train leaves. (descobrir)",
+          "answer": "find out",
+          "explanation": "'Find out' = descobrir uma informação."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "level": "B2",
+      "topic": "Past Perfect",
+      "explanation": "O Past Perfect descreve uma ação que aconteceu ANTES de outra ação no passado. Formação: had + particípio passado. Em português, equivale ao 'tinha feito'. É o 'passado do passado'. Muito usado com 'before', 'after', 'when', 'by the time', 'already'.",
+      "rules": [
+        "Formação: had + particípio passado (I had finished, she had gone)",
+        "Negativa: hadn't + particípio passado (I hadn't seen)",
+        "Interrogativa: Had + sujeito + particípio passado? (Had you finished?)",
+        "Uso: ação anterior a outra no passado",
+        "When I arrived, they had already left. (primeiro saíram, depois cheguei)",
+        "By the time + Past Simple, Past Perfect",
+        "After + Past Perfect, Past Simple: After I had eaten, I went to bed"
+      ],
+      "examples": [
+        {"en": "When I arrived, the movie had already started.", "pt": "Quando cheguei, o filme já tinha começado."},
+        {"en": "She had never flown before that trip.", "pt": "Ela nunca tinha voado antes daquela viagem."},
+        {"en": "By the time we got there, they had left.", "pt": "Quando chegamos lá, eles já tinham saído."},
+        {"en": "I didn't recognize her because she had changed so much.", "pt": "Eu não a reconheci porque ela tinha mudado muito."},
+        {"en": "Had you ever been to Europe before 2020?", "pt": "Você já tinha ido à Europa antes de 2020?"}
+      ],
+      "common_mistakes": [
+        {"wrong": "When I arrived, they already left.", "correct": "When I arrived, they had already left.", "explanation": "Para mostrar que uma ação foi anterior a outra no passado, use Past Perfect."},
+        {"wrong": "I had went there before.", "correct": "I had gone there before.", "explanation": "Após 'had', use o particípio passado: 'gone', não 'went'."},
+        {"wrong": "After I ate, I had gone to bed.", "correct": "After I had eaten, I went to bed.", "explanation": "A ação ANTERIOR usa Past Perfect (had eaten). A ação POSTERIOR usa Past Simple (went)."}
+      ],
+      "flashcards": [
+        {"front": "Quando eu cheguei, eles já tinham saído.", "back": "When I arrived, they had already left."},
+        {"front": "Ela nunca tinha visto neve.", "back": "She had never seen snow."},
+        {"front": "Depois que eu tinha terminado, fui dormir.", "back": "After I had finished, I went to bed."},
+        {"front": "Ele tinha perdido as chaves.", "back": "He had lost his keys."},
+        {"front": "Nós já tínhamos comido quando ela chegou.", "back": "We had already eaten when she arrived."},
+        {"front": "Você já tinha estado lá antes?", "back": "Had you been there before?"},
+        {"front": "Eu não tinha estudado para a prova.", "back": "I hadn't studied for the test."},
+        {"front": "Até aquele momento, eu nunca tinha falhado.", "back": "Until that moment, I had never failed."},
+        {"front": "O trem já tinha partido quando chegamos.", "back": "The train had already departed when we arrived."},
+        {"front": "Ela percebeu que tinha esquecido a carteira.", "back": "She realized she had forgotten her wallet."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "By the time we arrived, the concert ___.",
+          "options": ["started", "has started", "had started", "starts"],
+          "answer": 2,
+          "explanation": "'By the time' + Past Simple → a outra ação usa Past Perfect: 'had started'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She was hungry because she ___ lunch.",
+          "options": ["didn't have", "hadn't had", "hasn't had", "doesn't have"],
+          "answer": 1,
+          "explanation": "Ação anterior (não almoçar) causou estado posterior (fome) → Past Perfect: 'hadn't had'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "After he ___ (finish) the report, he ___ (go) home.",
+          "answer": "had finished ... went",
+          "explanation": "Ação anterior → Past Perfect (had finished). Ação posterior → Past Simple (went)."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I ___ never ___ sushi before I visited Japan.",
+          "options": ["have / eaten", "had / eaten", "did / eat", "was / eating"],
+          "answer": 1,
+          "explanation": "Experiência anterior a outra ação passada → Past Perfect: 'had never eaten'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "When I got to the station, the train ___ already ___ (leave).",
+          "answer": "had already left",
+          "explanation": "O trem saiu ANTES de eu chegar → Past Perfect: 'had already left'."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "level": "B2",
+      "topic": "Third Conditional & Mixed Conditionals",
+      "explanation": "O Third Conditional fala de situações imaginárias no PASSADO — coisas que não aconteceram. 'Se eu tivesse estudado, teria passado.' Mixed Conditionals misturam tempos: uma condição passada com resultado presente, ou condição presente com resultado passado.",
+      "rules": [
+        "Third Conditional: If + Past Perfect, would have + particípio passado",
+        "If I had studied, I would have passed. (Não estudei → não passei)",
+        "Mixed 1 (passado→presente): If + Past Perfect, would + verbo base",
+        "If I had studied medicine, I would be a doctor now.",
+        "Mixed 2 (presente→passado): If + Past Simple, would have + particípio passado",
+        "If I were braver, I would have spoken up.",
+        "Contrações: would have = would've, had = 'd"
+      ],
+      "examples": [
+        {"en": "If I had known, I would have helped you.", "pt": "Se eu tivesse sabido, teria te ajudado."},
+        {"en": "If she hadn't missed the bus, she wouldn't have been late.", "pt": "Se ela não tivesse perdido o ônibus, não teria se atrasado."},
+        {"en": "If I had saved more money, I would be traveling now. (mixed)", "pt": "Se eu tivesse economizado mais, estaria viajando agora."},
+        {"en": "If I were taller, I would have played basketball. (mixed)", "pt": "Se eu fosse mais alto, teria jogado basquete."},
+        {"en": "What would you have done if you had been there?", "pt": "O que você teria feito se estivesse lá?"}
+      ],
+      "common_mistakes": [
+        {"wrong": "If I would have known, I would have helped.", "correct": "If I had known, I would have helped.", "explanation": "Na cláusula 'if' do Third Conditional, use Past Perfect, não 'would have'."},
+        {"wrong": "If I had studied, I would passed.", "correct": "If I had studied, I would have passed.", "explanation": "O resultado usa 'would have + particípio', não 'would + passado'."},
+        {"wrong": "If she didn't miss the bus, she wouldn't have been late.", "correct": "If she hadn't missed the bus, she wouldn't have been late.", "explanation": "Third Conditional: 'if' + Past Perfect (hadn't missed), não Past Simple."}
+      ],
+      "flashcards": [
+        {"front": "Se eu tivesse estudado, teria passado.", "back": "If I had studied, I would have passed."},
+        {"front": "Se nós tivéssemos saído antes, teríamos chegado a tempo.", "back": "If we had left earlier, we would have arrived on time."},
+        {"front": "Se ela não tivesse me ajudado, eu teria falhado.", "back": "If she hadn't helped me, I would have failed."},
+        {"front": "O que teria acontecido se você não tivesse vindo?", "back": "What would have happened if you hadn't come?"},
+        {"front": "Se eu tivesse nascido rico, seria diferente agora. (mixed)", "back": "If I had been born rich, I would be different now."},
+        {"front": "Se eu fosse mais corajoso, teria falado. (mixed)", "back": "If I were braver, I would have spoken up."},
+        {"front": "Se eles tivessem aceitado, estariam trabalhando aqui agora. (mixed)", "back": "If they had accepted, they would be working here now."},
+        {"front": "would have + PP", "back": "teria + particípio (would have gone = teria ido)"},
+        {"front": "If + had + PP = ___", "back": "Third Conditional (situação irreal no passado)"},
+        {"front": "Se eu soubesse, teria te contado.", "back": "If I had known, I would have told you."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "If she ___ the email, she would have replied.",
+          "options": ["saw", "had seen", "has seen", "would see"],
+          "answer": 1,
+          "explanation": "Third Conditional: If + Past Perfect → 'had seen'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "If I ___ harder, I would have passed the test.",
+          "options": ["study", "studied", "had studied", "would study"],
+          "answer": 2,
+          "explanation": "Third Conditional: If + Past Perfect → 'had studied'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "If they ___ (not/cancel) the flight, we ___ (be) in Paris now. (mixed conditional)",
+          "answer": "hadn't cancelled ... would be",
+          "explanation": "Mixed: condição passada (hadn't cancelled) → resultado presente (would be)."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "We ___ the train if we had left ten minutes earlier.",
+          "options": ["would catch", "would have caught", "had caught", "caught"],
+          "answer": 1,
+          "explanation": "Third Conditional resultado: would have + PP → 'would have caught'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "If I ___ (be) you, I ___ (not/accept) that offer yesterday. (mixed)",
+          "answer": "were ... wouldn't have accepted",
+          "explanation": "Mixed: condição presente (were) → resultado passado (wouldn't have accepted)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "level": "B2",
+      "topic": "Subjunctive (wish / if only / as if)",
+      "explanation": "O subjuntivo em inglês expressa desejos, arrependimentos e situações contrárias à realidade. 'I wish' + Past Simple = desejo sobre o presente. 'I wish' + Past Perfect = arrependimento sobre o passado. 'If only' é mais enfático que 'I wish'. 'As if/as though' = como se.",
+      "rules": [
+        "Wish + Past Simple: desejo sobre o presente (I wish I had more time = Queria ter mais tempo)",
+        "Wish + Past Perfect: arrependimento (I wish I had studied = Queria ter estudado)",
+        "Wish + would: irritação/pedido de mudança (I wish you would stop that)",
+        "If only + Past Simple: desejo enfático (If only I were taller!)",
+        "If only + Past Perfect: arrependimento enfático (If only I had listened!)",
+        "As if / as though + Past Simple: situação irreal presente (He acts as if he were the boss)",
+        "As if / as though + Past Perfect: situação irreal passada (She looked as if she had seen a ghost)",
+        "Com wish e as if, use 'were' para todos (não 'was'): I wish I were..."
+      ],
+      "examples": [
+        {"en": "I wish I spoke better English.", "pt": "Eu queria falar inglês melhor. (mas não falo)"},
+        {"en": "I wish I had studied harder for the exam.", "pt": "Eu queria ter estudado mais para a prova. (arrependimento)"},
+        {"en": "If only I could fly!", "pt": "Se ao menos eu pudesse voar!"},
+        {"en": "He talks as if he knew everything.", "pt": "Ele fala como se soubesse tudo. (mas não sabe)"},
+        {"en": "I wish you would stop making noise.", "pt": "Eu queria que você parasse de fazer barulho."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I wish I have more money.", "correct": "I wish I had more money.", "explanation": "Wish + presente = desejo irreal → use Past Simple: 'had'."},
+        {"wrong": "I wish I studied harder. (sobre o passado)", "correct": "I wish I had studied harder.", "explanation": "Para arrependimento (passado), use wish + Past Perfect: 'had studied'."},
+        {"wrong": "He acts as if he is the boss.", "correct": "He acts as if he were the boss.", "explanation": "Situação irreal → use 'were' após 'as if', não 'is'."},
+        {"wrong": "I wish I was taller.", "correct": "I wish I were taller.", "explanation": "Com 'wish', a forma correta de 'be' é 'were' para todas as pessoas."}
+      ],
+      "flashcards": [
+        {"front": "Eu queria ser mais alto.", "back": "I wish I were taller."},
+        {"front": "Eu queria ter mais tempo.", "back": "I wish I had more time."},
+        {"front": "Eu queria ter estudado mais. (arrependimento)", "back": "I wish I had studied more."},
+        {"front": "Se ao menos eu pudesse voltar no tempo!", "back": "If only I could go back in time!"},
+        {"front": "Ele age como se fosse o chefe.", "back": "He acts as if he were the boss."},
+        {"front": "Eu queria que você parasse de reclamar.", "back": "I wish you would stop complaining."},
+        {"front": "Se ao menos eu não tivesse dito aquilo!", "back": "If only I hadn't said that!"},
+        {"front": "Ela parecia como se tivesse visto um fantasma.", "back": "She looked as if she had seen a ghost."},
+        {"front": "wish + Past Simple =", "back": "desejo irreal sobre o presente"},
+        {"front": "wish + Past Perfect =", "back": "arrependimento sobre o passado"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I wish I ___ taller. (desejo sobre o presente)",
+          "options": ["am", "was", "were", "be"],
+          "answer": 2,
+          "explanation": "Wish + situação irreal presente → Past Simple com 'were': 'I wish I were taller.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I wish I ___ that movie last night. It was terrible. (arrependimento)",
+          "options": ["didn't watch", "hadn't watched", "don't watch", "haven't watched"],
+          "answer": 1,
+          "explanation": "Arrependimento sobre o passado → wish + Past Perfect: 'hadn't watched'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "If only I ___ (can) speak French!",
+          "answer": "could",
+          "explanation": "If only + desejo presente → Past Simple de 'can' = 'could'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "He spends money as if he ___ a millionaire.",
+          "options": ["is", "was", "were", "be"],
+          "answer": 2,
+          "explanation": "As if + situação irreal → 'were': 'as if he were a millionaire'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I wish I ___ (not/eat) so much at dinner. I feel sick now.",
+          "answer": "hadn't eaten",
+          "explanation": "Arrependimento sobre ação passada → wish + Past Perfect: 'hadn't eaten'."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "level": "B2",
+      "topic": "Advanced Passive (have something done)",
+      "explanation": "A estrutura 'have something done' (causative) indica que alguém faz algo para você — você não faz a ação, mas a organiza/paga. 'I had my hair cut' = Cortei meu cabelo (no cabeleireiro, alguém cortou para mim). Diferente de 'I cut my hair' (eu mesma cortei).",
+      "rules": [
+        "Have + objeto + past participle: I had my car repaired (mandei consertar)",
+        "Get + objeto + past participle (mais informal): I got my phone fixed",
+        "Presente: I have my house cleaned every week",
+        "Passado: I had my hair cut yesterday",
+        "Futuro: I'm going to have my car washed",
+        "Negativa: I haven't had my car serviced yet",
+        "Também usado para experiências negativas: I had my wallet stolen (me roubaram)"
+      ],
+      "examples": [
+        {"en": "I had my hair cut last week.", "pt": "Eu cortei o cabelo semana passada. (no salão)"},
+        {"en": "She is having her house painted.", "pt": "Ela está mandando pintar a casa."},
+        {"en": "We need to have the car repaired.", "pt": "Precisamos mandar consertar o carro."},
+        {"en": "He had his phone stolen on the bus.", "pt": "Roubaram o celular dele no ônibus."},
+        {"en": "I'm going to get my eyes tested.", "pt": "Vou fazer um exame de vista."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I had cut my hair.", "correct": "I had my hair cut.", "explanation": "A ordem é: have + objeto + past participle. 'I had cut' é Past Perfect, não causative."},
+        {"wrong": "I had my car to repair.", "correct": "I had my car repaired.", "explanation": "Use past participle, não infinitivo: 'repaired', não 'to repair'."},
+        {"wrong": "I had repair my car.", "correct": "I had my car repaired.", "explanation": "O objeto vai entre 'have' e o particípio: have + OBJETO + past participle."}
+      ],
+      "flashcards": [
+        {"front": "Eu cortei o cabelo. (no salão)", "back": "I had my hair cut."},
+        {"front": "Ela está mandando pintar a casa.", "back": "She is having her house painted."},
+        {"front": "Nós mandamos consertar o carro.", "back": "We had our car repaired."},
+        {"front": "Eu vou mandar limpar o tapete.", "back": "I'm going to have the carpet cleaned."},
+        {"front": "Roubaram minha carteira. (experiência negativa)", "back": "I had my wallet stolen."},
+        {"front": "Você já fez a revisão do carro?", "back": "Have you had your car serviced?"},
+        {"front": "Ele mandou entregar as flores.", "back": "He had the flowers delivered."},
+        {"front": "Eu preciso mandar arrumar meus sapatos.", "back": "I need to have/get my shoes repaired."},
+        {"front": "have + objeto + PP =", "back": "mandar fazer / ter algo feito (por outra pessoa)"},
+        {"front": "get + objeto + PP =", "back": "= have something done (mais informal)"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ my car ___ yesterday. (wash - causative)",
+          "options": ["had / washed", "had / washing", "have / wash", "got / wash"],
+          "answer": 0,
+          "explanation": "Causative: have + objeto + past participle: 'had my car washed'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She is ___ her dress ___. (make - causative present continuous)",
+          "options": ["having / made", "getting / make", "having / making", "has / made"],
+          "answer": 0,
+          "explanation": "Causative no present continuous: is having + objeto + PP: 'having her dress made'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "You should ___ your eyes ___ (test) regularly.",
+          "answer": "have your eyes tested",
+          "explanation": "Causative: have + objeto + past participle."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "He ___ his phone ___ on the subway. (steal - experiência negativa)",
+          "options": ["had / stolen", "has / steal", "got / stealing", "had / stole"],
+          "answer": 0,
+          "explanation": "Experiência negativa com causative: had + objeto + PP: 'had his phone stolen'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I need to ___ my suit ___ (dry-clean) before the wedding.",
+          "answer": "have my suit dry-cleaned",
+          "explanation": "Causative: have + objeto + past participle: 'have my suit dry-cleaned'."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "level": "B2",
+      "topic": "Inversions",
+      "explanation": "Inversões são estruturas onde a ordem normal (sujeito + verbo) é invertida para dar ênfase, formalidade ou efeito dramático. São comuns em inglês formal e escrito. Em português, fazemos algo similar com 'Só quando ele saiu é que eu percebi'.",
+      "rules": [
+        "Never have I seen... (Nunca vi...)",
+        "Not only... but also: Not only did he arrive late, but he also forgot the documents",
+        "Not until: Not until I left did I realize...",
+        "Hardly/Scarcely... when: Hardly had I sat down when the phone rang",
+        "No sooner... than: No sooner had I arrived than it started to rain",
+        "Only after/when/if: Only after studying did I understand",
+        "Little did I know: Little did I know it would be so hard",
+        "Estrutura: expressão negativa + auxiliar + sujeito + verbo principal"
+      ],
+      "examples": [
+        {"en": "Never have I seen such a beautiful sunset.", "pt": "Nunca vi um pôr do sol tão bonito."},
+        {"en": "Not only did she win the race, but she also broke the record.", "pt": "Ela não só ganhou a corrida, como também bateu o recorde."},
+        {"en": "Hardly had I arrived when it started raining.", "pt": "Mal eu tinha chegado quando começou a chover."},
+        {"en": "Little did I know that it would change my life.", "pt": "Eu não fazia ideia de que aquilo mudaria minha vida."},
+        {"en": "Not until I moved abroad did I appreciate my country.", "pt": "Só quando me mudei para o exterior é que passei a valorizar meu país."}
+      ],
+      "common_mistakes": [
+        {"wrong": "Never I have seen this.", "correct": "Never have I seen this.", "explanation": "Na inversão, o auxiliar vem antes do sujeito: 'Never have I'."},
+        {"wrong": "Not only she won, but she also broke the record.", "correct": "Not only did she win, but she also broke the record.", "explanation": "Após 'Not only', inverta auxiliar + sujeito: 'did she win'."},
+        {"wrong": "Hardly I had arrived when...", "correct": "Hardly had I arrived when...", "explanation": "Após 'Hardly', o auxiliar 'had' vem antes do sujeito 'I'."}
+      ],
+      "flashcards": [
+        {"front": "Nunca vi algo assim.", "back": "Never have I seen anything like this."},
+        {"front": "Ele não só chegou atrasado, como também esqueceu os documentos.", "back": "Not only did he arrive late, but he also forgot the documents."},
+        {"front": "Mal eu tinha sentado quando o telefone tocou.", "back": "Hardly had I sat down when the phone rang."},
+        {"front": "Eu não fazia ideia de que seria tão difícil.", "back": "Little did I know it would be so difficult."},
+        {"front": "Só quando ela saiu é que eu percebi.", "back": "Not until she left did I realize."},
+        {"front": "Mal ele tinha terminado, o chefe ligou.", "back": "No sooner had he finished than the boss called."},
+        {"front": "Em nenhum momento eu duvidei de você.", "back": "At no point did I doubt you."},
+        {"front": "Só depois de muito trabalho ela conseguiu.", "back": "Only after much work did she succeed."},
+        {"front": "Raramente eu vejo tanta dedicação.", "back": "Rarely do I see such dedication."},
+        {"front": "Sob nenhuma circunstância devemos desistir.", "back": "Under no circumstances should we give up."}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Never ___ such a delicious meal!",
+          "options": ["I have had", "have I had", "I had", "had I"],
+          "answer": 1,
+          "explanation": "Inversão com 'Never': auxiliar + sujeito → 'have I had'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Not only ___ the test, but she also got the highest score.",
+          "options": ["she passed", "did she pass", "she did pass", "passed she"],
+          "answer": 1,
+          "explanation": "Inversão com 'Not only': did + sujeito + verbo base → 'did she pass'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Hardly ___ I ___ (arrive) when it started to snow.",
+          "answer": "had I arrived",
+          "explanation": "Inversão com 'Hardly': had + sujeito + PP → 'Hardly had I arrived'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Little ___ that the decision would change everything.",
+          "options": ["I knew", "did I know", "I did know", "knew I"],
+          "answer": 1,
+          "explanation": "Inversão com 'Little': did + sujeito + verbo → 'did I know'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Only after reading the book ___ I ___ (understand) the movie.",
+          "answer": "did I understand",
+          "explanation": "Inversão com 'Only after': did + sujeito + verbo base → 'did I understand'."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "level": "B2",
+      "topic": "Collocations (make/do/take/get)",
+      "explanation": "Collocations são combinações de palavras que nativos usam naturalmente. Em inglês, dizemos 'make a mistake' (não 'do a mistake'), 'take a shower' (não 'make a shower'). Não existe regra lógica — é preciso memorizar. As mais comuns envolvem make, do, take e get.",
+      "rules": [
+        "MAKE: make a mistake, make a decision, make money, make friends, make progress, make an effort, make a suggestion, make a difference, make sure, make sense",
+        "DO: do homework, do the dishes, do business, do a favor, do damage, do exercise, do your best, do research, do the laundry, do well/badly",
+        "TAKE: take a shower, take a photo, take a break, take notes, take a risk, take part in, take advantage, take place, take time, take turns",
+        "GET: get married, get lost, get better/worse, get ready, get angry, get home, get a job, get rid of, get used to, get along with",
+        "Dica geral: MAKE = criar/produzir algo, DO = realizar uma atividade"
+      ],
+      "examples": [
+        {"en": "I made a terrible mistake.", "pt": "Eu cometi um erro terrível."},
+        {"en": "Can you do me a favor?", "pt": "Você pode me fazer um favor?"},
+        {"en": "Let's take a break.", "pt": "Vamos fazer uma pausa."},
+        {"en": "She got married last year.", "pt": "Ela casou ano passado."},
+        {"en": "This doesn't make sense.", "pt": "Isso não faz sentido."}
+      ],
+      "common_mistakes": [
+        {"wrong": "I did a mistake.", "correct": "I made a mistake.", "explanation": "Em inglês, o correto é 'make a mistake', não 'do a mistake'."},
+        {"wrong": "I made my homework.", "correct": "I did my homework.", "explanation": "Tarefas e deveres usam 'do': 'do homework'."},
+        {"wrong": "I make a shower every morning.", "correct": "I take a shower every morning.", "explanation": "Banho usa 'take': 'take a shower'."},
+        {"wrong": "She made a photo.", "correct": "She took a photo.", "explanation": "Fotos usam 'take': 'take a photo'."}
+      ],
+      "flashcards": [
+        {"front": "cometer um erro", "back": "make a mistake"},
+        {"front": "fazer o dever de casa", "back": "do homework"},
+        {"front": "tomar banho", "back": "take a shower"},
+        {"front": "casar", "back": "get married"},
+        {"front": "tomar uma decisão", "back": "make a decision"},
+        {"front": "fazer um favor", "back": "do a favor"},
+        {"front": "tirar uma foto", "back": "take a photo"},
+        {"front": "se dar bem com", "back": "get along with"},
+        {"front": "fazer sentido", "back": "make sense"},
+        {"front": "fazer pesquisa", "back": "do research"},
+        {"front": "fazer progresso", "back": "make progress"},
+        {"front": "correr um risco", "back": "take a risk"},
+        {"front": "melhorar/piorar", "back": "get better / get worse"},
+        {"front": "fazer o seu melhor", "back": "do your best"},
+        {"front": "fazer uma pausa", "back": "take a break"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ a lot of money in her new job.",
+          "options": ["does", "makes", "takes", "gets"],
+          "answer": 1,
+          "explanation": "'Make money' é a collocation correta para ganhar dinheiro."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Can you ___ me a favor?",
+          "options": ["make", "take", "do", "get"],
+          "answer": 2,
+          "explanation": "'Do a favor' é a collocation correta."
+        },
+        {
+          "type": "fill_blank",
+          "question": "He needs to ___ a decision soon.",
+          "answer": "make",
+          "explanation": "'Make a decision' = tomar uma decisão."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Let's ___ a photo of the sunset!",
+          "options": ["make", "do", "take", "get"],
+          "answer": 2,
+          "explanation": "'Take a photo' é a collocation correta para tirar foto."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Don't worry, just ___ your best.",
+          "answer": "do",
+          "explanation": "'Do your best' = fazer o seu melhor."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "level": "B2",
+      "topic": "Formal vs Informal Register",
+      "explanation": "Em inglês, existem registros formais e informais. O formal é usado em e-mails profissionais, redações acadêmicas e situações oficiais. O informal é usado com amigos, em redes sociais e no dia a dia. Saber alternar entre os registros é uma habilidade importante do nível B2.",
+      "rules": [
+        "Formal: palavras latinas/francesas (commence, endeavour, purchase). Informal: palavras anglo-saxãs (start, try, buy)",
+        "Formal: evite contrações (do not, I am). Informal: use contrações (don't, I'm)",
+        "Formal: voz passiva (The report was submitted). Informal: voz ativa (I submitted the report)",
+        "Formal: phrasal verbs substituídos por verbos únicos (put off → postpone, find out → discover, come up with → devise)",
+        "Formal: frases mais longas e complexas. Informal: frases curtas e diretas",
+        "Formal: Dear Sir/Madam, I am writing to... Informal: Hey, just wanted to...",
+        "Formal: Yours sincerely. Informal: Cheers / Best / Thanks"
+      ],
+      "examples": [
+        {"en": "Formal: I would like to inquire about...", "pt": "Gostaria de perguntar sobre..."},
+        {"en": "Informal: I wanna know about...", "pt": "Quero saber sobre..."},
+        {"en": "Formal: The meeting has been postponed.", "pt": "A reunião foi adiada."},
+        {"en": "Informal: The meeting's been put off.", "pt": "A reunião foi adiada."},
+        {"en": "Formal: I regret to inform you that...", "pt": "Lamento informar que..."},
+        {"en": "Informal: Sorry, but...", "pt": "Desculpa, mas..."}
+      ],
+      "common_mistakes": [
+        {"wrong": "Dear Mr. Smith, Wanna schedule a meeting?", "correct": "Dear Mr. Smith, I would like to schedule a meeting.", "explanation": "Não misture saudação formal com linguagem informal."},
+        {"wrong": "Hey Prof, I am writing to formally request...", "correct": "Dear Professor, I am writing to formally request...", "explanation": "Se o tom é formal, a saudação também deve ser formal."},
+        {"wrong": "In academic writing: I think this is cool.", "correct": "This finding is significant.", "explanation": "Em textos acadêmicos, evite gírias e linguagem subjetiva casual."}
+      ],
+      "flashcards": [
+        {"front": "buy (formal)", "back": "purchase"},
+        {"front": "start (formal)", "back": "commence / initiate"},
+        {"front": "get (formal)", "back": "obtain / acquire"},
+        {"front": "ask for (formal)", "back": "request / inquire"},
+        {"front": "help (formal)", "back": "assist / aid"},
+        {"front": "sorry (formal)", "back": "I apologize / I regret"},
+        {"front": "enough (formal)", "back": "sufficient / adequate"},
+        {"front": "find out (formal)", "back": "discover / determine"},
+        {"front": "put off (formal)", "back": "postpone / defer"},
+        {"front": "go up (formal)", "back": "increase / rise"},
+        {"front": "give up (formal)", "back": "abandon / cease"},
+        {"front": "look into (formal)", "back": "investigate / examine"},
+        {"front": "set up (formal)", "back": "establish / arrange"},
+        {"front": "deal with (formal)", "back": "address / handle"},
+        {"front": "think about (formal)", "back": "consider / contemplate"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a versão formal de 'find out'?",
+          "options": ["look up", "discover", "check out", "see"],
+          "answer": 1,
+          "explanation": "'Discover' é a versão formal de 'find out'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é apropriada para um e-mail profissional?",
+          "options": ["Hey, just checking in!", "I am writing to follow up on our previous conversation.", "What's up? Any news?", "Yo, got any updates?"],
+          "answer": 1,
+          "explanation": "E-mails profissionais exigem tom formal e estrutura adequada."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Formal version of 'put off': The meeting has been ___.",
+          "answer": "postponed",
+          "explanation": "'Postpone' é a versão formal de 'put off' (adiar)."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a versão informal de 'commence'?",
+          "options": ["start", "initiate", "begin formally", "undertake"],
+          "answer": 0,
+          "explanation": "'Start' é a versão informal/cotidiana de 'commence'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Rewrite informally: 'I would like to request assistance.' →",
+          "answer": "Can you help me?",
+          "explanation": "'Request assistance' → 'help me'. 'I would like to' → 'Can you'."
+        }
+      ]
+    }
+  ]
+}

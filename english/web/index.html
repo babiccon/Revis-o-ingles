@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Study Tool - A2 → B2</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="header">
+    <h1>English Study Tool</h1>
+    <p>Ferramenta de Estudo de Inglês — A2 → B2</p>
+  </header>
+
+  <div class="stats-bar" id="statsBar">
+    <div class="stat-item">Cards estudados: <strong id="statStudied">0</strong></div>
+    <div class="stat-item">Dominados: <strong id="statMastered">0</strong></div>
+    <div class="stat-item">Sequência: <strong id="statStreak">0</strong> dia(s)</div>
+    <div class="stat-item">Revisões hoje: <strong id="statDueToday">0</strong></div>
+  </div>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="content">Conteúdo</button>
+    <button class="tab-btn" data-tab="flashcards">Flashcards</button>
+    <button class="tab-btn" data-tab="quiz">Quiz</button>
+    <button class="tab-btn" data-tab="review">Revisão Espaçada</button>
+    <button class="tab-btn" data-tab="progress">Progresso</button>
+  </nav>
+
+  <div class="container">
+
+    <!-- ===== CONTENT TAB ===== -->
+    <div class="tab-content active" id="tab-content">
+      <div class="controls">
+        <select id="ctLevel">
+          <option value="">Todos os Níveis</option>
+          <option value="A2">A2 - Básico</option>
+          <option value="B1">B1 - Intermediário</option>
+          <option value="B2">B2 - Intermediário-Avançado</option>
+        </select>
+      </div>
+
+      <!-- Lista de tópicos -->
+      <div id="ctTopicList"></div>
+
+      <!-- Detalhe do tópico -->
+      <div id="ctDetail" style="display:none;"></div>
+    </div>
+
+    <!-- ===== FLASHCARDS TAB ===== -->
+    <div class="tab-content" id="tab-flashcards">
+      <div class="controls">
+        <select id="fcSource">
+          <option value="grammar">Gramática</option>
+          <option value="vocabulary">Vocabulário</option>
+          <option value="all">Todos</option>
+        </select>
+        <select id="fcLevel">
+          <option value="">Todos os Níveis</option>
+          <option value="A2">A2 - Básico</option>
+          <option value="B1">B1 - Intermediário</option>
+          <option value="B2">B2 - Intermediário-Avançado</option>
+        </select>
+        <select id="fcTopic"></select>
+        <button class="btn btn-primary" id="fcStart">Estudar</button>
+        <button class="btn btn-outline" id="fcShuffle">Embaralhar</button>
+      </div>
+
+      <div id="fcExplanation" class="explanation-box" style="display:none;"></div>
+
+      <div id="fcArea" class="flashcard-area" style="display:none;">
+        <div class="flashcard" id="flashcard">
+          <div class="flashcard-face flashcard-front">
+            <h3>Frente</h3>
+            <div class="card-text" id="fcFront"></div>
+            <div class="flashcard-meta" id="fcMeta"></div>
+            <div class="card-hint">Clique para virar</div>
+          </div>
+          <div class="flashcard-face flashcard-back">
+            <h3>Verso</h3>
+            <div class="card-text" id="fcBack"></div>
+          </div>
+        </div>
+
+        <div class="rating-buttons" id="fcRating" style="display:none;">
+          <button class="rating-btn wrong" onclick="rateFlashcard(1)">Errei</button>
+          <button class="rating-btn hard" onclick="rateFlashcard(3)">Difícil</button>
+          <button class="rating-btn medium" onclick="rateFlashcard(4)">Médio</button>
+          <button class="rating-btn easy" onclick="rateFlashcard(5)">Fácil</button>
+        </div>
+
+        <div class="card-nav">
+          <button class="btn btn-outline btn-sm" id="fcPrev">Anterior</button>
+          <span class="card-counter" id="fcCounter">1/10</span>
+          <button class="btn btn-outline btn-sm" id="fcNext">Próximo</button>
+        </div>
+      </div>
+
+      <div id="fcTopicList" class="topic-list"></div>
+    </div>
+
+    <!-- ===== QUIZ TAB ===== -->
+    <div class="tab-content" id="tab-quiz">
+      <div class="controls">
+        <select id="qzSource">
+          <option value="grammar">Gramática</option>
+          <option value="vocabulary">Vocabulário</option>
+          <option value="all">Todos</option>
+        </select>
+        <select id="qzLevel">
+          <option value="">Todos os Níveis</option>
+          <option value="A2">A2 - Básico</option>
+          <option value="B1">B1 - Intermediário</option>
+          <option value="B2">B2 - Intermediário-Avançado</option>
+        </select>
+        <select id="qzTopic"></select>
+        <button class="btn btn-primary" id="qzStart">Começar Quiz</button>
+        <button class="btn btn-outline" id="qzProgressive">Progressivo</button>
+      </div>
+
+      <div id="qzArea" style="display:none;">
+        <div class="quiz-card" id="qzCard">
+          <div class="question-label" id="qzLabel"></div>
+          <div class="question-text" id="qzQuestion"></div>
+          <div id="qzOptions"></div>
+          <div class="feedback" id="qzFeedback"></div>
+          <div style="text-align:center; margin-top:1rem;">
+            <button class="btn btn-primary" id="qzNext" style="display:none;">Próxima Pergunta</button>
+          </div>
+        </div>
+        <div class="card-nav">
+          <span class="card-counter" id="qzCounter"></span>
+        </div>
+      </div>
+
+      <div id="qzScore" class="score-display" style="display:none;"></div>
+      <div id="qzTopicList" class="topic-list"></div>
+    </div>
+
+    <!-- ===== REVIEW TAB ===== -->
+    <div class="tab-content" id="tab-review">
+      <div class="review-summary" id="reviewSummary">
+        <h2>Revisão do Dia</h2>
+        <div class="count" id="reviewCount">0</div>
+        <div class="subtitle">itens para revisar hoje</div>
+        <button class="btn btn-primary" id="reviewStart" style="margin-top:1rem;">Começar Revisão</button>
+        <button class="btn btn-outline" id="reviewNewCards" style="margin-top:0.5rem;">Aprender Cards Novos</button>
+      </div>
+
+      <div id="reviewArea" style="display:none;"></div>
+      <div id="reviewScore" class="score-display" style="display:none;"></div>
+    </div>
+
+    <!-- ===== PROGRESS TAB ===== -->
+    <div class="tab-content" id="tab-progress">
+      <h2 style="margin-bottom:1rem;">Seu Progresso</h2>
+      <div class="progress-grid" id="progressGrid"></div>
+
+      <h3 style="margin: 1.5rem 0 0.75rem;">Progresso por Nível</h3>
+      <div id="levelProgress"></div>
+
+      <div style="text-align:center; margin-top:2rem;">
+        <button class="btn btn-outline" id="resetProgress">Resetar Progresso</button>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

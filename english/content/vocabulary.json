@@ -1,0 +1,592 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "level": "A2",
+      "category": "Everyday Actions (Past Tense)",
+      "related_grammar": [1],
+      "words": [
+        {"en": "arrive", "pt": "chegar", "past": "arrived", "example": "I arrived at 8 am."},
+        {"en": "leave", "pt": "sair/partir", "past": "left", "example": "She left the office early."},
+        {"en": "forget", "pt": "esquecer", "past": "forgot", "example": "I forgot my keys at home."},
+        {"en": "remember", "pt": "lembrar", "past": "remembered", "example": "He remembered her name."},
+        {"en": "lose", "pt": "perder", "past": "lost", "example": "They lost the game."},
+        {"en": "find", "pt": "encontrar", "past": "found", "example": "We found a great restaurant."},
+        {"en": "spend", "pt": "gastar/passar (tempo)", "past": "spent", "example": "I spent the weekend at home."},
+        {"en": "choose", "pt": "escolher", "past": "chose", "example": "She chose the red dress."},
+        {"en": "begin", "pt": "começar", "past": "began", "example": "The movie began at 7."},
+        {"en": "break", "pt": "quebrar", "past": "broke", "example": "He broke the window."},
+        {"en": "catch", "pt": "pegar/capturar", "past": "caught", "example": "I caught the bus just in time."},
+        {"en": "build", "pt": "construir", "past": "built", "example": "They built a new house."}
+      ],
+      "flashcards": [
+        {"front": "arrive → past", "back": "arrived"},
+        {"front": "leave → past", "back": "left"},
+        {"front": "forget → past", "back": "forgot"},
+        {"front": "lose → past", "back": "lost"},
+        {"front": "find → past", "back": "found"},
+        {"front": "spend → past", "back": "spent"},
+        {"front": "choose → past", "back": "chose"},
+        {"front": "begin → past", "back": "began"},
+        {"front": "break → past", "back": "broke"},
+        {"front": "catch → past", "back": "caught"},
+        {"front": "build → past", "back": "built"},
+        {"front": "remember → past", "back": "remembered"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ my wallet on the bus. (lose)",
+          "options": ["losed", "lost", "losted", "lose"],
+          "answer": 1,
+          "explanation": "'Lose' é irregular. Past simple: 'lost'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "She ___ (choose) the blue shirt.",
+          "answer": "chose",
+          "explanation": "'Choose' é irregular: choose → chose → chosen."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "A2",
+      "category": "Daily Routines & Activities",
+      "related_grammar": [2, 4],
+      "words": [
+        {"en": "wake up", "pt": "acordar", "example": "I wake up at 6 every day."},
+        {"en": "get dressed", "pt": "se vestir", "example": "She gets dressed quickly."},
+        {"en": "commute", "pt": "ir e voltar do trabalho", "example": "I commute by bus."},
+        {"en": "attend", "pt": "participar/comparecer", "example": "He attends meetings every Monday."},
+        {"en": "schedule", "pt": "agendar/horário", "example": "I need to schedule an appointment."},
+        {"en": "deadline", "pt": "prazo final", "example": "The deadline is Friday."},
+        {"en": "overtime", "pt": "hora extra", "example": "She works overtime on Thursdays."},
+        {"en": "break", "pt": "intervalo/pausa", "example": "Let's take a break."},
+        {"en": "manage", "pt": "gerenciar/conseguir", "example": "He manages a team of 10 people."},
+        {"en": "achieve", "pt": "alcançar/conquistar", "example": "She achieved her goals."},
+        {"en": "improve", "pt": "melhorar", "example": "I want to improve my English."},
+        {"en": "struggle", "pt": "lutar/ter dificuldade", "example": "I struggle with grammar."}
+      ],
+      "flashcards": [
+        {"front": "acordar", "back": "wake up"},
+        {"front": "se vestir", "back": "get dressed"},
+        {"front": "ir ao trabalho (transporte)", "back": "commute"},
+        {"front": "prazo final", "back": "deadline"},
+        {"front": "hora extra", "back": "overtime"},
+        {"front": "conquistar/alcançar", "back": "achieve"},
+        {"front": "melhorar", "back": "improve"},
+        {"front": "ter dificuldade", "back": "struggle"},
+        {"front": "gerenciar", "back": "manage"},
+        {"front": "agendar", "back": "schedule"},
+        {"front": "comparecer/participar", "back": "attend"},
+        {"front": "pausa/intervalo", "back": "break"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ to work by subway every day.",
+          "options": ["commute", "commutes", "commuting", "commuted"],
+          "answer": 0,
+          "explanation": "Sujeito 'I' → verbo sem -s: 'commute'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The ___ for the project is next Monday. (prazo final)",
+          "answer": "deadline",
+          "explanation": "'Deadline' = prazo final."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "A2",
+      "category": "Descriptions & Comparisons",
+      "related_grammar": [3],
+      "words": [
+        {"en": "huge", "pt": "enorme", "example": "The house is huge."},
+        {"en": "tiny", "pt": "minúsculo", "example": "The apartment is tiny."},
+        {"en": "crowded", "pt": "lotado", "example": "The bus was crowded."},
+        {"en": "empty", "pt": "vazio", "example": "The restaurant was empty."},
+        {"en": "ancient", "pt": "antigo/milenar", "example": "The city has ancient buildings."},
+        {"en": "modern", "pt": "moderno", "example": "It's a very modern design."},
+        {"en": "wealthy", "pt": "rico/abastado", "example": "They live in a wealthy neighborhood."},
+        {"en": "affordable", "pt": "acessível (preço)", "example": "This restaurant is affordable."},
+        {"en": "convenient", "pt": "conveniente/prático", "example": "The location is very convenient."},
+        {"en": "comfortable", "pt": "confortável", "example": "This chair is really comfortable."},
+        {"en": "disappointed", "pt": "decepcionado", "example": "I was disappointed with the result."},
+        {"en": "exhausted", "pt": "exausto", "example": "I'm exhausted after the workout."}
+      ],
+      "flashcards": [
+        {"front": "enorme", "back": "huge"},
+        {"front": "minúsculo", "back": "tiny"},
+        {"front": "lotado", "back": "crowded"},
+        {"front": "vazio", "back": "empty"},
+        {"front": "antigo/milenar", "back": "ancient"},
+        {"front": "rico/abastado", "back": "wealthy"},
+        {"front": "acessível (preço)", "back": "affordable"},
+        {"front": "conveniente", "back": "convenient"},
+        {"front": "confortável", "back": "comfortable"},
+        {"front": "decepcionado", "back": "disappointed"},
+        {"front": "exausto", "back": "exhausted"},
+        {"front": "moderno", "back": "modern"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The subway was very ___. There were too many people.",
+          "options": ["empty", "crowded", "tiny", "convenient"],
+          "answer": 1,
+          "explanation": "'Crowded' = lotado, com muitas pessoas."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I'm ___ after running 10 km. (muito cansado)",
+          "answer": "exhausted",
+          "explanation": "'Exhausted' = extremamente cansado/exausto."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "A2",
+      "category": "Time Expressions",
+      "related_grammar": [5, 6],
+      "words": [
+        {"en": "recently", "pt": "recentemente", "example": "I recently moved to a new city."},
+        {"en": "eventually", "pt": "eventualmente/finalmente", "example": "He eventually found a job."},
+        {"en": "immediately", "pt": "imediatamente", "example": "Call me immediately."},
+        {"en": "gradually", "pt": "gradualmente", "example": "The weather is gradually getting warmer."},
+        {"en": "meanwhile", "pt": "enquanto isso", "example": "Meanwhile, she was cooking dinner."},
+        {"en": "currently", "pt": "atualmente", "example": "I'm currently learning English."},
+        {"en": "nowadays", "pt": "hoje em dia", "example": "Nowadays, everyone uses smartphones."},
+        {"en": "former", "pt": "ex/anterior", "example": "My former boss was great."},
+        {"en": "upcoming", "pt": "próximo/que vai acontecer", "example": "The upcoming event is exciting."},
+        {"en": "throughout", "pt": "ao longo de/durante todo", "example": "It rained throughout the day."},
+        {"en": "whenever", "pt": "sempre que/quando quer que", "example": "Call me whenever you need."},
+        {"en": "within", "pt": "dentro de (prazo)", "example": "I'll reply within 24 hours."}
+      ],
+      "flashcards": [
+        {"front": "recentemente", "back": "recently"},
+        {"front": "eventualmente/finalmente", "back": "eventually"},
+        {"front": "imediatamente", "back": "immediately"},
+        {"front": "gradualmente", "back": "gradually"},
+        {"front": "enquanto isso", "back": "meanwhile"},
+        {"front": "atualmente", "back": "currently"},
+        {"front": "hoje em dia", "back": "nowadays"},
+        {"front": "ex/anterior", "back": "former"},
+        {"front": "que vai acontecer", "back": "upcoming"},
+        {"front": "ao longo de", "back": "throughout"},
+        {"front": "sempre que", "back": "whenever"},
+        {"front": "dentro de (prazo)", "back": "within"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ found a new apartment after months of searching.",
+          "options": ["eventually", "recently", "immediately", "currently"],
+          "answer": 0,
+          "explanation": "'Eventually' = finalmente, depois de muito tempo."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I'll finish the report ___ 48 hours. (dentro de)",
+          "answer": "within",
+          "explanation": "'Within' = dentro de (prazo): 'within 48 hours'."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "B1",
+      "category": "Feelings & Emotions",
+      "related_grammar": [8, 9],
+      "words": [
+        {"en": "anxious", "pt": "ansioso/preocupado", "example": "I feel anxious about the exam."},
+        {"en": "relieved", "pt": "aliviado", "example": "I was relieved when I passed."},
+        {"en": "frustrated", "pt": "frustrado", "example": "He's frustrated with the situation."},
+        {"en": "grateful", "pt": "grato", "example": "I'm grateful for your help."},
+        {"en": "overwhelmed", "pt": "sobrecarregado", "example": "She feels overwhelmed with work."},
+        {"en": "confident", "pt": "confiante", "example": "He's confident about the interview."},
+        {"en": "embarrassed", "pt": "envergonhado", "example": "I was embarrassed when I fell."},
+        {"en": "jealous", "pt": "com ciúmes", "example": "She's jealous of her sister."},
+        {"en": "proud", "pt": "orgulhoso", "example": "I'm proud of my daughter."},
+        {"en": "upset", "pt": "chateado/perturbado", "example": "She was upset about the news."},
+        {"en": "curious", "pt": "curioso", "example": "I'm curious about the results."},
+        {"en": "astonished", "pt": "espantado/surpreso", "example": "We were astonished by the view."}
+      ],
+      "flashcards": [
+        {"front": "ansioso/preocupado", "back": "anxious"},
+        {"front": "aliviado", "back": "relieved"},
+        {"front": "frustrado", "back": "frustrated"},
+        {"front": "grato", "back": "grateful"},
+        {"front": "sobrecarregado", "back": "overwhelmed"},
+        {"front": "confiante", "back": "confident"},
+        {"front": "envergonhado", "back": "embarrassed"},
+        {"front": "com ciúmes", "back": "jealous"},
+        {"front": "orgulhoso", "back": "proud"},
+        {"front": "chateado", "back": "upset"},
+        {"front": "curioso", "back": "curious"},
+        {"front": "espantado", "back": "astonished"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I'm really ___ for all your help. Thank you!",
+          "options": ["grateful", "jealous", "embarrassed", "frustrated"],
+          "answer": 0,
+          "explanation": "'Grateful' = grato/agradecido."
+        },
+        {
+          "type": "fill_blank",
+          "question": "She was ___ when everyone laughed at her mistake. (envergonhada)",
+          "answer": "embarrassed",
+          "explanation": "'Embarrassed' = envergonhado (cuidado: 'embarazada' em espanhol = grávida!)."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "B1",
+      "category": "Work & Career",
+      "related_grammar": [10, 11],
+      "words": [
+        {"en": "apply (for)", "pt": "candidatar-se", "example": "I applied for the job."},
+        {"en": "hire", "pt": "contratar", "example": "They hired 5 new employees."},
+        {"en": "fire / lay off", "pt": "demitir", "example": "He was fired last month."},
+        {"en": "resign / quit", "pt": "pedir demissão", "example": "She resigned from her position."},
+        {"en": "promote", "pt": "promover", "example": "He was promoted to manager."},
+        {"en": "salary", "pt": "salário", "example": "The salary is competitive."},
+        {"en": "colleague", "pt": "colega de trabalho", "example": "My colleague helped me."},
+        {"en": "responsible (for)", "pt": "responsável (por)", "example": "She's responsible for the project."},
+        {"en": "requirement", "pt": "requisito", "example": "Experience is a requirement."},
+        {"en": "benefit", "pt": "benefício", "example": "The job has great benefits."},
+        {"en": "performance", "pt": "desempenho", "example": "His performance improved."},
+        {"en": "opportunity", "pt": "oportunidade", "example": "This is a great opportunity."}
+      ],
+      "flashcards": [
+        {"front": "candidatar-se (a um emprego)", "back": "apply for (a job)"},
+        {"front": "contratar", "back": "hire"},
+        {"front": "demitir", "back": "fire / lay off"},
+        {"front": "pedir demissão", "back": "resign / quit"},
+        {"front": "promover", "back": "promote"},
+        {"front": "salário", "back": "salary"},
+        {"front": "colega de trabalho", "back": "colleague"},
+        {"front": "requisito", "back": "requirement"},
+        {"front": "benefício", "back": "benefit"},
+        {"front": "desempenho", "back": "performance"},
+        {"front": "oportunidade", "back": "opportunity"},
+        {"front": "responsável por", "back": "responsible for"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ for the marketing position last week.",
+          "options": ["applied", "hired", "resigned", "promoted"],
+          "answer": 0,
+          "explanation": "'Apply for' = candidatar-se a uma vaga."
+        },
+        {
+          "type": "fill_blank",
+          "question": "He was ___ to senior developer after 3 years. (promovido)",
+          "answer": "promoted",
+          "explanation": "'Promoted' = promovido. Passiva: was promoted."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level": "B1",
+      "category": "Communication & Reporting",
+      "related_grammar": [12, 13],
+      "words": [
+        {"en": "claim", "pt": "afirmar/alegar", "example": "He claims he is innocent."},
+        {"en": "deny", "pt": "negar", "example": "She denied the accusation."},
+        {"en": "admit", "pt": "admitir", "example": "He admitted his mistake."},
+        {"en": "warn", "pt": "avisar/alertar", "example": "I warned you about this."},
+        {"en": "suggest", "pt": "sugerir", "example": "She suggested a new approach."},
+        {"en": "apologize", "pt": "pedir desculpas", "example": "He apologized for being late."},
+        {"en": "convince", "pt": "convencer", "example": "I couldn't convince her."},
+        {"en": "complain", "pt": "reclamar", "example": "Customers complained about the service."},
+        {"en": "announce", "pt": "anunciar", "example": "They announced the winner."},
+        {"en": "confirm", "pt": "confirmar", "example": "Can you confirm the reservation?"},
+        {"en": "mention", "pt": "mencionar", "example": "She mentioned it briefly."},
+        {"en": "argue", "pt": "discutir/argumentar", "example": "They argued about politics."}
+      ],
+      "flashcards": [
+        {"front": "afirmar/alegar", "back": "claim"},
+        {"front": "negar", "back": "deny"},
+        {"front": "admitir", "back": "admit"},
+        {"front": "avisar/alertar", "back": "warn"},
+        {"front": "sugerir", "back": "suggest"},
+        {"front": "pedir desculpas", "back": "apologize"},
+        {"front": "convencer", "back": "convince"},
+        {"front": "reclamar", "back": "complain"},
+        {"front": "anunciar", "back": "announce"},
+        {"front": "confirmar", "back": "confirm"},
+        {"front": "mencionar", "back": "mention"},
+        {"front": "discutir/argumentar", "back": "argue"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "He ___ that he didn't take the money.",
+          "options": ["claimed", "admitted", "confirmed", "complained"],
+          "answer": 0,
+          "explanation": "'Claim' = afirmar/alegar algo (pode ser verdade ou não)."
+        },
+        {
+          "type": "fill_blank",
+          "question": "She ___ for arriving late to the meeting. (pediu desculpas)",
+          "answer": "apologized",
+          "explanation": "'Apologize for' = pedir desculpas por algo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level": "B1",
+      "category": "Habits & Lifestyle",
+      "related_grammar": [14],
+      "words": [
+        {"en": "habit", "pt": "hábito", "example": "Reading is a good habit."},
+        {"en": "routine", "pt": "rotina", "example": "I changed my morning routine."},
+        {"en": "addiction", "pt": "vício", "example": "Phone addiction is common."},
+        {"en": "lifestyle", "pt": "estilo de vida", "example": "She has a healthy lifestyle."},
+        {"en": "skip", "pt": "pular/faltar", "example": "Don't skip breakfast."},
+        {"en": "avoid", "pt": "evitar", "example": "I try to avoid junk food."},
+        {"en": "tend (to)", "pt": "tender a", "example": "I tend to wake up early."},
+        {"en": "willing (to)", "pt": "disposto a", "example": "He's willing to help."},
+        {"en": "quit", "pt": "parar/desistir", "example": "She quit smoking."},
+        {"en": "gain / lose weight", "pt": "ganhar / perder peso", "example": "He gained weight during quarantine."},
+        {"en": "get used to", "pt": "acostumar-se a", "example": "I'm getting used to the cold."},
+        {"en": "keep up with", "pt": "acompanhar", "example": "It's hard to keep up with the news."}
+      ],
+      "flashcards": [
+        {"front": "hábito", "back": "habit"},
+        {"front": "rotina", "back": "routine"},
+        {"front": "vício", "back": "addiction"},
+        {"front": "estilo de vida", "back": "lifestyle"},
+        {"front": "pular/faltar", "back": "skip"},
+        {"front": "evitar", "back": "avoid"},
+        {"front": "tender a", "back": "tend to"},
+        {"front": "disposto a", "back": "willing to"},
+        {"front": "desistir/parar", "back": "quit"},
+        {"front": "ganhar peso", "back": "gain weight"},
+        {"front": "acostumar-se", "back": "get used to"},
+        {"front": "acompanhar", "back": "keep up with"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ to eat too much at night.",
+          "options": ["tend", "avoid", "skip", "quit"],
+          "answer": 0,
+          "explanation": "'Tend to' = ter tendência a fazer algo."
+        },
+        {
+          "type": "fill_blank",
+          "question": "She's trying to ___ eating sugar. (evitar)",
+          "answer": "avoid",
+          "explanation": "'Avoid' + gerúndio = evitar fazer algo."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "level": "B1",
+      "category": "Common Phrasal Verbs",
+      "related_grammar": [15],
+      "words": [
+        {"en": "look forward to", "pt": "estar ansioso por", "example": "I look forward to meeting you."},
+        {"en": "get over", "pt": "superar", "example": "She got over the breakup."},
+        {"en": "carry on", "pt": "continuar", "example": "Carry on with your work."},
+        {"en": "sort out", "pt": "resolver/organizar", "example": "Let's sort out this problem."},
+        {"en": "end up", "pt": "acabar (resultado)", "example": "We ended up staying home."},
+        {"en": "work out", "pt": "dar certo / fazer exercício", "example": "Everything worked out fine."},
+        {"en": "show up", "pt": "aparecer", "example": "He didn't show up."},
+        {"en": "hold on", "pt": "esperar/aguardar", "example": "Hold on a second."},
+        {"en": "pass away", "pt": "falecer", "example": "His grandfather passed away."},
+        {"en": "drop off", "pt": "deixar (alguém em um lugar)", "example": "Can you drop me off at school?"},
+        {"en": "hang out", "pt": "passar tempo junto", "example": "Let's hang out this weekend."},
+        {"en": "go through", "pt": "passar por (dificuldade)", "example": "She's going through a tough time."}
+      ],
+      "flashcards": [
+        {"front": "estar ansioso por", "back": "look forward to"},
+        {"front": "superar", "back": "get over"},
+        {"front": "continuar", "back": "carry on"},
+        {"front": "resolver", "back": "sort out"},
+        {"front": "acabar (resultado inesperado)", "back": "end up"},
+        {"front": "dar certo / exercitar", "back": "work out"},
+        {"front": "aparecer", "back": "show up"},
+        {"front": "esperar", "back": "hold on"},
+        {"front": "falecer", "back": "pass away"},
+        {"front": "deixar alguém em um lugar", "back": "drop off"},
+        {"front": "passar tempo junto", "back": "hang out"},
+        {"front": "passar por dificuldade", "back": "go through"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I'm ___ to seeing you at the party!",
+          "options": ["looking forward", "looking up", "looking after", "looking out"],
+          "answer": 0,
+          "explanation": "'Look forward to' = estar ansioso/animado para algo."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We wanted to go to the beach but ___ ___ staying home. (acabamos)",
+          "answer": "ended up",
+          "explanation": "'End up' + gerúndio = acabar fazendo algo (resultado inesperado)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "level": "B2",
+      "category": "Abstract Concepts & Opinions",
+      "related_grammar": [16, 17, 18],
+      "words": [
+        {"en": "apparently", "pt": "aparentemente", "example": "Apparently, they broke up."},
+        {"en": "despite / in spite of", "pt": "apesar de", "example": "Despite the rain, we went out."},
+        {"en": "furthermore", "pt": "além disso", "example": "Furthermore, the data shows..."},
+        {"en": "therefore", "pt": "portanto", "example": "Therefore, I disagree."},
+        {"en": "whereas", "pt": "enquanto/ao passo que", "example": "I like coffee, whereas she prefers tea."},
+        {"en": "nevertheless", "pt": "no entanto/mesmo assim", "example": "It was hard. Nevertheless, I succeeded."},
+        {"en": "slightly", "pt": "levemente/um pouco", "example": "The price increased slightly."},
+        {"en": "significantly", "pt": "significativamente", "example": "Sales dropped significantly."},
+        {"en": "tend to", "pt": "tender a", "example": "People tend to judge quickly."},
+        {"en": "assume", "pt": "presumir/supor", "example": "Don't assume anything."},
+        {"en": "consider", "pt": "considerar", "example": "I consider this important."},
+        {"en": "influence", "pt": "influenciar/influência", "example": "Social media influences behavior."}
+      ],
+      "flashcards": [
+        {"front": "aparentemente", "back": "apparently"},
+        {"front": "apesar de", "back": "despite / in spite of"},
+        {"front": "além disso (formal)", "back": "furthermore / moreover"},
+        {"front": "portanto", "back": "therefore"},
+        {"front": "enquanto/ao passo que", "back": "whereas"},
+        {"front": "no entanto", "back": "nevertheless / nonetheless"},
+        {"front": "levemente", "back": "slightly"},
+        {"front": "significativamente", "back": "significantly"},
+        {"front": "presumir", "back": "assume"},
+        {"front": "considerar", "back": "consider"},
+        {"front": "influenciar", "back": "influence"},
+        {"front": "tender a", "back": "tend to"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "___ the difficulties, the team completed the project on time.",
+          "options": ["Despite", "Although", "Because", "Therefore"],
+          "answer": 0,
+          "explanation": "'Despite' + substantivo = apesar de algo."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The results were better than expected; ___, we decided to continue. (portanto)",
+          "answer": "therefore",
+          "explanation": "'Therefore' = portanto (conectivo formal de consequência)."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "level": "B2",
+      "category": "Formal & Academic Vocabulary",
+      "related_grammar": [22],
+      "words": [
+        {"en": "acquire", "pt": "adquirir", "example": "She acquired new skills."},
+        {"en": "establish", "pt": "estabelecer", "example": "They established a new company."},
+        {"en": "investigate", "pt": "investigar", "example": "Police are investigating the case."},
+        {"en": "demonstrate", "pt": "demonstrar", "example": "The study demonstrates that..."},
+        {"en": "contribute", "pt": "contribuir", "example": "Everyone should contribute."},
+        {"en": "emphasize", "pt": "enfatizar", "example": "I want to emphasize this point."},
+        {"en": "implement", "pt": "implementar", "example": "We need to implement changes."},
+        {"en": "acknowledge", "pt": "reconhecer/admitir", "example": "He acknowledged his error."},
+        {"en": "evaluate", "pt": "avaliar", "example": "We need to evaluate the results."},
+        {"en": "indicate", "pt": "indicar", "example": "The data indicates a trend."},
+        {"en": "consist (of)", "pt": "consistir (em)", "example": "The team consists of 8 people."},
+        {"en": "adequate", "pt": "adequado", "example": "The resources are not adequate."}
+      ],
+      "flashcards": [
+        {"front": "adquirir", "back": "acquire"},
+        {"front": "estabelecer", "back": "establish"},
+        {"front": "investigar", "back": "investigate"},
+        {"front": "demonstrar", "back": "demonstrate"},
+        {"front": "contribuir", "back": "contribute"},
+        {"front": "enfatizar", "back": "emphasize"},
+        {"front": "implementar", "back": "implement"},
+        {"front": "reconhecer", "back": "acknowledge"},
+        {"front": "avaliar", "back": "evaluate"},
+        {"front": "indicar", "back": "indicate"},
+        {"front": "consistir em", "back": "consist of"},
+        {"front": "adequado", "back": "adequate"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The company needs to ___ new strategies to grow.",
+          "options": ["implement", "indicate", "consist", "acknowledge"],
+          "answer": 0,
+          "explanation": "'Implement' = implementar, colocar em prática."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The report ___ that sales increased by 20%. (indica)",
+          "answer": "indicates",
+          "explanation": "'Indicate' = indicar/mostrar. Com 'report' (singular) → 'indicates'."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "level": "B2",
+      "category": "Collocations & Fixed Expressions",
+      "related_grammar": [21],
+      "words": [
+        {"en": "make an effort", "pt": "fazer um esforço", "example": "You need to make an effort."},
+        {"en": "do damage", "pt": "causar dano", "example": "The storm did a lot of damage."},
+        {"en": "take into account", "pt": "levar em consideração", "example": "Take this into account."},
+        {"en": "get the hang of", "pt": "pegar o jeito", "example": "You'll get the hang of it."},
+        {"en": "in charge of", "pt": "responsável por", "example": "She's in charge of the team."},
+        {"en": "on purpose", "pt": "de propósito", "example": "He did it on purpose."},
+        {"en": "by accident", "pt": "sem querer", "example": "I deleted it by accident."},
+        {"en": "in advance", "pt": "com antecedência", "example": "Book in advance."},
+        {"en": "out of order", "pt": "fora de serviço/quebrado", "example": "The elevator is out of order."},
+        {"en": "for the time being", "pt": "por enquanto", "example": "This is fine for the time being."},
+        {"en": "sooner or later", "pt": "mais cedo ou mais tarde", "example": "Sooner or later, he'll understand."},
+        {"en": "once in a while", "pt": "de vez em quando", "example": "I eat fast food once in a while."}
+      ],
+      "flashcards": [
+        {"front": "fazer um esforço", "back": "make an effort"},
+        {"front": "causar dano", "back": "do damage"},
+        {"front": "levar em consideração", "back": "take into account"},
+        {"front": "pegar o jeito", "back": "get the hang of"},
+        {"front": "responsável por", "back": "in charge of"},
+        {"front": "de propósito", "back": "on purpose"},
+        {"front": "sem querer", "back": "by accident"},
+        {"front": "com antecedência", "back": "in advance"},
+        {"front": "fora de serviço", "back": "out of order"},
+        {"front": "por enquanto", "back": "for the time being"},
+        {"front": "mais cedo ou mais tarde", "back": "sooner or later"},
+        {"front": "de vez em quando", "back": "once in a while"}
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She didn't break the glass ___. It was an accident.",
+          "options": ["on purpose", "in advance", "by accident", "out of order"],
+          "answer": 0,
+          "explanation": "'On purpose' = de propósito. A frase nega: she DIDN'T do it on purpose."
+        },
+        {
+          "type": "fill_blank",
+          "question": "You should book the hotel ___. It's a popular destination. (com antecedência)",
+          "answer": "in advance",
+          "explanation": "'In advance' = com antecedência, antes do evento."
+        }
+      ]
+    }
+  ]
+}
