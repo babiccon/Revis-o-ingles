@@ -182,6 +182,7 @@ async function loadData() {
       fetch('english/content/grammar.json'),
       fetch('english/content/vocabulary.json')
     ]);
+    if (!gRes.ok || !vRes.ok) throw new Error('HTTP error');
     grammarData = await gRes.json();
     vocabularyData = await vRes.json();
   } catch (e) {
