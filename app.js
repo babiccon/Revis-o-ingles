@@ -179,8 +179,8 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 async function loadData() {
   try {
     const [gRes, vRes] = await Promise.all([
-      fetch('../content/grammar.json'),
-      fetch('../content/vocabulary.json')
+      fetch('english/content/grammar.json'),
+      fetch('english/content/vocabulary.json')
     ]);
     grammarData = await gRes.json();
     vocabularyData = await vRes.json();
