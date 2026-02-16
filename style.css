@@ -722,6 +722,25 @@ body {
   line-height: 1.7;
 }
 
+.tips-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tips-list li {
+  padding: 0.6rem 0.85rem;
+  margin-bottom: 0.4rem;
+  background: var(--warning-light);
+  border-left: 3px solid var(--warning);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.9rem;
+  color: var(--gray-700);
+}
+
+.tips-list li::before {
+  content: "\1F4A1 ";
+}
+
 .rules-list {
   list-style: none;
   padding: 0;

@@ -130,6 +130,11 @@ def _show_topic_info(topic):
     print(f"{'='*60}")
     print(f"\n  {topic['explanation']}")
 
+    if topic.get("tips"):
+        print(f"\n  DICAS PRÁTICAS:")
+        for tip in topic["tips"]:
+            print(f"    💡 {tip}")
+
     if topic.get("rules"):
         print(f"\n  REGRAS:")
         for rule in topic["rules"]:

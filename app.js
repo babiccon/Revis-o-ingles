@@ -373,8 +373,11 @@ function startFlashcards() {
 function showExplanation(topic) {
   const box = document.getElementById('fcExplanation');
   let html = `<h3>${topic.level} - ${topic.topic}</h3><p>${topic.explanation}</p>`;
+  if (topic.tips && topic.tips.length) {
+    html += '<h4>Dicas Práticas</h4><ul>' + topic.tips.map(t => `<li>${t}</li>`).join('') + '</ul>';
+  }
   if (topic.rules && topic.rules.length) {
-    html += '<ul>' + topic.rules.map(r => `<li>${r}</li>`).join('') + '</ul>';
+    html += '<h4>Regras</h4><ul>' + topic.rules.map(r => `<li>${r}</li>`).join('') + '</ul>';
   }
   box.innerHTML = html;
   box.style.display = 'block';
@@ -967,6 +970,16 @@ function showContentDetail(topic) {
         <h3>Explicação</h3>
         <p>${topic.explanation}</p>
       </div>`;
+
+  if (topic.tips && topic.tips.length) {
+    html += `
+      <div class="content-section">
+        <h3>Dicas Práticas</h3>
+        <ul class="tips-list">
+          ${topic.tips.map(t => `<li>${t}</li>`).join('')}
+        </ul>
+      </div>`;
+  }
 
   if (topic.rules && topic.rules.length) {
     html += `

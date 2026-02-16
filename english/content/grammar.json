@@ -4,7 +4,13 @@
       "id": 1,
       "level": "A2",
       "topic": "Past Simple (Regular & Irregular)",
-      "explanation": "O Past Simple descreve ações que começaram e terminaram no passado. Para verbos regulares, adicionamos -ed (worked, played). Para irregulares, cada verbo tem sua forma própria (go→went, eat→ate). Na negativa usamos didn't + verbo base. Na interrogativa: Did + sujeito + verbo base?",
+      "explanation": "O Past Simple é o tempo verbal que usamos para falar de ações que aconteceram e terminaram no passado. Pense nele como uma 'história encerrada' — algo que começou, aconteceu e acabou. Em português, é bem parecido com o nosso pretérito perfeito ('eu trabalhei', 'ela foi'). A grande diferença é que em inglês existem dois tipos de verbos: os REGULARES, que seguem um padrão simples (adicionar -ed: work→worked, play→played), e os IRREGULARES, que têm formas próprias que precisam ser memorizadas (go→went, eat→ate, buy→bought). Uma dica importante: na NEGATIVA e na INTERROGATIVA, o verbo volta para a forma base! Isso acontece porque o auxiliar 'did/didn't' já carrega a informação de passado. Então é 'I didn't GO' (não 'I didn't went') e 'Did you SEE?' (não 'Did you saw?'). Esse é o erro mais comum de brasileiros. Palavras como 'yesterday', 'last week', 'ago', 'in 2020' são pistas de que você deve usar o Past Simple.",
+      "tips": [
+        "Dica mental: se você consegue colocar 'ontem' ou 'semana passada' na frase e faz sentido, provavelmente é Past Simple",
+        "Os 20 verbos irregulares mais usados cobrem 80% das situações do dia a dia — foque neles primeiro (go, eat, buy, see, take, make, come, give, think, write, speak, run, know, get, say, tell, find, leave, feel, meet)",
+        "Na fala, 'didn't' é muito mais comum que 'did not' — pratique a contração",
+        "Cuidado: em português dizemos 'eu não fui' (verbo conjugado), mas em inglês é 'I didn't go' (verbo na forma base após didn't)"
+      ],
       "rules": [
         "Afirmativa regular: sujeito + verbo-ed (I worked, she played)",
         "Afirmativa irregular: sujeito + forma irregular (I went, she ate)",
@@ -78,7 +84,13 @@
       "id": 2,
       "level": "A2",
       "topic": "Present Continuous",
-      "explanation": "O Present Continuous descreve ações que estão acontecendo agora, neste momento. Também pode descrever planos futuros já definidos. Formação: sujeito + am/is/are + verbo-ing. Em português, equivale ao gerúndio (estou fazendo).",
+      "explanation": "O Present Continuous descreve ações que estão acontecendo AGORA, neste exato momento. Quando alguém te liga e pergunta 'What are you doing?', a resposta usa Present Continuous: 'I'm studying'. A formação é simples: sujeito + am/is/are + verbo com -ing. Em português, é parecido com o nosso gerúndio ('estou fazendo', 'ela está dormindo'). Mas atenção: o Present Continuous tem TRÊS usos principais que brasileiros costumam confundir. Primeiro: ações acontecendo agora ('I'm eating lunch'). Segundo: situações temporárias ('I'm living with my parents until I find an apartment' — é temporário, não permanente). Terceiro: planos futuros JÁ CONFIRMADOS ('I'm meeting John tomorrow at 3pm' — já está combinado). Um ponto crucial: existe uma categoria de verbos chamados STATIVE VERBS (verbos de estado) que NÃO aceitam o -ing. São verbos de emoção, pensamento e posse: love, hate, know, believe, understand, want, need, have (posse), belong. Você NÃO diz 'I am loving this' em inglês correto — o certo é 'I love this'. Essa é uma armadilha comum porque em português dizemos 'estou amando' naturalmente.",
+      "tips": [
+        "Se alguém te perguntar 'What are you doing?' no WhatsApp, responda SEMPRE com Present Continuous: 'I'm watching TV', 'I'm cooking', etc.",
+        "Para diferenciar Present Simple de Present Continuous: Simple = rotina/sempre ('I work at Google'), Continuous = agora/temporário ('I'm working on a project')",
+        "Stative verbs para memorizar: LOVE, HATE, KNOW, BELIEVE, WANT, NEED, UNDERSTAND, BELONG, OWN — esses NUNCA levam -ing",
+        "Quando usar para futuro: só funciona para planos já organizados com hora/data. 'I'm flying to London on Friday' (passagem comprada). Não funciona para intenções vagas."
+      ],
       "rules": [
         "Afirmativa: sujeito + am/is/are + verbo-ing (I am working, she is eating)",
         "Negativa: sujeito + am/is/are + not + verbo-ing (I am not working)",
@@ -150,7 +162,13 @@
       "id": 3,
       "level": "A2",
       "topic": "Comparatives & Superlatives",
-      "explanation": "Comparativos comparam duas coisas (mais... que). Superlativos indicam o extremo em um grupo (o mais...). Adjetivos curtos (1-2 sílabas): adicionamos -er/-est. Adjetivos longos (3+ sílabas): usamos more/most. Alguns são irregulares (good→better→best).",
+      "explanation": "Comparativos e superlativos são como você compara coisas em inglês. O comparativo compara DUAS coisas ('A é maior que B'), e o superlativo destaca o EXTREMO de um grupo ('A é o maior de todos'). A grande diferença do português é que em inglês existem DUAS formas de fazer isso, e a escolha depende do TAMANHO do adjetivo. Para adjetivos CURTOS (1 sílaba como tall, fast, old, e 2 sílabas terminados em -y como happy, easy): você adiciona -er para comparativo e -est para superlativo (tall→taller→tallest, happy→happier→happiest). Para adjetivos LONGOS (3+ sílabas como beautiful, interesting, expensive): você usa 'more' para comparativo e 'most' para superlativo (more beautiful, most interesting). Pense assim: se o adjetivo é curto e fácil de falar, grude o -er/-est nele. Se é longo, use more/most separado. NUNCA misture os dois! 'More taller' está ERRADO. Alguns adjetivos são irregulares e fogem de tudo: good→better→best, bad→worse→worst. O comparativo sempre usa 'than' (equivalente ao nosso 'que/do que'): 'She is taller THAN me'. O superlativo sempre usa 'the' antes: 'She is THE tallest'.",
+      "tips": [
+        "Truque para saber se é curto ou longo: bata palma para cada sílaba. 1 palma (tall, big, old) = -er/-est. 3+ palmas (beau-ti-ful, in-te-res-ting) = more/most",
+        "Adjetivos de 2 sílabas são a 'zona cinza': terminados em -y usam -er/-est (happy→happier), outros geralmente usam more/most (modern→more modern)",
+        "Memorize os 3 irregulares principais: good→better→best, bad→worse→worst, far→farther→farthest",
+        "Erro clássico de brasileiro: 'more better'. NUNCA use 'more' com uma forma que já termina em -er"
+      ],
       "rules": [
         "Curtos (1 sílaba): tall → taller → tallest",
         "Terminados em -e: nice → nicer → nicest",
@@ -225,7 +243,13 @@
       "id": 4,
       "level": "A2",
       "topic": "Subject-Verb Agreement",
-      "explanation": "Em inglês, o verbo deve concordar com o sujeito em número. No presente simples, verbos com he/she/it ganham -s ou -es. 'I have' mas 'he has'. 'They are' mas 'she is'. Brasileiros frequentemente esquecem o -s da terceira pessoa.",
+      "explanation": "A concordância sujeito-verbo em inglês funciona de forma diferente do português. Em português, conjugamos o verbo para cada pessoa (eu trabalho, tu trabalhas, ele trabalha, nós trabalhamos...). Em inglês, no Present Simple, o verbo só muda em UMA situação: na terceira pessoa do singular (he/she/it), onde adicionamos -s ou -es. Para todas as outras pessoas (I/you/we/they), o verbo fica na forma base. Então: 'I work, you work, we work, they work' — mas 'he WORKS, she WORKS, it WORKS'. Parece simples, mas é um dos erros mais persistentes de brasileiros, justamente porque em português o verbo muda mais e temos a tendência de esquecer esse -s solitário. Existem regras de ortografia: verbos terminados em -s, -sh, -ch, -x, -o ganham -ES (goes, watches, washes). Verbos terminados em consoante + y trocam o y por -IES (study→studies, carry→carries). Os verbos 'be', 'have' e 'do' são especiais: 'I am / he is', 'I have / he has', 'I do / he does'. Na NEGATIVA e INTERROGATIVA com he/she/it, usamos 'does/doesn't' e o verbo volta para a forma base: 'She doesn't LIKE' (não 'She doesn't likes').",
+      "tips": [
+        "Crie o hábito mental: toda vez que o sujeito for he/she/it ou um nome próprio, adicione o -s no verbo. 'Maria works', 'The dog runs', 'My father drives'",
+        "Na negativa/interrogativa, o -s 'migra' para o auxiliar: 'She likes' → 'She doesn't like' → 'Does she like?' O -s some do verbo e aparece no does",
+        "Cuidado com sujeitos que parecem plural mas são singular: 'The news IS' (notícia), 'Everyone HAS' (todo mundo), 'Nobody KNOWS' (ninguém)",
+        "Sujeitos que parecem singular mas são plural: 'The police ARE' (a polícia), 'The children PLAY' (as crianças), 'People THINK' (pessoas)"
+      ],
       "rules": [
         "I/you/we/they + verbo base: I work, they play",
         "He/she/it + verbo-s: He works, she plays",
@@ -300,7 +324,13 @@
       "id": 5,
       "level": "A2",
       "topic": "Prepositions of Time (in/on/at)",
-      "explanation": "Preposições de tempo em inglês seguem regras específicas: 'at' para horas e momentos específicos, 'on' para dias e datas, 'in' para meses, anos, estações e períodos longos. Diferente do português, onde usamos 'em' para quase tudo.",
+      "explanation": "As preposições de tempo (in, on, at) são um dos pontos mais confusos para brasileiros porque em português usamos praticamente só 'em' para tudo: 'em janeiro', 'em segunda', 'em 2020', 'às 3 horas'. Em inglês, cada preposição tem seu território bem definido. Pense assim, do MAIOR para o MENOR: IN é para períodos GRANDES e abertos (meses: in January, anos: in 2024, estações: in summer, períodos do dia: in the morning/afternoon/evening, décadas: in the 90s, séculos: in the 21st century). ON é para dias ESPECÍFICOS e datas (dias da semana: on Monday, datas: on July 4th, dias especiais: on Christmas Day, on my birthday). AT é para momentos PONTUAIS e horas exatas (at 3 o'clock, at noon, at midnight, at the weekend). Uma boa analogia: IN é como um círculo grande (um mês inteiro), ON é como um ponto no calendário (um dia), e AT é como uma seta apontando para um momento exato (uma hora). EXCEÇÃO IMPORTANTE que pega muita gente: dizemos 'at NIGHT' (sem artigo), mas 'in THE morning/afternoon/evening' (com artigo). E palavras como today, tomorrow, yesterday, tonight, last/next/every + tempo NÃO usam preposição nenhuma: 'See you tomorrow' (não 'See you in tomorrow').",
+      "tips": [
+        "Memorize a escala: IN (grande: mês, ano, estação) → ON (médio: dia, data) → AT (pequeno: hora, momento exato)",
+        "Exceção que cai em prova: 'at night' mas 'in the morning'. Memorize como exceção única",
+        "Palavras que NUNCA levam preposição: today, tomorrow, yesterday, tonight, last Monday, next week, every day, this morning",
+        "Na dúvida entre in e on, pergunte: 'é um DIA específico?'. Se sim, use ON. Se é algo mais amplo (mês, ano), use IN"
+      ],
       "rules": [
         "AT: horas (at 5 o'clock), momentos (at noon, at midnight, at night, at the weekend)",
         "ON: dias da semana (on Monday), datas (on July 4th), dias especiais (on Christmas Day)",
@@ -374,7 +404,14 @@
       "id": 6,
       "level": "A2",
       "topic": "Future (will / going to)",
-      "explanation": "Em inglês, há duas formas principais de falar sobre o futuro. 'Will' é usado para decisões espontâneas, promessas e previsões sem evidência. 'Going to' é usado para planos já decididos e previsões com evidência visível. Ambos traduzem como futuro em português.",
+      "explanation": "Em português, temos basicamente uma forma de falar sobre o futuro: 'eu vou fazer' ou 'eu farei'. Em inglês, existem DUAS formas principais, e cada uma tem situações específicas. WILL é usado para: (1) decisões tomadas NO MOMENTO da fala — alguém te pede ajuda e você diz 'I'll help you!' (decidiu agora); (2) promessas — 'I won't tell anyone, I promise'; (3) ofertas — 'I'll carry that for you'; (4) previsões baseadas em OPINIÃO — 'I think it will rain tomorrow' (você acha, mas não tem certeza). GOING TO é usado para: (1) planos e intenções que você JÁ DECIDIU ANTES — 'I'm going to visit my parents next week' (já planejou); (2) previsões baseadas em EVIDÊNCIA VISÍVEL — 'Look at those clouds! It's going to rain!' (você está vendo as nuvens, tem evidência). A diferença-chave é: WILL = decisão/reação no momento, GOING TO = decisão já tomada antes. Imagine: você está num restaurante. O garçom pergunta o que você quer. Você olha o menu e diz 'I'll have the pasta' (decisão agora, no momento). Mas se antes de sair de casa você já sabia o que ia pedir, seria 'I'm going to have the pasta'. Na prática do dia a dia, muitas vezes os dois são intercambiáveis e nativos misturam — mas em provas e contextos formais, a distinção importa.",
+      "tips": [
+        "Teste rápido: 'Eu já tinha planejado isso antes?' → Se sim, use GOING TO. 'Estou decidindo agora?' → Use WILL",
+        "WILL é muito usado em reações: telefone toca → 'I'll answer it!'. Alguém derruba algo → 'I'll pick it up!'",
+        "GOING TO é muito usado para planos: 'What are you going to do this weekend?' 'I'm going to study for the exam'",
+        "Na fala informal, 'gonna' = 'going to': 'I'm gonna eat' = 'I'm going to eat'. Mas NUNCA escreva 'gonna' em contextos formais",
+        "NUNCA combine os dois: 'I will going to' está ERRADO. Use um ou outro"
+      ],
       "rules": [
         "Will: sujeito + will + verbo base (I will help you)",
         "Will negativa: sujeito + won't + verbo base (I won't forget)",
@@ -447,7 +484,13 @@
       "id": 7,
       "level": "A2",
       "topic": "Modal Verbs (can/could/must)",
-      "explanation": "Verbos modais são verbos auxiliares que expressam habilidade, possibilidade, obrigação ou permissão. 'Can' = poder/conseguir, 'could' = podia/poderia (passado de can ou possibilidade), 'must' = dever/ter que (obrigação forte). Modais nunca recebem -s e são seguidos de verbo base.",
+      "explanation": "Verbos modais são verbos 'especiais' que funcionam de forma completamente diferente dos verbos normais em inglês. Eles expressam ideias como habilidade, permissão, obrigação e possibilidade. Os três principais neste nível são CAN, COULD e MUST. O que torna os modais especiais? Três regras de ouro: (1) eles NUNCA recebem -s na terceira pessoa — é 'he CAN', nunca 'he cans'; (2) o verbo depois deles vem na forma base SEM 'to' — é 'I can SWIM', nunca 'I can to swim'; (3) a negativa é feita direto, sem auxiliar — 'I can't', não 'I don't can'. CAN tem dois significados principais: habilidade ('I can speak English' = sei/consigo falar) e permissão ('Can I go?' = posso ir?). COULD funciona de três formas: como passado de can ('When I was young, I could run fast' = eu conseguia correr), como pedido educado ('Could you help me?' = você poderia me ajudar? — mais polido que 'can'), e como possibilidade ('It could rain' = pode ser que chova). MUST expressa obrigação forte ('You must wear a seatbelt' = você DEVE usar cinto) e dedução/conclusão lógica ('He must be tired — he worked 12 hours' = ele deve estar cansado). Cuidado: MUSTN'T não significa 'não precisa', significa PROIBIÇÃO ('You mustn't smoke here' = é proibido fumar aqui). Para 'não precisa', use 'don't have to'.",
+      "tips": [
+        "Grau de certeza: must (quase certeza) > could/may (possibilidade) > might (pouca chance). 'He must be at home' (tenho quase certeza) vs 'He could be at home' (talvez)",
+        "Grau de educação em pedidos: Can you...? (informal) < Could you...? (educado) < Would you mind...? (muito formal)",
+        "MUSTN'T = proibido (You mustn't steal). DON'T HAVE TO = não precisa (You don't have to come if you don't want). São MUITO diferentes!",
+        "Em português dizemos 'posso ir ao banheiro?' e a piada em inglês é responder 'You CAN, but you MAY not' — porque can = habilidade e may = permissão formal"
+      ],
       "rules": [
         "Modais + verbo base (sem 'to'): I can swim, she must go",
         "Sem -s na terceira pessoa: He can (não 'cans'), she must (não 'musts')",
@@ -522,7 +565,14 @@
       "id": 8,
       "level": "B1",
       "topic": "Present Perfect (have done vs did)",
-      "explanation": "O Present Perfect conecta o passado ao presente. Formação: have/has + particípio passado. Diferente do Past Simple, que fala de ações acabadas no passado. O Present Perfect é um dos pontos mais difíceis para brasileiros porque em português usamos o passado simples em muitos casos onde o inglês exige Present Perfect.",
+      "explanation": "O Present Perfect é provavelmente o tópico MAIS difícil para brasileiros, porque ele simplesmente não existe da mesma forma em português. Em português, dizemos 'eu nunca fui ao Japão' usando passado simples. Em inglês, DEVE ser Present Perfect: 'I have never BEEN to Japan'. Por quê? Porque o Present Perfect não fala apenas do passado — ele CONECTA o passado ao presente. Pense nele como uma ponte entre o que aconteceu e o que importa AGORA. Existem três situações principais: (1) EXPERIÊNCIAS DE VIDA — coisas que você já fez (ou nunca fez) até agora: 'Have you ever eaten sushi?' Não importa quando, importa se a experiência existe. (2) AÇÕES RECENTES COM EFEITO NO PRESENTE — 'I have lost my keys' significa que eu perdi as chaves E AINDA NÃO ACHEI (o efeito continua agora). Se eu disse 'I lost my keys', já implica que a história acabou (talvez já achei). (3) AÇÕES QUE COMEÇARAM NO PASSADO E CONTINUAM — 'I have lived here for 5 years' (moro aqui há 5 anos E AINDA MORO). A regra de ouro para não confundir com Past Simple: se a frase tem um TEMPO DEFINIDO (yesterday, last week, in 2020, when I was a child), use PAST SIMPLE. Se o tempo é INDEFINIDO ou conectado ao presente (ever, never, already, yet, just, since, for), use PRESENT PERFECT. 'I went to Paris in 2019' (tempo definido) vs 'I have been to Paris' (experiência, sem tempo definido).",
+      "tips": [
+        "REGRA DE OURO: tem 'yesterday/last week/in 2020/when I was...' na frase? → Past Simple. Tem 'ever/never/already/yet/just/since/for'? → Present Perfect",
+        "FOR = duração (for 3 years, for a long time). SINCE = ponto de início (since 2020, since Monday, since I was born). Nunca troque os dois!",
+        "Teste mental: 'o resultado dessa ação ainda importa agora?' Se sim → Present Perfect. 'I've broken my leg' (ainda está quebrada). 'I broke my leg last year' (já sarou)",
+        "Em português BR, usamos passado simples onde o inglês exige Present Perfect. Traduza mentalmente: 'Eu já comi sushi' → 'I HAVE eaten sushi' (não 'I ate sushi')",
+        "Just/already/yet: 'I've JUST arrived' (acabei de chegar), 'I've ALREADY finished' (já terminei), 'I haven't finished YET' (ainda não terminei)"
+      ],
       "rules": [
         "Formação: have/has + past participle (I have worked, she has gone)",
         "Usado para: experiências de vida (I have been to London), ações recentes com efeito no presente (I have lost my keys), ações que começaram no passado e continuam (I have lived here for 5 years)",
@@ -598,7 +648,13 @@
       "id": 9,
       "level": "B1",
       "topic": "Past Continuous",
-      "explanation": "O Past Continuous descreve ações em progresso no passado, frequentemente interrompidas por outra ação. Formação: was/were + verbo-ing. Equivale ao 'estava fazendo' em português. Muito usado com 'when' e 'while'.",
+      "explanation": "O Past Continuous descreve ações que estavam EM PROGRESSO em um momento específico do passado. Pense nele como uma 'cena de filme': quando você descreve o que estava acontecendo em determinado momento, você está 'pausando' a ação no meio. Em português, é bem parecido: 'Eu estava estudando', 'Eles estavam dormindo'. A formação é simples: was/were + verbo-ing. Use 'was' com I/he/she/it e 'were' com you/we/they. O uso mais comum e importante é com INTERRUPÇÕES: uma ação longa estava acontecendo (Past Continuous) quando uma ação curta a interrompeu (Past Simple). Exemplo: 'I was taking a shower WHEN the phone rang' — o banho é a ação longa (was taking), a ligação é a interrupção curta (rang). A regra de when/while é crucial: WHEN geralmente vem com Past Simple (ação curta/pontual): 'When the phone rang...'. WHILE vem com Past Continuous (ação em progresso): 'While I was cooking...'. Outro uso importante: descrever DUAS ações simultâneas no passado: 'While I was reading, she was watching TV' — as duas coisas aconteciam ao mesmo tempo. E um terceiro uso mais literário: criar o CENÁRIO de uma história: 'The sun was shining, birds were singing, and children were playing in the park' — é como montar a cena antes de contar o que aconteceu.",
+      "tips": [
+        "Fórmula da interrupção: AÇÃO LONGA (Past Continuous) + WHEN + AÇÃO CURTA (Past Simple). 'I was sleeping WHEN the alarm rang'",
+        "WHEN = ação pontual (Past Simple). WHILE = ação em progresso (Past Continuous). 'When he called...' vs 'While he was calling...'",
+        "Imagine uma linha do tempo: Past Continuous é a linha ———— e Past Simple é o ponto X que corta ela. 'I was walking ————X———— when I fell'",
+        "Não use Past Continuous para ações curtas ou sequenciais. 'I opened the door and turned on the light' = Past Simple (ações rápidas em sequência)"
+      ],
       "rules": [
         "Formação: was/were + verbo-ing (I was working, they were sleeping)",
         "Negativa: was/were + not + verbo-ing (I wasn't working)",
@@ -672,7 +728,14 @@
       "id": 10,
       "level": "B1",
       "topic": "First & Second Conditional",
-      "explanation": "Condicionais expressam situações hipotéticas. O First Conditional fala de situações possíveis/prováveis no futuro. O Second Conditional fala de situações imaginárias/improváveis no presente ou futuro. Em português, equivalem ao 'se... então...'.",
+      "explanation": "As condicionais são estruturas de 'se... então...' que expressam causa e consequência. A diferença entre First e Second Conditional é o grau de PROBABILIDADE. O FIRST CONDITIONAL fala de situações POSSÍVEIS e PROVÁVEIS no futuro — coisas que podem realmente acontecer. Estrutura: If + Present Simple, will + verbo base. Exemplo: 'If it rains tomorrow, I will stay home' (se chover, fico em casa — é possível que chova). Em português, seria 'Se chover, eu fico/ficarei'. Note que depois do IF usamos PRESENT SIMPLE (rains), mesmo falando de futuro! Esse é o erro mais comum: NUNCA use 'will' depois de 'if' no First Conditional ('If it WILL rain' está ERRADO). O SECOND CONDITIONAL fala de situações IMAGINÁRIAS, IMPROVÁVEIS ou IMPOSSÍVEIS — coisas que provavelmente não vão acontecer, ou que são pura fantasia. Estrutura: If + Past Simple, would + verbo base. Exemplo: 'If I were rich, I would travel the world' (se eu fosse rico, viajaria pelo mundo — mas não sou rico). Em português, seria 'Se eu fosse... eu faria/viajaria'. Um detalhe importante: no Second Conditional, usamos 'WERE' para TODAS as pessoas com o verbo 'be', inclusive com I/he/she: 'If I WERE you' (não 'If I was you'). Isso é um resquício do subjuntivo em inglês. Na fala informal, muitos nativos usam 'was', mas 'were' é o gramaticalmente correto.",
+      "tips": [
+        "A diferença é PROBABILIDADE: First = pode acontecer ('If I pass the test, I'll celebrate'). Second = improvável/imaginário ('If I won the lottery, I'd buy a mansion')",
+        "NUNCA use 'will' depois de 'if' no First Conditional, e NUNCA use 'would' depois de 'if' no Second Conditional. O erro está sempre na cláusula do IF",
+        "Traduza mentalmente: 'Se eu TIVER' = First (If I have). 'Se eu TIVESSE' = Second (If I had). O português ajuda aqui!",
+        "A expressão 'If I were you, I would...' é uma das mais úteis do inglês para dar conselhos: 'If I were you, I'd study more' (se eu fosse você, estudaria mais)",
+        "Contrações comuns na fala: I would = I'd, I will = I'll, would not = wouldn't, will not = won't"
+      ],
       "rules": [
         "First Conditional (possível/provável): If + Present Simple, will + verbo base",
         "Exemplo: If it rains, I will stay home.",
@@ -746,7 +809,14 @@
       "id": 11,
       "level": "B1",
       "topic": "Passive Voice",
-      "explanation": "A voz passiva é usada quando o foco está na ação ou no objeto, não em quem faz a ação. Formação: sujeito + be (conjugado) + particípio passado. Em português: 'O livro foi escrito por ela.' O agente (quem faz) pode ser omitido se não for importante.",
+      "explanation": "A voz passiva existe quando queremos mudar o FOCO da frase: em vez de falar de QUEM fez a ação, focamos na ação em si ou no objeto que sofreu a ação. Compare: 'Shakespeare wrote Hamlet' (ativa — foco em Shakespeare) vs 'Hamlet was written by Shakespeare' (passiva — foco em Hamlet). Em português funciona de forma parecida: 'O livro foi escrito por ela'. A formação é: sujeito + verbo BE (conjugado no tempo verbal que você precisa) + particípio passado do verbo principal. O segredo é que o verbo BE muda conforme o tempo: Present Simple → is/are ('English IS spoken here'), Past Simple → was/were ('The window WAS broken'), Present Perfect → has/have been ('The email HAS BEEN sent'), Future → will be ('The project WILL BE completed'). QUANDO usar a passiva? (1) Quando não sabemos quem fez: 'My car was stolen' (não sei quem roubou). (2) Quando quem fez não importa: 'Portuguese is spoken in Brazil' (não importa quem fala). (3) Em contextos formais, científicos ou jornalísticos: 'The experiment was conducted in 2023'. (4) Para dar ênfase ao objeto: 'The Mona Lisa was painted by Da Vinci' (foco na Mona Lisa). O agente (quem fez) é indicado com 'by', mas frequentemente é OMITIDO quando é óbvio ou desconhecido. Brasileiros costumam ter dificuldade em lembrar que precisam do verbo BE na passiva — 'The house built in 1990' está errado, precisa de 'was': 'The house WAS built in 1990'.",
+      "tips": [
+        "Fórmula: sujeito + BE (conjugado no tempo) + particípio passado. Se você esquecer o BE, a frase fica errada",
+        "Quando usar passiva: pergunte 'quem fez importa?'. Se não importa ou não sabe, use passiva. 'My phone was stolen' (não sei por quem)",
+        "Para transformar ativa em passiva: o OBJETO da ativa vira SUJEITO da passiva. 'She wrote the book' → 'The book was written (by her)'",
+        "Passiva é muito comum em inglês formal, acadêmico e jornalístico. Em textos informais, prefira voz ativa — soa mais natural",
+        "Erro comum: esquecer de usar o PARTICÍPIO PASSADO. É 'was writTEN' (não 'was wrote'), 'was eatEN' (não 'was ate')"
+      ],
       "rules": [
         "Formação: sujeito + verbo be (conjugado no tempo) + particípio passado (+ by agente)",
         "Present Simple Passive: am/is/are + PP (English is spoken here)",
@@ -820,7 +890,14 @@
       "id": 12,
       "level": "B1",
       "topic": "Reported Speech",
-      "explanation": "Reported Speech (discurso indireto) é quando contamos o que alguém disse sem usar as palavras exatas. Em inglês, os tempos verbais 'recuam' um passo no passado. 'I am happy' → She said she was happy. Pronomes e expressões de tempo também mudam.",
+      "explanation": "O Reported Speech (discurso indireto) é como você conta o que alguém disse, sem repetir as palavras exatas. Em português fazemos isso naturalmente: 'Ela disse: eu estou cansada' (direto) → 'Ela disse que ESTAVA cansada' (indireto). Em inglês funciona de forma muito parecida, mas com uma regra mecânica clara: os tempos verbais 'RECUAM' um passo no tempo, como se voltassem uma casa no tabuleiro. Present Simple → Past Simple: 'I like it' → She said she LIKED it. Present Continuous → Past Continuous: 'I am working' → He said he WAS WORKING. Past Simple → Past Perfect: 'I went home' → She said she HAD GONE home. Will → Would: 'I will come' → He said he WOULD come. Can → Could: 'I can swim' → She said she COULD swim. Além dos verbos, PRONOMES e EXPRESSÕES DE TEMPO também mudam logicamente: I→he/she, my→his/her, today→that day, tomorrow→the next day, yesterday→the day before, here→there, this→that. Uma diferença crucial entre 'said' e 'told': SAID nunca leva objeto de pessoa direto ('She said that...' ou 'She said to me that...'). TOLD sempre precisa de um objeto: 'She TOLD ME that...' (nunca 'She told that...'). Essa distinção não existe em português ('Ela disse/contou que...'), por isso brasileiros erram muito aqui.",
+      "tips": [
+        "Mecanismo de recuo: tudo volta UM PASSO. am/is→was, are→were, will→would, can→could, have→had. Decore essa tabela!",
+        "SAID vs TOLD: 'She said (that)...' OU 'She told me (that)...'. TOLD sempre precisa dizer PARA QUEM. SAID nunca tem pessoa logo depois",
+        "Quando o que foi dito AINDA É VERDADE, o recuo é opcional: 'She said she IS a teacher' (ainda é) ou 'She said she WAS a teacher' (ambos aceitos)",
+        "Expressões de tempo mudam logicamente: today→that day, now→then, here→there, tomorrow→the next/following day, yesterday→the day before/the previous day",
+        "Pratique convertendo mensagens do WhatsApp para Reported Speech: 'João said he was going to be late and asked me to wait for him'"
+      ],
       "rules": [
         "Present Simple → Past Simple: 'I like it' → She said she liked it",
         "Present Continuous → Past Continuous: 'I am working' → He said he was working",
@@ -895,7 +972,13 @@
       "id": 13,
       "level": "B1",
       "topic": "Relative Clauses (who/which/that)",
-      "explanation": "Relative clauses (orações relativas) dão informação extra sobre um substantivo. 'Who' para pessoas, 'which' para coisas, 'that' para ambos. 'Where' para lugares, 'whose' para posse. Podem ser definidoras (essenciais) ou explicativas (extra, entre vírgulas).",
+      "explanation": "As Relative Clauses (orações relativas) funcionam como uma forma de dar mais informação sobre alguém ou algo que você acabou de mencionar, sem precisar começar uma frase nova. Em português, usamos 'que', 'onde', 'cujo'. Em inglês, temos palavras específicas para cada situação: WHO para pessoas ('The man WHO called me is my boss'), WHICH para coisas e animais ('The book WHICH I bought is great'), THAT para pessoas OU coisas ('The car THAT I drive is old'), WHERE para lugares ('The city WHERE I was born'), e WHOSE para indicar posse, equivalente ao nosso 'cujo' ('The girl WHOSE mother is a doctor'). Uma distinção importante que não existe tão claramente em português: existem dois tipos de relative clauses. As DEFINING (definidoras) são ESSENCIAIS para entender a frase — sem elas, você não sabe de quem/quê estamos falando: 'The woman who lives next door is a doctor' (qual mulher? a que mora ao lado). As NON-DEFINING (explicativas) são informação EXTRA, colocadas entre VÍRGULAS, e podem ser removidas sem perder o sentido principal: 'Paris, which is the capital of France, is beautiful' (todo mundo já sabe o que é Paris). Regra importante: em non-defining clauses (com vírgulas), NUNCA use 'that' — use apenas 'who' ou 'which'. Outra dica útil: em defining clauses, quando who/which/that é OBJETO (não sujeito), você pode OMITI-LO: 'The movie (that) I watched was good' — o 'that' é opcional aqui.",
+      "tips": [
+        "Macete: WHO = pessoa, WHICH = coisa, THAT = coringa (serve para os dois em defining clauses), WHERE = lugar, WHOSE = de quem (posse/cujo)",
+        "Tem VÍRGULAS? É non-defining (informação extra). NÃO use 'that' com vírgulas. 'My brother, WHO lives in London, ...' (correto). 'My brother, THAT lives...' (errado)",
+        "Teste se pode omitir: 'The book (that) I READ' — o 'that' é objeto (I = sujeito), pode omitir. 'The man WHO CALLED me' — 'who' é sujeito, NÃO pode omitir",
+        "WHOSE é o 'cujo' do inglês e muitos alunos evitam por medo, mas é simples: 'The man whose car was stolen' = 'O homem cujo carro foi roubado'"
+      ],
       "rules": [
         "Who: para pessoas (The man who called is my boss)",
         "Which: para coisas/animais (The book which I read was great)",
@@ -970,7 +1053,13 @@
       "id": 14,
       "level": "B1",
       "topic": "Used to / Would (Past Habits)",
-      "explanation": "'Used to' descreve hábitos ou estados do passado que não são mais verdade. 'Would' também descreve hábitos repetidos do passado, mas NÃO estados. Em português, equivale a 'costumava' ou 'sempre fazia'. Cuidado para não confundir 'used to' com 'be used to' (estar acostumado).",
+      "explanation": "Existem TRÊS expressões com 'used to' em inglês que brasileiros sempre confundem, e é crucial entender a diferença entre elas. (1) USED TO + verbo base = algo que você FAZIA no passado mas NÃO faz mais. Equivale ao nosso 'costumava'. 'I used to smoke' = Eu costumava fumar (mas parei). Funciona tanto para HÁBITOS ('I used to play soccer every Sunday') quanto para ESTADOS ('I used to live in São Paulo', 'She used to be shy'). (2) WOULD + verbo base = também descreve hábitos repetidos do passado, mas com uma limitação importante: WOULD só funciona para AÇÕES repetidas, NUNCA para estados. Você pode dizer 'We would always go to the beach in summer' (ação repetida), mas NÃO pode dizer 'I would live in São Paulo' (estado — use 'used to'). (3) BE USED TO + gerúndio/substantivo = ESTAR ACOSTUMADO a algo no presente. 'I'm used to waking up early' = Estou acostumado a acordar cedo. E existe também GET USED TO = ACOSTUMAR-SE (processo): 'I'm getting used to the cold weather' = Estou me acostumando ao frio. A confusão principal: 'I used to wake up early' (eu COSTUMAVA acordar cedo — no passado, não mais) vs 'I'm used to waking up early' (ESTOU ACOSTUMADO a acordar cedo — é normal para mim agora). São significados opostos! Na negativa e interrogativa de 'used to', cuidado: 'I DIDN'T USE TO like coffee' (sem -d após didn't) e 'DID you USE TO live here?' (sem -d).",
+      "tips": [
+        "Teste: 'Eu COSTUMAVA' = used to + verbo base. 'Estou ACOSTUMADO a' = be used to + -ing. Traduza primeiro para o português para decidir qual usar",
+        "WOULD vs USED TO: se pode trocar por 'costumava' E é uma ação (não estado), ambos funcionam. Se é estado (morar, ser, ter, saber), só USED TO",
+        "Estados que NÃO aceitam WOULD: live, be, have, know, like, love, believe, understand, want — esses só com USED TO",
+        "Cuidado com a ortografia: afirmativa = 'used to' (com D). Após didn't/did = 'use to' (sem D). É o mesmo padrão de outros verbos regulares"
+      ],
       "rules": [
         "Used to + verbo base: hábitos e estados passados que não continuam",
         "I used to play soccer. (Eu costumava jogar futebol.)",
@@ -1046,7 +1135,14 @@
       "id": 15,
       "level": "B1",
       "topic": "Phrasal Verbs Comuns",
-      "explanation": "Phrasal verbs são combinações de verbo + preposição/advérbio que criam um significado diferente do verbo original. 'Give up' não é 'dar para cima', mas 'desistir'. São essenciais no inglês do dia a dia e uma das maiores dificuldades para brasileiros.",
+      "explanation": "Phrasal verbs são uma das maiores dores de cabeça para quem aprende inglês, mas também são ESSENCIAIS para soar natural. Um phrasal verb é um verbo combinado com uma preposição ou advérbio que muda COMPLETAMENTE o significado original. 'Give' = dar, mas 'give UP' = desistir. 'Look' = olhar, mas 'look UP' = procurar (no dicionário). Você não consegue adivinhar o significado pela tradução literal — precisa aprender cada um como se fosse uma palavra nova. Por que eles são tão importantes? Porque nativos usam phrasal verbs o tempo todo na fala do dia a dia, em vez dos equivalentes formais. Um nativo diz 'find out' (não 'discover'), 'put off' (não 'postpone'), 'figure out' (não 'determine'). Se você não conhece phrasal verbs, vai entender textos escritos mas vai se perder em conversas. Existem dois tipos: SEPARÁVEIS e INSEPARÁVEIS. Separáveis permitem colocar o objeto no meio: 'Turn OFF the TV' ou 'Turn the TV OFF' — ambos corretos. MAS com PRONOMES, é OBRIGATÓRIO separar: 'Turn IT off' (nunca 'Turn off it'). Inseparáveis não permitem separação: 'Look AFTER the kids' (nunca 'Look the kids after'). A melhor estratégia de aprendizado: NÃO tente decorar listas enormes. Aprenda 3-5 por semana, EM CONTEXTO, com frases completas. É mais eficiente aprender 'I gave up smoking' do que decorar 'give up = desistir' isoladamente.",
+      "tips": [
+        "Regra do pronome: se o phrasal verb é separável e o objeto é um pronome (it, them, him, her), SEMPRE separe: 'Pick IT up' (nunca 'Pick up it')",
+        "Aprenda em grupos temáticos: TURN on/off/up/down (ligar/desligar/aumentar/diminuir). Assim você memoriza 4 de uma vez",
+        "Os 10 mais usados no dia a dia: give up, find out, look for, turn on/off, pick up, put off, come up with, figure out, get along with, run into",
+        "Quando ler/ouvir em inglês e encontrar um phrasal verb novo, anote a FRASE INTEIRA, não só a tradução. Contexto ajuda muito mais que listas",
+        "Na fala formal/escrita, substitua phrasal verbs por verbos únicos: put off → postpone, find out → discover, give up → abandon"
+      ],
       "rules": [
         "Phrasal verb = verbo + partícula (preposição ou advérbio)",
         "O significado muda completamente: look up = procurar (não 'olhar para cima')",
@@ -1124,7 +1220,14 @@
       "id": 16,
       "level": "B2",
       "topic": "Past Perfect",
-      "explanation": "O Past Perfect descreve uma ação que aconteceu ANTES de outra ação no passado. Formação: had + particípio passado. Em português, equivale ao 'tinha feito'. É o 'passado do passado'. Muito usado com 'before', 'after', 'when', 'by the time', 'already'.",
+      "explanation": "O Past Perfect é o 'passado do passado' — ele descreve uma ação que aconteceu ANTES de outra ação que também está no passado. Imagine que você está contando uma história que já aconteceu, e precisa mencionar algo que aconteceu AINDA ANTES. Esse 'antes do antes' é o Past Perfect. Em português, é exatamente o nosso 'tinha feito': 'Quando eu cheguei (passado), eles já TINHAM SAÍDO (passado do passado)'. A formação é simples: had + particípio passado, igual para TODAS as pessoas (I had, she had, they had — sem variação). Pense em uma linha do tempo com dois pontos: Ponto 1 (mais antigo) = Past Perfect. Ponto 2 (mais recente, mas ainda passado) = Past Simple. Exemplo: 'When I arrived (ponto 2 - Past Simple), the movie had already started (ponto 1 - Past Perfect)'. O filme começou PRIMEIRO, eu cheguei DEPOIS. Palavras-chave que sinalizam Past Perfect: 'before' ('I had never seen snow before that trip'), 'after' ('After she had finished, she left'), 'by the time' ('By the time we got there, they had left'), 'already' ('They had already eaten'), 'never... before' ('I had never flown before'). Uma dúvida comum: 'Preciso sempre usar Past Perfect quando falo de duas ações no passado?' Não necessariamente. Se a ORDEM CRONOLÓGICA já está clara pelo contexto ou por palavras como 'before/after', você pode usar Past Simple para ambas: 'I ate breakfast and (then) went to work'. O Past Perfect é mais necessário quando a ordem não é óbvia ou quando você quer ENFATIZAR que algo aconteceu primeiro.",
+      "tips": [
+        "Visualize uma linha do tempo: se duas coisas aconteceram no passado, a que veio PRIMEIRO usa Past Perfect (had + PP), a que veio DEPOIS usa Past Simple",
+        "Palavras-gatilho: by the time, before, after, already, never...before, until then — quando vir essas palavras, pense em Past Perfect",
+        "Após 'had', use SEMPRE o particípio passado: had GONE (não 'had went'), had EATEN (não 'had ate'), had SEEN (não 'had saw')",
+        "Não exagere: se a ordem é óbvia, Past Simple para as duas ações está ok. 'I woke up, brushed my teeth and left' — não precisa de Past Perfect aqui",
+        "Past Perfect é muito usado para explicar CAUSAS: 'She was tired because she hadn't slept well' (ela estava cansada porque não tinha dormido bem)"
+      ],
       "rules": [
         "Formação: had + particípio passado (I had finished, she had gone)",
         "Negativa: hadn't + particípio passado (I hadn't seen)",
@@ -1198,7 +1301,14 @@
       "id": 17,
       "level": "B2",
       "topic": "Third Conditional & Mixed Conditionals",
-      "explanation": "O Third Conditional fala de situações imaginárias no PASSADO — coisas que não aconteceram. 'Se eu tivesse estudado, teria passado.' Mixed Conditionals misturam tempos: uma condição passada com resultado presente, ou condição presente com resultado passado.",
+      "explanation": "O Third Conditional é a condicional do ARREPENDIMENTO e da REFLEXÃO sobre o passado. Ele fala de situações que NÃO aconteceram e imagina como seria SE tivessem acontecido. Em português: 'Se eu TIVESSE estudado, TERIA passado' — mas eu não estudei, e não passei. O que passou, passou. A estrutura é: If + Past Perfect (had + particípio passado), would have + particípio passado. 'If I HAD KNOWN, I WOULD HAVE HELPED you' = Se eu tivesse sabido, teria te ajudado. O erro MAIS COMUM (inclusive de nativos!) é usar 'would have' na cláusula do IF: 'If I WOULD HAVE known...' — isso está ERRADO. Após 'if', use sempre Past Perfect: 'If I HAD known...'. Já os MIXED CONDITIONALS são combinações entre condicionais de tempos diferentes, e existem dois tipos. MIXED 1 (passado→presente): a condição é sobre o passado, mas o resultado é no presente. 'If I had studied medicine (passado — mas não estudei), I would be a doctor NOW (presente)'. Estrutura: If + Past Perfect, would + verbo base. MIXED 2 (presente→passado): a condição é sobre o presente (algo permanente sobre você), mas o resultado é no passado. 'If I were braver (presente — sou medroso), I would have spoken up yesterday (passado)'. Estrutura: If + Past Simple, would have + particípio passado. Os mixed conditionals são avançados e mostram maturidade no inglês — entendê-los é um sinal de que você está chegando ao nível B2.",
+      "tips": [
+        "Third Conditional = arrependimento. Toda vez que pensar 'ah, se eu tivesse...', é Third Conditional: 'If I had saved money, I would have traveled'",
+        "NUNCA use 'would' depois de 'if' no Third Conditional. É sempre 'If I HAD done..., I WOULD HAVE done...'. O 'would' só aparece no resultado",
+        "Mixed Conditional 1 é muito útil: 'If I hadn't eaten so much (passado), I wouldn't feel sick NOW (presente)' — ação passada com consequência atual",
+        "Contrações na fala: 'would have' → 'would've' (soa como 'would of', mas NUNCA escreva 'would of' — está errado)",
+        "Para praticar, pense em decisões passadas e imagine alternativas: 'If I had chosen a different university, I would have met different people'"
+      ],
       "rules": [
         "Third Conditional: If + Past Perfect, would have + particípio passado",
         "If I had studied, I would have passed. (Não estudei → não passei)",
@@ -1272,7 +1382,14 @@
       "id": 18,
       "level": "B2",
       "topic": "Subjunctive (wish / if only / as if)",
-      "explanation": "O subjuntivo em inglês expressa desejos, arrependimentos e situações contrárias à realidade. 'I wish' + Past Simple = desejo sobre o presente. 'I wish' + Past Perfect = arrependimento sobre o passado. 'If only' é mais enfático que 'I wish'. 'As if/as though' = como se.",
+      "explanation": "O subjuntivo em inglês é usado para falar de coisas que NÃO SÃO REAIS — desejos, arrependimentos, e situações imaginárias. A estrutura mais importante é com 'I WISH', que funciona como o nosso 'quem dera' ou 'eu queria que...'. O truque é que o tempo verbal DEPOIS de 'wish' determina se você está falando do PRESENTE ou do PASSADO. WISH + PAST SIMPLE = desejo sobre algo que você quer DIFERENTE NO PRESENTE, mas não é possível. 'I wish I SPOKE better English' = Eu queria falar inglês melhor (mas não falo — é a realidade atual). 'I wish I HAD more money' = Eu queria ter mais dinheiro (mas não tenho agora). WISH + PAST PERFECT = ARREPENDIMENTO sobre algo que aconteceu (ou não) no passado. 'I wish I HAD STUDIED harder' = Eu queria ter estudado mais (mas não estudei — arrependimento). 'I wish I HADN'T SAID that' = Eu queria não ter dito aquilo (mas disse). WISH + WOULD = irritação ou pedido de MUDANÇA de comportamento. 'I wish you WOULD stop making noise' = Eu queria que você parasse de fazer barulho (você está me irritando). IF ONLY funciona EXATAMENTE como 'wish', mas é mais ENFÁTICO e dramático: 'If only I could fly!' = Se ao menos eu pudesse voar! AS IF / AS THOUGH = 'como se'. 'He talks as if he KNEW everything' (ele fala como se soubesse tudo — mas não sabe). Um detalhe gramatical: com wish, if only e as if, o verbo 'be' usa WERE para TODAS as pessoas: 'I wish I WERE taller' (não 'I wish I was taller'). Na fala informal muitos usam 'was', mas 'were' é o correto.",
+      "tips": [
+        "Wish + Present = ERRADO. Wish + Past Simple = desejo presente. Wish + Past Perfect = arrependimento passado. O tempo verbal 'recua' um nível, como no Reported Speech",
+        "Para lembrar: 'I wish I WERE...' (presente irreal) vs 'I wish I HAD BEEN...' (passado irreal). O verbo vai um tempo 'para trás'",
+        "WISH + WOULD é para reclamar do comportamento dos outros: 'I wish my neighbor would turn down the music'. NUNCA use 'I wish I would...' — não faz sentido desejar que você mesmo mude",
+        "AS IF é muito usado no dia a dia: 'She looked as if she had seen a ghost', 'He acts as if he were the boss', 'It feels as if it's going to rain'",
+        "IF ONLY é mais emocional que WISH: use quando quer expressar frustração ou desejo forte. 'If only I had listened to my parents!'"
+      ],
       "rules": [
         "Wish + Past Simple: desejo sobre o presente (I wish I had more time = Queria ter mais tempo)",
         "Wish + Past Perfect: arrependimento (I wish I had studied = Queria ter estudado)",
@@ -1348,7 +1465,14 @@
       "id": 19,
       "level": "B2",
       "topic": "Advanced Passive (have something done)",
-      "explanation": "A estrutura 'have something done' (causative) indica que alguém faz algo para você — você não faz a ação, mas a organiza/paga. 'I had my hair cut' = Cortei meu cabelo (no cabeleireiro, alguém cortou para mim). Diferente de 'I cut my hair' (eu mesma cortei).",
+      "explanation": "A estrutura causativa 'have something done' é uma daquelas coisas que em português fazemos naturalmente, mas em inglês tem uma estrutura específica. Quando você diz 'Eu cortei o cabelo', geralmente quer dizer que foi ao cabeleireiro e OUTRA PESSOA cortou para você, certo? Você não pegou a tesoura e cortou sozinho. Em inglês, essa diferença é expressa na gramática: 'I CUT my hair' = EU MESMA cortei (com minhas próprias mãos). 'I HAD my hair CUT' = mandei cortar, alguém cortou para mim. A estrutura é: HAVE + OBJETO + PARTICÍPIO PASSADO. O verbo 'have' é conjugado normalmente no tempo que você precisa: presente ('I have my car washed every week'), passado ('I had my phone repaired yesterday'), futuro ('I'm going to have my eyes tested'), etc. Uma versão mais INFORMAL usa GET no lugar de HAVE: 'I got my phone fixed' = 'I had my phone fixed'. Ambas significam a mesma coisa, mas 'get' é mais coloquial. Um uso especial e importante: quando algo RUIM acontece com você sem sua vontade, também usamos essa estrutura: 'I had my wallet STOLEN' = Me roubaram a carteira. 'She had her car BROKEN into' = Arrombaram o carro dela. Nesse caso, ninguém 'mandou' fazer — é algo que aconteceu com você. CUIDADO com a ordem das palavras: é 'had MY HAIR cut' (have + objeto + PP), NÃO 'had cut my hair' (isso seria Past Perfect, outro significado completamente diferente!).",
+      "tips": [
+        "A ordem é CRUCIAL: HAVE + OBJETO + PARTICÍPIO PASSADO. 'I had my car repaired' (causativo) ≠ 'I had repaired my car' (Past Perfect = eu mesmo consertei)",
+        "Use para serviços profissionais: 'have your teeth checked' (dentista), 'have your car serviced' (mecânico), 'have your suit dry-cleaned' (lavanderia), 'have your nails done' (manicure)",
+        "GET = versão informal de HAVE na causativa: 'I got my hair cut' = 'I had my hair cut'. Na fala do dia a dia, GET é mais comum",
+        "Para experiências negativas (coisas ruins que aconteceram com você): 'I had my phone stolen', 'She had her house broken into', 'He had his car towed'",
+        "Quando alguém perguntar 'Did you fix your computer yourself?', responda: 'No, I had it fixed' (não, mandei consertar)"
+      ],
       "rules": [
         "Have + objeto + past participle: I had my car repaired (mandei consertar)",
         "Get + objeto + past participle (mais informal): I got my phone fixed",
@@ -1422,7 +1546,14 @@
       "id": 20,
       "level": "B2",
       "topic": "Inversions",
-      "explanation": "Inversões são estruturas onde a ordem normal (sujeito + verbo) é invertida para dar ênfase, formalidade ou efeito dramático. São comuns em inglês formal e escrito. Em português, fazemos algo similar com 'Só quando ele saiu é que eu percebi'.",
+      "explanation": "As inversões são uma estrutura avançada do inglês onde a ordem normal da frase (sujeito + verbo) é INVERTIDA (verbo/auxiliar + sujeito) para criar ÊNFASE, DRAMA ou FORMALIDADE. Em português, fazemos algo parecido com construções como 'Só quando ele saiu é que eu percebi' ou 'Nunca na minha vida vi algo assim'. Em inglês, a inversão acontece quando a frase COMEÇA com uma expressão negativa ou restritiva. O padrão é: EXPRESSÃO NEGATIVA + AUXILIAR + SUJEITO + VERBO PRINCIPAL. Veja como funciona: em vez de 'I have never seen such beauty' (ordem normal), você pode dizer 'NEVER HAVE I SEEN such beauty' (invertido — mais enfático e dramático). As expressões mais comuns que ativam inversão: NEVER ('Never have I...'), NOT ONLY... BUT ALSO ('Not only did she win, but she also broke the record'), HARDLY/SCARCELY... WHEN ('Hardly had I sat down when the phone rang'), NO SOONER... THAN ('No sooner had I arrived than it started raining'), LITTLE ('Little did I know...'), NOT UNTIL ('Not until I left did I realize...'), ONLY AFTER/WHEN/IF ('Only after much effort did she succeed'), UNDER NO CIRCUMSTANCES ('Under no circumstances should you open that door'). Quando usar inversões? Principalmente em: textos formais e acadêmicos, discursos, narrativas literárias, e quando você quer impressionar na escrita. Na fala do dia a dia, são menos comuns, mas 'Never have I...' e 'Not only... but also...' aparecem com frequência. Dominar inversões é um sinal claro de inglês avançado e impressiona em redações, entrevistas e apresentações.",
+      "tips": [
+        "O padrão é sempre o mesmo: expressão negativa no início → auxiliar ANTES do sujeito. 'Never HAVE I', 'Not only DID she', 'Hardly HAD I'",
+        "O auxiliar depende do tempo verbal: Present Simple → do/does, Past Simple → did, Present Perfect → have/has, Past Perfect → had",
+        "As mais úteis no dia a dia: 'Not only... but also...' (para adicionar informação com ênfase) e 'Little did I know...' (para narrativas)",
+        "HARDLY... WHEN e NO SOONER... THAN significam 'mal... quando' — algo aconteceu imediatamente após outra coisa",
+        "Em redações e provas de escrita, usar uma inversão corretamente demonstra nível avançado e pode aumentar sua nota"
+      ],
       "rules": [
         "Never have I seen... (Nunca vi...)",
         "Not only... but also: Not only did he arrive late, but he also forgot the documents",
@@ -1497,7 +1628,14 @@
       "id": 21,
       "level": "B2",
       "topic": "Collocations (make/do/take/get)",
-      "explanation": "Collocations são combinações de palavras que nativos usam naturalmente. Em inglês, dizemos 'make a mistake' (não 'do a mistake'), 'take a shower' (não 'make a shower'). Não existe regra lógica — é preciso memorizar. As mais comuns envolvem make, do, take e get.",
+      "explanation": "Collocations são combinações de palavras que nativos usam naturalmente, mesmo sem uma regra lógica que explique por quê. É como em português: dizemos 'tomar banho' (não 'fazer banho'), 'fazer uma pergunta' (não 'tomar uma pergunta'), 'tirar uma foto' (não 'fazer uma foto'). Em inglês, o mesmo acontece: 'make a mistake' (não 'do a mistake'), 'take a shower' (não 'make a shower'), 'do homework' (não 'make homework'). NÃO existe uma regra perfeita, mas há uma dica geral que ajuda: MAKE geralmente envolve CRIAR ou PRODUZIR algo (make a cake, make a decision, make money, make a plan, make friends, make progress, make an effort). DO geralmente envolve REALIZAR uma atividade ou tarefa (do homework, do the dishes, do exercise, do business, do your best, do a favor, do research). TAKE geralmente envolve UTILIZAR tempo ou recursos, ou envolver-se em algo (take a shower, take a photo, take a break, take notes, take a risk, take part in, take time). GET é o verbo mais versátil e informal, significando obter, tornar-se, ou chegar a um estado (get married, get lost, get better, get angry, get ready, get a job, get rid of, get used to). O problema para brasileiros é que muitas vezes a tradução literal do português leva ao verbo errado em inglês. 'Cometer um erro' → NÃO é 'commit a mistake' nem 'do a mistake', é 'MAKE a mistake'. 'Tirar uma foto' → NÃO é 'pull a photo', é 'TAKE a photo'. A melhor forma de aprender collocations é por EXPOSIÇÃO: quanto mais você lê, ouve e usa inglês, mais naturalmente elas ficam.",
+      "tips": [
+        "Regra geral (não perfeita): MAKE = criar algo novo. DO = realizar uma tarefa/atividade. Quando na dúvida, essa regra resolve uns 70% dos casos",
+        "Collocations que TODO brasileiro erra: 'make a mistake' (não 'do'), 'do homework' (não 'make'), 'take a shower' (não 'make'), 'take a photo' (não 'make')",
+        "GET é o verbo mais informal e útil: get married (casar), get lost (se perder), get better (melhorar), get angry (ficar bravo), get home (chegar em casa)",
+        "Aprenda collocations em pares opostos: make/lose money, take/fail a test, get better/worse, do well/badly",
+        "Quando aprender um substantivo novo, sempre procure qual verbo combina com ele. Não aprenda 'decision' sozinho — aprenda 'MAKE a decision'"
+      ],
       "rules": [
         "MAKE: make a mistake, make a decision, make money, make friends, make progress, make an effort, make a suggestion, make a difference, make sure, make sense",
         "DO: do homework, do the dishes, do business, do a favor, do damage, do exercise, do your best, do research, do the laundry, do well/badly",
@@ -1575,7 +1713,14 @@
       "id": 22,
       "level": "B2",
       "topic": "Formal vs Informal Register",
-      "explanation": "Em inglês, existem registros formais e informais. O formal é usado em e-mails profissionais, redações acadêmicas e situações oficiais. O informal é usado com amigos, em redes sociais e no dia a dia. Saber alternar entre os registros é uma habilidade importante do nível B2.",
+      "explanation": "O registro formal vs informal é sobre saber COMO falar/escrever dependendo da SITUAÇÃO — assim como em português você não fala com seu chefe da mesma forma que fala com seus amigos. Em inglês, essa diferença é ainda MAIS marcada do que em português e envolve escolhas de vocabulário, estrutura das frases e até formas de saudação. O VOCABULÁRIO muda drasticamente: o inglês tem duas 'camadas' de palavras — as de origem anglo-saxã (curtas, simples, do dia a dia) e as de origem latina/francesa (longas, mais sofisticadas). Informal usa as anglo-saxãs: start, buy, help, find out, get. Formal usa as latinas: commence, purchase, assist, discover, obtain. É como a diferença entre 'comprar' e 'adquirir' em português. As CONTRAÇÕES mudam: informal usa contrações livremente (don't, I'm, she's, won't, gonna, wanna). Formal evita contrações (do not, I am, she is, will not) e NUNCA usa 'gonna' ou 'wanna'. A ESTRUTURA da frase muda: formal prefere voz passiva ('The report was submitted'), frases mais longas e conectores sofisticados (furthermore, nevertheless, however). Informal prefere voz ativa ('I submitted the report'), frases curtas e conectores simples (and, but, also). Os PHRASAL VERBS são substituídos por verbos únicos no formal: put off → postpone, find out → discover, come up with → devise, look into → investigate. E as SAUDAÇÕES e DESPEDIDAS mudam completamente: formal começa com 'Dear Sir/Madam' e termina com 'Yours sincerely/faithfully'. Informal começa com 'Hey/Hi' e termina com 'Cheers/Best/See ya'. Saber alternar entre registros é uma habilidade que mostra MATURIDADE no idioma e é essencial para o mundo profissional.",
+      "tips": [
+        "Contextos FORMAIS: e-mails de trabalho, redações acadêmicas, entrevistas de emprego, cartas oficiais, apresentações profissionais",
+        "Contextos INFORMAIS: WhatsApp com amigos, redes sociais, conversas casuais, textos para família, comentários em posts",
+        "Regra prática: se você usaria 'Prezado(a)' em português, use registro formal em inglês. Se usaria 'Oi/E aí', use informal",
+        "Na dúvida, seja MAIS formal do que menos — é melhor parecer um pouco formal demais do que informal demais em contextos profissionais",
+        "Erros de registro são piores que erros gramaticais em contextos profissionais. Um e-mail para seu chefe começando com 'Hey dude, wanna talk?' pode causar mais dano que um erro de gramática"
+      ],
       "rules": [
         "Formal: palavras latinas/francesas (commence, endeavour, purchase). Informal: palavras anglo-saxãs (start, try, buy)",
         "Formal: evite contrações (do not, I am). Informal: use contrações (don't, I'm)",
