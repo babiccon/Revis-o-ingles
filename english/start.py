@@ -10,6 +10,7 @@ import sys
 import os
 
 ENGLISH_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(ENGLISH_DIR)  # raiz do projeto
 
 
 def start_cli():
@@ -27,10 +28,9 @@ def start_web():
     import functools
 
     port = 8080
-    web_dir = os.path.join(ENGLISH_DIR, "web")
 
-    # Servir a partir do diretório english/ para que ../content/ funcione
-    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=ENGLISH_DIR)
+    # Servir a partir da raiz do projeto (onde está o index.html principal)
+    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=ROOT_DIR)
 
     # Tentar portas até encontrar uma livre
     for attempt_port in range(port, port + 10):
@@ -44,7 +44,7 @@ def start_web():
         print(f"  Erro: Não foi possível encontrar uma porta livre entre {port} e {port + 9}.")
         return
 
-    url = f"http://localhost:{port}/web/index.html"
+    url = f"http://localhost:{port}/"
 
     print(f"\n  Servidor iniciado em: {url}")
     print(f"  Pressione Ctrl+C para parar.\n")

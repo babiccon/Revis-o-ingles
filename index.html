@@ -37,6 +37,18 @@
     </main>
   </div>
 
+  <script>
+    // Detect file:// protocol and show error before module even tries to load
+    if (location.protocol === 'file:') {
+      document.getElementById('appRoot').innerHTML =
+        '<div class="empty-state">' +
+        '<h3>Servidor HTTP necessário</h3>' +
+        '<p>Abra o terminal na pasta do projeto e execute:</p>' +
+        '<pre style="background:#f3f4f6;padding:.75rem 1rem;border-radius:8px;margin:.75rem 0;font-size:.85rem;text-align:left;overflow-x:auto">python english/start.py web</pre>' +
+        '<p style="font-size:.85rem;color:#9ca3af">O app usa ES Modules e fetch(), que requerem HTTP.</p>' +
+        '</div>';
+    }
+  </script>
   <script type="module" src="app.js"></script>
 </body>
 </html>
