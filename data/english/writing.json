@@ -1,0 +1,68 @@
+{
+  "language": "english",
+  "level": "A2",
+  "exercises": [
+    {
+      "id": 1,
+      "sub_level": "A2.1",
+      "title": "My Last Weekend",
+      "title_pt": "Meu Último Fim de Semana",
+      "prompt_pt": "Escreva sobre o que você fez no último fim de semana. Use o Past Simple. Inclua: onde você foi, o que fez, com quem estava e como foi.",
+      "prompt_de": "Write about what you did last weekend. Use Past Simple verbs.",
+      "min_words": 40,
+      "grammar_focus": [
+        "Past Simple (regular e irregular)",
+        "Verbos: went, ate, watched, played, met, visited",
+        "Marcadores de tempo: on Saturday, on Sunday, in the morning, in the evening"
+      ],
+      "vocabulary_hints": [
+        { "pt": "acordei às...", "de": "I woke up at..." },
+        { "pt": "fui a / ao...", "de": "I went to..." },
+        { "pt": "encontrei meus amigos", "de": "I met my friends" },
+        { "pt": "assisti a um filme", "de": "I watched a movie" },
+        { "pt": "passei um ótimo tempo", "de": "I had a great time" },
+        { "pt": "no sábado de manhã", "de": "on Saturday morning" }
+      ],
+      "example_answer": "Last weekend was really fun. On Saturday morning, I woke up late and had a big breakfast. In the afternoon, I met my friends at the park and we played football. In the evening, we went to a restaurant and ate pizza. On Sunday, I stayed at home, watched a movie and relaxed. I had a great weekend!",
+      "example_translation": "O último fim de semana foi muito divertido. No sábado de manhã, acordei tarde e tomei um café da manhã farto. À tarde, encontrei meus amigos no parque e jogamos futebol. À noite, fomos a um restaurante e comemos pizza. No domingo, fiquei em casa, assisti a um filme e relaxei. Tive um ótimo fim de semana!",
+      "checklist": [
+        "Usei verbos no Past Simple (went, ate, met...)?",
+        "Usei marcadores de tempo (on Saturday, in the evening...)?",
+        "Descrevi pelo menos 3 atividades diferentes?",
+        "Escrevi pelo menos 40 palavras?"
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A2.2",
+      "title": "A Personal Email",
+      "title_pt": "Um Email Pessoal",
+      "prompt_pt": "Escreva um email informal para um amigo que você não vê há algum tempo. Conte o que tem acontecido na sua vida recentemente. Use o Present Perfect para falar de experiências recentes.",
+      "prompt_de": "Write an informal email to a friend you haven't seen for a while.",
+      "min_words": 60,
+      "grammar_focus": [
+        "Present Perfect (have + past participle)",
+        "Saudações informais: Hi / Hey / Dear",
+        "Despedidas: Take care / Talk soon / Best wishes",
+        "Expressões: recently, lately, just, already, yet"
+      ],
+      "vocabulary_hints": [
+        { "pt": "há muito tempo", "de": "it's been a long time" },
+        { "pt": "recentemente tenho...", "de": "I've recently been..." },
+        { "pt": "você vai adorar ouvir que...", "de": "you'll be happy to hear that..." },
+        { "pt": "mal posso esperar para te ver", "de": "I can't wait to see you" },
+        { "pt": "como você está?", "de": "How have you been?" },
+        { "pt": "espero ouvir de você em breve", "de": "I hope to hear from you soon" }
+      ],
+      "example_answer": "Hey Sara!\n\nIt's been so long! How have you been? I've been really busy lately.\n\nI've just started a new job at a marketing company and I'm loving it. I've also moved to a new apartment — it's much bigger than my old one. And guess what? I've finally visited London! I went there last month and it was amazing.\n\nWhat about you? Have you done anything exciting recently?\n\nI can't wait to catch up. Let's video call soon!\n\nTake care,\nLaura",
+      "example_translation": "Oi Sara!\n\nFaz tanto tempo! Como você está? Tenho estado muito ocupada ultimamente.\n\nAcabei de começar um emprego novo em uma empresa de marketing e estou adorando. Também me mudei para um apartamento novo — é bem maior que o meu antigo. E adivinha? Finalmente visitei Londres! Fui lá mês passado e foi incrível.\n\nE você? Fez algo emocionante recentemente?\n\nMal posso esperar para te ver. Vamos marcar uma videochamada em breve!\n\nTchauzinho,\nLaura",
+      "checklist": [
+        "Usei uma saudação informal (Hi / Hey)?",
+        "Usei pelo menos 3 verbos no Present Perfect (I've done, I've been...)?",
+        "Fiz uma pergunta para o amigo?",
+        "Usei uma despedida (Take care / Talk soon)?",
+        "Escrevi pelo menos 60 palavras?"
+      ]
+    }
+  ]
+}

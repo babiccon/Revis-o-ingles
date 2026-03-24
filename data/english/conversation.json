@@ -1,0 +1,138 @@
+{
+  "language": "english",
+  "level": "A2",
+  "dialogues": [
+    {
+      "id": 1,
+      "sub_level": "A2.1",
+      "situation": "Making Plans",
+      "situation_pt": "Fazendo Planos",
+      "context": "Ana e Tom são amigos. Ana quer combinar algo para o fim de semana.",
+      "lines": [
+        {
+          "speaker": "Ana",
+          "de": "Hey Tom! Are you free this weekend?",
+          "pt": "Oi Tom! Você está livre neste fim de semana?",
+          "audio_tts": "Hey Tom! Are you free this weekend?",
+          "notes": "'Are you free?' — forma educada de perguntar disponibilidade"
+        },
+        {
+          "speaker": "Tom",
+          "de": "I think so. What are you going to do?",
+          "pt": "Acho que sim. O que você vai fazer?",
+          "audio_tts": "I think so. What are you going to do?",
+          "notes": "'going to' — plano já decidido"
+        },
+        {
+          "speaker": "Ana",
+          "de": "I'm going to see a movie on Saturday. Do you want to come?",
+          "pt": "Vou ver um filme no sábado. Você quer vir?",
+          "audio_tts": "I'm going to see a movie on Saturday. Do you want to come?",
+          "notes": null
+        },
+        {
+          "speaker": "Tom",
+          "de": "That sounds great! What time will it start?",
+          "pt": "Parece ótimo! Que horas começa?",
+          "audio_tts": "That sounds great! What time will it start?",
+          "notes": "'That sounds great!' — expressão de entusiasmo muito usada"
+        },
+        {
+          "speaker": "Ana",
+          "de": "The movie will start at 7 pm. We can meet at the cinema at 6:45.",
+          "pt": "O filme começa às 19h. A gente pode se encontrar no cinema às 18:45.",
+          "audio_tts": "The movie will start at 7 pm. We can meet at the cinema at 6:45.",
+          "notes": "'will' — decisão tomada no momento da fala"
+        },
+        {
+          "speaker": "Tom",
+          "de": "Perfect! I'll see you there.",
+          "pt": "Perfeito! Te vejo lá.",
+          "audio_tts": "Perfect! I'll see you there.",
+          "notes": "'I'll see you there.' — expressão para se despedir combinando encontro"
+        }
+      ],
+      "key_phrases": [
+        { "de": "Are you free this weekend?", "pt": "Você está livre neste fim de semana?" },
+        { "de": "What are you going to do?", "pt": "O que você vai fazer?" },
+        { "de": "Do you want to come?", "pt": "Você quer vir?" },
+        { "de": "That sounds great!", "pt": "Parece ótimo!" },
+        { "de": "I'll see you there.", "pt": "Te vejo lá." }
+      ],
+      "forvo_links": [
+        { "word": "weekend", "url": "https://forvo.com/word/weekend/#en" },
+        { "word": "cinema", "url": "https://forvo.com/word/cinema/#en" }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A2.2",
+      "situation": "At the Doctor",
+      "situation_pt": "No Médico",
+      "context": "Maria não está se sentindo bem e vai ao médico.",
+      "lines": [
+        {
+          "speaker": "Doctor",
+          "de": "Good morning. How can I help you today?",
+          "pt": "Bom dia. Como posso ajudá-lo(a) hoje?",
+          "audio_tts": "Good morning. How can I help you today?",
+          "notes": "Cumprimento formal em contexto médico"
+        },
+        {
+          "speaker": "Maria",
+          "de": "I haven't been feeling well for two days. I have a headache and a sore throat.",
+          "pt": "Não estou me sentindo bem há dois dias. Tenho dor de cabeça e dor de garganta.",
+          "audio_tts": "I haven't been feeling well for two days. I have a headache and a sore throat.",
+          "notes": "'haven't been feeling' — present perfect continuous para sintomas recentes"
+        },
+        {
+          "speaker": "Doctor",
+          "de": "Have you had a fever?",
+          "pt": "Você teve febre?",
+          "audio_tts": "Have you had a fever?",
+          "notes": "Present perfect para perguntar sobre experiência recente"
+        },
+        {
+          "speaker": "Maria",
+          "de": "Yes, I had a fever yesterday, but it's gone now.",
+          "pt": "Sim, tive febre ontem, mas já passou.",
+          "audio_tts": "Yes, I had a fever yesterday, but it's gone now.",
+          "notes": "'it's gone' — já passou / sumiu"
+        },
+        {
+          "speaker": "Doctor",
+          "de": "I see. I'm going to prescribe some antibiotics. You should rest and drink plenty of water.",
+          "pt": "Entendo. Vou prescrever alguns antibióticos. Você deve descansar e beber bastante água.",
+          "audio_tts": "I'm going to prescribe some antibiotics. You should rest and drink plenty of water.",
+          "notes": "'should' — conselho / recomendação"
+        },
+        {
+          "speaker": "Maria",
+          "de": "How long do I need to take the medication?",
+          "pt": "Por quanto tempo preciso tomar o medicamento?",
+          "audio_tts": "How long do I need to take the medication?",
+          "notes": null
+        },
+        {
+          "speaker": "Doctor",
+          "de": "Take one pill twice a day for seven days. Come back if you don't feel better.",
+          "pt": "Tome um comprimido duas vezes ao dia por sete dias. Volte se não melhorar.",
+          "audio_tts": "Take one pill twice a day for seven days. Come back if you don't feel better.",
+          "notes": "'twice a day' — duas vezes ao dia"
+        }
+      ],
+      "key_phrases": [
+        { "de": "I haven't been feeling well.", "pt": "Não estou me sentindo bem." },
+        { "de": "I have a headache.", "pt": "Estou com dor de cabeça." },
+        { "de": "I have a sore throat.", "pt": "Estou com dor de garganta." },
+        { "de": "I had a fever.", "pt": "Tive febre." },
+        { "de": "You should rest.", "pt": "Você deve descansar." },
+        { "de": "twice a day", "pt": "duas vezes ao dia" }
+      ],
+      "forvo_links": [
+        { "word": "headache", "url": "https://forvo.com/word/headache/#en" },
+        { "word": "prescription", "url": "https://forvo.com/word/prescription/#en" }
+      ]
+    }
+  ]
+}

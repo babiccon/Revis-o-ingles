@@ -1,0 +1,162 @@
+{
+  "language": "english",
+  "level": "A2",
+  "sections": [
+    {
+      "id": 1,
+      "sub_level": "A2.1",
+      "title": "Sons que não existem em português",
+      "phoneme_groups": [
+        {
+          "group": "TH — O som mais difícil para brasileiros",
+          "phonemes": [
+            {
+              "symbol": "th (surdo)",
+              "ipa": "/θ/",
+              "description": "Coloque a ponta da língua entre os dentes e sopre ar. Não existe em português. É o som de 'think', 'three', 'thank'. Pense em 'f' ou 's', mas com a língua para fora.",
+              "examples": [
+                { "word": "think", "translation": "pensar", "phonetic": "/θɪŋk/" },
+                { "word": "three", "translation": "três", "phonetic": "/θriː/" },
+                { "word": "thank you", "translation": "obrigado", "phonetic": "/ˈθæŋk juː/" },
+                { "word": "Thursday", "translation": "quinta-feira", "phonetic": "/ˈθɜːzdeɪ/" }
+              ],
+              "forvo_url": "https://forvo.com/word/think/#en",
+              "youtube_url": null
+            },
+            {
+              "symbol": "th (sonoro)",
+              "ipa": "/ð/",
+              "description": "Igual ao /θ/, mas com vibração das cordas vocais. É o 'th' de 'this', 'the', 'that', 'there'. Pense em um 'd' com a língua entre os dentes.",
+              "examples": [
+                { "word": "this", "translation": "este/esta", "phonetic": "/ðɪs/" },
+                { "word": "that", "translation": "aquele/aquela", "phonetic": "/ðæt/" },
+                { "word": "the", "translation": "o/a (artigo)", "phonetic": "/ðə/" },
+                { "word": "mother", "translation": "mãe", "phonetic": "/ˈmʌðər/" }
+              ],
+              "forvo_url": "https://forvo.com/word/this/#en",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "H — O H aspirado",
+          "phonemes": [
+            {
+              "symbol": "h",
+              "ipa": "/h/",
+              "description": "Em inglês, o H sempre é pronunciado (exceto em 'hour', 'honest'). É uma expiração forte, como embaciar um espelho. Em português, o H é mudo. Não diga 'ello' — diga 'hello' com o H.",
+              "examples": [
+                { "word": "hello", "translation": "olá", "phonetic": "/həˈloʊ/" },
+                { "word": "have", "translation": "ter", "phonetic": "/hæv/" },
+                { "word": "happy", "translation": "feliz", "phonetic": "/ˈhæpi/" },
+                { "word": "house", "translation": "casa", "phonetic": "/haʊs/" }
+              ],
+              "forvo_url": "https://forvo.com/word/hello/#en",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "W vs V",
+          "phonemes": [
+            {
+              "symbol": "w",
+              "ipa": "/w/",
+              "description": "O W inglês é um som labial — arredonde os lábios como para dizer 'u' e solte rapidamente. NÃO encosta os dentes no lábio inferior (isso seria o V). Brasileiros frequentemente dizem 'very' com som de W ou vice-versa.",
+              "examples": [
+                { "word": "water", "translation": "água", "phonetic": "/ˈwɔːtər/" },
+                { "word": "work", "translation": "trabalho/trabalhar", "phonetic": "/wɜːrk/" },
+                { "word": "week", "translation": "semana", "phonetic": "/wiːk/" },
+                { "word": "want", "translation": "querer", "phonetic": "/wɑːnt/" }
+              ],
+              "forvo_url": "https://forvo.com/word/water/#en",
+              "youtube_url": null
+            },
+            {
+              "symbol": "v",
+              "ipa": "/v/",
+              "description": "Encoste os dentes superiores no lábio inferior e vibre as cordas vocais. É o mesmo som do V português. Não confunda com o W — 'very' (/v/) é diferente de 'wary' (/w/).",
+              "examples": [
+                { "word": "very", "translation": "muito", "phonetic": "/ˈveri/" },
+                { "word": "visit", "translation": "visitar", "phonetic": "/ˈvɪzɪt/" },
+                { "word": "love", "translation": "amar/amor", "phonetic": "/lʌv/" },
+                { "word": "voice", "translation": "voz", "phonetic": "/vɔɪs/" }
+              ],
+              "forvo_url": "https://forvo.com/word/very/#en",
+              "youtube_url": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A2.2",
+      "title": "Vogais difíceis e sons finais",
+      "phoneme_groups": [
+        {
+          "group": "Vogais que confundem brasileiros",
+          "phonemes": [
+            {
+              "symbol": "i (curto)",
+              "ipa": "/ɪ/",
+              "description": "Vogal curta e relaxada. Não é o 'i' fechado do português. É entre o 'i' e o 'e'. Diferença crucial: 'sit' (/ɪ/) vs 'seat' (/iː/). Pense em um 'i' preguiçoso.",
+              "examples": [
+                { "word": "sit", "translation": "sentar", "phonetic": "/sɪt/" },
+                { "word": "big", "translation": "grande", "phonetic": "/bɪɡ/" },
+                { "word": "this", "translation": "este/esta", "phonetic": "/ðɪs/" },
+                { "word": "give", "translation": "dar", "phonetic": "/ɡɪv/" }
+              ],
+              "forvo_url": "https://forvo.com/word/sit/#en",
+              "youtube_url": null
+            },
+            {
+              "symbol": "i (longo)",
+              "ipa": "/iː/",
+              "description": "Vogal longa e tensa — como o 'i' do português, mas sustentada. Diferença entre 'ship' (/ɪ/) e 'sheep' (/iː/). Estique o som.",
+              "examples": [
+                { "word": "seat", "translation": "assento", "phonetic": "/siːt/" },
+                { "word": "sheep", "translation": "ovelha", "phonetic": "/ʃiːp/" },
+                { "word": "see", "translation": "ver", "phonetic": "/siː/" },
+                { "word": "week", "translation": "semana", "phonetic": "/wiːk/" }
+              ],
+              "forvo_url": "https://forvo.com/word/sheep/#en",
+              "youtube_url": null
+            },
+            {
+              "symbol": "schwa",
+              "ipa": "/ə/",
+              "description": "O som mais comum do inglês! É uma vogal neutra, reduzida — como um 'ê' fraco e rápido. Aparece em sílabas não-acentuadas. 'about' = ə-BOUT, 'the' = /ðə/, 'teacher' = TEACH-ər.",
+              "examples": [
+                { "word": "about", "translation": "sobre", "phonetic": "/əˈbaʊt/" },
+                { "word": "teacher", "translation": "professor(a)", "phonetic": "/ˈtiːtʃər/" },
+                { "word": "a (artigo)", "translation": "um/uma", "phonetic": "/ə/" },
+                { "word": "again", "translation": "novamente", "phonetic": "/əˈɡen/" }
+              ],
+              "forvo_url": "https://forvo.com/word/about/#en",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "Sons nasais e finais",
+          "phonemes": [
+            {
+              "symbol": "ng",
+              "ipa": "/ŋ/",
+              "description": "Som nasal velar — feito no fundo da garganta. Aparece em '-ing' e em palavras como 'sing', 'king'. NÃO pronuncie o G separado: 'sing' = /sɪŋ/, não /sɪŋɡ/.",
+              "examples": [
+                { "word": "sing", "translation": "cantar", "phonetic": "/sɪŋ/" },
+                { "word": "working", "translation": "trabalhando", "phonetic": "/ˈwɜːrkɪŋ/" },
+                { "word": "morning", "translation": "manhã", "phonetic": "/ˈmɔːrnɪŋ/" },
+                { "word": "king", "translation": "rei", "phonetic": "/kɪŋ/" }
+              ],
+              "forvo_url": "https://forvo.com/word/sing/#en",
+              "youtube_url": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

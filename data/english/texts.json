@@ -1,0 +1,161 @@
+{
+  "language": "english",
+  "level": "A2",
+  "texts": [
+    {
+      "id": 1,
+      "sub_level": "A2.1",
+      "title": "A Day in My Life",
+      "title_pt": "Um Dia na Minha Vida",
+      "content": [
+        {
+          "sentence": "My name is Laura and I live in São Paulo.",
+          "translation": "Meu nome é Laura e eu moro em São Paulo.",
+          "vocabulary": [
+            { "word": "live", "translation": "morar / viver", "note": "verbo regular" }
+          ]
+        },
+        {
+          "sentence": "I usually wake up at 7 o'clock and take a shower.",
+          "translation": "Eu geralmente acordo às 7 horas e tomo um banho.",
+          "vocabulary": [
+            { "word": "usually", "translation": "geralmente", "note": "advérbio de frequência" },
+            { "word": "wake up", "translation": "acordar", "note": "phrasal verb" },
+            { "word": "take a shower", "translation": "tomar banho", "note": "expressão fixa" }
+          ]
+        },
+        {
+          "sentence": "After breakfast, I go to work by bus.",
+          "translation": "Depois do café da manhã, eu vou ao trabalho de ônibus.",
+          "vocabulary": [
+            { "word": "after", "translation": "depois de", "note": "preposição" },
+            { "word": "breakfast", "translation": "café da manhã", "note": "substantivo" }
+          ]
+        },
+        {
+          "sentence": "I work as a teacher and I really enjoy my job.",
+          "translation": "Eu trabalho como professora e realmente gosto do meu trabalho.",
+          "vocabulary": [
+            { "word": "work as", "translation": "trabalhar como", "note": "expressão de profissão" },
+            { "word": "enjoy", "translation": "gostar de / apreciar", "note": "verbo regular" }
+          ]
+        },
+        {
+          "sentence": "In the evening, I cook dinner and watch TV with my family.",
+          "translation": "À noite, eu cozinho o jantar e assisto TV com minha família.",
+          "vocabulary": [
+            { "word": "In the evening", "translation": "à noite / à tarde", "note": "expressão de tempo" },
+            { "word": "cook dinner", "translation": "cozinhar o jantar", "note": "collocação comum" }
+          ]
+        },
+        {
+          "sentence": "I went to bed at 10:30 last night.",
+          "translation": "Eu fui dormir às 22:30 ontem à noite.",
+          "vocabulary": [
+            { "word": "went to bed", "translation": "fui dormir", "note": "go to bed — passado: went" },
+            { "word": "last night", "translation": "ontem à noite", "note": "marcador de passado" }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What time does Laura wake up?",
+          "options": ["6 o'clock", "7 o'clock", "8 o'clock", "7:30"],
+          "answer": 1,
+          "explanation": "The text says 'I usually wake up at 7 o'clock'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How does Laura go to work?",
+          "options": ["By car", "On foot", "By bus", "By train"],
+          "answer": 2,
+          "explanation": "'I go to work by bus.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Laura is a teacher.",
+          "answer": true,
+          "explanation": "'I work as a teacher.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Laura watches TV alone in the evening.",
+          "answer": false,
+          "explanation": "'I watch TV with my family' — she watches with her family."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A2.2",
+      "title": "My Job Interview",
+      "title_pt": "Minha Entrevista de Emprego",
+      "content": [
+        {
+          "sentence": "Last Monday, I had an important job interview at a big company.",
+          "translation": "Na segunda-feira passada, eu tive uma entrevista de emprego importante em uma grande empresa.",
+          "vocabulary": [
+            { "word": "had", "translation": "tive / tinha", "note": "passado de 'have'" },
+            { "word": "job interview", "translation": "entrevista de emprego", "note": "expressão fixa" }
+          ]
+        },
+        {
+          "sentence": "I have worked in marketing for three years.",
+          "translation": "Eu tenho trabalhado em marketing por três anos.",
+          "vocabulary": [
+            { "word": "have worked", "translation": "tenho trabalhado", "note": "present perfect — experiência" },
+            { "word": "for three years", "translation": "por três anos", "note": "duração com present perfect" }
+          ]
+        },
+        {
+          "sentence": "The interviewer asked me about my previous experience.",
+          "translation": "O entrevistador me perguntou sobre minha experiência anterior.",
+          "vocabulary": [
+            { "word": "interviewer", "translation": "entrevistador", "note": "pessoa que entrevista" },
+            { "word": "previous", "translation": "anterior / prévio", "note": "adjetivo" }
+          ]
+        },
+        {
+          "sentence": "I have never missed a deadline in my career.",
+          "translation": "Eu nunca perdi um prazo na minha carreira.",
+          "vocabulary": [
+            { "word": "have never missed", "translation": "nunca perdi", "note": "present perfect com 'never'" },
+            { "word": "deadline", "translation": "prazo / data limite", "note": "vocabulário de trabalho" }
+          ]
+        },
+        {
+          "sentence": "They offered me the position and I accepted it immediately.",
+          "translation": "Eles me ofereceram a vaga e eu a aceitei imediatamente.",
+          "vocabulary": [
+            { "word": "offered", "translation": "ofereceram", "note": "passado de 'offer'" },
+            { "word": "position", "translation": "vaga / cargo", "note": "vocabulário formal de trabalho" },
+            { "word": "immediately", "translation": "imediatamente", "note": "advérbio" }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "When did the interview happen?",
+          "options": ["Last Friday", "Last Monday", "Last Tuesday", "This week"],
+          "answer": 1,
+          "explanation": "'Last Monday, I had an important job interview.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How long has the person worked in marketing?",
+          "options": ["One year", "Two years", "Three years", "Five years"],
+          "answer": 2,
+          "explanation": "'I have worked in marketing for three years.'"
+        },
+        {
+          "type": "true_false",
+          "question": "The person got the job.",
+          "answer": true,
+          "explanation": "'They offered me the position and I accepted it.'"
+        }
+      ]
+    }
+  ]
+}
