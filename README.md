@@ -6,7 +6,7 @@ Sistema web offline para estudo de idiomas com progressão estruturada, exercíc
 
 | Idioma | Nível | Sub-níveis | Lições |
 |--------|-------|------------|--------|
-| Alemão | A1 | A1.1 · A1.2 · A1.3 | 21 |
+| Alemão | A1 | A1.1 · A1.2 · A1.3 | 22 |
 | Inglês | A2 | A2.1 · A2.2 | 15 |
 
 ## Módulos por Idioma
@@ -19,6 +19,7 @@ Sistema web offline para estudo de idiomas com progressão estruturada, exercíc
 | **Conversação** | Diálogos situacionais com áudio TTS e tradução linha por linha |
 | **Escrita** | Prompts de escrita livre com dicas, contador de palavras e gabarito |
 | **Pronúncia** | Guia fonético com exemplos e links para Forvo/YouTube |
+| **Exercícios** | Ditado, ordem de palavras, lacunas e tradução com feedback imediato |
 | **Progresso** | Dashboard com progresso por sub-nível, estatísticas e revisão espaçada (SM-2) |
 
 ## Tecnologias
@@ -69,6 +70,7 @@ Idiomas/
 │       ├── conversation.js
 │       ├── writing.js
 │       ├── pronunciation.js
+│       ├── exercises.js
 │       └── progress-view.js
 │
 ├── data/
@@ -78,7 +80,8 @@ Idiomas/
 │   │   ├── texts.json
 │   │   ├── conversation.json
 │   │   ├── writing.json
-│   │   └── pronunciation.json
+│   │   ├── pronunciation.json
+│   │   └── exercises.json
 │   └── english/            # Conteúdo Inglês A2
 │       └── (mesma estrutura)
 │
