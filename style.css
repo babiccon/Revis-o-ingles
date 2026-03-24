@@ -648,8 +648,44 @@ body {
 .progress-bar-fill {
   height: 100%;
   border-radius: 999px;
+  background: #ef4444;
+  transition: width 0.6s ease;
+}
+
+.progress-bar-fill--mid {
+  background: #f59e0b;
+}
+
+.progress-bar-fill--high {
   background: linear-gradient(90deg, var(--primary), var(--success));
-  transition: width 0.5s ease;
+}
+
+.progress-overall {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.progress-card--due {
+  border: 2px solid var(--warning, #f59e0b);
+}
+
+.progress-card--due .number {
+  color: var(--warning, #f59e0b);
+}
+
+.progress-section-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--gray-700);
+  margin: 0 0 .75rem;
+}
+
+.progress-sublevel-row,
+.progress-module-row {
+  margin-bottom: .9rem;
 }
 
 /* ===== CONTENT / GRAMMAR DETAIL ===== */
