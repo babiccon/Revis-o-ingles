@@ -222,8 +222,8 @@ const ProgressStore = {
     const lessons = this.loadLessons(lang);
     const bySubLevel = {};
 
-    const modules = ['grammar', 'vocabulary', 'texts', 'conversation', 'writing', 'pronunciation'];
-    const dataKeys = { grammar: 'topics', vocabulary: 'categories', texts: 'texts', conversation: 'dialogues', writing: 'exercises', pronunciation: 'sections' };
+    const modules = ['grammar', 'vocabulary', 'texts', 'conversation', 'writing', 'pronunciation', 'exercises'];
+    const dataKeys = { grammar: 'topics', vocabulary: 'categories', texts: 'texts', conversation: 'dialogues', writing: 'exercises', pronunciation: 'sections', exercises: 'exercises' };
 
     for (const mod of modules) {
       const data = allData[mod];
