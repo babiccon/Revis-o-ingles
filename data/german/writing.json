@@ -17,12 +17,30 @@
         "Números para idades"
       ],
       "vocabulary_hints": [
-        { "pt": "Minha família tem... pessoas.", "de": "Meine Familie hat... Personen." },
-        { "pt": "Meu pai se chama...", "de": "Mein Vater heißt..." },
-        { "pt": "Minha mãe tem... anos.", "de": "Meine Mutter ist... Jahre alt." },
-        { "pt": "Meu irmão é estudante.", "de": "Mein Bruder ist Student." },
-        { "pt": "Ela trabalha como...", "de": "Sie arbeitet als..." },
-        { "pt": "Somos muito unidos.", "de": "Wir sind sehr eng." }
+        {
+          "pt": "Minha família tem... pessoas.",
+          "de": "Meine Familie hat... Personen."
+        },
+        {
+          "pt": "Meu pai se chama...",
+          "de": "Mein Vater heißt..."
+        },
+        {
+          "pt": "Minha mãe tem... anos.",
+          "de": "Meine Mutter ist... Jahre alt."
+        },
+        {
+          "pt": "Meu irmão é estudante.",
+          "de": "Mein Bruder ist Student."
+        },
+        {
+          "pt": "Ela trabalha como...",
+          "de": "Sie arbeitet als..."
+        },
+        {
+          "pt": "Somos muito unidos.",
+          "de": "Wir sind sehr eng."
+        }
       ],
       "example_answer": "Meine Familie ist nicht sehr groß. Ich habe einen Bruder und eine Schwester. Mein Bruder heißt Lucas und er ist 25 Jahre alt. Er ist Ingenieur. Meine Schwester heißt Clara und sie ist 22 Jahre alt. Sie ist Studentin. Meine Mutter ist 55 Jahre alt und sie arbeitet als Lehrerin. Mein Vater ist 57 und er ist Arzt. Wir sind eine glückliche Familie!",
       "example_translation": "Minha família não é muito grande. Tenho um irmão e uma irmã. Meu irmão se chama Lucas e tem 25 anos. Ele é engenheiro. Minha irmã se chama Clara e tem 22 anos. Ela é estudante. Minha mãe tem 55 anos e trabalha como professora. Meu pai tem 57 e é médico. Somos uma família feliz!",
@@ -49,12 +67,30 @@
         "Expressões de tempo: um X Uhr, morgens, abends, dann, danach"
       ],
       "vocabulary_hints": [
-        { "pt": "Levanto-me às...", "de": "Ich stehe um... Uhr auf." },
-        { "pt": "Tomo café da manhã", "de": "Ich frühstücke." },
-        { "pt": "Vou ao trabalho / à escola de...", "de": "Ich fahre mit dem/der... zur Arbeit / zur Schule." },
-        { "pt": "Às... horas como...", "de": "Um... Uhr esse ich..." },
-        { "pt": "À noite eu...", "de": "Abends..." },
-        { "pt": "Vou dormir às...", "de": "Ich gehe um... Uhr ins Bett." }
+        {
+          "pt": "Levanto-me às...",
+          "de": "Ich stehe um... Uhr auf."
+        },
+        {
+          "pt": "Tomo café da manhã",
+          "de": "Ich frühstücke."
+        },
+        {
+          "pt": "Vou ao trabalho / à escola de...",
+          "de": "Ich fahre mit dem/der... zur Arbeit / zur Schule."
+        },
+        {
+          "pt": "Às... horas como...",
+          "de": "Um... Uhr esse ich..."
+        },
+        {
+          "pt": "À noite eu...",
+          "de": "Abends..."
+        },
+        {
+          "pt": "Vou dormir às...",
+          "de": "Ich gehe um... Uhr ins Bett."
+        }
       ],
       "example_answer": "Mein Tagesablauf ist immer gleich. Ich stehe um sieben Uhr auf und dusche schnell. Dann frühstücke ich — ich esse Brot mit Käse und trinke Kaffee. Um acht Uhr fahre ich mit der U-Bahn zur Arbeit. Ich arbeite von neun bis achtzehn Uhr. In der Mittagspause esse ich in der Kantine. Nach der Arbeit kaufe ich manchmal ein. Abends koche ich und sehe fern. Um elf Uhr gehe ich ins Bett.",
       "example_translation": "Minha rotina é sempre a mesma. Levanto às sete horas e tomo banho rápido. Depois tomo café da manhã — como pão com queijo e bebo café. Às oito vou de metrô para o trabalho. Trabalho das nove às dezoito horas. No intervalo do almoço como no refeitório. Depois do trabalho às vezes faço compras. À noite cozinho e assisto TV. Às onze vou dormir.",
@@ -81,12 +117,30 @@
         "Verbos com sein: gehen → gegangen, fahren → gefahren, bleiben → geblieben"
       ],
       "vocabulary_hints": [
-        { "pt": "No sábado eu...", "de": "Am Samstag habe ich... / bin ich..." },
-        { "pt": "Fui ao / à...", "de": "Ich bin in/zum/zur... gegangen / gefahren." },
-        { "pt": "Encontrei meus amigos", "de": "Ich habe meine Freunde getroffen." },
-        { "pt": "Comemos juntos", "de": "Wir haben zusammen gegessen." },
-        { "pt": "No domingo fiquei em casa", "de": "Am Sonntag bin ich zu Hause geblieben." },
-        { "pt": "Foi muito divertido", "de": "Es war sehr schön / toll." }
+        {
+          "pt": "No sábado eu...",
+          "de": "Am Samstag habe ich... / bin ich..."
+        },
+        {
+          "pt": "Fui ao / à...",
+          "de": "Ich bin in/zum/zur... gegangen / gefahren."
+        },
+        {
+          "pt": "Encontrei meus amigos",
+          "de": "Ich habe meine Freunde getroffen."
+        },
+        {
+          "pt": "Comemos juntos",
+          "de": "Wir haben zusammen gegessen."
+        },
+        {
+          "pt": "No domingo fiquei em casa",
+          "de": "Am Sonntag bin ich zu Hause geblieben."
+        },
+        {
+          "pt": "Foi muito divertido",
+          "de": "Es war sehr schön / toll."
+        }
       ],
       "example_answer": "Letztes Wochenende war sehr schön. Am Samstag bin ich mit meiner Freundin in die Stadt gefahren. Wir haben eingekauft und viel Spaß gehabt. Ich habe ein neues Buch gekauft. Am Abend haben wir in einem Restaurant gegessen und Wein getrunken. Das Essen war sehr lecker! Am Sonntag bin ich zu Hause geblieben. Ich habe aufgeräumt und Deutsch gelernt. Dann habe ich einen Film gesehen. Es war ein entspanntes Wochenende.",
       "example_translation": "O último fim de semana foi muito bom. No sábado fui com minha namorada à cidade. Fizemos compras e nos divertimos muito. Comprei um livro novo. À noite jantamos num restaurante e bebemos vinho. A comida estava deliciosa! No domingo fiquei em casa. Arrumei a casa e estudei alemão. Depois assisti um filme. Foi um fim de semana relaxante.",
@@ -96,6 +150,108 @@
         "Descrevi atividades de sábado E domingo?",
         "Incluí pelo menos 3 atividades diferentes?",
         "Escrevi pelo menos 60 palavras?"
+      ]
+    },
+    {
+      "id": 4,
+      "sub_level": "A2.1",
+      "title": "Ein formeller Brief",
+      "title_pt": "Uma Carta Formal",
+      "prompt_pt": "Escreva uma carta formal se candidatando a uma vaga de emprego. Inclua: uma saudação formal, uma apresentação de si mesmo, por que quer o emprego, suas qualificações e uma despedida formal.",
+      "prompt_de": "Schreiben Sie einen formellen Brief, in dem Sie sich um eine Stelle bewerben. Benutzen Sie den Konjunktiv II und formelle Sprache.",
+      "min_words": 60,
+      "grammar_focus": [
+        "Konjunktiv II: würde, könnte, hätte",
+        "Passiv Präsens: wird + Partizip II",
+        "Formelles Register: Sie-Form, höfliche Ausdrücke",
+        "Präpositionen im Kontext: für, über, mit, an"
+      ],
+      "vocabulary_hints": [
+        {
+          "pt": "Prezado(a) Sr./Sra....,",
+          "de": "Sehr geehrter Herr... / Sehr geehrte Frau...,"
+        },
+        {
+          "pt": "Escrevo para candidatar-me à vaga de...",
+          "de": "Ich schreibe Ihnen, um mich auf die Stelle als... zu bewerben."
+        },
+        {
+          "pt": "Tenho... anos de experiência em...",
+          "de": "Ich verfüge über... Jahre Erfahrung in..."
+        },
+        {
+          "pt": "Gostaria de trabalhar na vossa empresa porque...",
+          "de": "Ich würde gerne in Ihrem Unternehmen arbeiten, weil..."
+        },
+        {
+          "pt": "Estou à disposição para uma entrevista.",
+          "de": "Ich stehe gerne für ein Vorstellungsgespräch zur Verfügung."
+        },
+        {
+          "pt": "Atenciosamente,",
+          "de": "Mit freundlichen Grüßen,"
+        }
+      ],
+      "example_answer": "Sehr geehrte Frau Hoffmann,\n\nmit großem Interesse habe ich Ihre Stellenanzeige gelesen. Ich möchte mich um die Stelle als Grafikdesigner bewerben.\n\nIch habe drei Jahre Berufserfahrung im Bereich Design. Während meiner Arbeit wurden viele Projekte erfolgreich abgeschlossen. Ich könnte ab dem ersten März beginnen.\n\nIch würde mich sehr über eine Einladung zum Vorstellungsgespräch freuen. Ich stehe gerne für Rückfragen zur Verfügung.\n\nMit freundlichen Grüßen,\nMarco Silva",
+      "example_translation": "Prezada Sra. Hoffmann,\n\nLi com grande interesse o seu anúncio de emprego. Gostaria de me candidatar à vaga de designer gráfico.\n\nTenho três anos de experiência profissional na área de design. Durante meu trabalho, muitos projetos foram concluídos com sucesso. Eu poderia começar a partir do primeiro de março.\n\nFicaria muito feliz com um convite para uma entrevista. Estou à disposição para esclarecer dúvidas.\n\nAtenciosamente,\nMarco Silva",
+      "checklist": [
+        "Usei saudação formal (Sehr geehrte/r...)?",
+        "Usei o Konjunktiv II pelo menos uma vez (würde, könnte, hätte)?",
+        "Incluí pelo menos uma frase no Passiv (wird + Partizip II)?",
+        "Mantive o registro formal (Sie-Form) ao longo de toda a carta?",
+        "Terminei com despedida formal (Mit freundlichen Grüßen)?",
+        "Escrevi pelo menos 60 palavras?"
+      ]
+    },
+    {
+      "id": 5,
+      "sub_level": "A2.2",
+      "title": "Ein Bild beschreiben",
+      "title_pt": "Descrever uma Imagem",
+      "prompt_pt": "Descreva uma imagem de uma cena urbana. Inclua: onde fica a cena, o que as pessoas estão fazendo, que edifícios ou lugares são visíveis e qual é a atmosfera do lugar.",
+      "prompt_de": "Beschreiben Sie ein Bild einer Stadtszene. Benutzen Sie Adjektive, Relativsätze und Präpositionen.",
+      "min_words": 50,
+      "grammar_focus": [
+        "Adjektivdeklination: nach bestimmtem und unbestimmtem Artikel",
+        "Relativsätze: der/die/das + Verb am Ende",
+        "Präpositionen mit Dativ: in, an, auf, neben, vor, hinter, über, unter",
+        "Präsens Progressiv mit 'gerade': Er steht gerade..."
+      ],
+      "vocabulary_hints": [
+        {
+          "pt": "No primeiro plano vejo...",
+          "de": "Im Vordergrund sehe ich..."
+        },
+        {
+          "pt": "Ao fundo há...",
+          "de": "Im Hintergrund gibt es..."
+        },
+        {
+          "pt": "Na esquerda/direita está...",
+          "de": "Links/Rechts steht..."
+        },
+        {
+          "pt": "Um homem que carrega uma bolsa...",
+          "de": "Ein Mann, der eine Tasche trägt,..."
+        },
+        {
+          "pt": "As pessoas parecem...",
+          "de": "Die Menschen wirken..."
+        },
+        {
+          "pt": "A atmósfera é...",
+          "de": "Die Atmosphäre ist..."
+        }
+      ],
+      "example_answer": "Das Bild zeigt eine belebte Straße in einer deutschen Großstadt. Im Vordergrund sehe ich viele Menschen, die einkaufen gehen. Links steht ein altes Gebäude, das sehr schön renoviert wurde. Rechts gibt es ein modernes Café, in dem viele Gäste sitzen. Ein Mann, der einen roten Mantel trägt, steht vor dem Café und schaut auf sein Handy. Im Hintergrund sind hohe Bäume und ein blauer Himmel. Die Atmosphäre wirkt lebhaft und freundlich.",
+      "example_translation": "A imagem mostra uma rua movimentada em uma grande cidade alemã. No primeiro plano vejo muitas pessoas que vão fazer compras. À esquerda fica um edifício antigo que foi muito bem renovado. À direita há um café moderno, no qual muitos clientes estão sentados. Um homem que usa um casaco vermelho está em frente ao café e olha para o celular. Ao fundo há árvores altas e um céu azul. A atmosfera parece animada e agradável.",
+      "checklist": [
+        "Usei pelo menos dois adjetivos com declinação correta (ex: ein altes Gebäude)?",
+        "Usei pelo menos um Relativsatz (der/die/das + verbo no final)?",
+        "Usei pelo menos três preposições de lugar (in, auf, neben, etc.)?",
+        "Descrevi o primeiro plano E o fundo da imagem?",
+        "Mencionei pelo menos uma ação de uma pessoa?",
+        "Escrevi pelo menos 50 palavras?"
       ]
     }
   ]

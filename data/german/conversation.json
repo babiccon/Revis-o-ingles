@@ -53,16 +53,40 @@
         }
       ],
       "key_phrases": [
-        { "de": "Wie heißt du?", "pt": "Como você se chama?" },
-        { "de": "Ich heiße...", "pt": "Meu nome é..." },
-        { "de": "Woher kommst du?", "pt": "De onde você é?" },
-        { "de": "Ich komme aus...", "pt": "Venho de..." },
-        { "de": "Wie alt bist du?", "pt": "Quantos anos você tem?" },
-        { "de": "Schön, dich kennenzulernen!", "pt": "Prazer em te conhecer!" }
+        {
+          "de": "Wie heißt du?",
+          "pt": "Como você se chama?"
+        },
+        {
+          "de": "Ich heiße...",
+          "pt": "Meu nome é..."
+        },
+        {
+          "de": "Woher kommst du?",
+          "pt": "De onde você é?"
+        },
+        {
+          "de": "Ich komme aus...",
+          "pt": "Venho de..."
+        },
+        {
+          "de": "Wie alt bist du?",
+          "pt": "Quantos anos você tem?"
+        },
+        {
+          "de": "Schön, dich kennenzulernen!",
+          "pt": "Prazer em te conhecer!"
+        }
       ],
       "forvo_links": [
-        { "word": "heiße", "url": "https://forvo.com/word/ich_hei%C3%9Fe/#de" },
-        { "word": "kennenzulernen", "url": "https://forvo.com/word/kennenzulernen/#de" }
+        {
+          "word": "heiße",
+          "url": "https://forvo.com/word/ich_hei%C3%9Fe/#de"
+        },
+        {
+          "word": "kennenzulernen",
+          "url": "https://forvo.com/word/kennenzulernen/#de"
+        }
       ]
     },
     {
@@ -116,15 +140,36 @@
         }
       ],
       "key_phrases": [
-        { "de": "Ich möchte..., bitte.", "pt": "Gostaria de..., por favor." },
-        { "de": "Ich nehme...", "pt": "Vou querer... / Vou pegar..." },
-        { "de": "Hätten Sie gerne...?", "pt": "Gostariam de...?" },
-        { "de": "Die Rechnung, bitte.", "pt": "A conta, por favor." },
-        { "de": "Gerne!", "pt": "Com prazer! / Claro!" }
+        {
+          "de": "Ich möchte..., bitte.",
+          "pt": "Gostaria de..., por favor."
+        },
+        {
+          "de": "Ich nehme...",
+          "pt": "Vou querer... / Vou pegar..."
+        },
+        {
+          "de": "Hätten Sie gerne...?",
+          "pt": "Gostariam de...?"
+        },
+        {
+          "de": "Die Rechnung, bitte.",
+          "pt": "A conta, por favor."
+        },
+        {
+          "de": "Gerne!",
+          "pt": "Com prazer! / Claro!"
+        }
       ],
       "forvo_links": [
-        { "word": "Apfelstrudel", "url": "https://forvo.com/word/apfelstrudel/#de" },
-        { "word": "möchten", "url": "https://forvo.com/word/m%C3%B6chten/#de" }
+        {
+          "word": "Apfelstrudel",
+          "url": "https://forvo.com/word/apfelstrudel/#de"
+        },
+        {
+          "word": "möchten",
+          "url": "https://forvo.com/word/m%C3%B6chten/#de"
+        }
       ]
     },
     {
@@ -185,16 +230,269 @@
         }
       ],
       "key_phrases": [
-        { "de": "Ich fühle mich nicht gut.", "pt": "Não estou me sentindo bem." },
-        { "de": "Ich habe Halsschmerzen.", "pt": "Estou com dor de garganta." },
-        { "de": "Ich habe Kopfschmerzen.", "pt": "Estou com dor de cabeça." },
-        { "de": "Seit wann?", "pt": "Desde quando?" },
-        { "de": "Sie müssen sich ausruhen.", "pt": "O senhor precisa descansar." }
+        {
+          "de": "Ich fühle mich nicht gut.",
+          "pt": "Não estou me sentindo bem."
+        },
+        {
+          "de": "Ich habe Halsschmerzen.",
+          "pt": "Estou com dor de garganta."
+        },
+        {
+          "de": "Ich habe Kopfschmerzen.",
+          "pt": "Estou com dor de cabeça."
+        },
+        {
+          "de": "Seit wann?",
+          "pt": "Desde quando?"
+        },
+        {
+          "de": "Sie müssen sich ausruhen.",
+          "pt": "O senhor precisa descansar."
+        }
       ],
       "forvo_links": [
-        { "word": "Halsschmerzen", "url": "https://forvo.com/word/halsschmerzen/#de" },
-        { "word": "Antibiotikum", "url": "https://forvo.com/word/antibiotikum/#de" }
+        {
+          "word": "Halsschmerzen",
+          "url": "https://forvo.com/word/halsschmerzen/#de"
+        },
+        {
+          "word": "Antibiotikum",
+          "url": "https://forvo.com/word/antibiotikum/#de"
+        }
       ]
+    },
+    {
+      "id": 4,
+      "sub_level": "A2.1",
+      "situation": "Vorstellungsgespräch",
+      "situation_pt": "Entrevista de Emprego",
+      "context": "Marco bewirbt sich um eine Stelle als Grafikdesigner und wird von Frau Schmidt interviewt. / Marco se candidata a uma vaga de designer gráfico e é entrevistado pela Sra. Schmidt.",
+      "lines": [
+        {
+          "speaker": "Frau Schmidt",
+          "de": "Guten Morgen, Herr Marco. Bitte nehmen Sie Platz.",
+          "pt": "Bom dia, Sr. Marco. Por favor, sente-se.",
+          "audio_tts": "Guten Morgen, Herr Marco. Bitte nehmen Sie Platz.",
+          "notes": "'nehmen Sie Platz' — expressão formal para convidar a sentar"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Guten Morgen, Frau Schmidt. Vielen Dank für die Einladung.",
+          "pt": "Bom dia, Sra. Schmidt. Muito obrigado pelo convite.",
+          "audio_tts": "Guten Morgen, Frau Schmidt. Vielen Dank für die Einladung.",
+          "notes": "'Vielen Dank für + Akkusativ' — agradecer por algo formalmente"
+        },
+        {
+          "speaker": "Frau Schmidt",
+          "de": "Können Sie mir kurz etwas über sich erzählen?",
+          "pt": "O senhor pode me contar um pouco sobre si mesmo?",
+          "audio_tts": "Können Sie mir kurz etwas über sich erzählen?",
+          "notes": "'über sich erzählen' — falar sobre si mesmo; 'kurz' = brevemente"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Natürlich. Ich habe an der Universität São Paulo Grafikdesign studiert und drei Jahre Berufserfahrung.",
+          "pt": "Claro. Estudei design gráfico na Universidade de São Paulo e tenho três anos de experiência profissional.",
+          "audio_tts": "Natürlich. Ich habe an der Universität São Paulo Grafikdesign studiert und drei Jahre Berufserfahrung.",
+          "notes": "Perfekt: 'habe...studiert'; 'Berufserfahrung' = experiência profissional"
+        },
+        {
+          "speaker": "Frau Schmidt",
+          "de": "Warum möchten Sie bei uns arbeiten?",
+          "pt": "Por que o senhor gostaria de trabalhar conosco?",
+          "audio_tts": "Warum möchten Sie bei uns arbeiten?",
+          "notes": "'bei uns' = conosco / em nossa empresa; pergunta clássica de entrevista"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Ihre Firma hat einen sehr guten Ruf, und ich schätze kreative Projekte sehr.",
+          "pt": "A vossa empresa tem uma reputação muito boa, e eu valorizo muito projetos criativos.",
+          "audio_tts": "Ihre Firma hat einen sehr guten Ruf, und ich schätze kreative Projekte sehr.",
+          "notes": "'schätzen' = valorizar/apreciar; 'Ruf' = reputação"
+        },
+        {
+          "speaker": "Frau Schmidt",
+          "de": "Welche Software kennen Sie?",
+          "pt": "Quais softwares o senhor conhece?",
+          "audio_tts": "Welche Software kennen Sie?",
+          "notes": "'kennen' = conhecer (algo/alguém); 'welche' = quais (interrogativo plural)"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Ich arbeite sehr gut mit Adobe Photoshop und Illustrator. Ich lerne auch gerade Figma.",
+          "pt": "Trabalho muito bem com Adobe Photoshop e Illustrator. Também estou aprendendo Figma agora.",
+          "audio_tts": "Ich arbeite sehr gut mit Adobe Photoshop und Illustrator. Ich lerne auch gerade Figma.",
+          "notes": "'gerade' = agora / no momento; 'auch' = também"
+        },
+        {
+          "speaker": "Frau Schmidt",
+          "de": "Können Sie gut im Team arbeiten?",
+          "pt": "O senhor consegue trabalhar bem em equipe?",
+          "audio_tts": "Können Sie gut im Team arbeiten?",
+          "notes": "'im Team arbeiten' = trabalhar em equipe; modal 'können' = conseguir/poder"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Ja, ich arbeite gerne mit anderen zusammen. Teamarbeit ist mir sehr wichtig.",
+          "pt": "Sim, gosto de trabalhar com os outros. Trabalho em equipe é muito importante para mim.",
+          "audio_tts": "Ja, ich arbeite gerne mit anderen zusammen. Teamarbeit ist mir sehr wichtig.",
+          "notes": "'gerne' = com prazer/gostar de; 'mir wichtig' = importante para mim (dativo)"
+        },
+        {
+          "speaker": "Frau Schmidt",
+          "de": "Haben Sie noch Fragen an uns?",
+          "pt": "O senhor tem alguma dúvida para nós?",
+          "audio_tts": "Haben Sie noch Fragen an uns?",
+          "notes": "'Fragen an jemanden haben' = ter perguntas para alguém"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Ja, wann würde ich anfangen, wenn ich die Stelle bekomme?",
+          "pt": "Sim, quando eu começaria, se conseguisse a vaga?",
+          "audio_tts": "Ja, wann würde ich anfangen, wenn ich die Stelle bekomme?",
+          "notes": "Konjunktiv II: 'würde...anfangen' = condição hipotética; 'wenn' = se"
+        }
+      ],
+      "key_phrases": [
+        {
+          "de": "Nehmen Sie Platz.",
+          "pt": "Sente-se, por favor.",
+          "usage": "Convite formal para sentar"
+        },
+        {
+          "de": "Können Sie mir etwas über sich erzählen?",
+          "pt": "Pode me contar algo sobre si mesmo?",
+          "usage": "Pergunta clássica de entrevista"
+        },
+        {
+          "de": "Ich habe... Jahre Berufserfahrung.",
+          "pt": "Tenho... anos de experiência profissional.",
+          "usage": "Apresentar experiência de trabalho"
+        },
+        {
+          "de": "Teamarbeit ist mir sehr wichtig.",
+          "pt": "Trabalho em equipe é muito importante para mim.",
+          "usage": "Expressar valores profissionais"
+        }
+      ],
+      "forvo_links": []
+    },
+    {
+      "id": 5,
+      "sub_level": "A2.2",
+      "situation": "Eine Wohnung mieten",
+      "situation_pt": "Alugando um Apartamento",
+      "context": "Laura sucht eine neue Wohnung und besichtigt ein Apartment mit dem Vermieter Herrn Bauer. / Laura procura um novo apartamento e visita um imóvel com o locador Sr. Bauer.",
+      "lines": [
+        {
+          "speaker": "Herr Bauer",
+          "de": "Guten Tag! Sie möchten die Wohnung besichtigen, richtig?",
+          "pt": "Boa tarde! A senhora quer visitar o apartamento, correto?",
+          "audio_tts": "Guten Tag! Sie möchten die Wohnung besichtigen, richtig?",
+          "notes": "'besichtigen' = visitar/inspecionar (imóvel ou monumento); 'richtig?' = correto?"
+        },
+        {
+          "speaker": "Laura",
+          "de": "Ja, genau. Guten Tag, Herr Bauer. Die Wohnung hat drei Zimmer, oder?",
+          "pt": "Sim, exatamente. Boa tarde, Sr. Bauer. O apartamento tem três quartos, não é?",
+          "audio_tts": "Ja, genau. Guten Tag, Herr Bauer. Die Wohnung hat drei Zimmer, oder?",
+          "notes": "'oder?' no final = não é? / né? — tag question em alemão"
+        },
+        {
+          "speaker": "Herr Bauer",
+          "de": "Richtig, drei Zimmer, eine Küche und ein Bad. Hier ist das Wohnzimmer.",
+          "pt": "Correto, três quartos, uma cozinha e um banheiro. Aqui está a sala de estar.",
+          "audio_tts": "Richtig, drei Zimmer, eine Küche und ein Bad. Hier ist das Wohnzimmer.",
+          "notes": "Vocabulário de cômodos: Zimmer, Küche, Bad, Wohnzimmer"
+        },
+        {
+          "speaker": "Laura",
+          "de": "Oh, das ist sehr hell und geräumig! Wie hoch ist die Miete?",
+          "pt": "Oh, é muito claro e espaçoso! Qual é o valor do aluguel?",
+          "audio_tts": "Oh, das ist sehr hell und geräumig! Wie hoch ist die Miete?",
+          "notes": "'Wie hoch ist...?' = Qual é o valor de...? / Quanto custa...?"
+        },
+        {
+          "speaker": "Herr Bauer",
+          "de": "Die Miete beträgt 900 Euro pro Monat, warm.",
+          "pt": "O aluguel é de 900 euros por mês, com despesas incluídas.",
+          "audio_tts": "Die Miete beträgt 900 Euro pro Monat, warm.",
+          "notes": "'warm' = aluguel com aquecimento/despesas incluídas; 'betragen' = totalizar/ser (valor)"
+        },
+        {
+          "speaker": "Laura",
+          "de": "Ist die Heizung im Preis enthalten?",
+          "pt": "O aquecimento está incluído no preço?",
+          "audio_tts": "Ist die Heizung im Preis enthalten?",
+          "notes": "'enthalten sein' = estar incluído; 'im Preis' = no preço (dativo: in + dem)"
+        },
+        {
+          "speaker": "Herr Bauer",
+          "de": "Ja, Heizung und Wasser sind inklusive. Strom müssen Sie selbst bezahlen.",
+          "pt": "Sim, aquecimento e água estão incluídos. A eletricidade você paga por conta própria.",
+          "audio_tts": "Ja, Heizung und Wasser sind inklusive. Strom müssen Sie selbst bezahlen.",
+          "notes": "'selbst' = por conta própria/sozinho; 'müssen + Infinitiv' = precisar fazer algo"
+        },
+        {
+          "speaker": "Laura",
+          "de": "Gibt es einen Parkplatz in der Nähe?",
+          "pt": "Há uma vaga de estacionamento próxima?",
+          "audio_tts": "Gibt es einen Parkplatz in der Nähe?",
+          "notes": "'in der Nähe' = nas proximidades / perto; 'Gibt es...?' = Existe/Há...?"
+        },
+        {
+          "speaker": "Herr Bauer",
+          "de": "Nein, leider nicht. Aber die U-Bahn-Station ist nur fünf Minuten zu Fuß entfernt.",
+          "pt": "Não, infelizmente não. Mas a estação de metrô fica a apenas cinco minutos a pé.",
+          "audio_tts": "Nein, leider nicht. Aber die U-Bahn-Station ist nur fünf Minuten zu Fuß entfernt.",
+          "notes": "'zu Fuß' = a pé; 'entfernt' = distante; 'leider' = infelizmente"
+        },
+        {
+          "speaker": "Laura",
+          "de": "Ab wann wäre die Wohnung frei?",
+          "pt": "A partir de quando o apartamento estaria disponível?",
+          "audio_tts": "Ab wann wäre die Wohnung frei?",
+          "notes": "Konjunktiv II: 'wäre' = estaria; 'ab wann' = a partir de quando; 'frei' = livre/disponível"
+        },
+        {
+          "speaker": "Herr Bauer",
+          "de": "Ab dem ersten April. Würden Sie gerne einen Mietvertrag unterschreiben?",
+          "pt": "A partir do primeiro de abril. A senhora gostaria de assinar um contrato de aluguel?",
+          "audio_tts": "Ab dem ersten April. Würden Sie gerne einen Mietvertrag unterschreiben?",
+          "notes": "'würden + Infinitiv' = Konjunktiv II de vontade; 'unterschreiben' = assinar"
+        },
+        {
+          "speaker": "Laura",
+          "de": "Ja, das klingt gut. Ich würde die Wohnung gerne nehmen.",
+          "pt": "Sim, parece bom. Eu gostaria de ficar com o apartamento.",
+          "audio_tts": "Ja, das klingt gut. Ich würde die Wohnung gerne nehmen.",
+          "notes": "'klingt gut' = soa bem / parece bom; 'würde...nehmen' = Konjunktiv II de decisão"
+        }
+      ],
+      "key_phrases": [
+        {
+          "de": "Wie hoch ist die Miete?",
+          "pt": "Qual é o valor do aluguel?",
+          "usage": "Perguntar sobre preço de imóvel"
+        },
+        {
+          "de": "Ist... im Preis enthalten?",
+          "pt": "... está incluído no preço?",
+          "usage": "Verificar o que está incluso no aluguel"
+        },
+        {
+          "de": "Ab wann wäre die Wohnung frei?",
+          "pt": "A partir de quando o apartamento estaria disponível?",
+          "usage": "Perguntar sobre disponibilidade"
+        },
+        {
+          "de": "Ich würde die Wohnung gerne nehmen.",
+          "pt": "Eu gostaria de ficar com o apartamento.",
+          "usage": "Expressar interesse em alugar"
+        }
+      ],
+      "forvo_links": []
     }
   ]
 }

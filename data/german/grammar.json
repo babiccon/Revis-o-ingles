@@ -2709,6 +2709,1406 @@
           "explanation": "'sich fühlen' para 'ich': o verbo conjuga como 'fühle' e o pronome reflexivo é 'mich'"
         }
       ]
+    },
+    {
+      "id": 30,
+      "sub_level": "A2.1",
+      "title": "Konjunktiv II — höfliche Bitten (könnte, würde, hätte, wäre)",
+      "title_pt": "Konjunktiv II — Pedidos Educados (könnte, würde, hätte, wäre)",
+      "explanation": "O Konjunktiv II é usado para fazer pedidos educados, expressar desejos e situações hipotéticas. As formas mais comuns em A2 são 'könnte' (poderia), 'würde' (faria/iria), 'hätte' (teria) e 'wäre' (seria/estaria). Essas formas tornam a fala muito mais educada e natural.",
+      "rules": [
+        "könnte = Konjunktiv II de 'können': Könnten Sie mir helfen? (Poderia me ajudar?)",
+        "würde + Infinitiv = forma polida para ações: Ich würde gerne... (Eu gostaria de...)",
+        "hätte = Konjunktiv II de 'haben': Ich hätte gerne einen Kaffee. (Eu gostaria de um café.)",
+        "wäre = Konjunktiv II de 'sein': Das wäre toll! (Isso seria ótimo!)",
+        "Conjugação 'würde': ich würde, du würdest, er/sie würde, wir würden, ihr würdet, sie würden",
+        "Usado para suavizar pedidos: 'Könnten Sie...?' é mais educado que 'Können Sie...?'"
+      ],
+      "tips": [
+        "Memorize as 4 formas chave: könnte, würde, hätte, wäre — elas cobrem 90% dos usos em A2",
+        "Use 'würde + Infinitiv' quando não souber a forma Konjunktiv II do verbo"
+      ],
+      "examples": [
+        {
+          "de": "Könnten Sie mir bitte helfen?",
+          "pt": "Poderia me ajudar, por favor?",
+          "note": "pedido educado com könnte"
+        },
+        {
+          "de": "Ich würde gerne ein Zimmer reservieren.",
+          "pt": "Eu gostaria de reservar um quarto.",
+          "note": "würde + Infinitiv"
+        },
+        {
+          "de": "Ich hätte gerne einen Tee.",
+          "pt": "Eu gostaria de um chá.",
+          "note": "hätte em restaurante/café"
+        },
+        {
+          "de": "Das wäre sehr nett.",
+          "pt": "Isso seria muito gentil.",
+          "note": "wäre para situações hipotéticas"
+        },
+        {
+          "de": "Würden Sie bitte leiser sprechen?",
+          "pt": "Você falaria mais baixo, por favor?",
+          "note": "würde para pedido formal"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Kann Sie mir helfen?",
+          "correct": "Könnten Sie mir helfen?",
+          "explanation": "'Kann' + Sie não é correto; o pedido educado usa Konjunktiv II 'könnten'"
+        },
+        {
+          "wrong": "Ich würde haben einen Kaffee.",
+          "correct": "Ich hätte gerne einen Kaffee.",
+          "explanation": "'Hätte' já é a forma Konjunktiv II de haben; não use 'würde haben'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Könnten Sie mir helfen?",
+          "back": "Poderia me ajudar? (pedido educado)"
+        },
+        {
+          "front": "Ich würde gerne...",
+          "back": "Eu gostaria de... (desejo educado)"
+        },
+        {
+          "front": "Ich hätte gerne einen Kaffee.",
+          "back": "Eu gostaria de um café."
+        },
+        {
+          "front": "Das wäre toll!",
+          "back": "Isso seria ótimo!"
+        },
+        {
+          "front": "Würden Sie bitte...?",
+          "back": "Você faria...? / Poderia...? (formal)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma mais educada de pedir ajuda?",
+          "options": [
+            "Kann Sie mir helfen?",
+            "Können Sie mir helfen?",
+            "Könnten Sie mir helfen?",
+            "Konnten Sie mir helfen?"
+          ],
+          "answer": 2,
+          "explanation": "Konjunktiv II 'könnten' é a forma mais educada para pedidos"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Ich ___ gerne ein Zimmer reservieren.' (würde/hätte)",
+          "answer": "würde",
+          "explanation": "'Würde + Infinitiv' para ações; hätte seria para substantivos"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "sub_level": "A2.1",
+      "title": "Passiv Präsens (Das Buch wird gelesen)",
+      "title_pt": "Passivo Presente (O livro é lido)",
+      "explanation": "O Passivo Presente (Vorgangspassiv) descreve uma ação sem focar em quem a realiza. É formado com 'werden' conjugado + Partizip II do verbo principal. Em alemão, o passivo é muito mais comum do que em português.",
+      "rules": [
+        "Formação: werden (conjugado) + Partizip II → Das Buch wird gelesen",
+        "Conjugação de 'werden': ich werde, du wirst, er/sie/es wird, wir werden, ihr werdet, sie werden",
+        "O sujeito da frase passiva é o objeto da frase ativa: 'Man liest das Buch' → 'Das Buch wird gelesen'",
+        "Para indicar o agente, usa-se 'von + Dativ': Das Buch wird von Maria gelesen",
+        "O Partizip II fica sempre no final da frase",
+        "Verbos sem objeto (intransitivos) também podem formar passivo impessoal: Es wird getanzt"
+      ],
+      "tips": [
+        "Diferencie: 'wird' = passivo (algo acontece); 'wird + Infinitiv' = Futur I (algo vai acontecer)",
+        "Procure o Partizip II (ge-...-t ou ge-...-en) no final da frase para identificar o passivo"
+      ],
+      "examples": [
+        {
+          "de": "Das Buch wird gelesen.",
+          "pt": "O livro está sendo lido / é lido.",
+          "note": "passivo básico"
+        },
+        {
+          "de": "Die Tür wird geöffnet.",
+          "pt": "A porta está sendo aberta.",
+          "note": "Partizip II: geöffnet"
+        },
+        {
+          "de": "Das Auto wird von meinem Vater repariert.",
+          "pt": "O carro está sendo consertado pelo meu pai.",
+          "note": "agente com 'von'"
+        },
+        {
+          "de": "Hier wird Deutsch gesprochen.",
+          "pt": "Aqui se fala alemão.",
+          "note": "passivo impessoal"
+        },
+        {
+          "de": "Die Pizza wird gebacken.",
+          "pt": "A pizza está sendo assada.",
+          "note": "Partizip II irregular: gebacken"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Das Buch wird lesen.",
+          "correct": "Das Buch wird gelesen.",
+          "explanation": "O passivo exige Partizip II (gelesen), não o Infinitivo (lesen)"
+        },
+        {
+          "wrong": "Das Auto wird von meinen Vater repariert.",
+          "correct": "Das Auto wird von meinem Vater repariert.",
+          "explanation": "'Von' rege Dativ: 'meinem Vater' (Dativ masculino), não 'meinen Vater'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Formação do Passivo Presente",
+          "back": "werden (conjugado) + Partizip II"
+        },
+        {
+          "front": "Das Buch wird gelesen.",
+          "back": "O livro é lido / está sendo lido."
+        },
+        {
+          "front": "Como indicar o agente no passivo?",
+          "back": "von + Dativ: 'von Maria', 'von meinem Vater'"
+        },
+        {
+          "front": "er/sie/es wird",
+          "back": "ele/ela é/está (forma de werden no presente)"
+        },
+        {
+          "front": "Hier wird Deutsch gesprochen.",
+          "back": "Aqui se fala alemão. (passivo impessoal)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Como se forma o Passivo Presente em alemão?",
+          "options": [
+            "sein + Partizip II",
+            "werden + Partizip II",
+            "werden + Infinitiv",
+            "haben + Partizip II"
+          ],
+          "answer": 1,
+          "explanation": "O Vorgangspassiv usa werden + Partizip II"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Die Tür ___ geöffnet.' (presente passivo de öffnen)",
+          "answer": "wird",
+          "explanation": "3ª pessoa singular de 'werden' é 'wird'"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "sub_level": "A2.1",
+      "title": "Relativsätze im Nominativ und Akkusativ (Der Mann, der/den...)",
+      "title_pt": "Orações Relativas no Nominativo e Acusativo",
+      "explanation": "As orações relativas descrevem ou identificam um substantivo. Em alemão, o pronome relativo concorda em gênero e número com o substantivo que substitui, mas o caso depende da função dentro da oração relativa. A oração relativa é separada por vírgula e o verbo vai para o final.",
+      "rules": [
+        "Nominativo (sujeito da relativa): der (masc.), die (fem./pl.), das (neutro)",
+        "Acusativo (objeto direto da relativa): den (masc.), die (fem./pl.), das (neutro)",
+        "O pronome relativo concorda em gênero/número com o antecedente, mas o caso vem da função na relativa",
+        "O verbo da oração relativa vai sempre para o FINAL",
+        "Sempre use vírgula antes da oração relativa",
+        "Masculino: der Mann, der... (nom.) / den Mann, den... (acus.)"
+      ],
+      "tips": [
+        "Dica rápida: se o pronome relativo é o sujeito da relativa → Nominativo; se é o objeto → Acusativo",
+        "Os pronomes relativos no Nominativo/Acusativo são iguais aos artigos definidos, exceto no Dativo/Genitivo"
+      ],
+      "examples": [
+        {
+          "de": "Der Mann, der dort steht, ist mein Lehrer.",
+          "pt": "O homem que está ali é meu professor.",
+          "note": "der Mann → Nominativo (sujeito da relativa)"
+        },
+        {
+          "de": "Der Mann, den ich kenne, heißt Klaus.",
+          "pt": "O homem que eu conheço se chama Klaus.",
+          "note": "den Mann → Acusativo (objeto de 'kennen')"
+        },
+        {
+          "de": "Die Frau, die singt, ist meine Schwester.",
+          "pt": "A mulher que está cantando é minha irmã.",
+          "note": "die Frau → Nominativo"
+        },
+        {
+          "de": "Das Buch, das ich lese, ist interessant.",
+          "pt": "O livro que estou lendo é interessante.",
+          "note": "das Buch → Acusativo (objeto de 'lesen')"
+        },
+        {
+          "de": "Die Kinder, die spielen, sind laut.",
+          "pt": "As crianças que estão brincando são barulhentas.",
+          "note": "plural → die"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Der Mann, den dort steht, ist nett.",
+          "correct": "Der Mann, der dort steht, ist nett.",
+          "explanation": "'Stehen' não tem objeto; o homem É o sujeito da relativa → Nominativo 'der'"
+        },
+        {
+          "wrong": "Das Buch, das ich lese ist interessant.",
+          "correct": "Das Buch, das ich lese, ist interessant.",
+          "explanation": "A oração relativa deve ser separada por vírgula de ambos os lados"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Pronomes relativos Nominativo",
+          "back": "der (m.), die (f./pl.), das (n.)"
+        },
+        {
+          "front": "Pronomes relativos Acusativo",
+          "back": "den (m.), die (f./pl.), das (n.)"
+        },
+        {
+          "front": "Der Mann, der... vs. den...",
+          "back": "der = sujeito da relativa; den = objeto da relativa"
+        },
+        {
+          "front": "Onde vai o verbo na oração relativa?",
+          "back": "Sempre no FINAL da oração relativa"
+        },
+        {
+          "front": "Das Buch, das ich lese...",
+          "back": "O livro que eu leio... (das = Acusativo neutro)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Die Frau, ___ ich kenne, ist nett.' (Acusativo feminino)",
+          "options": [
+            "der",
+            "die",
+            "das",
+            "den"
+          ],
+          "answer": 1,
+          "explanation": "Feminino Acusativo = 'die' (igual ao Nominativo no feminino)"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Der Mann, ___ dort arbeitet, ist müde.' (Nominativo masculino)",
+          "answer": "der",
+          "explanation": "'Arbeiten' não tem objeto; o homem é sujeito da relativa → Nominativo → 'der'"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "sub_level": "A2.1",
+      "title": "Wechselpräpositionen — Vertiefung (an, auf, in, über, unter, vor, hinter, neben, zwischen)",
+      "title_pt": "Preposições de Dois Casos — Aprofundamento",
+      "explanation": "As 9 Wechselpräpositionen (an, auf, in, über, unter, vor, hinter, neben, zwischen) regem Dativo quando indicam localização (resposta a 'Wo?') e Acusativo quando indicam movimento em direção a um lugar (resposta a 'Wohin?'). A pergunta-chave é: há movimento com destino (Wohin?) ou posição estática (Wo?)?",
+      "rules": [
+        "Wo? (onde?) → Dativ: Das Buch liegt auf dem Tisch.",
+        "Wohin? (para onde?) → Akkusativ: Ich lege das Buch auf den Tisch.",
+        "Contrações comuns: an + dem = am, an + das = ans, in + dem = im, in + das = ins",
+        "Verbos de posição (stehen, liegen, hängen, sitzen) → geralmente Dativ (Wo?)",
+        "Verbos de movimento com destino (stellen, legen, hängen, setzen) → geralmente Akkusativ (Wohin?)",
+        "Über, unter, vor, hinter, neben, zwischen seguem a mesma regra Wo/Wohin"
+      ],
+      "tips": [
+        "Truque: 'Wo?' = Dativ (D-onde = D-ativ); 'Wohin?' = Akkusativ (movimento/ação)",
+        "Pares de verbos: liegen/legen, stehen/stellen, hängen(intr.)/hängen(tr.), sitzen/setzen"
+      ],
+      "examples": [
+        {
+          "de": "Das Buch liegt auf dem Tisch.",
+          "pt": "O livro está em cima da mesa.",
+          "note": "Wo? → Dativ: dem Tisch"
+        },
+        {
+          "de": "Ich lege das Buch auf den Tisch.",
+          "pt": "Eu ponho o livro em cima da mesa.",
+          "note": "Wohin? → Akkusativ: den Tisch"
+        },
+        {
+          "de": "Die Katze sitzt unter dem Stuhl.",
+          "pt": "O gato está sentado debaixo da cadeira.",
+          "note": "Wo? → Dativ"
+        },
+        {
+          "de": "Er hängt das Bild an die Wand.",
+          "pt": "Ele pendura o quadro na parede.",
+          "note": "Wohin? → Akkusativ: die Wand"
+        },
+        {
+          "de": "Wir treffen uns vor dem Kino.",
+          "pt": "Nos encontramos em frente ao cinema.",
+          "note": "Wo? → Dativ: dem Kino"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Das Buch liegt auf den Tisch.",
+          "correct": "Das Buch liegt auf dem Tisch.",
+          "explanation": "'Liegen' indica posição estática (Wo?) → Dativ: 'dem Tisch'"
+        },
+        {
+          "wrong": "Ich gehe in dem Park.",
+          "correct": "Ich gehe in den Park.",
+          "explanation": "'Gehen in' indica movimento com destino (Wohin?) → Akkusativ: 'den Park'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Wo? + Wechselpräposition",
+          "back": "→ Dativ (posição estática)"
+        },
+        {
+          "front": "Wohin? + Wechselpräposition",
+          "back": "→ Akkusativ (movimento com destino)"
+        },
+        {
+          "front": "in + dem / in + das",
+          "back": "im (contração) / ins (contração)"
+        },
+        {
+          "front": "liegen vs. legen",
+          "back": "liegen = estar deitado (Wo/Dativ); legen = deitar/pôr (Wohin/Akkusativ)"
+        },
+        {
+          "front": "Das Buch liegt auf ___ Tisch.",
+          "back": "dem Tisch (Dativ masculino)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Ich stelle die Vase auf ___ Tisch.' (Wohin? — masculino)",
+          "options": [
+            "dem",
+            "den",
+            "der",
+            "das"
+          ],
+          "answer": 1,
+          "explanation": "Wohin? → Akkusativ; masculino Akkusativ = 'den'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Die Lampe hängt über ___ Tisch.' (Wo? — masculino Dativ)",
+          "answer": "dem",
+          "explanation": "Wo? → Dativ; masculino Dativ = 'dem'"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "sub_level": "A2.1",
+      "title": "Futur I (werden + Infinitiv)",
+      "title_pt": "Futuro I (werden + Infinitivo)",
+      "explanation": "O Futur I é formado com 'werden' conjugado + Infinitivo no final da frase. É usado para expressar previsões, promessas e intenções futuras. Em conversas cotidianas, os alemães frequentemente usam o Präsens com indicador de tempo para falar do futuro.",
+      "rules": [
+        "Formação: werden (conjugado) + Infinitivo no final: Ich werde morgen kommen.",
+        "Conjugação: ich werde, du wirst, er/sie/es wird, wir werden, ihr werdet, sie/Sie werden",
+        "O Infinitivo vai sempre para o FINAL da oração",
+        "Usado para previsões: Es wird morgen regnen. (Vai chover amanhã.)",
+        "Usado para promessas: Ich werde dich anrufen. (Eu vou te ligar.)",
+        "Alternativa coloquial: Präsens + advérbio de tempo: Ich komme morgen. (= Ich werde morgen kommen.)"
+      ],
+      "tips": [
+        "Cuidado: 'wird' pode ser Futur I (wird + Infinitiv) ou Passivo Presente (wird + Partizip II)",
+        "Em linguagem falada, prefira o Präsens com advérbio de tempo — soa mais natural"
+      ],
+      "examples": [
+        {
+          "de": "Ich werde morgen lernen.",
+          "pt": "Eu vou estudar amanhã.",
+          "note": "intenção futura"
+        },
+        {
+          "de": "Es wird kalt werden.",
+          "pt": "Vai ficar frio.",
+          "note": "previsão meteorológica"
+        },
+        {
+          "de": "Sie werden gewinnen!",
+          "pt": "Eles vão ganhar!",
+          "note": "previsão/certeza"
+        },
+        {
+          "de": "Wir werden das Problem lösen.",
+          "pt": "Nós vamos resolver o problema.",
+          "note": "promessa"
+        },
+        {
+          "de": "Du wirst es schaffen!",
+          "pt": "Você vai conseguir!",
+          "note": "encorajamento"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich werde morgen lernen werden.",
+          "correct": "Ich werde morgen lernen.",
+          "explanation": "O Infinitivo no Futur I vai para o final uma única vez; não repita 'werden'"
+        },
+        {
+          "wrong": "Er wird schlafen jetzt.",
+          "correct": "Er wird jetzt schlafen.",
+          "explanation": "O Infinitivo vai para o FINAL da oração; advérbios ficam antes do Infinitivo"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Formação do Futur I",
+          "back": "werden (conjugado) + Infinitivo no final"
+        },
+        {
+          "front": "ich werde / du wirst / er wird",
+          "back": "Conjugação de werden no presente"
+        },
+        {
+          "front": "Ich werde morgen lernen.",
+          "back": "Eu vou estudar amanhã."
+        },
+        {
+          "front": "Es wird regnen.",
+          "back": "Vai chover. (previsão)"
+        },
+        {
+          "front": "Futur I vs. Passivo: 'wird'",
+          "back": "Futur I: wird + Infinitivo; Passivo: wird + Partizip II"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a posição do Infinitivo no Futur I?",
+          "options": [
+            "Após o sujeito",
+            "Logo após 'werden'",
+            "No final da oração",
+            "Antes de 'werden'"
+          ],
+          "answer": 2,
+          "explanation": "O Infinitivo vai sempre ao final da oração no Futur I"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Sie ___ das Buch lesen.' (ela, Futur I)",
+          "answer": "wird",
+          "explanation": "3ª pessoa singular de 'werden' é 'wird'"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "sub_level": "A2.1",
+      "title": "Adjektivdeklination nach bestimmtem Artikel (der große Mann)",
+      "title_pt": "Declinação do Adjetivo após Artigo Definido",
+      "explanation": "Quando um adjetivo vem entre o artigo definido (der/die/das) e o substantivo, ele precisa ser declinado. Essa declinação é chamada de 'schwache Deklination' (fraca) porque o artigo já carrega a informação de gênero e caso. A maioria das formas termina em -en.",
+      "rules": [
+        "Nominativo: der große Mann, die große Frau, das große Kind, die großen Kinder",
+        "Akkusativ: den großen Mann, die große Frau, das große Kind, die großen Kinder",
+        "Dativ: dem großen Mann, der großen Frau, dem großen Kind, den großen Kindern",
+        "Genitiv: des großen Mannes, der großen Frau, des großen Kindes, der großen Kinder",
+        "Regra prática: Nominativo Mask. → -e; Nom./Akk. Fem. e Neutro → -e; TODOS os outros → -en",
+        "Inclui: dieser, jener, jeder, welcher (artigos e pronomes demonstrativos seguem o mesmo padrão)"
+      ],
+      "tips": [
+        "Regra simplificada: apenas 5 formas terminam em -e (Nom. m/f/n singular e Akk. f/n singular); todo o resto é -en",
+        "Memorize a tabela aos poucos: comece pelo Nominativo e Acusativo dos 3 gêneros"
+      ],
+      "examples": [
+        {
+          "de": "Der alte Mann schläft.",
+          "pt": "O homem velho está dormindo.",
+          "note": "Nominativo masculino → -e"
+        },
+        {
+          "de": "Ich sehe den alten Mann.",
+          "pt": "Eu vejo o homem velho.",
+          "note": "Akkusativ masculino → -en"
+        },
+        {
+          "de": "Die kleine Katze schläft.",
+          "pt": "O gatinho pequeno está dormindo.",
+          "note": "Nominativo feminino → -e"
+        },
+        {
+          "de": "Das neue Auto ist teuer.",
+          "pt": "O carro novo é caro.",
+          "note": "Nominativo neutro → -e"
+        },
+        {
+          "de": "Er hilft dem alten Mann.",
+          "pt": "Ele ajuda o homem velho.",
+          "note": "Dativ masculino → -en"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich sehe den alten-en Mann.",
+          "correct": "Ich sehe den alten Mann.",
+          "explanation": "Não se adiciona dupla terminação; Akkusativ masculino após artigo definido: -en"
+        },
+        {
+          "wrong": "Das neue-s Auto ist schön.",
+          "correct": "Das neue Auto ist schön.",
+          "explanation": "Após artigo definido, o adjetivo usa a terminação fraca -e, não -s"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "der ___ Mann (Nominativo)",
+          "back": "der alte Mann → terminação -e"
+        },
+        {
+          "front": "den ___ Mann (Akkusativ)",
+          "back": "den alten Mann → terminação -en"
+        },
+        {
+          "front": "die ___ Frau (Nom./Akk.)",
+          "back": "die alte Frau → terminação -e"
+        },
+        {
+          "front": "das ___ Kind (Nom./Akk.)",
+          "back": "das alte Kind → terminação -e"
+        },
+        {
+          "front": "Regra geral da declinação fraca",
+          "back": "-e em 5 formas (Nom. m/f/n + Akk. f/n); -en em todo o resto"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Ich mag den ___ Wein.' (alt — Akkusativ masculino)",
+          "options": [
+            "alte",
+            "alten",
+            "altem",
+            "alter"
+          ],
+          "answer": 1,
+          "explanation": "Akkusativ masculino após artigo definido → -en: 'den alten Wein'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Die ___ Frau lächelt.' (jung — Nominativo feminino, declinação fraca)",
+          "answer": "junge",
+          "explanation": "Nominativo feminino após artigo definido → -e: 'die junge Frau'"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "sub_level": "A2.1",
+      "title": "Indirekte Rede — Einführung (Er sagte, dass...)",
+      "title_pt": "Discurso Indireto — Introdução (Ele disse que...)",
+      "explanation": "O discurso indireto em alemão é introduzido por verbos como 'sagen', 'erzählen', 'berichten' seguidos de 'dass' + oração subordinada. Na oração com 'dass', o verbo vai para o final. Em nível A2, usa-se principalmente o Indikativ (sem Konjunktiv I).",
+      "rules": [
+        "Estrutura básica: Er sagte, dass er müde ist. (Ele disse que estava cansado.)",
+        "'Dass' é uma conjunção subordinante → verbo vai para o FINAL",
+        "Verbos introdutórios: sagen, erzählen, berichten, meinen, glauben, denken",
+        "Alternativa sem 'dass': Er sagte, er ist müde. (ordem normal, sem conjunção)",
+        "Pronomes pessoais mudam de acordo com o ponto de vista: 'Ich bin...' → 'Er sagte, dass er... ist'",
+        "Em A2, pode-se usar Indikativ em vez de Konjunktiv I"
+      ],
+      "tips": [
+        "Lembre-se: 'dass' sempre envia o verbo para o final da frase",
+        "Para simplificar, omita 'dass' e use a ordem normal: 'Er sagte, er kommt morgen.'"
+      ],
+      "examples": [
+        {
+          "de": "Er sagte, dass er müde ist.",
+          "pt": "Ele disse que estava cansado.",
+          "note": "dass + verbo no final"
+        },
+        {
+          "de": "Sie erzählte, dass sie in Berlin wohnt.",
+          "pt": "Ela contou que mora em Berlim.",
+          "note": "discurso indireto com erzählen"
+        },
+        {
+          "de": "Er sagte, er hat keine Zeit.",
+          "pt": "Ele disse que não tem tempo.",
+          "note": "sem 'dass' — ordem normal"
+        },
+        {
+          "de": "Ich glaube, dass das stimmt.",
+          "pt": "Eu acredito que isso está certo.",
+          "note": "glauben + dass"
+        },
+        {
+          "de": "Sie meinte, dass das Wetter schön wird.",
+          "pt": "Ela achou que o tempo vai ficar bom.",
+          "note": "meinen + dass"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Er sagte, dass er ist müde.",
+          "correct": "Er sagte, dass er müde ist.",
+          "explanation": "Após 'dass', o verbo vai para o FINAL da oração subordinada"
+        },
+        {
+          "wrong": "Sie sagte, dass ich bin krank.",
+          "correct": "Sie sagte, dass sie krank ist.",
+          "explanation": "O pronome muda para a 3ª pessoa e o verbo vai ao final"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Estrutura do discurso indireto com 'dass'",
+          "back": "Verbo introdutório + dass + sujeito + ... + verbo no FINAL"
+        },
+        {
+          "front": "Er sagte, dass er müde ist.",
+          "back": "Ele disse que estava cansado."
+        },
+        {
+          "front": "Verbos introdutórios do discurso indireto",
+          "back": "sagen, erzählen, berichten, meinen, glauben, denken"
+        },
+        {
+          "front": "Posição do verbo após 'dass'",
+          "back": "Sempre no FINAL da oração"
+        },
+        {
+          "front": "Alternativa sem 'dass'",
+          "back": "Er sagte, er ist müde. (ordem normal S-V)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Sie sagte, dass sie morgen ___ .' (kommen)",
+          "options": [
+            "kommt morgen",
+            "morgen kommt",
+            "kommt",
+            "kommen"
+          ],
+          "answer": 2,
+          "explanation": "Após 'dass', o verbo vai para o final; 3ª p. singular de kommen = kommt"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Er glaubt, ___ das richtig ist.'",
+          "answer": "dass",
+          "explanation": "A conjunção subordinante 'dass' introduz o discurso indireto e envia o verbo ao final"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "sub_level": "A2.2",
+      "title": "Adjektivdeklination nach unbestimmtem Artikel (ein großer Mann)",
+      "title_pt": "Declinação do Adjetivo após Artigo Indefinido",
+      "explanation": "Após o artigo indefinido (ein/eine/ein, kein/keine, possessivos mein/dein...), o adjetivo usa a 'gemischte Deklination' (mista). O adjetivo precisa mostrar a informação de gênero/caso quando o artigo não a mostra claramente, principalmente no Nominativo masculino e neutro e no Acusativo neutro.",
+      "rules": [
+        "Nominativo: ein großer Mann, eine große Frau, ein großes Kind",
+        "Akkusativ: einen großen Mann, eine große Frau, ein großes Kind",
+        "Dativ: einem großen Mann, einer großen Frau, einem großen Kind",
+        "Com kein/mein/dein etc.: kein großer Mann, meine alte Mutter",
+        "Regra-chave: quando o artigo não mostra gênero/caso claramente → adjetivo assume a terminação forte",
+        "Comparação: 'der alte Mann' (-e) vs. 'ein alter Mann' (-er) — no Nominativo masculino"
+      ],
+      "tips": [
+        "Onde o artigo 'falha' em mostrar gênero/caso, o adjetivo 'assume o trabalho': ein + adj. → adjetivo recebe a terminação forte",
+        "Nominativo masculino (-er) e neutro (-es) são os únicos casos onde o indefinido difere do definido"
+      ],
+      "examples": [
+        {
+          "de": "Ein alter Mann sitzt im Park.",
+          "pt": "Um homem velho está sentado no parque.",
+          "note": "Nominativo masculino → -er"
+        },
+        {
+          "de": "Ich sehe einen alten Mann.",
+          "pt": "Eu vejo um homem velho.",
+          "note": "Akkusativ masculino → -en"
+        },
+        {
+          "de": "Eine kleine Katze läuft vorbei.",
+          "pt": "Um gatinho pequeno passa correndo.",
+          "note": "Nominativo feminino → -e"
+        },
+        {
+          "de": "Er kauft ein neues Auto.",
+          "pt": "Ele compra um carro novo.",
+          "note": "Akkusativ neutro → -es"
+        },
+        {
+          "de": "Sie hilft einem alten Mann.",
+          "pt": "Ela ajuda um homem velho.",
+          "note": "Dativ masculino → -en"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ein alte Mann ist nett.",
+          "correct": "Ein alter Mann ist nett.",
+          "explanation": "Nominativo masculino após artigo indefinido: o adjetivo assume a terminação forte -er"
+        },
+        {
+          "wrong": "Er hat ein neues-es Auto.",
+          "correct": "Er hat ein neues Auto.",
+          "explanation": "Não se adiciona dupla terminação; Akkusativ neutro após 'ein': adjetivo recebe -es"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "ein ___ Mann (Nominativo)",
+          "back": "ein alter Mann → terminação -er (forte)"
+        },
+        {
+          "front": "einen ___ Mann (Akkusativ)",
+          "back": "einen alten Mann → terminação -en"
+        },
+        {
+          "front": "ein ___ Kind (Nom./Akk.)",
+          "back": "ein altes Kind → terminação -es (forte)"
+        },
+        {
+          "front": "eine ___ Frau (Nom./Akk.)",
+          "back": "eine alte Frau → terminação -e"
+        },
+        {
+          "front": "Diferença: der alte vs. ein alter",
+          "back": "Após artigo definido: -e; após indefinido Nom.m: -er"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Er wohnt in einem ___ Haus.' (alt — Dativo neutro)",
+          "options": [
+            "alte",
+            "alten",
+            "altes",
+            "alter"
+          ],
+          "answer": 1,
+          "explanation": "Dativo neutro após artigo indefinido → -en: 'einem alten Haus'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Ein ___ Kind spielt draußen.' (klein — Nominativo neutro)",
+          "answer": "kleines",
+          "explanation": "Nominativo neutro após artigo indefinido: adjetivo assume terminação forte -es"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "sub_level": "A2.2",
+      "title": "Genitiv — Einführung (das Haus meines Vaters)",
+      "title_pt": "Genitivo — Introdução (a casa do meu pai)",
+      "explanation": "O caso Genitivo indica posse ou pertencimento em alemão. É equivalente ao 'de' em português. Substantivos masculinos e neutros recebem a terminação -s ou -es no Genitivo. Em linguagem coloquial, é comum substituir o Genitivo por 'von + Dativ'.",
+      "rules": [
+        "Artigo definido no Genitivo: des (masc./neutro), der (fem./plural)",
+        "Artigo indefinido no Genitivo: eines (masc./neutro), einer (fem.)",
+        "Substantivos masculinos/neutros + -(e)s: das Haus des Vaters, das Buch des Kindes",
+        "Substantivos femininos/plural: sem terminação adicional: das Haus der Mutter, das Haus der Eltern",
+        "Coloquialmente substituído por 'von + Dativ': das Haus von meinem Vater",
+        "Genitivo segue o substantivo que ele modifica: das Auto meines Bruders (o carro do meu irmão)"
+      ],
+      "tips": [
+        "Em alemão falado, 'von + Dativ' é muito mais comum que o Genitivo; aprenda ambos",
+        "Memorize: des/eines para masculino e neutro, der/einer para feminino"
+      ],
+      "examples": [
+        {
+          "de": "Das ist das Haus meines Vaters.",
+          "pt": "Esta é a casa do meu pai.",
+          "note": "Genitivo masculino: meines Vaters"
+        },
+        {
+          "de": "Der Name des Lehrers ist Klein.",
+          "pt": "O nome do professor é Klein.",
+          "note": "Genitivo masculino: des Lehrers"
+        },
+        {
+          "de": "Das Zimmer meiner Schwester ist groß.",
+          "pt": "O quarto da minha irmã é grande.",
+          "note": "Genitivo feminino: meiner Schwester"
+        },
+        {
+          "de": "Die Farbe des Autos ist rot.",
+          "pt": "A cor do carro é vermelha.",
+          "note": "Genitivo neutro: des Autos"
+        },
+        {
+          "de": "Das ist das Spielzeug des Kindes.",
+          "pt": "Este é o brinquedo da criança.",
+          "note": "Genitivo neutro: des Kindes"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Das Haus von mein Vater ist groß.",
+          "correct": "Das Haus von meinem Vater ist groß.",
+          "explanation": "'Von' rege Dativ: 'meinem Vater' (Dativ masculino), não 'mein Vater'"
+        },
+        {
+          "wrong": "Der Name des Lehrer ist Klein.",
+          "correct": "Der Name des Lehrers ist Klein.",
+          "explanation": "Substantivos masculinos recebem -s no Genitivo: 'des Lehrers'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Artigos no Genitivo (masc./neutro)",
+          "back": "des (definido), eines (indefinido)"
+        },
+        {
+          "front": "Artigos no Genitivo (fem./plural)",
+          "back": "der (definido), einer (indefinido)"
+        },
+        {
+          "front": "das Haus meines Vaters",
+          "back": "a casa do meu pai (Genitivo masculino)"
+        },
+        {
+          "front": "Alternativa coloquial ao Genitivo",
+          "back": "von + Dativ: das Haus von meinem Vater"
+        },
+        {
+          "front": "Terminação dos substantivos m./n. no Genitivo",
+          "back": "-(e)s: des Vaters, des Kindes, des Autos"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é o artigo correto? 'Das ist das Auto ___ Mutter.'",
+          "options": [
+            "des",
+            "dem",
+            "der",
+            "die"
+          ],
+          "answer": 2,
+          "explanation": "Genitivo feminino: 'der Mutter'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Der Name ___ Lehrers ist Müller.' (artigo definido, masc. Genitivo)",
+          "answer": "des",
+          "explanation": "Genitivo masculino artigo definido = 'des'"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "sub_level": "A2.2",
+      "title": "Zweiteilige Konnektoren (entweder...oder, sowohl...als auch, weder...noch, nicht nur...sondern auch)",
+      "title_pt": "Conectores Bimembres (ou...ou, tanto...como, nem...nem, não só...mas também)",
+      "explanation": "Os conectores bimembres (zweiteilige Konnektoren) conectam duas ideias ou elementos. Eles funcionam em pares e têm significados específicos. Alguns não alteram a ordem das palavras, outros podem causar inversão sujeito-verbo.",
+      "rules": [
+        "entweder...oder: ou...ou (alternativa): Entweder kommst du, oder ich gehe allein.",
+        "sowohl...als auch: tanto...como (adição): Sowohl Maria als auch Klaus kommen.",
+        "weder...noch: nem...nem (negação dupla): Er trinkt weder Kaffee noch Tee.",
+        "nicht nur...sondern auch: não só...mas também: Sie ist nicht nur klug, sondern auch fleißig.",
+        "'Entweder' no início → inversão verbo-sujeito: Entweder kommst du... (verbo antes do sujeito)",
+        "'Sowohl' e 'weder' no início de frase também podem causar inversão"
+      ],
+      "tips": [
+        "Memorize os 4 pares como unidades: entweder-oder, sowohl-als auch, weder-noch, nicht nur-sondern auch",
+        "'Weder...noch' é a forma negativa de 'sowohl...als auch'"
+      ],
+      "examples": [
+        {
+          "de": "Entweder lernst du Deutsch, oder du lernst Spanisch.",
+          "pt": "Ou você aprende alemão, ou você aprende espanhol.",
+          "note": "entweder...oder — alternativa"
+        },
+        {
+          "de": "Sowohl mein Bruder als auch meine Schwester wohnen in Berlin.",
+          "pt": "Tanto meu irmão como minha irmã moram em Berlim.",
+          "note": "sowohl...als auch — adição"
+        },
+        {
+          "de": "Er spricht weder Englisch noch Französisch.",
+          "pt": "Ele não fala nem inglês nem francês.",
+          "note": "weder...noch — negação dupla"
+        },
+        {
+          "de": "Sie ist nicht nur intelligent, sondern auch sehr freundlich.",
+          "pt": "Ela não é só inteligente, mas também muito simpática.",
+          "note": "nicht nur...sondern auch"
+        },
+        {
+          "de": "Entweder nimmst du den Bus, oder du gehst zu Fuß.",
+          "pt": "Ou você pega o ônibus, ou vai a pé.",
+          "note": "inversão após 'entweder'"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Er trinkt weder Kaffee oder Tee.",
+          "correct": "Er trinkt weder Kaffee noch Tee.",
+          "explanation": "'Weder' sempre forma par com 'noch', nunca com 'oder'"
+        },
+        {
+          "wrong": "Sowohl Maria als Klaus kommen.",
+          "correct": "Sowohl Maria als auch Klaus kommen.",
+          "explanation": "O conector completo é 'sowohl...als auch' — não se omite o 'auch'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "entweder...oder",
+          "back": "ou...ou (alternativa)"
+        },
+        {
+          "front": "sowohl...als auch",
+          "back": "tanto...como (adição)"
+        },
+        {
+          "front": "weder...noch",
+          "back": "nem...nem (negação dupla)"
+        },
+        {
+          "front": "nicht nur...sondern auch",
+          "back": "não só...mas também"
+        },
+        {
+          "front": "Inversão com 'entweder' no início",
+          "back": "Entweder kommst du... (verbo antes do sujeito)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Sie spricht ___ Japanisch ___ Koreanisch.' (nem...nem)",
+          "options": [
+            "entweder...oder",
+            "sowohl...als auch",
+            "weder...noch",
+            "nicht nur...sondern auch"
+          ],
+          "answer": 2,
+          "explanation": "'Weder...noch' = nem...nem (negação dupla)"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Sowohl Peter ___ auch Anna lernen Deutsch.'",
+          "answer": "als",
+          "explanation": "O conector completo é 'sowohl...als auch'"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "sub_level": "A2.2",
+      "title": "Modalverben im Präteritum (musste, konnte, wollte, durfte, sollte)",
+      "title_pt": "Verbos Modais no Pretérito (musste, konnte, wollte, durfte, sollte)",
+      "explanation": "Os verbos modais formam o pretérito (Präteritum) de forma simples e regular. Ao contrário de outros verbos, o Präteritum dos modais é mais comum do que o Perfekt na fala cotidiana. As formas são: musste (precisou), konnte (pôde), wollte (quis), durfte (teve permissão), sollte (deveria).",
+      "rules": [
+        "müssen → musste: Ich musste arbeiten. (Eu precisei trabalhar.)",
+        "können → konnte: Sie konnte nicht kommen. (Ela não pôde vir.)",
+        "wollen → wollte: Er wollte schlafen. (Ele quis dormir.)",
+        "dürfen → durfte: Wir durften nicht rauchen. (Não nos foi permitido fumar.)",
+        "sollen → sollte: Du solltest pünktlich sein. (Você deveria ser pontual.)",
+        "Conjugação: ich/er/sie/es + forma base (musste, konnte...); du + -st; wir/sie + -n; ihr + -t"
+      ],
+      "tips": [
+        "O Präteritum dos modais é preferido ao Perfekt mesmo em conversas: 'Ich musste...' (não 'Ich habe müssen...')",
+        "Note: sem Umlaut no Präteritum — muss- (não müss-), konn- (não könn-)"
+      ],
+      "examples": [
+        {
+          "de": "Ich musste gestern viel arbeiten.",
+          "pt": "Eu precisei trabalhar muito ontem.",
+          "note": "musste = Präteritum de müssen"
+        },
+        {
+          "de": "Sie konnte nicht zur Party kommen.",
+          "pt": "Ela não pôde vir à festa.",
+          "note": "konnte = Präteritum de können"
+        },
+        {
+          "de": "Wir wollten ins Kino gehen, aber es war ausverkauft.",
+          "pt": "Queríamos ir ao cinema, mas estava esgotado.",
+          "note": "wollten = plural de wollte"
+        },
+        {
+          "de": "Als Kind durfte ich nicht so lange aufbleiben.",
+          "pt": "Quando criança, não tinha permissão de ficar acordado tão tarde.",
+          "note": "durfte = Präteritum de dürfen"
+        },
+        {
+          "de": "Er sollte um 8 Uhr da sein.",
+          "pt": "Ele deveria estar lá às 8 horas.",
+          "note": "sollte = Präteritum de sollen"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich habe musst arbeiten.",
+          "correct": "Ich musste arbeiten.",
+          "explanation": "Para verbos modais, usa-se o Präteritum simples, não o Perfekt com 'haben'"
+        },
+        {
+          "wrong": "Sie mußte kommen.",
+          "correct": "Sie musste kommen.",
+          "explanation": "A grafia correta atual é 'musste' (não 'mußte' — reforma ortográfica de 1996)"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "müssen → Präteritum",
+          "back": "musste (ich/er/sie/es musste)"
+        },
+        {
+          "front": "können → Präteritum",
+          "back": "konnte (ich/er/sie/es konnte)"
+        },
+        {
+          "front": "wollen → Präteritum",
+          "back": "wollte (ich/er/sie/es wollte)"
+        },
+        {
+          "front": "dürfen → Präteritum",
+          "back": "durfte (ich/er/sie/es durfte)"
+        },
+        {
+          "front": "sollen → Präteritum",
+          "back": "sollte (ich/er/sie/es sollte)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é o Präteritum de 'können' para 'er'?",
+          "options": [
+            "könnte",
+            "konnte",
+            "gekonnt",
+            "kannte"
+          ],
+          "answer": 1,
+          "explanation": "Präteritum de können = konnte (sem Umlaut)"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Wir ___ gestern nicht schlafen.' (können — Präteritum plural)",
+          "answer": "konnten",
+          "explanation": "Plural (wir/sie) do Präteritum de können = konnten"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "sub_level": "A2.2",
+      "title": "Plusquamperfekt — Einführung (hatte gemacht, war gegangen)",
+      "title_pt": "Mais-que-perfeito — Introdução (tinha feito, tinha ido)",
+      "explanation": "O Plusquamperfekt (mais-que-perfeito) expressa uma ação que ocorreu antes de outra ação no passado. É formado com 'hatte' ou 'war' (Präteritum de haben/sein) + Partizip II. Funciona da mesma forma que o Perfekt, mas usamos 'hatte/war' em vez de 'habe/bin'.",
+      "rules": [
+        "Formação com haben: hatte + Partizip II → Ich hatte das Buch gelesen.",
+        "Formação com sein: war + Partizip II → Er war nach Hause gegangen.",
+        "Os mesmos verbos que usam 'sein' no Perfekt usam 'war' no Plusquamperfekt",
+        "Indica anterioridade: Nachdem er gegessen hatte, schlief er ein. (Depois que ele comeu, ele adormeceu.)",
+        "Frequentemente usado com 'nachdem' (depois que) e 'bevor' (antes de)",
+        "Conjugação: ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie hatten"
+      ],
+      "tips": [
+        "Regra prática: Plusquamperfekt = Perfekt, mas com 'hatte/war' em vez de 'habe/bin'",
+        "'Nachdem' quase sempre exige Plusquamperfekt na oração subordinada"
+      ],
+      "examples": [
+        {
+          "de": "Als ich ankam, hatte er schon gegessen.",
+          "pt": "Quando eu cheguei, ele já tinha comido.",
+          "note": "anterioridade: hatte + Partizip II"
+        },
+        {
+          "de": "Nachdem sie gearbeitet hatte, war sie müde.",
+          "pt": "Depois que ela trabalhou, ela estava cansada.",
+          "note": "nachdem + Plusquamperfekt"
+        },
+        {
+          "de": "Er war schon gegangen, als ich ankam.",
+          "pt": "Ele já tinha ido embora quando eu cheguei.",
+          "note": "sein-Verben: war + gegangen"
+        },
+        {
+          "de": "Ich hatte das Buch gelesen, bevor der Film kam.",
+          "pt": "Eu tinha lido o livro antes do filme sair.",
+          "note": "bevor + Plusquamperfekt"
+        },
+        {
+          "de": "Sie hatten die Prüfung bestanden.",
+          "pt": "Eles tinham passado no exame.",
+          "note": "plural: hatten + Partizip II"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Als ich ankam, er hat schon gegessen.",
+          "correct": "Als ich ankam, hatte er schon gegessen.",
+          "explanation": "Para indicar ação anterior a outra no passado, usa-se Plusquamperfekt (hatte), não Perfekt (hat)"
+        },
+        {
+          "wrong": "Er war schon gegessen.",
+          "correct": "Er hatte schon gegessen.",
+          "explanation": "'Essen' usa 'haben' no auxiliar (hatte gegessen), não 'sein' (war gegangen)"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Formação do Plusquamperfekt (haben-Verben)",
+          "back": "hatte + Partizip II: hatte gemacht, hatte gesehen"
+        },
+        {
+          "front": "Formação do Plusquamperfekt (sein-Verben)",
+          "back": "war + Partizip II: war gegangen, war gekommen"
+        },
+        {
+          "front": "Als ich ankam, hatte er schon gegessen.",
+          "back": "Quando eu cheguei, ele já tinha comido."
+        },
+        {
+          "front": "Nachdem + Plusquamperfekt",
+          "back": "Nachdem sie gegessen hatte, schlief sie ein."
+        },
+        {
+          "front": "Diferença Perfekt vs. Plusquamperfekt",
+          "back": "Perfekt: habe/bin; Plusquamperfekt: hatte/war"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Nachdem er ___ hatte, ging er schlafen.' (essen — Plusquamperfekt)",
+          "options": [
+            "aß",
+            "gegessen",
+            "essen",
+            "isst"
+          ],
+          "answer": 1,
+          "explanation": "Plusquamperfekt de essen: hatte gegessen (Partizip II = gegessen)"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Sie ___ schon gegangen, als ich ankam.' (sein-Verb, Plusquamperfekt, 3ª p. sing.)",
+          "answer": "war",
+          "explanation": "Plusquamperfekt de 'gehen' (sein-Verb): war gegangen"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "sub_level": "A2.2",
+      "title": "Infinitivkonstruktionen mit zu (Es ist wichtig, Deutsch zu lernen)",
+      "title_pt": "Construções com Infinitivo com 'zu' (É importante aprender alemão)",
+      "explanation": "Em alemão, muitas expressões e verbos são seguidos de Infinitivo com 'zu'. O 'zu' se coloca diretamente antes do Infinitivo. Com verbos separáveis (Trennbare Verben), o 'zu' fica entre o prefixo e o verbo base. Essa construção é equivalente ao infinitivo pessoal do português.",
+      "rules": [
+        "Estrutura básica: Es ist + adj. + zu + Infinitiv: Es ist wichtig, pünktlich zu sein.",
+        "Após certos verbos: versuchen, anfangen, aufhören, hoffen, vergessen, planen + zu + Infinitiv",
+        "Com verbos separáveis, 'zu' fica entre prefixo e verbo: anzufangen, aufzuhören, einzukaufen",
+        "A construção com 'zu' é separada por vírgula quando é uma Infinitivgruppe longa",
+        "Não se usa 'zu' após os verbos modais (müssen, können, wollen...) e 'lassen', 'sehen', 'hören'",
+        "O sujeito da frase principal e da Infinitivkonstruktion geralmente é o mesmo"
+      ],
+      "tips": [
+        "Com verbos separáveis: prefixo + zu + verbo = uma palavra: aufzuhören, anzurufen, einzukaufen",
+        "Memorize os verbos que exigem 'zu': versuchen, beginnen, hoffen, planen, vergessen, empfehlen"
+      ],
+      "examples": [
+        {
+          "de": "Es ist wichtig, Deutsch zu lernen.",
+          "pt": "É importante aprender alemão.",
+          "note": "Es ist + Adjektiv + zu + Infinitiv"
+        },
+        {
+          "de": "Ich versuche, jeden Tag zu üben.",
+          "pt": "Eu tento praticar todo dia.",
+          "note": "versuchen + zu + Infinitiv"
+        },
+        {
+          "de": "Er hat vergessen, das Fenster zuzumachen.",
+          "pt": "Ele esqueceu de fechar a janela.",
+          "note": "verbo separável: zu + zumachen = zuzumachen"
+        },
+        {
+          "de": "Sie fängt an, Spanisch zu lernen.",
+          "pt": "Ela começa a aprender espanhol.",
+          "note": "anfangen + zu + Infinitiv"
+        },
+        {
+          "de": "Wir hoffen, bald zu reisen.",
+          "pt": "Esperamos viajar em breve.",
+          "note": "hoffen + zu + Infinitiv"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich versuche Deutsch lernen.",
+          "correct": "Ich versuche, Deutsch zu lernen.",
+          "explanation": "'Versuchen' exige 'zu' antes do Infinitivo; não se omite o 'zu'"
+        },
+        {
+          "wrong": "Er hat vergessen, das Fenster zu zumachen.",
+          "correct": "Er hat vergessen, das Fenster zuzumachen.",
+          "explanation": "Com verbos separáveis, 'zu' fica ENTRE o prefixo e o verbo: zu + machen → zuzumachen"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Estrutura: Es ist wichtig,...",
+          "back": "Es ist wichtig, Deutsch zu lernen."
+        },
+        {
+          "front": "versuchen + Infinitiv",
+          "back": "versuchen + zu + Infinitiv: Ich versuche, zu schlafen."
+        },
+        {
+          "front": "Verbos separáveis com 'zu'",
+          "back": "zu fica entre prefixo e verbo: aufzuhören, anzurufen"
+        },
+        {
+          "front": "Verbos que NÃO usam 'zu'",
+          "back": "Verbos modais: müssen, können, wollen, sollen, dürfen, mögen"
+        },
+        {
+          "front": "anfangen + Infinitiv",
+          "back": "Sie fängt an, Deutsch zu lernen."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Como se forma 'anrufen' (ligar) na construção com 'zu'?",
+          "options": [
+            "an zu rufen",
+            "anzurufen",
+            "zu anrufen",
+            "zu rufen an"
+          ],
+          "answer": 1,
+          "explanation": "Verbo separável 'anrufen': zu fica entre prefixo e verbo → anzurufen"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: 'Es ist schön, hier ___ leben.' (zu + Infinitivo)",
+          "answer": "zu",
+          "explanation": "Após 'Es ist + Adjektiv', usa-se 'zu + Infinitivo'"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "sub_level": "A2.2",
+      "title": "Konzessivsätze mit obwohl (Obwohl es regnet, gehe ich spazieren)",
+      "title_pt": "Orações Concessivas com 'obwohl' (Embora esteja chovendo, vou passear)",
+      "explanation": "A conjunção 'obwohl' (embora, apesar de que) introduz uma oração concessiva que expressa uma contradição ou contraste. O verbo vai para o FINAL da oração com 'obwohl'. É semelhante ao 'trotzdem' (mesmo assim), mas 'obwohl' conecta duas orações numa, enquanto 'trotzdem' inicia uma nova oração.",
+      "rules": [
+        "'Obwohl' é uma conjunção subordinante → verbo vai para o FINAL da oração",
+        "A oração com 'obwohl' pode vir antes ou depois da oração principal",
+        "Quando 'obwohl' inicia a frase, a oração principal começa com o verbo (inversão): Obwohl es regnet, gehe ich spazieren.",
+        "Diferença obwohl vs. trotzdem: 'Obwohl es regnet, gehe ich.' vs. 'Es regnet. Trotzdem gehe ich.'",
+        "Sinônimos mais formais: auch wenn, wenngleich",
+        "Expressa contraste real: a situação na oração principal acontece APESAR do que diz a oração com 'obwohl'"
+      ],
+      "tips": [
+        "Lembre: obwohl = conjunção (une duas orações); trotzdem = advérbio (inicia nova oração com inversão V2)",
+        "Dica de reconhecimento: 'obwohl' sempre vem acompanhado de verbo no final da sua oração"
+      ],
+      "examples": [
+        {
+          "de": "Obwohl es regnet, gehe ich spazieren.",
+          "pt": "Embora esteja chovendo, vou passear.",
+          "note": "obwohl no início → inversão na principal"
+        },
+        {
+          "de": "Ich gehe spazieren, obwohl es regnet.",
+          "pt": "Vou passear, embora esteja chovendo.",
+          "note": "obwohl no meio → ordem normal na principal"
+        },
+        {
+          "de": "Obwohl er müde ist, arbeitet er weiter.",
+          "pt": "Embora esteja cansado, ele continua trabalhando.",
+          "note": "verbo 'ist' vai ao final da oração com obwohl"
+        },
+        {
+          "de": "Sie kauft das Kleid, obwohl es teuer ist.",
+          "pt": "Ela compra o vestido, embora seja caro.",
+          "note": "obwohl no final"
+        },
+        {
+          "de": "Obwohl wir spät aufgestanden sind, kamen wir pünktlich an.",
+          "pt": "Embora tenhamos levantado tarde, chegamos na hora.",
+          "note": "Perfekt na oração com obwohl"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Obwohl es regnet, ich gehe spazieren.",
+          "correct": "Obwohl es regnet, gehe ich spazieren.",
+          "explanation": "Quando a oração com 'obwohl' vem primeiro, a oração principal usa inversão (verbo antes do sujeito)"
+        },
+        {
+          "wrong": "Obwohl ist er müde, arbeitet er.",
+          "correct": "Obwohl er müde ist, arbeitet er.",
+          "explanation": "Na oração com 'obwohl', o verbo vai ao FINAL, não ao início"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "obwohl",
+          "back": "embora, apesar de que (conjunção subordinante)"
+        },
+        {
+          "front": "Posição do verbo com 'obwohl'",
+          "back": "Verbo vai ao FINAL da oração com 'obwohl'"
+        },
+        {
+          "front": "Obwohl es regnet, gehe ich spazieren.",
+          "back": "Embora esteja chovendo, vou passear."
+        },
+        {
+          "front": "obwohl vs. trotzdem",
+          "back": "obwohl = conjunção (une orações); trotzdem = advérbio (nova oração, V2)"
+        },
+        {
+          "front": "Inversão após oração com obwohl",
+          "back": "Obwohl + oração, VERBO + sujeito + resto da frase"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Complete: 'Obwohl er krank ___, geht er zur Arbeit.'",
+          "options": [
+            "ist er",
+            "er ist",
+            "ist",
+            "sein"
+          ],
+          "answer": 2,
+          "explanation": "Na oração com 'obwohl', o verbo vai ao final: 'obwohl er krank ist'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: '___ es spät ist, schläft er nicht.' (obwohl — embora seja tarde)",
+          "answer": "Obwohl",
+          "explanation": "'Obwohl' introduz a oração concessiva (embora)"
+        }
+      ]
     }
   ]
 }

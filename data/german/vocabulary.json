@@ -1063,6 +1063,478 @@
           "pt": "o ano"
         }
       ]
+    },
+    {
+      "id": 10,
+      "sub_level": "A2.1",
+      "title": "Arbeit und Beruf — Avançado",
+      "title_pt": "Trabalho e Profissão — Avançado",
+      "words": [
+        {
+          "word": "der Chef / die Chefin",
+          "translation": "o chefe / a chefe",
+          "plural": "die Chefs",
+          "example": "Mein Chef ist heute nicht im Büro.",
+          "example_pt": "Meu chefe não está no escritório hoje."
+        },
+        {
+          "word": "der Kollege / die Kollegin",
+          "translation": "o colega de trabalho",
+          "plural": "die Kollegen",
+          "example": "Ich arbeite gern mit meinen Kollegen zusammen.",
+          "example_pt": "Gosto de trabalhar com meus colegas."
+        },
+        {
+          "word": "die Besprechung",
+          "translation": "a reunião (de trabalho)",
+          "plural": "die Besprechungen",
+          "example": "Die Besprechung dauert zwei Stunden.",
+          "example_pt": "A reunião dura duas horas."
+        },
+        {
+          "word": "das Gehalt",
+          "translation": "o salário",
+          "plural": "die Gehälter",
+          "example": "Er möchte sein Gehalt erhöhen.",
+          "example_pt": "Ele quer aumentar seu salário."
+        },
+        {
+          "word": "der Vertrag",
+          "translation": "o contrato",
+          "plural": "die Verträge",
+          "example": "Ich habe einen neuen Vertrag unterschrieben.",
+          "example_pt": "Assinei um novo contrato."
+        },
+        {
+          "word": "kündigen",
+          "translation": "demitir-se / rescindir",
+          "plural": "-",
+          "example": "Sie hat ihre Stelle gekündigt.",
+          "example_pt": "Ela pediu demissão."
+        },
+        {
+          "word": "sich bewerben",
+          "translation": "candidatar-se / se candidatar",
+          "plural": "-",
+          "example": "Ich bewerbe mich um diese Stelle.",
+          "example_pt": "Estou me candidatando a essa vaga."
+        },
+        {
+          "word": "die Stelle",
+          "translation": "a vaga / o cargo",
+          "plural": "die Stellen",
+          "example": "Es gibt eine freie Stelle in der Firma.",
+          "example_pt": "Há uma vaga na empresa."
+        },
+        {
+          "word": "das Büro",
+          "translation": "o escritório",
+          "plural": "die Büros",
+          "example": "Wir arbeiten heute im Büro.",
+          "example_pt": "Trabalhamos no escritório hoje."
+        },
+        {
+          "word": "die Überstunde",
+          "translation": "a hora extra",
+          "plural": "die Überstunden",
+          "example": "Er macht oft Überstunden.",
+          "example_pt": "Ele faz horas extras frequentemente."
+        },
+        {
+          "word": "der Urlaub",
+          "translation": "as férias / a licença",
+          "plural": "die Urlaube",
+          "example": "Ich nehme nächste Woche Urlaub.",
+          "example_pt": "Tiro férias na semana que vem."
+        },
+        {
+          "word": "die Erfahrung",
+          "translation": "a experiência",
+          "plural": "die Erfahrungen",
+          "example": "Sie hat viel Erfahrung in diesem Bereich.",
+          "example_pt": "Ela tem muita experiência nessa área."
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "der Kollege",
+          "pt": "o colega"
+        },
+        {
+          "de": "das Gehalt",
+          "pt": "o salário"
+        },
+        {
+          "de": "die Stelle",
+          "pt": "a vaga"
+        },
+        {
+          "de": "der Vertrag",
+          "pt": "o contrato"
+        },
+        {
+          "de": "kündigen",
+          "pt": "demitir-se"
+        },
+        {
+          "de": "die Erfahrung",
+          "pt": "a experiência"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sub_level": "A2.1",
+      "title": "Medien und Kommunikation",
+      "title_pt": "Mídia e Comunicação",
+      "words": [
+        {
+          "word": "die Nachricht",
+          "translation": "a notícia / a mensagem",
+          "plural": "die Nachrichten",
+          "example": "Ich lese jeden Morgen die Nachrichten.",
+          "example_pt": "Leio as notícias toda manhã."
+        },
+        {
+          "word": "das Internet",
+          "translation": "a internet",
+          "plural": "(sem plural)",
+          "example": "Das Internet ist heute sehr wichtig.",
+          "example_pt": "A internet é muito importante hoje."
+        },
+        {
+          "word": "die App",
+          "translation": "o aplicativo / a app",
+          "plural": "die Apps",
+          "example": "Ich habe eine neue App heruntergeladen.",
+          "example_pt": "Baixei um novo aplicativo."
+        },
+        {
+          "word": "der Kanal",
+          "translation": "o canal",
+          "plural": "die Kanäle",
+          "example": "Sie hat einen Kanal auf YouTube.",
+          "example_pt": "Ela tem um canal no YouTube."
+        },
+        {
+          "word": "hochladen",
+          "translation": "fazer upload / enviar",
+          "plural": "-",
+          "example": "Er lädt jeden Tag ein Video hoch.",
+          "example_pt": "Ele faz upload de um vídeo todo dia."
+        },
+        {
+          "word": "herunterladen",
+          "translation": "baixar / fazer download",
+          "plural": "-",
+          "example": "Kannst du das Dokument herunterladen?",
+          "example_pt": "Você pode baixar o documento?"
+        },
+        {
+          "word": "die Schlagzeile",
+          "translation": "a manchete",
+          "plural": "die Schlagzeilen",
+          "example": "Die Schlagzeilen von heute sind sehr interessant.",
+          "example_pt": "As manchetes de hoje são muito interessantes."
+        },
+        {
+          "word": "das Programm",
+          "translation": "o programa",
+          "plural": "die Programme",
+          "example": "Was läuft heute im Programm?",
+          "example_pt": "O que tem na programação hoje?"
+        },
+        {
+          "word": "der Podcast",
+          "translation": "o podcast",
+          "plural": "die Podcasts",
+          "example": "Ich höre jeden Tag einen Podcast auf Deutsch.",
+          "example_pt": "Ouço um podcast em alemão todo dia."
+        },
+        {
+          "word": "die Werbung",
+          "translation": "a propaganda / o anúncio",
+          "plural": "die Werbungen",
+          "example": "Es gibt zu viel Werbung im Fernsehen.",
+          "example_pt": "Há muita propaganda na televisão."
+        },
+        {
+          "word": "abonnieren",
+          "translation": "assinar / se inscrever",
+          "plural": "-",
+          "example": "Ich habe diesen Kanal abonniert.",
+          "example_pt": "Me inscrevi nesse canal."
+        },
+        {
+          "word": "die Plattform",
+          "translation": "a plataforma",
+          "plural": "die Plattformen",
+          "example": "Welche Plattform nutzt du am meisten?",
+          "example_pt": "Qual plataforma você usa mais?"
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "die Nachricht",
+          "pt": "a notícia"
+        },
+        {
+          "de": "das Internet",
+          "pt": "a internet"
+        },
+        {
+          "de": "hochladen",
+          "pt": "fazer upload"
+        },
+        {
+          "de": "herunterladen",
+          "pt": "baixar"
+        },
+        {
+          "de": "die Werbung",
+          "pt": "a propaganda"
+        },
+        {
+          "de": "abonnieren",
+          "pt": "assinar / se inscrever"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "sub_level": "A2.2",
+      "title": "Gesundheit — Avançado",
+      "title_pt": "Saúde — Avançado",
+      "words": [
+        {
+          "word": "der Arzt / die Ärztin",
+          "translation": "o médico / a médica",
+          "plural": "die Ärzte",
+          "example": "Der Arzt untersucht den Patienten.",
+          "example_pt": "O médico examina o paciente."
+        },
+        {
+          "word": "das Rezept",
+          "translation": "a receita médica",
+          "plural": "die Rezepte",
+          "example": "Der Arzt hat mir ein Rezept gegeben.",
+          "example_pt": "O médico me deu uma receita."
+        },
+        {
+          "word": "die Versicherung",
+          "translation": "o seguro / o plano de saúde",
+          "plural": "die Versicherungen",
+          "example": "Ich habe eine Krankenversicherung.",
+          "example_pt": "Tenho um plano de saúde."
+        },
+        {
+          "word": "bluten",
+          "translation": "sangrar",
+          "plural": "-",
+          "example": "Die Wunde blutet stark.",
+          "example_pt": "A ferida sangra muito."
+        },
+        {
+          "word": "schwitzen",
+          "translation": "suar",
+          "plural": "-",
+          "example": "Er schwitzt beim Sport sehr viel.",
+          "example_pt": "Ele sua muito durante o esporte."
+        },
+        {
+          "word": "der Hustensaft",
+          "translation": "o xarope para tosse",
+          "plural": "die Hustensäfte",
+          "example": "Nimmst du Hustensaft gegen den Husten?",
+          "example_pt": "Você toma xarope para a tosse?"
+        },
+        {
+          "word": "die Tablette",
+          "translation": "o comprimido",
+          "plural": "die Tabletten",
+          "example": "Nehmen Sie zwei Tabletten pro Tag.",
+          "example_pt": "Tome dois comprimidos por dia."
+        },
+        {
+          "word": "allergisch",
+          "translation": "alérgico",
+          "plural": "-",
+          "example": "Ich bin allergisch gegen Katzen.",
+          "example_pt": "Sou alérgico a gatos."
+        },
+        {
+          "word": "der Blutdruck",
+          "translation": "a pressão arterial",
+          "plural": "(sem plural)",
+          "example": "Der Arzt misst meinen Blutdruck.",
+          "example_pt": "O médico mede minha pressão arterial."
+        },
+        {
+          "word": "operieren",
+          "translation": "operar",
+          "plural": "-",
+          "example": "Der Chirurg muss ihn operieren.",
+          "example_pt": "O cirurgião precisa operá-lo."
+        },
+        {
+          "word": "die Diagnose",
+          "translation": "o diagnóstico",
+          "plural": "die Diagnosen",
+          "example": "Die Diagnose war überraschend.",
+          "example_pt": "O diagnóstico foi surpreendente."
+        },
+        {
+          "word": "sich erholen",
+          "translation": "se recuperar / descansar",
+          "plural": "-",
+          "example": "Nach der Krankheit muss man sich erholen.",
+          "example_pt": "Após a doença é preciso se recuperar."
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "das Rezept",
+          "pt": "a receita médica"
+        },
+        {
+          "de": "die Versicherung",
+          "pt": "o plano de saúde"
+        },
+        {
+          "de": "die Tablette",
+          "pt": "o comprimido"
+        },
+        {
+          "de": "allergisch",
+          "pt": "alérgico"
+        },
+        {
+          "de": "die Diagnose",
+          "pt": "o diagnóstico"
+        },
+        {
+          "de": "sich erholen",
+          "pt": "se recuperar"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "sub_level": "A2.2",
+      "title": "Gesellschaft und Umwelt",
+      "title_pt": "Sociedade e Meio Ambiente",
+      "words": [
+        {
+          "word": "die Umwelt",
+          "translation": "o meio ambiente",
+          "plural": "(sem plural)",
+          "example": "Wir müssen die Umwelt schützen.",
+          "example_pt": "Precisamos proteger o meio ambiente."
+        },
+        {
+          "word": "recyceln",
+          "translation": "reciclar",
+          "plural": "-",
+          "example": "In Deutschland recycelt man viel.",
+          "example_pt": "Na Alemanha se recicla muito."
+        },
+        {
+          "word": "der Müll",
+          "translation": "o lixo",
+          "plural": "die Mülle",
+          "example": "Bitte trenn den Müll richtig.",
+          "example_pt": "Por favor, separe o lixo corretamente."
+        },
+        {
+          "word": "der Strom",
+          "translation": "a eletricidade / a energia elétrica",
+          "plural": "die Ströme",
+          "example": "Wir sparen Strom zu Hause.",
+          "example_pt": "Economizamos eletricidade em casa."
+        },
+        {
+          "word": "erneuerbar",
+          "translation": "renovável",
+          "plural": "-",
+          "example": "Erneuerbare Energien sind die Zukunft.",
+          "example_pt": "As energias renováveis são o futuro."
+        },
+        {
+          "word": "die Gesellschaft",
+          "translation": "a sociedade",
+          "plural": "die Gesellschaften",
+          "example": "Die Gesellschaft muss zusammenarbeiten.",
+          "example_pt": "A sociedade precisa trabalhar em conjunto."
+        },
+        {
+          "word": "der Bürger / die Bürgerin",
+          "translation": "o cidadão / a cidadã",
+          "plural": "die Bürger",
+          "example": "Jeder Bürger hat Rechte und Pflichten.",
+          "example_pt": "Todo cidadão tem direitos e deveres."
+        },
+        {
+          "word": "wählen",
+          "translation": "votar / eleger",
+          "plural": "-",
+          "example": "Die Deutschen wählen alle vier Jahre.",
+          "example_pt": "Os alemães votam a cada quatro anos."
+        },
+        {
+          "word": "die Steuer",
+          "translation": "o imposto",
+          "plural": "die Steuern",
+          "example": "In Deutschland sind die Steuern hoch.",
+          "example_pt": "Na Alemanha os impostos são altos."
+        },
+        {
+          "word": "die Armut",
+          "translation": "a pobreza",
+          "plural": "(sem plural)",
+          "example": "Die Armut ist ein globales Problem.",
+          "example_pt": "A pobreza é um problema global."
+        },
+        {
+          "word": "der Klimawandel",
+          "translation": "a mudança climática",
+          "plural": "(sem plural)",
+          "example": "Der Klimawandel betrifft uns alle.",
+          "example_pt": "A mudança climática afeta a todos nós."
+        },
+        {
+          "word": "nachhaltig",
+          "translation": "sustentável",
+          "plural": "-",
+          "example": "Wir versuchen, nachhaltiger zu leben.",
+          "example_pt": "Tentamos viver de forma mais sustentável."
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "die Umwelt",
+          "pt": "o meio ambiente"
+        },
+        {
+          "de": "recyceln",
+          "pt": "reciclar"
+        },
+        {
+          "de": "der Müll",
+          "pt": "o lixo"
+        },
+        {
+          "de": "der Klimawandel",
+          "pt": "a mudança climática"
+        },
+        {
+          "de": "nachhaltig",
+          "pt": "sustentável"
+        },
+        {
+          "de": "die Steuer",
+          "pt": "o imposto"
+        }
+      ]
     }
   ]
 }

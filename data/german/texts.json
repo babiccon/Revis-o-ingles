@@ -12,50 +12,106 @@
           "sentence": "Hallo! Ich heiße Lena und ich bin aus Brasilien.",
           "translation": "Olá! Meu nome é Lena e sou do Brasil.",
           "vocabulary": [
-            { "word": "heiße", "translation": "me chamo", "note": "heißen = chamar-se" },
-            { "word": "aus", "translation": "de (origem)", "note": "preposição de origem" }
+            {
+              "word": "heiße",
+              "translation": "me chamo",
+              "note": "heißen = chamar-se"
+            },
+            {
+              "word": "aus",
+              "translation": "de (origem)",
+              "note": "preposição de origem"
+            }
           ]
         },
         {
           "sentence": "Ich bin 28 Jahre alt und ich wohne in São Paulo.",
           "translation": "Tenho 28 anos e moro em São Paulo.",
           "vocabulary": [
-            { "word": "Jahre alt", "translation": "anos de idade", "note": "sein + Jahre alt para idade" },
-            { "word": "wohne", "translation": "moro", "note": "wohnen = morar" }
+            {
+              "word": "Jahre alt",
+              "translation": "anos de idade",
+              "note": "sein + Jahre alt para idade"
+            },
+            {
+              "word": "wohne",
+              "translation": "moro",
+              "note": "wohnen = morar"
+            }
           ]
         },
         {
           "sentence": "Ich lerne Deutsch, weil ich nach Deutschland reisen möchte.",
           "translation": "Estou aprendendo alemão porque quero viajar para a Alemanha.",
           "vocabulary": [
-            { "word": "lerne", "translation": "aprendo / estou aprendendo", "note": "lernen = aprender" },
-            { "word": "weil", "translation": "porque", "note": "conjunção — verbo vai para o fim" },
-            { "word": "reisen", "translation": "viajar", "note": "infinitivo no fim com modal" }
+            {
+              "word": "lerne",
+              "translation": "aprendo / estou aprendendo",
+              "note": "lernen = aprender"
+            },
+            {
+              "word": "weil",
+              "translation": "porque",
+              "note": "conjunção — verbo vai para o fim"
+            },
+            {
+              "word": "reisen",
+              "translation": "viajar",
+              "note": "infinitivo no fim com modal"
+            }
           ]
         },
         {
           "sentence": "Ich habe einen Bruder und eine Schwester.",
           "translation": "Tenho um irmão e uma irmã.",
           "vocabulary": [
-            { "word": "einen Bruder", "translation": "um irmão", "note": "acusativo masculino: einen" },
-            { "word": "eine Schwester", "translation": "uma irmã", "note": "acusativo feminino: eine" }
+            {
+              "word": "einen Bruder",
+              "translation": "um irmão",
+              "note": "acusativo masculino: einen"
+            },
+            {
+              "word": "eine Schwester",
+              "translation": "uma irmã",
+              "note": "acusativo feminino: eine"
+            }
           ]
         },
         {
           "sentence": "Mein Bruder wohnt in Berlin und meine Schwester ist Ärztin.",
           "translation": "Meu irmão mora em Berlim e minha irmã é médica.",
           "vocabulary": [
-            { "word": "mein / meine", "translation": "meu / minha", "note": "possessivo: masc.→mein, fem.→meine" },
-            { "word": "Ärztin", "translation": "médica", "note": "feminino de Arzt" }
+            {
+              "word": "mein / meine",
+              "translation": "meu / minha",
+              "note": "possessivo: masc.→mein, fem.→meine"
+            },
+            {
+              "word": "Ärztin",
+              "translation": "médica",
+              "note": "feminino de Arzt"
+            }
           ]
         },
         {
           "sentence": "Am Wochenende lerne ich Deutsch und höre deutsche Musik.",
           "translation": "No fim de semana estudo alemão e ouço música alemã.",
           "vocabulary": [
-            { "word": "am Wochenende", "translation": "no fim de semana", "note": "am + dia/período" },
-            { "word": "höre", "translation": "ouço", "note": "hören = ouvir" },
-            { "word": "deutsche", "translation": "alemã (adj.)", "note": "adjetivo + substantivo feminino" }
+            {
+              "word": "am Wochenende",
+              "translation": "no fim de semana",
+              "note": "am + dia/período"
+            },
+            {
+              "word": "höre",
+              "translation": "ouço",
+              "note": "hören = ouvir"
+            },
+            {
+              "word": "deutsche",
+              "translation": "alemã (adj.)",
+              "note": "adjetivo + substantivo feminino"
+            }
           ]
         }
       ],
@@ -63,14 +119,24 @@
         {
           "type": "multiple_choice",
           "question": "Woher kommt Lena?",
-          "options": ["Aus Deutschland", "Aus Österreich", "Aus Brasilien", "Aus der Schweiz"],
+          "options": [
+            "Aus Deutschland",
+            "Aus Österreich",
+            "Aus Brasilien",
+            "Aus der Schweiz"
+          ],
           "answer": 2,
           "explanation": "'Ich bin aus Brasilien.'"
         },
         {
           "type": "multiple_choice",
           "question": "Wie alt ist Lena?",
-          "options": ["25 Jahre alt", "28 Jahre alt", "30 Jahre alt", "22 Jahre alt"],
+          "options": [
+            "25 Jahre alt",
+            "28 Jahre alt",
+            "30 Jahre alt",
+            "22 Jahre alt"
+          ],
           "answer": 1,
           "explanation": "'Ich bin 28 Jahre alt.'"
         },
@@ -98,40 +164,80 @@
           "sentence": "Heute ist Samstag und das Wetter ist wunderschön.",
           "translation": "Hoje é sábado e o tempo está maravilhoso.",
           "vocabulary": [
-            { "word": "das Wetter", "translation": "o tempo / o clima", "note": "substantivo neutro" },
-            { "word": "wunderschön", "translation": "maravilhoso", "note": "wunder = maravilha + schön = bonito" }
+            {
+              "word": "das Wetter",
+              "translation": "o tempo / o clima",
+              "note": "substantivo neutro"
+            },
+            {
+              "word": "wunderschön",
+              "translation": "maravilhoso",
+              "note": "wunder = maravilha + schön = bonito"
+            }
           ]
         },
         {
           "sentence": "Ich stehe um acht Uhr auf und frühstücke schnell.",
           "translation": "Levanto-me às oito horas e tomo café da manhã rapidamente.",
           "vocabulary": [
-            { "word": "aufstehe", "translation": "levanto", "note": "aufstehen — verbo separável" },
-            { "word": "frühstücke", "translation": "tomo café da manhã", "note": "frühstücken = tomar café da manhã" }
+            {
+              "word": "aufstehe",
+              "translation": "levanto",
+              "note": "aufstehen — verbo separável"
+            },
+            {
+              "word": "frühstücke",
+              "translation": "tomo café da manhã",
+              "note": "frühstücken = tomar café da manhã"
+            }
           ]
         },
         {
           "sentence": "Dann fahre ich mit der U-Bahn zum Brandenburger Tor.",
           "translation": "Depois vou de metrô até o Portão de Brandemburgo.",
           "vocabulary": [
-            { "word": "mit der U-Bahn", "translation": "de metrô", "note": "mit + dativo" },
-            { "word": "zum", "translation": "para o / ao", "note": "zu + dem (dativo masc.) = zum" }
+            {
+              "word": "mit der U-Bahn",
+              "translation": "de metrô",
+              "note": "mit + dativo"
+            },
+            {
+              "word": "zum",
+              "translation": "para o / ao",
+              "note": "zu + dem (dativo masc.) = zum"
+            }
           ]
         },
         {
           "sentence": "Dort kaufe ich ein Souvenir und trinke einen Kaffee.",
           "translation": "Lá compro uma lembrança e tomo um café.",
           "vocabulary": [
-            { "word": "dort", "translation": "lá / ali", "note": "advérbio de lugar" },
-            { "word": "ein Souvenir", "translation": "uma lembrança", "note": "neutro → ein" }
+            {
+              "word": "dort",
+              "translation": "lá / ali",
+              "note": "advérbio de lugar"
+            },
+            {
+              "word": "ein Souvenir",
+              "translation": "uma lembrança",
+              "note": "neutro → ein"
+            }
           ]
         },
         {
           "sentence": "Am Abend gehe ich in ein Restaurant und esse Schnitzel.",
           "translation": "À noite vou a um restaurante e como schnitzel.",
           "vocabulary": [
-            { "word": "am Abend", "translation": "à noite", "note": "am + período do dia" },
-            { "word": "das Schnitzel", "translation": "o escalope / schnitzel", "note": "prato típico alemão" }
+            {
+              "word": "am Abend",
+              "translation": "à noite",
+              "note": "am + período do dia"
+            },
+            {
+              "word": "das Schnitzel",
+              "translation": "o escalope / schnitzel",
+              "note": "prato típico alemão"
+            }
           ]
         }
       ],
@@ -139,14 +245,24 @@
         {
           "type": "multiple_choice",
           "question": "Welcher Tag ist es?",
-          "options": ["Freitag", "Sonntag", "Samstag", "Montag"],
+          "options": [
+            "Freitag",
+            "Sonntag",
+            "Samstag",
+            "Montag"
+          ],
           "answer": 2,
           "explanation": "'Heute ist Samstag.'"
         },
         {
           "type": "multiple_choice",
           "question": "Wie fährt die Person zum Brandenburger Tor?",
-          "options": ["Mit dem Bus", "Mit der U-Bahn", "Mit dem Auto", "Zu Fuß"],
+          "options": [
+            "Mit dem Bus",
+            "Mit der U-Bahn",
+            "Mit dem Auto",
+            "Zu Fuß"
+          ],
           "answer": 1,
           "explanation": "'Ich fahre mit der U-Bahn zum Brandenburger Tor.'"
         },
@@ -168,40 +284,80 @@
           "sentence": "Letztes Wochenende habe ich viel gemacht.",
           "translation": "No último fim de semana fiz muitas coisas.",
           "vocabulary": [
-            { "word": "letztes", "translation": "último", "note": "adjetivo: letzt-" },
-            { "word": "habe...gemacht", "translation": "fiz", "note": "Perfekt: haben + Partizip II (machen → gemacht)" }
+            {
+              "word": "letztes",
+              "translation": "último",
+              "note": "adjetivo: letzt-"
+            },
+            {
+              "word": "habe...gemacht",
+              "translation": "fiz",
+              "note": "Perfekt: haben + Partizip II (machen → gemacht)"
+            }
           ]
         },
         {
           "sentence": "Am Samstag bin ich in die Stadt gefahren und habe eingekauft.",
           "translation": "No sábado fui à cidade e fui às compras.",
           "vocabulary": [
-            { "word": "bin...gefahren", "translation": "fui (de transporte)", "note": "Perfekt: sein + gefahren" },
-            { "word": "habe eingekauft", "translation": "fiz compras", "note": "einkaufen (verbo sep.) → eingekauft" }
+            {
+              "word": "bin...gefahren",
+              "translation": "fui (de transporte)",
+              "note": "Perfekt: sein + gefahren"
+            },
+            {
+              "word": "habe eingekauft",
+              "translation": "fiz compras",
+              "note": "einkaufen (verbo sep.) → eingekauft"
+            }
           ]
         },
         {
           "sentence": "Ich habe ein neues Buch und einen Wintermantel gekauft.",
           "translation": "Comprei um livro novo e um casaco de inverno.",
           "vocabulary": [
-            { "word": "neues Buch", "translation": "livro novo", "note": "adjetivo com artigo indefinido neutro" },
-            { "word": "Wintermantel", "translation": "casaco de inverno", "note": "composição: Winter + Mantel" }
+            {
+              "word": "neues Buch",
+              "translation": "livro novo",
+              "note": "adjetivo com artigo indefinido neutro"
+            },
+            {
+              "word": "Wintermantel",
+              "translation": "casaco de inverno",
+              "note": "composição: Winter + Mantel"
+            }
           ]
         },
         {
           "sentence": "Am Abend habe ich Freunde getroffen und wir haben zusammen gegessen.",
           "translation": "À noite encontrei amigos e comemos juntos.",
           "vocabulary": [
-            { "word": "habe...getroffen", "translation": "encontrei", "note": "treffen → getroffen (irregular)" },
-            { "word": "zusammen", "translation": "juntos", "note": "advérbio" }
+            {
+              "word": "habe...getroffen",
+              "translation": "encontrei",
+              "note": "treffen → getroffen (irregular)"
+            },
+            {
+              "word": "zusammen",
+              "translation": "juntos",
+              "note": "advérbio"
+            }
           ]
         },
         {
           "sentence": "Am Sonntag bin ich zu Hause geblieben und habe ein bisschen Deutsch gelernt.",
           "translation": "No domingo fiquei em casa e estudei um pouco de alemão.",
           "vocabulary": [
-            { "word": "bin...geblieben", "translation": "fiquei", "note": "bleiben → geblieben (+ sein)" },
-            { "word": "ein bisschen", "translation": "um pouco", "note": "expressão muito usada" }
+            {
+              "word": "bin...geblieben",
+              "translation": "fiquei",
+              "note": "bleiben → geblieben (+ sein)"
+            },
+            {
+              "word": "ein bisschen",
+              "translation": "um pouco",
+              "note": "expressão muito usada"
+            }
           ]
         }
       ],
@@ -209,7 +365,12 @@
         {
           "type": "multiple_choice",
           "question": "Was hat die Person am Samstag gemacht?",
-          "options": ["Zu Hause geblieben", "Freunde besucht", "Eingekauft", "Deutsch gelernt"],
+          "options": [
+            "Zu Hause geblieben",
+            "Freunde besucht",
+            "Eingekauft",
+            "Deutsch gelernt"
+          ],
           "answer": 2,
           "explanation": "'bin ich in die Stadt gefahren und habe eingekauft'"
         },
@@ -222,9 +383,377 @@
         {
           "type": "multiple_choice",
           "question": "Was hat die Person am Samstag gekauft?",
-          "options": ["Ein Buch und einen Mantel", "Ein Handy", "Lebensmittel", "Schuhe"],
+          "options": [
+            "Ein Buch und einen Mantel",
+            "Ein Handy",
+            "Lebensmittel",
+            "Schuhe"
+          ],
           "answer": 0,
           "explanation": "'ein neues Buch und einen Wintermantel gekauft'"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sub_level": "A2.1",
+      "title": "Ein neuer Job",
+      "title_pt": "Um Novo Emprego",
+      "content": [
+        {
+          "sentence": "Mein Name ist Carlos und ich komme aus Brasilien.",
+          "translation": "Meu nome é Carlos e venho do Brasil.",
+          "vocabulary": [
+            {
+              "word": "komme aus",
+              "translation": "venho de",
+              "note": "kommen aus = ser de / vir de"
+            }
+          ]
+        },
+        {
+          "sentence": "Seit drei Monaten wohne ich in Hamburg und arbeite in einer Softwarefirma.",
+          "translation": "Há três meses moro em Hamburgo e trabalho em uma empresa de software.",
+          "vocabulary": [
+            {
+              "word": "seit",
+              "translation": "há / desde",
+              "note": "seit + dativo: duração até o presente"
+            },
+            {
+              "word": "Softwarefirma",
+              "translation": "empresa de software",
+              "note": "composição: Software + Firma"
+            }
+          ]
+        },
+        {
+          "sentence": "Ich habe mich online beworben und nach zwei Wochen eine Antwort bekommen.",
+          "translation": "Candidatei-me online e recebi uma resposta após duas semanas.",
+          "vocabulary": [
+            {
+              "word": "mich beworben",
+              "translation": "me candidatei",
+              "note": "sich bewerben — verbo reflexivo + Perfekt"
+            },
+            {
+              "word": "bekommen",
+              "translation": "receber",
+              "note": "irregular: bekomm- → bekommen"
+            }
+          ]
+        },
+        {
+          "sentence": "Das Vorstellungsgespräch war auf Deutsch und auf Englisch.",
+          "translation": "A entrevista de emprego foi em alemão e em inglês.",
+          "vocabulary": [
+            {
+              "word": "das Vorstellungsgespräch",
+              "translation": "a entrevista de emprego",
+              "note": "Vorstellung (apresentação) + Gespräch (conversa)"
+            }
+          ]
+        },
+        {
+          "sentence": "Mein Chef heißt Herr Müller und er ist sehr freundlich.",
+          "translation": "Meu chefe se chama Herr Müller e é muito simpático.",
+          "vocabulary": [
+            {
+              "word": "freundlich",
+              "translation": "simpático / amigável",
+              "note": "adjetivo comum no ambiente de trabalho"
+            }
+          ]
+        },
+        {
+          "sentence": "Meine Kollegen helfen mir viel, weil mein Deutsch noch nicht perfekt ist.",
+          "translation": "Meus colegas me ajudam muito, pois meu alemão ainda não é perfeito.",
+          "vocabulary": [
+            {
+              "word": "helfen",
+              "translation": "ajudar",
+              "note": "helfen + Dativ: helfen mir = me ajudam"
+            },
+            {
+              "word": "noch nicht",
+              "translation": "ainda não",
+              "note": "negação com ideia de continuidade"
+            }
+          ]
+        },
+        {
+          "sentence": "Jeden Montag gibt es eine Besprechung um neun Uhr morgens.",
+          "translation": "Toda segunda-feira há uma reunião às nove da manhã.",
+          "vocabulary": [
+            {
+              "word": "jeden Montag",
+              "translation": "toda segunda-feira",
+              "note": "jeden + dia da semana (acusativo masc.)"
+            },
+            {
+              "word": "die Besprechung",
+              "translation": "a reunião",
+              "note": "substantivo derivado de besprechen"
+            }
+          ]
+        },
+        {
+          "sentence": "Ich verdiene ein gutes Gehalt und bin sehr zufrieden mit meiner neuen Stelle.",
+          "translation": "Ganho um bom salário e estou muito satisfeito com meu novo cargo.",
+          "vocabulary": [
+            {
+              "word": "verdienen",
+              "translation": "ganhar / merecer",
+              "note": "aqui: ganhar salário"
+            },
+            {
+              "word": "zufrieden",
+              "translation": "satisfeito / contente",
+              "note": "adjetivo predicativo"
+            },
+            {
+              "word": "die Stelle",
+              "translation": "o cargo / a vaga",
+              "note": "sinônimo de Arbeit em contexto profissional"
+            }
+          ]
+        },
+        {
+          "sentence": "In Deutschland ist es wichtig, pünktlich zu sein.",
+          "translation": "Na Alemanha é importante ser pontual.",
+          "vocabulary": [
+            {
+              "word": "pünktlich",
+              "translation": "pontual",
+              "note": "valor cultural muito importante na Alemanha"
+            },
+            {
+              "word": "wichtig",
+              "translation": "importante",
+              "note": "adjetivo predicativo com sein"
+            }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Wo wohnt Carlos jetzt?",
+          "options": [
+            "In Berlin",
+            "In München",
+            "In Hamburg",
+            "In Frankfurt"
+          ],
+          "answer": 2,
+          "explanation": "'Seit drei Monaten wohne ich in Hamburg.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Carlos hat sich persönlich im Büro beworben.",
+          "answer": false,
+          "explanation": "'Ich habe mich online beworben.' — er hat sich online beworben."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Wann findet die wöchentliche Besprechung statt?",
+          "options": [
+            "Dienstags um 10 Uhr",
+            "Montags um 9 Uhr",
+            "Freitags um 8 Uhr",
+            "Mittwochs um 11 Uhr"
+          ],
+          "answer": 1,
+          "explanation": "'Jeden Montag gibt es eine Besprechung um neun Uhr morgens.'"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sub_level": "A2.2",
+      "title": "Der Umweltschutz",
+      "title_pt": "A Proteção Ambiental",
+      "content": [
+        {
+          "sentence": "Der Klimawandel ist eines der größten Probleme unserer Zeit.",
+          "translation": "A mudança climática é um dos maiores problemas do nosso tempo.",
+          "vocabulary": [
+            {
+              "word": "der Klimawandel",
+              "translation": "a mudança climática",
+              "note": "Klima (clima) + Wandel (mudança)"
+            },
+            {
+              "word": "unserer Zeit",
+              "translation": "do nosso tempo",
+              "note": "genitivo: Zeit = tempo / época"
+            }
+          ]
+        },
+        {
+          "sentence": "Viele Menschen in Deutschland versuchen, nachhaltiger zu leben.",
+          "translation": "Muitas pessoas na Alemanha tentam viver de forma mais sustentável.",
+          "vocabulary": [
+            {
+              "word": "versuchen zu + Infinitiv",
+              "translation": "tentar + infinitivo",
+              "note": "versuchen + zu + Inf. no fim"
+            },
+            {
+              "word": "nachhaltiger",
+              "translation": "mais sustentável",
+              "note": "comparativo de nachhaltig"
+            }
+          ]
+        },
+        {
+          "sentence": "In Deutschland gibt es ein strenges System für das Recycling von Müll.",
+          "translation": "Na Alemanha existe um sistema rigoroso de reciclagem de lixo.",
+          "vocabulary": [
+            {
+              "word": "streng",
+              "translation": "rigoroso / estrito",
+              "note": "adjetivo atributivo"
+            },
+            {
+              "word": "der Müll",
+              "translation": "o lixo",
+              "note": "Müllentsorgung = descarte de lixo"
+            }
+          ]
+        },
+        {
+          "sentence": "Papier, Plastik, Glas und Bio-Abfälle werden in verschiedene Tonnen getrennt.",
+          "translation": "Papel, plástico, vidro e resíduos orgânicos são separados em diferentes lixeiras.",
+          "vocabulary": [
+            {
+              "word": "werden...getrennt",
+              "translation": "são separados",
+              "note": "Passiv: werden + Partizip II"
+            },
+            {
+              "word": "die Tonne",
+              "translation": "a lixeira / o contêiner",
+              "note": "aqui: contêiner de lixo de coleta seletiva"
+            }
+          ]
+        },
+        {
+          "sentence": "Erneuerbare Energien wie Wind- und Solarenergie werden immer beliebter.",
+          "translation": "Energias renováveis como a eólica e a solar ficam cada vez mais populares.",
+          "vocabulary": [
+            {
+              "word": "erneuerbar",
+              "translation": "renovável",
+              "note": "adjetivo atributivo"
+            },
+            {
+              "word": "immer beliebter",
+              "translation": "cada vez mais popular",
+              "note": "immer + comparativo = cada vez mais"
+            }
+          ]
+        },
+        {
+          "sentence": "Viele Städte fördern das Fahrradfahren, um die Luftverschmutzung zu reduzieren.",
+          "translation": "Muitas cidades incentivam o ciclismo para reduzir a poluição do ar.",
+          "vocabulary": [
+            {
+              "word": "fördern",
+              "translation": "incentivar / promover",
+              "note": "verbo regular"
+            },
+            {
+              "word": "die Luftverschmutzung",
+              "translation": "a poluição do ar",
+              "note": "Luft (ar) + Verschmutzung (contaminação)"
+            }
+          ]
+        },
+        {
+          "sentence": "Jeder Bürger kann etwas für die Umwelt tun, zum Beispiel weniger Wasser verbrauchen.",
+          "translation": "Todo cidadão pode fazer algo pelo meio ambiente, por exemplo consumir menos água.",
+          "vocabulary": [
+            {
+              "word": "der Bürger",
+              "translation": "o cidadão",
+              "note": "Bürger / Bürgerin"
+            },
+            {
+              "word": "verbrauchen",
+              "translation": "consumir / gastar",
+              "note": "verbo regular"
+            }
+          ]
+        },
+        {
+          "sentence": "Die Bundesregierung hat neue Gesetze zum Schutz der Umwelt verabschiedet.",
+          "translation": "O governo federal aprovou novas leis para a proteção do meio ambiente.",
+          "vocabulary": [
+            {
+              "word": "die Bundesregierung",
+              "translation": "o governo federal",
+              "note": "Bundes- = federal + Regierung = governo"
+            },
+            {
+              "word": "verabschiedet",
+              "translation": "aprovou",
+              "note": "verabschieden = aprovar / promulgar (leis)"
+            }
+          ]
+        },
+        {
+          "sentence": "Wenn wir heute handeln, können wir eine bessere Zukunft für die nächste Generation schaffen.",
+          "translation": "Se agirmos hoje, podemos criar um futuro melhor para a próxima geração.",
+          "vocabulary": [
+            {
+              "word": "handeln",
+              "translation": "agir / tomar ação",
+              "note": "verbo regular"
+            },
+            {
+              "word": "die Zukunft",
+              "translation": "o futuro",
+              "note": "substantivo feminino"
+            },
+            {
+              "word": "schaffen",
+              "translation": "criar / conseguir",
+              "note": "aqui: criar / construir"
+            }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Wie wird der Müll in Deutschland getrennt?",
+          "options": [
+            "Alles in eine Tonne",
+            "Nur Papier und Plastik",
+            "Papier, Plastik, Glas und Bio-Abfälle",
+            "Nur Glas und Metall"
+          ],
+          "answer": 2,
+          "explanation": "'Papier, Plastik, Glas und Bio-Abfälle werden in verschiedene Tonnen getrennt.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Erneuerbare Energien werden in Deutschland immer weniger genutzt.",
+          "answer": false,
+          "explanation": "'Erneuerbare Energien...werden immer beliebter.' — sie werden immer populärer, nicht weniger."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Was können Städte tun, um die Luftverschmutzung zu reduzieren?",
+          "options": [
+            "Mehr Autos zulassen",
+            "Das Fahrradfahren fördern",
+            "Neue Fabriken bauen",
+            "Den Strom erhöhen"
+          ],
+          "answer": 1,
+          "explanation": "'Viele Städte fördern das Fahrradfahren, um die Luftverschmutzung zu reduzieren.'"
         }
       ]
     }
