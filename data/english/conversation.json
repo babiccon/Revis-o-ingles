@@ -53,15 +53,36 @@
         }
       ],
       "key_phrases": [
-        { "de": "Are you free this weekend?", "pt": "Você está livre neste fim de semana?" },
-        { "de": "What are you going to do?", "pt": "O que você vai fazer?" },
-        { "de": "Do you want to come?", "pt": "Você quer vir?" },
-        { "de": "That sounds great!", "pt": "Parece ótimo!" },
-        { "de": "I'll see you there.", "pt": "Te vejo lá." }
+        {
+          "de": "Are you free this weekend?",
+          "pt": "Você está livre neste fim de semana?"
+        },
+        {
+          "de": "What are you going to do?",
+          "pt": "O que você vai fazer?"
+        },
+        {
+          "de": "Do you want to come?",
+          "pt": "Você quer vir?"
+        },
+        {
+          "de": "That sounds great!",
+          "pt": "Parece ótimo!"
+        },
+        {
+          "de": "I'll see you there.",
+          "pt": "Te vejo lá."
+        }
       ],
       "forvo_links": [
-        { "word": "weekend", "url": "https://forvo.com/word/weekend/#en" },
-        { "word": "cinema", "url": "https://forvo.com/word/cinema/#en" }
+        {
+          "word": "weekend",
+          "url": "https://forvo.com/word/weekend/#en"
+        },
+        {
+          "word": "cinema",
+          "url": "https://forvo.com/word/cinema/#en"
+        }
       ]
     },
     {
@@ -122,16 +143,268 @@
         }
       ],
       "key_phrases": [
-        { "de": "I haven't been feeling well.", "pt": "Não estou me sentindo bem." },
-        { "de": "I have a headache.", "pt": "Estou com dor de cabeça." },
-        { "de": "I have a sore throat.", "pt": "Estou com dor de garganta." },
-        { "de": "I had a fever.", "pt": "Tive febre." },
-        { "de": "You should rest.", "pt": "Você deve descansar." },
-        { "de": "twice a day", "pt": "duas vezes ao dia" }
+        {
+          "de": "I haven't been feeling well.",
+          "pt": "Não estou me sentindo bem."
+        },
+        {
+          "de": "I have a headache.",
+          "pt": "Estou com dor de cabeça."
+        },
+        {
+          "de": "I have a sore throat.",
+          "pt": "Estou com dor de garganta."
+        },
+        {
+          "de": "I had a fever.",
+          "pt": "Tive febre."
+        },
+        {
+          "de": "You should rest.",
+          "pt": "Você deve descansar."
+        },
+        {
+          "de": "twice a day",
+          "pt": "duas vezes ao dia"
+        }
       ],
       "forvo_links": [
-        { "word": "headache", "url": "https://forvo.com/word/headache/#en" },
-        { "word": "prescription", "url": "https://forvo.com/word/prescription/#en" }
+        {
+          "word": "headache",
+          "url": "https://forvo.com/word/headache/#en"
+        },
+        {
+          "word": "prescription",
+          "url": "https://forvo.com/word/prescription/#en"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "B1.1",
+      "situation": "Job Interview",
+      "situation_pt": "Entrevista de Emprego",
+      "context": "Lucas, um brasileiro, está sendo entrevistado pela Sra. Johnson para uma vaga em uma empresa de tecnologia.",
+      "lines": [
+        {
+          "speaker": "Ms. Johnson",
+          "de": "Good morning, Lucas. Please, have a seat. Thank you for coming in today.",
+          "pt": "Bom dia, Lucas. Por favor, sente-se. Obrigada por vir hoje.",
+          "audio_tts": "Good morning, Lucas. Please, have a seat. Thank you for coming in today.",
+          "notes": "'Have a seat' — expressão formal para convidar alguém a sentar"
+        },
+        {
+          "speaker": "Lucas",
+          "de": "Good morning, Ms. Johnson. It's a pleasure to be here.",
+          "pt": "Bom dia, Sra. Johnson. É um prazer estar aqui.",
+          "audio_tts": "Good morning, Ms. Johnson. It's a pleasure to be here.",
+          "notes": "'It's a pleasure to be here.' — frase formal de abertura em entrevistas"
+        },
+        {
+          "speaker": "Ms. Johnson",
+          "de": "Could you start by telling me a little about yourself and your background?",
+          "pt": "Você poderia começar me contando um pouco sobre você e sua experiência?",
+          "audio_tts": "Could you start by telling me a little about yourself and your background?",
+          "notes": "'Could you...?' — forma mais educada do que 'Can you...?' em contextos formais"
+        },
+        {
+          "speaker": "Lucas",
+          "de": "Of course. I have a degree in Computer Science and three years of experience in software development. I'm particularly skilled in Python and database management.",
+          "pt": "Claro. Tenho graduação em Ciência da Computação e três anos de experiência em desenvolvimento de software. Sou especialmente habilidoso em Python e gestão de bancos de dados.",
+          "audio_tts": "Of course. I have a degree in Computer Science and three years of experience in software development. I'm particularly skilled in Python and database management.",
+          "notes": "'I'm particularly skilled in...' — forma profissional de destacar suas habilidades"
+        },
+        {
+          "speaker": "Ms. Johnson",
+          "de": "What would you say are your greatest strengths, and what is an area you are still working to improve?",
+          "pt": "O que você diria que são seus maiores pontos fortes, e qual é uma área que você ainda está trabalhando para melhorar?",
+          "audio_tts": "What would you say are your greatest strengths, and what is an area you are still working to improve?",
+          "notes": "Pergunta clássica de entrevista sobre pontos fortes e fracos"
+        },
+        {
+          "speaker": "Lucas",
+          "de": "My greatest strength is problem-solving under pressure. As for a weakness, I tend to be overly detail-oriented, but I've been learning to prioritise more effectively.",
+          "pt": "Meu maior ponto forte é resolver problemas sob pressão. Quanto a uma fraqueza, costumo ser excessivamente detalhista, mas tenho aprendido a priorizar de forma mais eficaz.",
+          "audio_tts": "My greatest strength is problem-solving under pressure. As for a weakness, I tend to be overly detail-oriented, but I've been learning to prioritise more effectively.",
+          "notes": "'As for...' — conector para mudar de assunto; transformar fraqueza em aprendizado é uma boa estratégia"
+        },
+        {
+          "speaker": "Ms. Johnson",
+          "de": "That's a thoughtful answer. Why are you interested in working for our company specifically?",
+          "pt": "Essa é uma resposta bem pensada. Por que você está interessado em trabalhar especificamente para nossa empresa?",
+          "audio_tts": "That's a thoughtful answer. Why are you interested in working for our company specifically?",
+          "notes": null
+        },
+        {
+          "speaker": "Lucas",
+          "de": "I've been following your company's work for two years. I'm impressed by your commitment to innovation and your focus on sustainable technology solutions.",
+          "pt": "Tenho acompanhado o trabalho da sua empresa há dois anos. Estou impressionado com o comprometimento com a inovação e o foco em soluções tecnológicas sustentáveis.",
+          "audio_tts": "I've been following your company's work for two years. I'm impressed by your commitment to innovation and your focus on sustainable technology solutions.",
+          "notes": "'I've been following' — Present Perfect Continuous para mostrar interesse contínuo"
+        },
+        {
+          "speaker": "Ms. Johnson",
+          "de": "Excellent. Do you have any questions about the salary or the benefits package?",
+          "pt": "Excelente. Você tem alguma dúvida sobre o salário ou o pacote de benefícios?",
+          "audio_tts": "Excellent. Do you have any questions about the salary or the benefits package?",
+          "notes": "'benefits package' — conjunto de benefícios (plano de saúde, vale, etc.)"
+        },
+        {
+          "speaker": "Lucas",
+          "de": "Yes, actually. Could you tell me about the salary range for this position? I'm looking for something in line with my experience.",
+          "pt": "Sim, na verdade. Você poderia me informar sobre a faixa salarial para este cargo? Estou buscando algo condizente com minha experiência.",
+          "audio_tts": "Yes, actually. Could you tell me about the salary range for this position? I'm looking for something in line with my experience.",
+          "notes": "'in line with my experience' — expressão para negociar salário de forma profissional"
+        },
+        {
+          "speaker": "Ms. Johnson",
+          "de": "We offer a competitive package. We'll discuss the details if you move forward in the process. Thank you for your time today, Lucas.",
+          "pt": "Oferecemos um pacote competitivo. Discutiremos os detalhes se você avançar no processo. Obrigada pelo seu tempo hoje, Lucas.",
+          "audio_tts": "We offer a competitive package. We'll discuss the details if you move forward in the process. Thank you for your time today, Lucas.",
+          "notes": "'competitive package' — expressão comum para dizer que o salário é bom sem dar um valor exato"
+        },
+        {
+          "speaker": "Lucas",
+          "de": "Thank you so much, Ms. Johnson. I look forward to hearing from you.",
+          "pt": "Muito obrigado, Sra. Johnson. Aguardo seu retorno.",
+          "audio_tts": "Thank you so much, Ms. Johnson. I look forward to hearing from you.",
+          "notes": "'I look forward to hearing from you.' — frase de encerramento formal e muito usada em inglês profissional"
+        }
+      ],
+      "key_phrases": [
+        {
+          "de": "It's a pleasure to be here.",
+          "pt": "É um prazer estar aqui."
+        },
+        {
+          "de": "I'm particularly skilled in...",
+          "pt": "Sou especialmente habilidoso(a) em..."
+        },
+        {
+          "de": "As for a weakness, I tend to...",
+          "pt": "Quanto a uma fraqueza, costumo..."
+        },
+        {
+          "de": "I look forward to hearing from you.",
+          "pt": "Aguardo seu retorno."
+        }
+      ],
+      "forvo_links": [
+        {
+          "word": "interview",
+          "url": "https://forvo.com/word/interview/#en"
+        },
+        {
+          "word": "competitive",
+          "url": "https://forvo.com/word/competitive/#en"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sub_level": "B1.2",
+      "situation": "Debating an Issue",
+      "situation_pt": "Debatendo um Assunto",
+      "context": "Sarah e Miguel são amigos e estão debatendo se as redes sociais são boas ou ruins para a sociedade.",
+      "lines": [
+        {
+          "speaker": "Sarah",
+          "de": "I think social media is mostly harmful. People waste hours scrolling and it causes anxiety and depression.",
+          "pt": "Acho que as redes sociais são principalmente prejudiciais. As pessoas perdem horas rolando a tela e isso causa ansiedade e depressão.",
+          "audio_tts": "I think social media is mostly harmful. People waste hours scrolling and it causes anxiety and depression.",
+          "notes": "'waste hours' — perder horas (sem proveito); 'scrolling' — rolando o feed"
+        },
+        {
+          "speaker": "Miguel",
+          "de": "I see your point, however, I'd argue that social media connects people who would otherwise lose contact completely.",
+          "pt": "Entendo seu ponto, porém, eu diria que as redes sociais conectam pessoas que de outra forma perderiam contato completamente.",
+          "audio_tts": "I see your point, however, I'd argue that social media connects people who would otherwise lose contact completely.",
+          "notes": "'however' — conector de contraste; 'I'd argue that' — forma educada de discordar e apresentar argumento"
+        },
+        {
+          "speaker": "Sarah",
+          "de": "That's true to some extent. On the other hand, it can also spread misinformation very quickly.",
+          "pt": "É verdade até certo ponto. Por outro lado, também pode espalhar desinformação muito rapidamente.",
+          "audio_tts": "That's true to some extent. On the other hand, it can also spread misinformation very quickly.",
+          "notes": "'to some extent' — até certo ponto; 'on the other hand' — por outro lado (apresenta contraste)"
+        },
+        {
+          "speaker": "Miguel",
+          "de": "Absolutely, misinformation is a serious concern. Nevertheless, traditional media also spreads false information sometimes.",
+          "pt": "Com certeza, a desinformação é uma preocupação séria. No entanto, a mídia tradicional também às vezes espalha informações falsas.",
+          "audio_tts": "Absolutely, misinformation is a serious concern. Nevertheless, traditional media also spreads false information sometimes.",
+          "notes": "'Nevertheless' — no entanto, mesmo assim (conector de contraste mais formal)"
+        },
+        {
+          "speaker": "Sarah",
+          "de": "Fair point. But I'd argue that the scale is completely different. Millions of people can see a false post within minutes.",
+          "pt": "Ponto justo. Mas eu diria que a escala é completamente diferente. Milhões de pessoas podem ver uma postagem falsa em questão de minutos.",
+          "audio_tts": "Fair point. But I'd argue that the scale is completely different. Millions of people can see a false post within minutes.",
+          "notes": "'Fair point.' — expressão para reconhecer que o outro tem razão parcialmente"
+        },
+        {
+          "speaker": "Miguel",
+          "de": "You're right about that. However, social media has also been essential for social movements and giving voice to people who weren't heard before.",
+          "pt": "Você tem razão nisso. No entanto, as redes sociais também têm sido essenciais para movimentos sociais e para dar voz a pessoas que não eram ouvidas antes.",
+          "audio_tts": "You're right about that. However, social media has also been essential for social movements and giving voice to people who weren't heard before.",
+          "notes": "'giving voice to' — dar voz a alguém; argumento de que redes sociais democratizam a informação"
+        },
+        {
+          "speaker": "Sarah",
+          "de": "I hadn't thought about it that way. Still, don't you think it makes people more isolated in real life?",
+          "pt": "Eu não tinha pensado dessa forma. Mesmo assim, você não acha que isso torna as pessoas mais isoladas na vida real?",
+          "audio_tts": "I hadn't thought about it that way. Still, don't you think it makes people more isolated in real life?",
+          "notes": "'I hadn't thought about it that way.' — forma elegante de reconhecer um novo ponto de vista"
+        },
+        {
+          "speaker": "Miguel",
+          "de": "It can, if used excessively. On the other hand, many people use it to arrange meetups and maintain friendships across distances.",
+          "pt": "Pode sim, se usado em excesso. Por outro lado, muitas pessoas o usam para marcar encontros e manter amizades à distância.",
+          "audio_tts": "It can, if used excessively. On the other hand, many people use it to arrange meetups and maintain friendships across distances.",
+          "notes": "'if used excessively' — conditional implícito; 'arrange meetups' — marcar encontros"
+        },
+        {
+          "speaker": "Sarah",
+          "de": "I suppose moderation is key. Perhaps the problem isn't social media itself, but how people use it.",
+          "pt": "Suponho que a moderação é fundamental. Talvez o problema não sejam as redes sociais em si, mas como as pessoas as usam.",
+          "audio_tts": "I suppose moderation is key. Perhaps the problem isn't social media itself, but how people use it.",
+          "notes": "'moderation is key' — expressão muito útil para argumentos equilibrados"
+        },
+        {
+          "speaker": "Miguel",
+          "de": "Exactly! I'd argue that education about digital literacy is more important than banning social media altogether.",
+          "pt": "Exatamente! Eu diria que a educação sobre letramento digital é mais importante do que proibir as redes sociais completamente.",
+          "audio_tts": "Exactly! I'd argue that education about digital literacy is more important than banning social media altogether.",
+          "notes": "'digital literacy' — letramento digital; 'altogether' — completamente, de forma alguma"
+        }
+      ],
+      "key_phrases": [
+        {
+          "de": "I'd argue that...",
+          "pt": "Eu diria que..."
+        },
+        {
+          "de": "On the other hand...",
+          "pt": "Por outro lado..."
+        },
+        {
+          "de": "That's true to some extent.",
+          "pt": "É verdade até certo ponto."
+        },
+        {
+          "de": "Fair point.",
+          "pt": "Ponto justo."
+        }
+      ],
+      "forvo_links": [
+        {
+          "word": "misinformation",
+          "url": "https://forvo.com/word/misinformation/#en"
+        },
+        {
+          "word": "moderation",
+          "url": "https://forvo.com/word/moderation/#en"
+        }
       ]
     }
   ]

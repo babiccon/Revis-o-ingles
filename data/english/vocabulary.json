@@ -1024,6 +1024,718 @@
           "pt": "envergonhado (situação constrangedora)"
         }
       ]
+    },
+    {
+      "id": 7,
+      "level": "B1",
+      "sub_level": "B1.1",
+      "category": "Work & Career",
+      "title_pt": "Trabalho e Carreira",
+      "related_grammar": [],
+      "words": [
+        {
+          "en": "promotion",
+          "pt": "promocão (de cargo)",
+          "example": "She got a promotion after two years.",
+          "example_pt": "Ela foi promovida depois de dois anos."
+        },
+        {
+          "en": "deadline",
+          "pt": "prazo final",
+          "example": "We need to meet the deadline by Friday.",
+          "example_pt": "Precisamos cumprir o prazo até sexta-feira."
+        },
+        {
+          "en": "negotiate",
+          "pt": "negociar",
+          "example": "He negotiated a higher salary.",
+          "example_pt": "Ele negociou um salário mais alto."
+        },
+        {
+          "en": "resign",
+          "pt": "demitir-se / pedir demissão",
+          "example": "She decided to resign from her job.",
+          "example_pt": "Ela decidiu pedir demissão."
+        },
+        {
+          "en": "salary",
+          "pt": "salário",
+          "example": "My salary increases every year.",
+          "example_pt": "Meu salário aumenta todo ano."
+        },
+        {
+          "en": "colleague",
+          "pt": "colega de trabalho",
+          "example": "My colleagues are very supportive.",
+          "example_pt": "Meus colegas de trabalho são muito prestativos."
+        },
+        {
+          "en": "responsibility",
+          "pt": "responsabilidade",
+          "example": "It is your responsibility to finish the report.",
+          "example_pt": "É sua responsabilidade terminar o relatório."
+        },
+        {
+          "en": "achievement",
+          "pt": "conquista / realização",
+          "example": "Winning the award was a great achievement.",
+          "example_pt": "Ganhar o prêmio foi uma grande conquista."
+        },
+        {
+          "en": "feedback",
+          "pt": "retorno / avaliação",
+          "example": "My manager gave me useful feedback.",
+          "example_pt": "Meu gerente me deu um retorno útil."
+        },
+        {
+          "en": "remote work",
+          "pt": "trabalho remoto",
+          "example": "Remote work became very common after 2020.",
+          "example_pt": "O trabalho remoto se tornou muito comum após 2020."
+        },
+        {
+          "en": "commute",
+          "pt": "trajeto casa-trabalho / deslocamento",
+          "example": "My commute takes about one hour.",
+          "example_pt": "Meu trajeto ao trabalho leva cerca de uma hora."
+        },
+        {
+          "en": "interview",
+          "pt": "entrevista (de emprego)",
+          "example": "I have a job interview tomorrow morning.",
+          "example_pt": "Tenho uma entrevista de emprego amanhã de manhã."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "promoção (de cargo)",
+          "back": "promotion"
+        },
+        {
+          "front": "prazo final",
+          "back": "deadline"
+        },
+        {
+          "front": "negociar",
+          "back": "negotiate"
+        },
+        {
+          "front": "pedir demissão",
+          "back": "resign"
+        },
+        {
+          "front": "salário",
+          "back": "salary"
+        },
+        {
+          "front": "colega de trabalho",
+          "back": "colleague"
+        },
+        {
+          "front": "responsabilidade",
+          "back": "responsibility"
+        },
+        {
+          "front": "conquista / realização",
+          "back": "achievement"
+        },
+        {
+          "front": "retorno / avaliação",
+          "back": "feedback"
+        },
+        {
+          "front": "trabalho remoto",
+          "back": "remote work"
+        },
+        {
+          "front": "trajeto casa-trabalho",
+          "back": "commute"
+        },
+        {
+          "front": "entrevista de emprego",
+          "back": "interview"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She worked hard and received a ___ with a higher salary.",
+          "options": [
+            "resignation",
+            "commute",
+            "promotion",
+            "deadline"
+          ],
+          "answer": 2,
+          "explanation": "'Promotion' = promoção de cargo — quando alguém sobe de posição na empresa."
+        },
+        {
+          "type": "fill_blank",
+          "question": "My manager gave me helpful ___ on my presentation. (retorno/avaliação)",
+          "answer": "feedback",
+          "explanation": "'Feedback' = retorno, avaliação sobre o desempenho de alguém."
+        }
+      ],
+      "association_pairs": [
+        {
+          "en": "promotion",
+          "pt": "promoção (de cargo)"
+        },
+        {
+          "en": "deadline",
+          "pt": "prazo final"
+        },
+        {
+          "en": "negotiate",
+          "pt": "negociar"
+        },
+        {
+          "en": "resign",
+          "pt": "pedir demissão"
+        },
+        {
+          "en": "salary",
+          "pt": "salário"
+        },
+        {
+          "en": "colleague",
+          "pt": "colega de trabalho"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level": "B1",
+      "sub_level": "B1.1",
+      "category": "Society & News",
+      "title_pt": "Sociedade e Notícias",
+      "related_grammar": [],
+      "words": [
+        {
+          "en": "election",
+          "pt": "eleição",
+          "example": "The election results were announced last night.",
+          "example_pt": "Os resultados da eleição foram anunciados ontem à noite."
+        },
+        {
+          "en": "protest",
+          "pt": "protesto",
+          "example": "Thousands of people joined the protest.",
+          "example_pt": "Milhares de pessoas participaram do protesto."
+        },
+        {
+          "en": "inequality",
+          "pt": "desigualdade",
+          "example": "Economic inequality is a major global issue.",
+          "example_pt": "A desigualdade econômica é um grande problema global."
+        },
+        {
+          "en": "poverty",
+          "pt": "pobreza",
+          "example": "Many families live in poverty.",
+          "example_pt": "Muitas famílias vivem em situação de pobreza."
+        },
+        {
+          "en": "crime",
+          "pt": "crime / criminalidade",
+          "example": "The government plans to reduce crime.",
+          "example_pt": "O governo planeja reduzir a criminalidade."
+        },
+        {
+          "en": "justice",
+          "pt": "justiça",
+          "example": "Everyone deserves access to justice.",
+          "example_pt": "Todo mundo merece acesso à justiça."
+        },
+        {
+          "en": "refugee",
+          "pt": "refugiado",
+          "example": "Thousands of refugees arrived at the border.",
+          "example_pt": "Milhares de refugiados chegaram à fronteira."
+        },
+        {
+          "en": "policy",
+          "pt": "política (pública) / diretriz",
+          "example": "The new policy will affect all workers.",
+          "example_pt": "A nova política afetará todos os trabalhadores."
+        },
+        {
+          "en": "debate",
+          "pt": "debate / discussão",
+          "example": "There was a heated debate in parliament.",
+          "example_pt": "Houve um debate acalorado no parlamento."
+        },
+        {
+          "en": "opinion",
+          "pt": "opinião",
+          "example": "In my opinion, we need stronger laws.",
+          "example_pt": "Na minha opinião, precisamos de leis mais rigorosas."
+        },
+        {
+          "en": "headline",
+          "pt": "manchete",
+          "example": "The story made the front-page headline.",
+          "example_pt": "A história foi a manchete da capa."
+        },
+        {
+          "en": "controversial",
+          "pt": "controverso / polêmico",
+          "example": "The new law is very controversial.",
+          "example_pt": "A nova lei é muito controversa."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "eleição",
+          "back": "election"
+        },
+        {
+          "front": "protesto",
+          "back": "protest"
+        },
+        {
+          "front": "desigualdade",
+          "back": "inequality"
+        },
+        {
+          "front": "pobreza",
+          "back": "poverty"
+        },
+        {
+          "front": "crime / criminalidade",
+          "back": "crime"
+        },
+        {
+          "front": "justiça",
+          "back": "justice"
+        },
+        {
+          "front": "refugiado",
+          "back": "refugee"
+        },
+        {
+          "front": "política pública / diretriz",
+          "back": "policy"
+        },
+        {
+          "front": "debate / discussão",
+          "back": "debate"
+        },
+        {
+          "front": "opinião",
+          "back": "opinion"
+        },
+        {
+          "front": "manchete",
+          "back": "headline"
+        },
+        {
+          "front": "controverso / polêmico",
+          "back": "controversial"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The president won the ___ with 60% of the votes.",
+          "options": [
+            "protest",
+            "election",
+            "policy",
+            "headline"
+          ],
+          "answer": 1,
+          "explanation": "'Election' = eleição — processo de votação para escolher representantes."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The story was so shocking that it became the front-page ___. (manchete)",
+          "answer": "headline",
+          "explanation": "'Headline' = manchete — o título principal de uma notícia."
+        }
+      ],
+      "association_pairs": [
+        {
+          "en": "election",
+          "pt": "eleição"
+        },
+        {
+          "en": "protest",
+          "pt": "protesto"
+        },
+        {
+          "en": "inequality",
+          "pt": "desigualdade"
+        },
+        {
+          "en": "poverty",
+          "pt": "pobreza"
+        },
+        {
+          "en": "justice",
+          "pt": "justiça"
+        },
+        {
+          "en": "policy",
+          "pt": "política pública / diretriz"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "level": "B1",
+      "sub_level": "B1.2",
+      "category": "Environment",
+      "title_pt": "Meio Ambiente",
+      "related_grammar": [],
+      "words": [
+        {
+          "en": "climate change",
+          "pt": "mudança climática",
+          "example": "Climate change is one of the biggest challenges of our time.",
+          "example_pt": "A mudança climática é um dos maiores desafios da nossa época."
+        },
+        {
+          "en": "renewable energy",
+          "pt": "energia renovável",
+          "example": "Many countries are investing in renewable energy.",
+          "example_pt": "Muitos países estão investindo em energia renovável."
+        },
+        {
+          "en": "carbon footprint",
+          "pt": "pegada de carbono",
+          "example": "Flying frequently increases your carbon footprint.",
+          "example_pt": "Voar com frequência aumenta sua pegada de carbono."
+        },
+        {
+          "en": "recycle",
+          "pt": "reciclar",
+          "example": "It is important to recycle plastic and glass.",
+          "example_pt": "É importante reciclar plástico e vidro."
+        },
+        {
+          "en": "pollution",
+          "pt": "poluição",
+          "example": "Air pollution is a serious problem in big cities.",
+          "example_pt": "A poluição do ar é um problema sério nas grandes cidades."
+        },
+        {
+          "en": "biodiversity",
+          "pt": "biodiversidade",
+          "example": "Deforestation threatens biodiversity.",
+          "example_pt": "O desmatamento ameaça a biodiversidade."
+        },
+        {
+          "en": "sustainability",
+          "pt": "sustentabilidade",
+          "example": "Sustainability should be a priority for all companies.",
+          "example_pt": "A sustentabilidade deve ser uma prioridade para todas as empresas."
+        },
+        {
+          "en": "drought",
+          "pt": "seca",
+          "example": "The region suffered a severe drought last summer.",
+          "example_pt": "A região sofreu uma seca severa no último verão."
+        },
+        {
+          "en": "flood",
+          "pt": "enchente / inundação",
+          "example": "Heavy rain caused major floods in the city.",
+          "example_pt": "Chuvas fortes causaram grandes enchentes na cidade."
+        },
+        {
+          "en": "deforestation",
+          "pt": "desmatamento",
+          "example": "Deforestation is destroying the Amazon rainforest.",
+          "example_pt": "O desmatamento está destruindo a floresta amazônica."
+        },
+        {
+          "en": "fossil fuel",
+          "pt": "combustível fóssil",
+          "example": "We need to reduce our dependence on fossil fuels.",
+          "example_pt": "Precisamos reduzir nossa dependência de combustíveis fósseis."
+        },
+        {
+          "en": "greenhouse effect",
+          "pt": "efeito estufa",
+          "example": "Carbon emissions intensify the greenhouse effect.",
+          "example_pt": "As emissões de carbono intensificam o efeito estufa."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "mudança climática",
+          "back": "climate change"
+        },
+        {
+          "front": "energia renovável",
+          "back": "renewable energy"
+        },
+        {
+          "front": "pegada de carbono",
+          "back": "carbon footprint"
+        },
+        {
+          "front": "reciclar",
+          "back": "recycle"
+        },
+        {
+          "front": "poluição",
+          "back": "pollution"
+        },
+        {
+          "front": "biodiversidade",
+          "back": "biodiversity"
+        },
+        {
+          "front": "sustentabilidade",
+          "back": "sustainability"
+        },
+        {
+          "front": "seca",
+          "back": "drought"
+        },
+        {
+          "front": "enchente / inundação",
+          "back": "flood"
+        },
+        {
+          "front": "desmatamento",
+          "back": "deforestation"
+        },
+        {
+          "front": "combustível fóssil",
+          "back": "fossil fuel"
+        },
+        {
+          "front": "efeito estufa",
+          "back": "greenhouse effect"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Cutting down forests destroys habitats and reduces ___.",
+          "options": [
+            "pollution",
+            "drought",
+            "biodiversity",
+            "fossil fuel"
+          ],
+          "answer": 2,
+          "explanation": "'Biodiversity' = biodiversidade — variedade de espécies em um ecossistema."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Solar and wind power are examples of ___ ___. (energia renovável)",
+          "answer": "renewable energy",
+          "explanation": "'Renewable energy' = energia renovável — fontes que não se esgotam, como solar e eólica."
+        }
+      ],
+      "association_pairs": [
+        {
+          "en": "climate change",
+          "pt": "mudança climática"
+        },
+        {
+          "en": "renewable energy",
+          "pt": "energia renovável"
+        },
+        {
+          "en": "carbon footprint",
+          "pt": "pegada de carbono"
+        },
+        {
+          "en": "pollution",
+          "pt": "poluição"
+        },
+        {
+          "en": "deforestation",
+          "pt": "desmatamento"
+        },
+        {
+          "en": "greenhouse effect",
+          "pt": "efeito estufa"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "level": "B1",
+      "sub_level": "B1.2",
+      "category": "Technology",
+      "title_pt": "Tecnologia",
+      "related_grammar": [],
+      "words": [
+        {
+          "en": "artificial intelligence",
+          "pt": "inteligência artificial",
+          "example": "Artificial intelligence is changing many industries.",
+          "example_pt": "A inteligência artificial está transformando muitas indústrias."
+        },
+        {
+          "en": "software",
+          "pt": "software / programa de computador",
+          "example": "You need to install the latest software.",
+          "example_pt": "Você precisa instalar o software mais recente."
+        },
+        {
+          "en": "update",
+          "pt": "atualização / atualizar",
+          "example": "Please update your app to the newest version.",
+          "example_pt": "Por favor, atualize seu aplicativo para a versão mais recente."
+        },
+        {
+          "en": "privacy",
+          "pt": "privacidade",
+          "example": "Protecting your online privacy is very important.",
+          "example_pt": "Proteger sua privacidade online é muito importante."
+        },
+        {
+          "en": "algorithm",
+          "pt": "algoritmo",
+          "example": "The algorithm recommends videos based on your interests.",
+          "example_pt": "O algoritmo recomenda vídeos com base nos seus interesses."
+        },
+        {
+          "en": "data",
+          "pt": "dados",
+          "example": "Companies collect a lot of personal data.",
+          "example_pt": "As empresas coletam muitos dados pessoais."
+        },
+        {
+          "en": "cybersecurity",
+          "pt": "segurança cibernética / cibersegurança",
+          "example": "Cybersecurity is essential to protect information.",
+          "example_pt": "A cibersegurança é essencial para proteger informações."
+        },
+        {
+          "en": "innovation",
+          "pt": "inovação",
+          "example": "Tech companies invest heavily in innovation.",
+          "example_pt": "Empresas de tecnologia investem muito em inovação."
+        },
+        {
+          "en": "device",
+          "pt": "dispositivo / aparelho",
+          "example": "I use several devices every day.",
+          "example_pt": "Uso vários dispositivos todos os dias."
+        },
+        {
+          "en": "wireless",
+          "pt": "sem fio / wireless",
+          "example": "The office has a wireless internet connection.",
+          "example_pt": "O escritório tem uma conexão de internet sem fio."
+        },
+        {
+          "en": "upload",
+          "pt": "fazer upload / enviar (arquivo)",
+          "example": "Please upload the document to the shared folder.",
+          "example_pt": "Por favor, faça o upload do documento na pasta compartilhada."
+        },
+        {
+          "en": "download",
+          "pt": "fazer download / baixar (arquivo)",
+          "example": "You can download the app for free.",
+          "example_pt": "Você pode baixar o aplicativo gratuitamente."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "inteligência artificial",
+          "back": "artificial intelligence"
+        },
+        {
+          "front": "software / programa",
+          "back": "software"
+        },
+        {
+          "front": "atualização / atualizar",
+          "back": "update"
+        },
+        {
+          "front": "privacidade",
+          "back": "privacy"
+        },
+        {
+          "front": "algoritmo",
+          "back": "algorithm"
+        },
+        {
+          "front": "dados",
+          "back": "data"
+        },
+        {
+          "front": "segurança cibernética",
+          "back": "cybersecurity"
+        },
+        {
+          "front": "inovação",
+          "back": "innovation"
+        },
+        {
+          "front": "dispositivo / aparelho",
+          "back": "device"
+        },
+        {
+          "front": "sem fio / wireless",
+          "back": "wireless"
+        },
+        {
+          "front": "fazer upload / enviar arquivo",
+          "back": "upload"
+        },
+        {
+          "front": "fazer download / baixar arquivo",
+          "back": "download"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "You should protect your ___ by using strong passwords and avoiding suspicious websites.",
+          "options": [
+            "algorithm",
+            "device",
+            "privacy",
+            "upload"
+          ],
+          "answer": 2,
+          "explanation": "'Privacy' = privacidade — direito de manter informações pessoais protegidas."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Social media companies use an ___ to decide what content you see. (algoritmo)",
+          "answer": "algorithm",
+          "explanation": "'Algorithm' = algoritmo — conjunto de regras que um sistema usa para tomar decisões."
+        }
+      ],
+      "association_pairs": [
+        {
+          "en": "artificial intelligence",
+          "pt": "inteligência artificial"
+        },
+        {
+          "en": "software",
+          "pt": "software / programa"
+        },
+        {
+          "en": "privacy",
+          "pt": "privacidade"
+        },
+        {
+          "en": "data",
+          "pt": "dados"
+        },
+        {
+          "en": "cybersecurity",
+          "pt": "segurança cibernética"
+        },
+        {
+          "en": "innovation",
+          "pt": "inovação"
+        }
+      ]
     }
   ]
 }

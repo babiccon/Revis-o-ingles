@@ -15,10 +15,26 @@
               "ipa": "/θ/",
               "description": "Coloque a ponta da língua entre os dentes e sopre ar. Não existe em português. É o som de 'think', 'three', 'thank'. Pense em 'f' ou 's', mas com a língua para fora.",
               "examples": [
-                { "word": "think", "translation": "pensar", "phonetic": "/θɪŋk/" },
-                { "word": "three", "translation": "três", "phonetic": "/θriː/" },
-                { "word": "thank you", "translation": "obrigado", "phonetic": "/ˈθæŋk juː/" },
-                { "word": "Thursday", "translation": "quinta-feira", "phonetic": "/ˈθɜːzdeɪ/" }
+                {
+                  "word": "think",
+                  "translation": "pensar",
+                  "phonetic": "/θɪŋk/"
+                },
+                {
+                  "word": "three",
+                  "translation": "três",
+                  "phonetic": "/θriː/"
+                },
+                {
+                  "word": "thank you",
+                  "translation": "obrigado",
+                  "phonetic": "/ˈθæŋk juː/"
+                },
+                {
+                  "word": "Thursday",
+                  "translation": "quinta-feira",
+                  "phonetic": "/ˈθɜːzdeɪ/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/think/#en",
               "youtube_url": null
@@ -28,10 +44,26 @@
               "ipa": "/ð/",
               "description": "Igual ao /θ/, mas com vibração das cordas vocais. É o 'th' de 'this', 'the', 'that', 'there'. Pense em um 'd' com a língua entre os dentes.",
               "examples": [
-                { "word": "this", "translation": "este/esta", "phonetic": "/ðɪs/" },
-                { "word": "that", "translation": "aquele/aquela", "phonetic": "/ðæt/" },
-                { "word": "the", "translation": "o/a (artigo)", "phonetic": "/ðə/" },
-                { "word": "mother", "translation": "mãe", "phonetic": "/ˈmʌðər/" }
+                {
+                  "word": "this",
+                  "translation": "este/esta",
+                  "phonetic": "/ðɪs/"
+                },
+                {
+                  "word": "that",
+                  "translation": "aquele/aquela",
+                  "phonetic": "/ðæt/"
+                },
+                {
+                  "word": "the",
+                  "translation": "o/a (artigo)",
+                  "phonetic": "/ðə/"
+                },
+                {
+                  "word": "mother",
+                  "translation": "mãe",
+                  "phonetic": "/ˈmʌðər/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/this/#en",
               "youtube_url": null
@@ -46,10 +78,26 @@
               "ipa": "/h/",
               "description": "Em inglês, o H sempre é pronunciado (exceto em 'hour', 'honest'). É uma expiração forte, como embaciar um espelho. Em português, o H é mudo. Não diga 'ello' — diga 'hello' com o H.",
               "examples": [
-                { "word": "hello", "translation": "olá", "phonetic": "/həˈloʊ/" },
-                { "word": "have", "translation": "ter", "phonetic": "/hæv/" },
-                { "word": "happy", "translation": "feliz", "phonetic": "/ˈhæpi/" },
-                { "word": "house", "translation": "casa", "phonetic": "/haʊs/" }
+                {
+                  "word": "hello",
+                  "translation": "olá",
+                  "phonetic": "/həˈloʊ/"
+                },
+                {
+                  "word": "have",
+                  "translation": "ter",
+                  "phonetic": "/hæv/"
+                },
+                {
+                  "word": "happy",
+                  "translation": "feliz",
+                  "phonetic": "/ˈhæpi/"
+                },
+                {
+                  "word": "house",
+                  "translation": "casa",
+                  "phonetic": "/haʊs/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/hello/#en",
               "youtube_url": null
@@ -64,10 +112,26 @@
               "ipa": "/w/",
               "description": "O W inglês é um som labial — arredonde os lábios como para dizer 'u' e solte rapidamente. NÃO encosta os dentes no lábio inferior (isso seria o V). Brasileiros frequentemente dizem 'very' com som de W ou vice-versa.",
               "examples": [
-                { "word": "water", "translation": "água", "phonetic": "/ˈwɔːtər/" },
-                { "word": "work", "translation": "trabalho/trabalhar", "phonetic": "/wɜːrk/" },
-                { "word": "week", "translation": "semana", "phonetic": "/wiːk/" },
-                { "word": "want", "translation": "querer", "phonetic": "/wɑːnt/" }
+                {
+                  "word": "water",
+                  "translation": "água",
+                  "phonetic": "/ˈwɔːtər/"
+                },
+                {
+                  "word": "work",
+                  "translation": "trabalho/trabalhar",
+                  "phonetic": "/wɜːrk/"
+                },
+                {
+                  "word": "week",
+                  "translation": "semana",
+                  "phonetic": "/wiːk/"
+                },
+                {
+                  "word": "want",
+                  "translation": "querer",
+                  "phonetic": "/wɑːnt/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/water/#en",
               "youtube_url": null
@@ -77,10 +141,26 @@
               "ipa": "/v/",
               "description": "Encoste os dentes superiores no lábio inferior e vibre as cordas vocais. É o mesmo som do V português. Não confunda com o W — 'very' (/v/) é diferente de 'wary' (/w/).",
               "examples": [
-                { "word": "very", "translation": "muito", "phonetic": "/ˈveri/" },
-                { "word": "visit", "translation": "visitar", "phonetic": "/ˈvɪzɪt/" },
-                { "word": "love", "translation": "amar/amor", "phonetic": "/lʌv/" },
-                { "word": "voice", "translation": "voz", "phonetic": "/vɔɪs/" }
+                {
+                  "word": "very",
+                  "translation": "muito",
+                  "phonetic": "/ˈveri/"
+                },
+                {
+                  "word": "visit",
+                  "translation": "visitar",
+                  "phonetic": "/ˈvɪzɪt/"
+                },
+                {
+                  "word": "love",
+                  "translation": "amar/amor",
+                  "phonetic": "/lʌv/"
+                },
+                {
+                  "word": "voice",
+                  "translation": "voz",
+                  "phonetic": "/vɔɪs/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/very/#en",
               "youtube_url": null
@@ -102,10 +182,26 @@
               "ipa": "/ɪ/",
               "description": "Vogal curta e relaxada. Não é o 'i' fechado do português. É entre o 'i' e o 'e'. Diferença crucial: 'sit' (/ɪ/) vs 'seat' (/iː/). Pense em um 'i' preguiçoso.",
               "examples": [
-                { "word": "sit", "translation": "sentar", "phonetic": "/sɪt/" },
-                { "word": "big", "translation": "grande", "phonetic": "/bɪɡ/" },
-                { "word": "this", "translation": "este/esta", "phonetic": "/ðɪs/" },
-                { "word": "give", "translation": "dar", "phonetic": "/ɡɪv/" }
+                {
+                  "word": "sit",
+                  "translation": "sentar",
+                  "phonetic": "/sɪt/"
+                },
+                {
+                  "word": "big",
+                  "translation": "grande",
+                  "phonetic": "/bɪɡ/"
+                },
+                {
+                  "word": "this",
+                  "translation": "este/esta",
+                  "phonetic": "/ðɪs/"
+                },
+                {
+                  "word": "give",
+                  "translation": "dar",
+                  "phonetic": "/ɡɪv/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/sit/#en",
               "youtube_url": null
@@ -115,10 +211,26 @@
               "ipa": "/iː/",
               "description": "Vogal longa e tensa — como o 'i' do português, mas sustentada. Diferença entre 'ship' (/ɪ/) e 'sheep' (/iː/). Estique o som.",
               "examples": [
-                { "word": "seat", "translation": "assento", "phonetic": "/siːt/" },
-                { "word": "sheep", "translation": "ovelha", "phonetic": "/ʃiːp/" },
-                { "word": "see", "translation": "ver", "phonetic": "/siː/" },
-                { "word": "week", "translation": "semana", "phonetic": "/wiːk/" }
+                {
+                  "word": "seat",
+                  "translation": "assento",
+                  "phonetic": "/siːt/"
+                },
+                {
+                  "word": "sheep",
+                  "translation": "ovelha",
+                  "phonetic": "/ʃiːp/"
+                },
+                {
+                  "word": "see",
+                  "translation": "ver",
+                  "phonetic": "/siː/"
+                },
+                {
+                  "word": "week",
+                  "translation": "semana",
+                  "phonetic": "/wiːk/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/sheep/#en",
               "youtube_url": null
@@ -128,10 +240,26 @@
               "ipa": "/ə/",
               "description": "O som mais comum do inglês! É uma vogal neutra, reduzida — como um 'ê' fraco e rápido. Aparece em sílabas não-acentuadas. 'about' = ə-BOUT, 'the' = /ðə/, 'teacher' = TEACH-ər.",
               "examples": [
-                { "word": "about", "translation": "sobre", "phonetic": "/əˈbaʊt/" },
-                { "word": "teacher", "translation": "professor(a)", "phonetic": "/ˈtiːtʃər/" },
-                { "word": "a (artigo)", "translation": "um/uma", "phonetic": "/ə/" },
-                { "word": "again", "translation": "novamente", "phonetic": "/əˈɡen/" }
+                {
+                  "word": "about",
+                  "translation": "sobre",
+                  "phonetic": "/əˈbaʊt/"
+                },
+                {
+                  "word": "teacher",
+                  "translation": "professor(a)",
+                  "phonetic": "/ˈtiːtʃər/"
+                },
+                {
+                  "word": "a (artigo)",
+                  "translation": "um/uma",
+                  "phonetic": "/ə/"
+                },
+                {
+                  "word": "again",
+                  "translation": "novamente",
+                  "phonetic": "/əˈɡen/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/about/#en",
               "youtube_url": null
@@ -146,12 +274,248 @@
               "ipa": "/ŋ/",
               "description": "Som nasal velar — feito no fundo da garganta. Aparece em '-ing' e em palavras como 'sing', 'king'. NÃO pronuncie o G separado: 'sing' = /sɪŋ/, não /sɪŋɡ/.",
               "examples": [
-                { "word": "sing", "translation": "cantar", "phonetic": "/sɪŋ/" },
-                { "word": "working", "translation": "trabalhando", "phonetic": "/ˈwɜːrkɪŋ/" },
-                { "word": "morning", "translation": "manhã", "phonetic": "/ˈmɔːrnɪŋ/" },
-                { "word": "king", "translation": "rei", "phonetic": "/kɪŋ/" }
+                {
+                  "word": "sing",
+                  "translation": "cantar",
+                  "phonetic": "/sɪŋ/"
+                },
+                {
+                  "word": "working",
+                  "translation": "trabalhando",
+                  "phonetic": "/ˈwɜːrkɪŋ/"
+                },
+                {
+                  "word": "morning",
+                  "translation": "manhã",
+                  "phonetic": "/ˈmɔːrnɪŋ/"
+                },
+                {
+                  "word": "king",
+                  "translation": "rei",
+                  "phonetic": "/kɪŋ/"
+                }
               ],
               "forvo_url": "https://forvo.com/word/sing/#en",
+              "youtube_url": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "B1.1",
+      "title": "Stress Patterns and Connected Speech",
+      "phoneme_groups": [
+        {
+          "group": "Word Stress Patterns",
+          "phonemes": [
+            {
+              "symbol": "noun vs verb stress",
+              "ipa": "/ ˈ /",
+              "description": "Em palavras de duas sílabas, substantivos geralmente têm o acento na PRIMEIRA sílaba, enquanto verbos têm o acento na SEGUNDA. Exemplos: PREsent (substantivo) vs preSENT (verbo); REcord (substantivo) vs reCORD (verbo); OBject (substantivo) vs obJECT (verbo). Essa diferença muda completamente o significado e a pronúncia da palavra.",
+              "examples": [
+                {
+                  "word": "PREsent (n.)",
+                  "translation": "presente / presente (substantivo)",
+                  "phonetic": "/ˈpreznt/"
+                },
+                {
+                  "word": "preSENT (v.)",
+                  "translation": "apresentar (verbo)",
+                  "phonetic": "/prɪˈzent/"
+                },
+                {
+                  "word": "REcord (n.)",
+                  "translation": "registro / disco (substantivo)",
+                  "phonetic": "/ˈrekərd/"
+                },
+                {
+                  "word": "reCORD (v.)",
+                  "translation": "gravar (verbo)",
+                  "phonetic": "/rɪˈkɔːrd/"
+                }
+              ],
+              "forvo_url": "https://forvo.com/word/present/#en",
+              "youtube_url": null
+            },
+            {
+              "symbol": "-tion / -sion stress",
+              "ipa": "/ ˈ /",
+              "description": "Palavras terminadas em '-tion' ou '-sion' sempre têm o acento na sílaba IMEDIATAMENTE ANTERIOR ao sufixo. Isso é uma regra consistente em inglês. Por exemplo: na-TION, in-for-MA-tion, com-mu-ni-CA-tion, de-ci-SION. O sufixo em si ('-tion'/'-sion') nunca é acentuado.",
+              "examples": [
+                {
+                  "word": "nation",
+                  "translation": "nação",
+                  "phonetic": "/ˈneɪʃn/"
+                },
+                {
+                  "word": "information",
+                  "translation": "informação",
+                  "phonetic": "/ˌnfəˈmeɪʃn/"
+                },
+                {
+                  "word": "communication",
+                  "translation": "comunicação",
+                  "phonetic": "/kəˌmjuːnɪˈkeɪʃn/"
+                },
+                {
+                  "word": "decision",
+                  "translation": "decisão",
+                  "phonetic": "/dɪˈsɪʒn/"
+                }
+              ],
+              "forvo_url": "https://forvo.com/word/information/#en",
+              "youtube_url": null
+            },
+            {
+              "symbol": "compound noun stress",
+              "ipa": "/ ˈ /",
+              "description": "Em substantivos compostos (compound nouns), o acento principal cai na PRIMEIRA palavra. Isso é diferente de um adjetivo + substantivo, onde o acento cai na SEGUNDA palavra. Compare: BLACKbird (um tipo de pássaro — substantivo composto, acento em BLACK) vs black BIRD (um pássaro que é preto — adjetivo + substantivo, acento em BIRD). Outros exemplos: GREENhouse (estufa), green HOUSE (casa verde).",
+              "examples": [
+                {
+                  "word": "BLACKbird",
+                  "translation": "melro (tipo de pássaro)",
+                  "phonetic": "/ˈblækbɜːrd/"
+                },
+                {
+                  "word": "black BIRD",
+                  "translation": "pássaro preto (qualquer pássaro preto)",
+                  "phonetic": "/blæk ˈbɜːrd/"
+                },
+                {
+                  "word": "GREENhouse",
+                  "translation": "estufa (para plantas)",
+                  "phonetic": "/ˈɡriːnhaʊs/"
+                },
+                {
+                  "word": "SEAfood",
+                  "translation": "frutos do mar",
+                  "phonetic": "/ˈsiːfuːd/"
+                }
+              ],
+              "forvo_url": "https://forvo.com/word/blackbird/#en",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "Connected Speech",
+          "phonemes": [
+            {
+              "symbol": "linking",
+              "ipa": "/r/ ou vocalização",
+              "description": "Em fala natural e rápida, palavras se conectam. Quando uma palavra termina em consoante e a próxima começa em vogal, as palavras se unem em um só som. Exemplo: 'turn it off' → soa como 'tur-ni-toff' ou 'turnidoff'. Outros exemplos: 'pick it up' → 'pi-ki-tup'; 'an apple' → 'a-nap-ple'. Isso é normal e esperado em inglês fluente.",
+              "examples": [
+                {
+                  "word": "turn it off",
+                  "translation": "desligar",
+                  "phonetic": "\"tur-ni-toff\""
+                },
+                {
+                  "word": "pick it up",
+                  "translation": "pegar / levantar",
+                  "phonetic": "\"pi-ki-tup\""
+                },
+                {
+                  "word": "an apple",
+                  "translation": "uma maçã",
+                  "phonetic": "\"a-NAP-ple\""
+                },
+                {
+                  "word": "come on in",
+                  "translation": "entre / venha",
+                  "phonetic": "\"cu-mo-NIN\""
+                }
+              ],
+              "forvo_url": null,
+              "youtube_url": null
+            },
+            {
+              "symbol": "elision",
+              "ipa": "( )",
+              "description": "Elision é quando um som desaparece completamente na fala rápida. Sons frequentemente elididos: o /t/ e /d/ entre consoantes. Exemplo: 'next day' → 'nex day' (o /t/ some); 'last night' → 'las night'; 'most people' → 'mos people'. Em inglês britânico, o /t/ no final ou no meio de palavras também pode virar um glótal stop (pausa na garganta).",
+              "examples": [
+                {
+                  "word": "next day",
+                  "translation": "no dia seguinte",
+                  "phonetic": "\"nex day\" (t some)"
+                },
+                {
+                  "word": "last night",
+                  "translation": "ontem à noite",
+                  "phonetic": "\"las night\" (t some)"
+                },
+                {
+                  "word": "most people",
+                  "translation": "a maioria das pessoas",
+                  "phonetic": "\"mos people\" (t some)"
+                },
+                {
+                  "word": "facts",
+                  "translation": "fatos",
+                  "phonetic": "/fæks/ (ct some)"
+                }
+              ],
+              "forvo_url": null,
+              "youtube_url": null
+            },
+            {
+              "symbol": "assimilation",
+              "ipa": "/n/ → /m/ ou /ŋ/",
+              "description": "Assimilação acontece quando um som muda para se tornar mais parecido com o som vizinho. Exemplo clássico: 'ten boys' → 'tem boys' (o /n/ vira /m/ porque o /b/ é um som labial). Outros exemplos: 'in my' → 'im my'; 'in bed' → 'im bed'; 'that person' → 'thap person'. Isso acontece automaticamente na fala rápida e não é um erro.",
+              "examples": [
+                {
+                  "word": "ten boys",
+                  "translation": "dez meninos",
+                  "phonetic": "\"tem boys\" (n → m)"
+                },
+                {
+                  "word": "in my",
+                  "translation": "no meu",
+                  "phonetic": "\"im my\" (n → m)"
+                },
+                {
+                  "word": "in bed",
+                  "translation": "na cama",
+                  "phonetic": "\"im bed\" (n → m)"
+                },
+                {
+                  "word": "that person",
+                  "translation": "aquela pessoa",
+                  "phonetic": "\"thap person\" (t → p)"
+                }
+              ],
+              "forvo_url": null,
+              "youtube_url": null
+            },
+            {
+              "symbol": "weak forms",
+              "ipa": "/ə/",
+              "description": "Palavras gramaticais muito comuns (to, the, and, of, for, at, from, a) quase nunca são pronunciadas com sua forma 'forte' em fala natural. Elas usam a forma fraca com a vogal schwa /ə/. Exemplos: 'to' → /tə/ (não /tuː/); 'the' → /ðə/ (não /ðiː/); 'and' → /ənd/ ou até /ən/ ou /n/; 'of' → /əv/. 'I want to go' soa como 'I wanna go' em fala informal.",
+              "examples": [
+                {
+                  "word": "to",
+                  "translation": "para (preposição / inf.)",
+                  "phonetic": "forte: /tuː/ — fraca: /tə/"
+                },
+                {
+                  "word": "the",
+                  "translation": "o / a (artigo)",
+                  "phonetic": "forte: /ðiː/ — fraca: /ðə/"
+                },
+                {
+                  "word": "and",
+                  "translation": "e (conjunção)",
+                  "phonetic": "forte: /ænd/ — fraca: /ənd/ ou /n/"
+                },
+                {
+                  "word": "of",
+                  "translation": "de (preposição)",
+                  "phonetic": "forte: /ɒv/ — fraca: /əv/"
+                }
+              ],
+              "forvo_url": "https://forvo.com/word/the/#en",
               "youtube_url": null
             }
           ]

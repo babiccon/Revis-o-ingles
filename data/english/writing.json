@@ -16,12 +16,30 @@
         "Marcadores de tempo: on Saturday, on Sunday, in the morning, in the evening"
       ],
       "vocabulary_hints": [
-        { "pt": "acordei às...", "de": "I woke up at..." },
-        { "pt": "fui a / ao...", "de": "I went to..." },
-        { "pt": "encontrei meus amigos", "de": "I met my friends" },
-        { "pt": "assisti a um filme", "de": "I watched a movie" },
-        { "pt": "passei um ótimo tempo", "de": "I had a great time" },
-        { "pt": "no sábado de manhã", "de": "on Saturday morning" }
+        {
+          "pt": "acordei às...",
+          "de": "I woke up at..."
+        },
+        {
+          "pt": "fui a / ao...",
+          "de": "I went to..."
+        },
+        {
+          "pt": "encontrei meus amigos",
+          "de": "I met my friends"
+        },
+        {
+          "pt": "assisti a um filme",
+          "de": "I watched a movie"
+        },
+        {
+          "pt": "passei um ótimo tempo",
+          "de": "I had a great time"
+        },
+        {
+          "pt": "no sábado de manhã",
+          "de": "on Saturday morning"
+        }
       ],
       "example_answer": "Last weekend was really fun. On Saturday morning, I woke up late and had a big breakfast. In the afternoon, I met my friends at the park and we played football. In the evening, we went to a restaurant and ate pizza. On Sunday, I stayed at home, watched a movie and relaxed. I had a great weekend!",
       "example_translation": "O último fim de semana foi muito divertido. No sábado de manhã, acordei tarde e tomei um café da manhã farto. À tarde, encontrei meus amigos no parque e jogamos futebol. À noite, fomos a um restaurante e comemos pizza. No domingo, fiquei em casa, assisti a um filme e relaxei. Tive um ótimo fim de semana!",
@@ -47,12 +65,30 @@
         "Expressões: recently, lately, just, already, yet"
       ],
       "vocabulary_hints": [
-        { "pt": "há muito tempo", "de": "it's been a long time" },
-        { "pt": "recentemente tenho...", "de": "I've recently been..." },
-        { "pt": "você vai adorar ouvir que...", "de": "you'll be happy to hear that..." },
-        { "pt": "mal posso esperar para te ver", "de": "I can't wait to see you" },
-        { "pt": "como você está?", "de": "How have you been?" },
-        { "pt": "espero ouvir de você em breve", "de": "I hope to hear from you soon" }
+        {
+          "pt": "há muito tempo",
+          "de": "it's been a long time"
+        },
+        {
+          "pt": "recentemente tenho...",
+          "de": "I've recently been..."
+        },
+        {
+          "pt": "você vai adorar ouvir que...",
+          "de": "you'll be happy to hear that..."
+        },
+        {
+          "pt": "mal posso esperar para te ver",
+          "de": "I can't wait to see you"
+        },
+        {
+          "pt": "como você está?",
+          "de": "How have you been?"
+        },
+        {
+          "pt": "espero ouvir de você em breve",
+          "de": "I hope to hear from you soon"
+        }
       ],
       "example_answer": "Hey Sara!\n\nIt's been so long! How have you been? I've been really busy lately.\n\nI've just started a new job at a marketing company and I'm loving it. I've also moved to a new apartment — it's much bigger than my old one. And guess what? I've finally visited London! I went there last month and it was amazing.\n\nWhat about you? Have you done anything exciting recently?\n\nI can't wait to catch up. Let's video call soon!\n\nTake care,\nLaura",
       "example_translation": "Oi Sara!\n\nFaz tanto tempo! Como você está? Tenho estado muito ocupada ultimamente.\n\nAcabei de começar um emprego novo em uma empresa de marketing e estou adorando. Também me mudei para um apartamento novo — é bem maior que o meu antigo. E adivinha? Finalmente visitei Londres! Fui lá mês passado e foi incrível.\n\nE você? Fez algo emocionante recentemente?\n\nMal posso esperar para te ver. Vamos marcar uma videochamada em breve!\n\nTchauzinho,\nLaura",
@@ -62,6 +98,107 @@
         "Fiz uma pergunta para o amigo?",
         "Usei uma despedida (Take care / Talk soon)?",
         "Escrevi pelo menos 60 palavras?"
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "B1.1",
+      "title": "Opinion Essay",
+      "title_pt": "Redação de Opinião",
+      "prompt_pt": "Escreva uma redação de opinião com 5 parágrafos sobre o tema: 'As redes sociais deveriam ser proibidas para pessoas menores de 18 anos?' Apresente sua opinião, argumentos a favor, argumentos contra e uma conclusão. Mínimo de 120 palavras.",
+      "prompt_de": "Write a 5-paragraph opinion essay on: 'Should social media be banned for people under 18?' Present your opinion, arguments for, arguments against, and a conclusion.",
+      "min_words": 120,
+      "grammar_focus": [
+        "Second Conditional (If + past simple, would + infinitive)",
+        "Third Conditional (If + past perfect, would have + past participle)",
+        "Linking words: however, furthermore, in contrast, on the other hand, therefore, in conclusion",
+        "Passive voice: is used, are banned, was introduced, have been reported"
+      ],
+      "vocabulary_hints": [
+        {
+          "pt": "na minha opinião",
+          "de": "in my opinion / I believe that"
+        },
+        {
+          "pt": "por outro lado",
+          "de": "on the other hand"
+        },
+        {
+          "pt": "além disso",
+          "de": "furthermore / moreover"
+        },
+        {
+          "pt": "em conclusão",
+          "de": "in conclusion / to sum up"
+        },
+        {
+          "pt": "seria benéfico",
+          "de": "it would be beneficial"
+        },
+        {
+          "pt": "teria sido evitado",
+          "de": "it would have been avoided"
+        }
+      ],
+      "example_answer": "Should Social Media Be Banned for People Under 18?\n\nIn my opinion, social media should be restricted for teenagers under the age of 18. Although it offers some benefits, the risks it poses to young people are far more significant.\n\nFirstly, social media has been linked to serious mental health issues among teenagers. Studies have shown that excessive use is associated with anxiety, depression, and low self-esteem. If young people spent less time on these platforms, they would have more time for physical activities and face-to-face socialisation.\n\nFurthermore, cyberbullying is a growing problem that is largely facilitated by social media. If stricter age restrictions had been introduced earlier, many cases of online harassment would have been avoided.\n\nOn the other hand, social media can be a valuable educational tool. Young people use it to access information, connect with peers, and develop digital skills that are essential in today's world. Moreover, banning it completely could simply push usage underground.\n\nIn conclusion, I believe that an outright ban may not be the most effective solution. However, stronger regulations, parental controls, and digital literacy education would go a long way towards protecting young people online.",
+      "example_translation": "As Redes Sociais Deveriam Ser Proibidas para Menores de 18 Anos?\n\nNa minha opinião, as redes sociais deveriam ser restritas para adolescentes menores de 18 anos. Embora ofereçam alguns benefícios, os riscos que representam para os jovens são muito mais significativos.\n\nPrimeiramente, as redes sociais têm sido associadas a sérios problemas de saúde mental entre adolescentes. Estudos mostram que o uso excessivo está relacionado a ansiedade, depressão e baixa autoestima. Se os jovens passassem menos tempo nessas plataformas, teriam mais tempo para atividades físicas e socialização presencial.\n\nAlém disso, o cyberbullying é um problema crescente facilitado em grande parte pelas redes sociais. Se restrições de idade mais rígidas tivessem sido introduzidas antes, muitos casos de assédio online teriam sido evitados.\n\nPor outro lado, as redes sociais podem ser uma ferramenta educacional valiosa. Os jovens as usam para acessar informações, conectar-se com colegas e desenvolver habilidades digitais essenciais no mundo atual. Além disso, proibi-las completamente poderia simplesmente levar o uso à clandestinidade.\n\nEm conclusão, acredito que uma proibição total pode não ser a solução mais eficaz. No entanto, regulamentações mais rígidas, controles parentais e educação sobre letramento digital contribuiriam muito para proteger os jovens online.",
+      "checklist": [
+        "Estruturei o texto em 5 parágrafos (introdução, 2 argumentos, contra-argumento, conclusão)?",
+        "Usei pelo menos um Second ou Third Conditional?",
+        "Usei linking words (however, furthermore, on the other hand, in conclusion)?",
+        "Usei a voz passiva em pelo menos uma frase?",
+        "Escrevi pelo menos 120 palavras?"
+      ]
+    },
+    {
+      "id": 4,
+      "sub_level": "B1.2",
+      "title": "Informal Report",
+      "title_pt": "Relatório Informal",
+      "prompt_pt": "Escreva um relatório informal sobre o transporte público da sua cidade para um projeto escolar. Inclua: pontos positivos, pontos negativos, comparação com outras cidades e sugestões de melhoria. Mínimo de 100 palavras.",
+      "prompt_de": "Write an informal report about your city's public transport for a school project. Include: positive points, negative points, comparison with other cities, and suggestions for improvement.",
+      "min_words": 100,
+      "grammar_focus": [
+        "Passive voice advanced: is being improved, has been expanded, will be introduced",
+        "Relative clauses: which, who, where, that",
+        "Discourse markers: in addition, as a result, despite this, it is worth noting that",
+        "Comparatives and superlatives: more efficient than, the most overcrowded"
+      ],
+      "vocabulary_hints": [
+        {
+          "pt": "transporte público",
+          "de": "public transport / public transportation"
+        },
+        {
+          "pt": "superlotado",
+          "de": "overcrowded"
+        },
+        {
+          "pt": "pontualidade",
+          "de": "punctuality / on time"
+        },
+        {
+          "pt": "acessível (barato)",
+          "de": "affordable"
+        },
+        {
+          "pt": "vale a pena mencionar",
+          "de": "it is worth noting that"
+        },
+        {
+          "pt": "em comparação com",
+          "de": "compared to / in comparison with"
+        }
+      ],
+      "example_answer": "Report on Public Transport in São Paulo\n\nThis report aims to provide an overview of the public transport system in São Paulo, which is the largest city in Brazil.\n\nThe city's metro network, which was first opened in 1974, has been significantly expanded over the past decade. It is generally considered to be the most reliable form of public transport available, as trains run frequently and are usually on time. In addition, the metro is affordable for most residents, with tickets that cost less than two dollars.\n\nHowever, the bus system, which is used by millions of people daily, is often overcrowded and subject to delays caused by heavy traffic. As a result, many commuters who rely on buses arrive late to work. Despite this, buses cover areas where the metro has not yet been extended.\n\nCompared to cities like Tokyo or Berlin, São Paulo's public transport is less integrated and harder to navigate for tourists. It is worth noting that a new tram line is currently being developed, which should help reduce congestion.\n\nTo improve the system, it is recommended that more metro lines be built and that real-time tracking apps be introduced for all bus routes.",
+      "example_translation": "Relatório sobre Transporte Público em São Paulo\n\nEste relatório tem como objetivo fornecer uma visão geral do sistema de transporte público de São Paulo, que é a maior cidade do Brasil.\n\nA rede de metrô da cidade, que foi inaugurada em 1974, foi significativamente expandida na última década. É geralmente considerada a forma mais confiável de transporte público disponível, pois os trens passam com frequência e geralmente estão pontuais. Além disso, o metrô é acessível para a maioria dos moradores, com passagens que custam menos de dois dólares.\n\nNo entanto, o sistema de ônibus, utilizado por milhões de pessoas diariamente, frequentemente fica superlotado e sujeito a atrasos causados pelo tráfego intenso. Como resultado, muitos passageiros que dependem de ônibus chegam atrasados ao trabalho. Apesar disso, os ônibus cobrem áreas onde o metrô ainda não foi ampliado.\n\nComparado a cidades como Tóquio ou Berlim, o transporte público de São Paulo é menos integrado e mais difícil de utilizar para turistas. Vale mencionar que uma nova linha de bonde está sendo desenvolvida, o que deverá ajudar a reduzir o congestionamento.\n\nPara melhorar o sistema, recomenda-se que mais linhas de metrô sejam construídas e que aplicativos de rastreamento em tempo real sejam introduzidos para todas as linhas de ônibus.",
+      "checklist": [
+        "Estruturei o relatório com título, introdução, corpo e conclusão/recomendações?",
+        "Usei pelo menos uma cláusula relativa (which, who, where, that)?",
+        "Usei a voz passiva avançada (is being..., has been..., will be...)?",
+        "Usei discourse markers (in addition, as a result, despite this)?",
+        "Comparei o transporte da minha cidade com outra cidade?",
+        "Escrevi pelo menos 100 palavras?"
       ]
     }
   ]

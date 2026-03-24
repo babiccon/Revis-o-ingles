@@ -12,48 +12,96 @@
           "sentence": "My name is Laura and I live in São Paulo.",
           "translation": "Meu nome é Laura e eu moro em São Paulo.",
           "vocabulary": [
-            { "word": "live", "translation": "morar / viver", "note": "verbo regular" }
+            {
+              "word": "live",
+              "translation": "morar / viver",
+              "note": "verbo regular"
+            }
           ]
         },
         {
           "sentence": "I usually wake up at 7 o'clock and take a shower.",
           "translation": "Eu geralmente acordo às 7 horas e tomo um banho.",
           "vocabulary": [
-            { "word": "usually", "translation": "geralmente", "note": "advérbio de frequência" },
-            { "word": "wake up", "translation": "acordar", "note": "phrasal verb" },
-            { "word": "take a shower", "translation": "tomar banho", "note": "expressão fixa" }
+            {
+              "word": "usually",
+              "translation": "geralmente",
+              "note": "advérbio de frequência"
+            },
+            {
+              "word": "wake up",
+              "translation": "acordar",
+              "note": "phrasal verb"
+            },
+            {
+              "word": "take a shower",
+              "translation": "tomar banho",
+              "note": "expressão fixa"
+            }
           ]
         },
         {
           "sentence": "After breakfast, I go to work by bus.",
           "translation": "Depois do café da manhã, eu vou ao trabalho de ônibus.",
           "vocabulary": [
-            { "word": "after", "translation": "depois de", "note": "preposição" },
-            { "word": "breakfast", "translation": "café da manhã", "note": "substantivo" }
+            {
+              "word": "after",
+              "translation": "depois de",
+              "note": "preposição"
+            },
+            {
+              "word": "breakfast",
+              "translation": "café da manhã",
+              "note": "substantivo"
+            }
           ]
         },
         {
           "sentence": "I work as a teacher and I really enjoy my job.",
           "translation": "Eu trabalho como professora e realmente gosto do meu trabalho.",
           "vocabulary": [
-            { "word": "work as", "translation": "trabalhar como", "note": "expressão de profissão" },
-            { "word": "enjoy", "translation": "gostar de / apreciar", "note": "verbo regular" }
+            {
+              "word": "work as",
+              "translation": "trabalhar como",
+              "note": "expressão de profissão"
+            },
+            {
+              "word": "enjoy",
+              "translation": "gostar de / apreciar",
+              "note": "verbo regular"
+            }
           ]
         },
         {
           "sentence": "In the evening, I cook dinner and watch TV with my family.",
           "translation": "À noite, eu cozinho o jantar e assisto TV com minha família.",
           "vocabulary": [
-            { "word": "In the evening", "translation": "à noite / à tarde", "note": "expressão de tempo" },
-            { "word": "cook dinner", "translation": "cozinhar o jantar", "note": "collocação comum" }
+            {
+              "word": "In the evening",
+              "translation": "à noite / à tarde",
+              "note": "expressão de tempo"
+            },
+            {
+              "word": "cook dinner",
+              "translation": "cozinhar o jantar",
+              "note": "collocação comum"
+            }
           ]
         },
         {
           "sentence": "I went to bed at 10:30 last night.",
           "translation": "Eu fui dormir às 22:30 ontem à noite.",
           "vocabulary": [
-            { "word": "went to bed", "translation": "fui dormir", "note": "go to bed — passado: went" },
-            { "word": "last night", "translation": "ontem à noite", "note": "marcador de passado" }
+            {
+              "word": "went to bed",
+              "translation": "fui dormir",
+              "note": "go to bed — passado: went"
+            },
+            {
+              "word": "last night",
+              "translation": "ontem à noite",
+              "note": "marcador de passado"
+            }
           ]
         }
       ],
@@ -61,14 +109,24 @@
         {
           "type": "multiple_choice",
           "question": "What time does Laura wake up?",
-          "options": ["6 o'clock", "7 o'clock", "8 o'clock", "7:30"],
+          "options": [
+            "6 o'clock",
+            "7 o'clock",
+            "8 o'clock",
+            "7:30"
+          ],
           "answer": 1,
           "explanation": "The text says 'I usually wake up at 7 o'clock'."
         },
         {
           "type": "multiple_choice",
           "question": "How does Laura go to work?",
-          "options": ["By car", "On foot", "By bus", "By train"],
+          "options": [
+            "By car",
+            "On foot",
+            "By bus",
+            "By train"
+          ],
           "answer": 2,
           "explanation": "'I go to work by bus.'"
         },
@@ -96,41 +154,85 @@
           "sentence": "Last Monday, I had an important job interview at a big company.",
           "translation": "Na segunda-feira passada, eu tive uma entrevista de emprego importante em uma grande empresa.",
           "vocabulary": [
-            { "word": "had", "translation": "tive / tinha", "note": "passado de 'have'" },
-            { "word": "job interview", "translation": "entrevista de emprego", "note": "expressão fixa" }
+            {
+              "word": "had",
+              "translation": "tive / tinha",
+              "note": "passado de 'have'"
+            },
+            {
+              "word": "job interview",
+              "translation": "entrevista de emprego",
+              "note": "expressão fixa"
+            }
           ]
         },
         {
           "sentence": "I have worked in marketing for three years.",
           "translation": "Eu tenho trabalhado em marketing por três anos.",
           "vocabulary": [
-            { "word": "have worked", "translation": "tenho trabalhado", "note": "present perfect — experiência" },
-            { "word": "for three years", "translation": "por três anos", "note": "duração com present perfect" }
+            {
+              "word": "have worked",
+              "translation": "tenho trabalhado",
+              "note": "present perfect — experiência"
+            },
+            {
+              "word": "for three years",
+              "translation": "por três anos",
+              "note": "duração com present perfect"
+            }
           ]
         },
         {
           "sentence": "The interviewer asked me about my previous experience.",
           "translation": "O entrevistador me perguntou sobre minha experiência anterior.",
           "vocabulary": [
-            { "word": "interviewer", "translation": "entrevistador", "note": "pessoa que entrevista" },
-            { "word": "previous", "translation": "anterior / prévio", "note": "adjetivo" }
+            {
+              "word": "interviewer",
+              "translation": "entrevistador",
+              "note": "pessoa que entrevista"
+            },
+            {
+              "word": "previous",
+              "translation": "anterior / prévio",
+              "note": "adjetivo"
+            }
           ]
         },
         {
           "sentence": "I have never missed a deadline in my career.",
           "translation": "Eu nunca perdi um prazo na minha carreira.",
           "vocabulary": [
-            { "word": "have never missed", "translation": "nunca perdi", "note": "present perfect com 'never'" },
-            { "word": "deadline", "translation": "prazo / data limite", "note": "vocabulário de trabalho" }
+            {
+              "word": "have never missed",
+              "translation": "nunca perdi",
+              "note": "present perfect com 'never'"
+            },
+            {
+              "word": "deadline",
+              "translation": "prazo / data limite",
+              "note": "vocabulário de trabalho"
+            }
           ]
         },
         {
           "sentence": "They offered me the position and I accepted it immediately.",
           "translation": "Eles me ofereceram a vaga e eu a aceitei imediatamente.",
           "vocabulary": [
-            { "word": "offered", "translation": "ofereceram", "note": "passado de 'offer'" },
-            { "word": "position", "translation": "vaga / cargo", "note": "vocabulário formal de trabalho" },
-            { "word": "immediately", "translation": "imediatamente", "note": "advérbio" }
+            {
+              "word": "offered",
+              "translation": "ofereceram",
+              "note": "passado de 'offer'"
+            },
+            {
+              "word": "position",
+              "translation": "vaga / cargo",
+              "note": "vocabulário formal de trabalho"
+            },
+            {
+              "word": "immediately",
+              "translation": "imediatamente",
+              "note": "advérbio"
+            }
           ]
         }
       ],
@@ -138,14 +240,24 @@
         {
           "type": "multiple_choice",
           "question": "When did the interview happen?",
-          "options": ["Last Friday", "Last Monday", "Last Tuesday", "This week"],
+          "options": [
+            "Last Friday",
+            "Last Monday",
+            "Last Tuesday",
+            "This week"
+          ],
           "answer": 1,
           "explanation": "'Last Monday, I had an important job interview.'"
         },
         {
           "type": "multiple_choice",
           "question": "How long has the person worked in marketing?",
-          "options": ["One year", "Two years", "Three years", "Five years"],
+          "options": [
+            "One year",
+            "Two years",
+            "Three years",
+            "Five years"
+          ],
           "answer": 2,
           "explanation": "'I have worked in marketing for three years.'"
         },
@@ -154,6 +266,395 @@
           "question": "The person got the job.",
           "answer": true,
           "explanation": "'They offered me the position and I accepted it.'"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "B1.1",
+      "title": "A Job Interview",
+      "title_pt": "Uma Entrevista de Emprego",
+      "content": [
+        {
+          "sentence": "Sarah had always dreamed of working for a large marketing company in London.",
+          "translation": "Sarah sempre sonhou em trabalhar para uma grande empresa de marketing em Londres.",
+          "vocabulary": [
+            {
+              "word": "had always dreamed",
+              "translation": "sempre sonhara / sempre tinha sonhado",
+              "note": "past perfect — ação anterior a outro momento no passado"
+            },
+            {
+              "word": "marketing company",
+              "translation": "empresa de marketing",
+              "note": "expressão nominal"
+            }
+          ]
+        },
+        {
+          "sentence": "When she finally got an interview, she spent two weeks preparing for it.",
+          "translation": "Quando ela finalmente conseguiu uma entrevista, passou duas semanas se preparando.",
+          "vocabulary": [
+            {
+              "word": "got an interview",
+              "translation": "conseguiu uma entrevista",
+              "note": "get + substantivo — obter/conseguir"
+            },
+            {
+              "word": "spent two weeks preparing",
+              "translation": "passou duas semanas se preparando",
+              "note": "spend + time + -ing — estrutura de duração"
+            }
+          ]
+        },
+        {
+          "sentence": "She researched the company thoroughly and practised answering common interview questions.",
+          "translation": "Ela pesquisou a empresa minuciosamente e praticou responder perguntas comuns de entrevista.",
+          "vocabulary": [
+            {
+              "word": "researched",
+              "translation": "pesquisou / investigou",
+              "note": "verbo regular no passado"
+            },
+            {
+              "word": "thoroughly",
+              "translation": "minuciosamente / detalhadamente",
+              "note": "advérbio de modo"
+            }
+          ]
+        },
+        {
+          "sentence": "On the morning of the interview, Sarah felt nervous but confident.",
+          "translation": "Na manhã da entrevista, Sarah se sentiu nervosa mas confiante.",
+          "vocabulary": [
+            {
+              "word": "felt nervous",
+              "translation": "sentiu-se nervosa",
+              "note": "feel — passado: felt"
+            },
+            {
+              "word": "confident",
+              "translation": "confiante",
+              "note": "adjetivo — oposto de insecure"
+            }
+          ]
+        },
+        {
+          "sentence": "She arrived at the office early, which made a good first impression.",
+          "translation": "Ela chegou ao escritório cedo, o que causou uma boa primeira impressão.",
+          "vocabulary": [
+            {
+              "word": "first impression",
+              "translation": "primeira impressão",
+              "note": "expressão muito usada em contexto profissional"
+            },
+            {
+              "word": "which made",
+              "translation": "o que causou",
+              "note": "cláusula relativa com 'which'"
+            }
+          ]
+        },
+        {
+          "sentence": "The interviewer asked her about her previous experience and her greatest achievements.",
+          "translation": "O entrevistador perguntou sobre sua experiência anterior e suas maiores conquistas.",
+          "vocabulary": [
+            {
+              "word": "interviewer",
+              "translation": "entrevistador",
+              "note": "quem conduz a entrevista"
+            },
+            {
+              "word": "achievements",
+              "translation": "conquistas / realizações",
+              "note": "vocabulário-chave B1"
+            }
+          ]
+        },
+        {
+          "sentence": "Sarah explained that she had successfully managed a team and never missed a deadline.",
+          "translation": "Sarah explicou que havia gerenciado uma equipe com sucesso e nunca perdera um prazo.",
+          "vocabulary": [
+            {
+              "word": "successfully managed",
+              "translation": "gerenciou com sucesso",
+              "note": "advérbio + verbo — colocação comum"
+            },
+            {
+              "word": "missed a deadline",
+              "translation": "perdeu um prazo",
+              "note": "miss a deadline = não cumprir o prazo"
+            }
+          ]
+        },
+        {
+          "sentence": "At the end, she asked about the salary and the possibility of remote work.",
+          "translation": "No final, ela perguntou sobre o salário e a possibilidade de trabalho remoto.",
+          "vocabulary": [
+            {
+              "word": "salary",
+              "translation": "salário",
+              "note": "vocabulário B1 — Work & Career"
+            },
+            {
+              "word": "remote work",
+              "translation": "trabalho remoto",
+              "note": "vocabulário B1 — Work & Career"
+            }
+          ]
+        },
+        {
+          "sentence": "Three days later, the company called to offer her the position, and she accepted immediately.",
+          "translation": "Três dias depois, a empresa ligou para oferecer a vaga, e ela aceitou imediatamente.",
+          "vocabulary": [
+            {
+              "word": "offer her the position",
+              "translation": "oferecer a vaga a ela",
+              "note": "offer + objeto indireto + objeto direto"
+            },
+            {
+              "word": "immediately",
+              "translation": "imediatamente",
+              "note": "advérbio de tempo"
+            }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "How long did Sarah spend preparing for the interview?",
+          "options": [
+            "One week",
+            "Two weeks",
+            "Three days",
+            "One month"
+          ],
+          "answer": 1,
+          "explanation": "'She spent two weeks preparing for it.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Sarah ask at the end of the interview?",
+          "options": [
+            "About the company's history",
+            "About the salary and remote work",
+            "About her colleagues",
+            "About the commute"
+          ],
+          "answer": 1,
+          "explanation": "'She asked about the salary and the possibility of remote work.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Sarah arrived late for the interview.",
+          "answer": false,
+          "explanation": "'She arrived at the office early, which made a good first impression.'"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sub_level": "B1.2",
+      "title": "Climate Change and Our Future",
+      "title_pt": "A Mudança Climática e Nosso Futuro",
+      "content": [
+        {
+          "sentence": "Climate change is no longer a distant threat — it is happening right now, all around us.",
+          "translation": "A mudança climática não é mais uma ameaça distante — está acontecendo agora, ao nosso redor.",
+          "vocabulary": [
+            {
+              "word": "climate change",
+              "translation": "mudança climática",
+              "note": "vocabulário-chave B1.2"
+            },
+            {
+              "word": "no longer",
+              "translation": "não mais",
+              "note": "expressão de negação de estado anterior"
+            }
+          ]
+        },
+        {
+          "sentence": "Rising temperatures have caused more frequent droughts, floods, and extreme weather events.",
+          "translation": "O aumento das temperaturas causou secas, enchentes e eventos climáticos extremos mais frequentes.",
+          "vocabulary": [
+            {
+              "word": "rising temperatures",
+              "translation": "aumento das temperaturas",
+              "note": "participio presente como adjetivo"
+            },
+            {
+              "word": "droughts",
+              "translation": "secas",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "floods",
+              "translation": "enchentes / inundações",
+              "note": "vocabulário B1.2 — Environment"
+            }
+          ]
+        },
+        {
+          "sentence": "Scientists agree that the main cause is the burning of fossil fuels, which releases carbon dioxide into the atmosphere.",
+          "translation": "Cientistas concordam que a principal causa é a queima de combustíveis fósseis, que libera dióxido de carbono na atmosfera.",
+          "vocabulary": [
+            {
+              "word": "fossil fuels",
+              "translation": "combustíveis fósseis",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "releases",
+              "translation": "libera",
+              "note": "verbo regular — liberar / soltar"
+            }
+          ]
+        },
+        {
+          "sentence": "This intensifies the greenhouse effect and accelerates global warming.",
+          "translation": "Isso intensifica o efeito estufa e acelera o aquecimento global.",
+          "vocabulary": [
+            {
+              "word": "greenhouse effect",
+              "translation": "efeito estufa",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "accelerates",
+              "translation": "acelera",
+              "note": "verbo regular — tornar mais rápido"
+            }
+          ]
+        },
+        {
+          "sentence": "Deforestation also makes the problem worse, as trees absorb CO2 from the air.",
+          "translation": "O desmatamento também piora o problema, pois as árvores absorvem CO2 do ar.",
+          "vocabulary": [
+            {
+              "word": "deforestation",
+              "translation": "desmatamento",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "absorb",
+              "translation": "absorver",
+              "note": "verbo regular — processo biológico importante"
+            }
+          ]
+        },
+        {
+          "sentence": "In my opinion, governments must take bold action and invest in renewable energy as quickly as possible.",
+          "translation": "Na minha opinião, os governos devem agir com ousadia e investir em energia renovável o mais rápido possível.",
+          "vocabulary": [
+            {
+              "word": "in my opinion",
+              "translation": "na minha opinião",
+              "note": "expressão para introduzir ponto de vista"
+            },
+            {
+              "word": "renewable energy",
+              "translation": "energia renovável",
+              "note": "vocabulário B1.2 — Environment"
+            }
+          ]
+        },
+        {
+          "sentence": "Each individual can also reduce their carbon footprint by using public transport, recycling, and eating less meat.",
+          "translation": "Cada indivíduo também pode reduzir sua pegada de carbono usando transporte público, reciclando e comendo menos carne.",
+          "vocabulary": [
+            {
+              "word": "carbon footprint",
+              "translation": "pegada de carbono",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "individual",
+              "translation": "indivíduo / pessoa",
+              "note": "substantivo formal"
+            }
+          ]
+        },
+        {
+          "sentence": "Biodiversity is also at risk — many species may disappear if we do not act.",
+          "translation": "A biodiversidade também está em risco — muitas espécies podem desaparecer se não agirmos.",
+          "vocabulary": [
+            {
+              "word": "biodiversity",
+              "translation": "biodiversidade",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "at risk",
+              "translation": "em risco",
+              "note": "expressão idiomática muito comum"
+            }
+          ]
+        },
+        {
+          "sentence": "Sustainability must become a shared responsibility, not just a government policy.",
+          "translation": "A sustentabilidade deve se tornar uma responsabilidade compartilhada, não apenas uma política governamental.",
+          "vocabulary": [
+            {
+              "word": "sustainability",
+              "translation": "sustentabilidade",
+              "note": "vocabulário B1.2 — Environment"
+            },
+            {
+              "word": "shared responsibility",
+              "translation": "responsabilidade compartilhada",
+              "note": "colocação nominal comum em textos de opinião"
+            }
+          ]
+        },
+        {
+          "sentence": "The decisions we make today will shape the world our children will inherit tomorrow.",
+          "translation": "As decisões que tomamos hoje moldarão o mundo que nossos filhos irão herdar amanhã.",
+          "vocabulary": [
+            {
+              "word": "shape",
+              "translation": "moldar / determinar",
+              "note": "verbo metafórico — muito usado em textos formais"
+            },
+            {
+              "word": "inherit",
+              "translation": "herdar",
+              "note": "verbo regular — receber de gerações anteriores"
+            }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "According to the text, what is the main cause of climate change?",
+          "options": [
+            "Deforestation alone",
+            "The burning of fossil fuels",
+            "Renewable energy use",
+            "Carbon footprint reduction"
+          ],
+          "answer": 1,
+          "explanation": "'The main cause is the burning of fossil fuels, which releases carbon dioxide into the atmosphere.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which of the following is mentioned as a way individuals can help?",
+          "options": [
+            "Investing in government policy",
+            "Using more fossil fuels",
+            "Recycling and using public transport",
+            "Increasing deforestation"
+          ],
+          "answer": 2,
+          "explanation": "'Each individual can reduce their carbon footprint by using public transport, recycling, and eating less meat.'"
+        },
+        {
+          "type": "true_false",
+          "question": "The author believes climate change is only a future problem.",
+          "answer": false,
+          "explanation": "'Climate change is no longer a distant threat — it is happening right now, all around us.'"
         }
       ]
     }
