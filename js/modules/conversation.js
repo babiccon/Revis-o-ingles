@@ -3,7 +3,7 @@
  * Shows situational dialogues with TTS audio and line-by-line translations.
  */
 
-import { escapeHtml, buildTTSUrl, getLangCode } from '../core/utils.js';
+import { escapeHtml, speak, getLangCode } from '../core/utils.js';
 import { ProgressStore } from '../core/progress.js';
 
 const LANG_NAMES = { german: 'Alemão', english: 'Inglês' };
@@ -72,9 +72,10 @@ const ConversationModule = {
 
     const isDone = ProgressStore.isLessonComplete(lang, 'conversation', subLevel, dialogueId);
     const langCode = getLangCode(lang);
+    window._speak = (text) => speak(text, langCode);
 
     const linesHtml = (dialogue.lines || []).map((line, i) => {
-      const ttsUrl = buildTTSUrl(line.audio_tts || line.de || line.en || '', langCode);
+      const ttsText = (line.audio_tts || line.de || line.en || '').replace(/'/g, "\\'");
       return `
         <div class="dialogue-line">
           <div class="dialogue-speaker">${escapeHtml(line.speaker)}</div>
@@ -84,7 +85,7 @@ const ConversationModule = {
             ${line.notes ? `<div class="dialogue-note">${escapeHtml(line.notes)}</div>` : ''}
             <div style="display:flex;gap:.5rem;margin-top:.35rem;align-items:center;">
               <button class="toggle-translation-btn" onclick="window._toggleDPT(${i})">▸ Tradução</button>
-              <a class="audio-btn" href="${escapeHtml(ttsUrl)}" target="_blank" rel="noopener" title="Ouvir pronúncia">🔊 Áudio</a>
+              <button class="audio-btn" onclick="window._speak('${ttsText}')" title="Ouvir pronúncia">🔊 Áudio</button>
             </div>
           </div>
         </div>`;

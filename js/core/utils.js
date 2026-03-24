@@ -36,13 +36,23 @@ function shuffleArray(arr) {
 }
 
 /**
- * Build a Google Translate TTS URL for a given text and language code.
- * @param {string} text - The text to convert to speech
+ * Speak text using the Web Speech API (no external requests needed).
+ * @param {string} text - The text to speak
  * @param {string} langCode - BCP-47 language code ('de', 'en', etc.)
- * @returns {string} The TTS URL
+ */
+function speak(text, langCode) {
+  if (!window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = langCode;
+  window.speechSynthesis.speak(utt);
+}
+
+/**
+ * @deprecated Use speak() instead. Kept for backwards compatibility.
  */
 function buildTTSUrl(text, langCode) {
-  return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(text)}&tl=${langCode}&client=tw-ob`;
+  return null;
 }
 
 /**
@@ -67,4 +77,4 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;');
 }
 
-export { getToday, addDays, shuffleArray, buildTTSUrl, getLangCode, escapeHtml };
+export { getToday, addDays, shuffleArray, speak, buildTTSUrl, getLangCode, escapeHtml };

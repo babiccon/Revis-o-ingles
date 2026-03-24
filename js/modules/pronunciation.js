@@ -3,7 +3,7 @@
  * Shows phoneme guides with IPA, descriptions, examples, and links to Forvo/YouTube.
  */
 
-import { escapeHtml, buildTTSUrl, getLangCode } from '../core/utils.js';
+import { escapeHtml, speak, getLangCode } from '../core/utils.js';
 import { ProgressStore } from '../core/progress.js';
 
 const LANG_NAMES = { german: 'Alemão', english: 'Inglês' };
@@ -74,6 +74,7 @@ const PronunciationModule = {
 
     const isDone = ProgressStore.isLessonComplete(lang, 'pronunciation', subLevel, sectionId);
     const langCode = getLangCode(lang);
+    window._speak = (text) => speak(text, langCode);
 
     const groupsHtml = (section.phoneme_groups || []).map(group => `
       <div class="content-section">
@@ -114,13 +115,13 @@ const PronunciationModule = {
    */
   _renderPhoneme(p, langCode) {
     const examplesHtml = (p.examples || []).map(ex => {
-      const ttsUrl = buildTTSUrl(ex.word, langCode);
+      const safeWord = ex.word.replace(/'/g, "\\'");
       return `
         <div class="phoneme-example">
           <strong>${escapeHtml(ex.word)}</strong>
           <span class="phoneme-ipa-small">${escapeHtml(ex.phonetic || '')}</span>
           <span class="phoneme-meaning">— ${escapeHtml(ex.translation)}</span>
-          <a class="audio-btn" href="${escapeHtml(ttsUrl)}" target="_blank" rel="noopener" title="Ouvir">🔊</a>
+          <button class="audio-btn" onclick="window._speak('${safeWord}')" title="Ouvir pronúncia">🔊</button>
         </div>`;
     }).join('');
 
