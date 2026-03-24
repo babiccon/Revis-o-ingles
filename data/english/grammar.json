@@ -1267,6 +1267,686 @@
       ],
       "sub_level": "A2.2",
       "title_pt": "Present Perfect"
+    },
+    {
+      "id": 9,
+      "level": "A2",
+      "sub_level": "A2.2",
+      "topic": "Passive Voice — Introduction",
+      "title_pt": "Voz Passiva — Introdução",
+      "explanation": "A voz passiva é usada quando o foco da frase está na AÇÃO ou no OBJETO que recebe a ação, e não em quem a pratica. Em português, usamos bastante a voz passiva: 'O livro foi escrito por J.K. Rowling', 'A janela foi quebrada'. Em inglês, a lógica é a mesma! A estrutura básica é: sujeito + verbo 'to be' (conjugado) + particípio passado (+ 'by' + agente, opcional). Exemplos: 'The book was written by Rowling', 'The window was broken', 'English is spoken in many countries'. Perceba que na voz ativa dizemos 'J.K. Rowling wrote the book' — quem fez a ação vem primeiro. Na voz passiva, o objeto da ação ('the book') vira o sujeito. O agente ('by Rowling') é opcional — muitas vezes não sabemos ou não importa quem fez. A voz passiva é muito comum em inglês formal, notícias e textos científicos: 'The results were published in 2023', 'The suspect was arrested', 'Mistakes were made'.",
+      "tips": [
+        "Dica rápida: voz passiva = to be + particípio passado. 'The cake WAS EATEN' (bolo foi comido), 'The cars ARE MADE in Brazil' (carros são feitos no Brasil)",
+        "O 'by' é opcional — só use quando o agente é importante ou desconhecido: 'The Mona Lisa was painted by da Vinci' (importante). 'My bike was stolen' (não sabemos por quem)",
+        "Para identificar voz passiva: procure 'to be' seguido de um particípio passado (-ed ou forma irregular)",
+        "Em notícias, é muito comum: 'Three people were injured', 'The president was elected', 'The building was destroyed'",
+        "Cuidado com o tempo verbal: presente → 'is/are + particípio', passado → 'was/were + particípio'"
+      ],
+      "rules": [
+        "Estrutura: sujeito + to be (conjugado) + particípio passado (+ by + agente)",
+        "Presente simples passivo: am/is/are + particípio (English is spoken here)",
+        "Passado simples passivo: was/were + particípio (The letter was sent yesterday)",
+        "Agente com 'by': use apenas quando o agente é relevante (The book was written by Orwell)",
+        "Omissão do agente: comum quando o agente é desconhecido ou irrelevante (The car was stolen)"
+      ],
+      "examples": [
+        {
+          "en": "The book was written by J.K. Rowling.",
+          "pt": "O livro foi escrito por J.K. Rowling.",
+          "note": "Passado simples passivo com agente"
+        },
+        {
+          "en": "English is spoken in many countries.",
+          "pt": "O inglês é falado em muitos países.",
+          "note": "Presente simples passivo sem agente"
+        },
+        {
+          "en": "The window was broken.",
+          "pt": "A janela foi quebrada.",
+          "note": "Passado simples passivo sem agente"
+        },
+        {
+          "en": "The results were published last year.",
+          "pt": "Os resultados foram publicados no ano passado.",
+          "note": "Passado simples passivo com expressão de tempo"
+        },
+        {
+          "en": "Coffee is grown in Brazil.",
+          "pt": "O café é cultivado no Brasil.",
+          "note": "Presente simples passivo — fato geral"
+        },
+        {
+          "en": "My phone was repaired yesterday.",
+          "pt": "Meu celular foi consertado ontem.",
+          "note": "Passado simples passivo no cotidiano"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "The book was wrote by Rowling.",
+          "correct": "The book was written by Rowling.",
+          "explanation": "Use o particípio passado, não o passado simples: 'write → written', não 'wrote'."
+        },
+        {
+          "wrong": "The window is broke.",
+          "correct": "The window is broken.",
+          "explanation": "O particípio de 'break' é 'broken', não 'broke' (que é o past simple)."
+        },
+        {
+          "wrong": "The letter were sent.",
+          "correct": "The letter was sent.",
+          "explanation": "'The letter' é singular, então use 'was', não 'were'."
+        },
+        {
+          "wrong": "The cars is made in Brazil.",
+          "correct": "The cars are made in Brazil.",
+          "explanation": "'The cars' é plural, então use 'are', não 'is'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "O livro foi escrito por ela.",
+          "back": "The book was written by her."
+        },
+        {
+          "front": "O inglês é falado no mundo todo.",
+          "back": "English is spoken all over the world."
+        },
+        {
+          "front": "A janela foi quebrada.",
+          "back": "The window was broken."
+        },
+        {
+          "front": "O café é cultivado no Brasil.",
+          "back": "Coffee is grown in Brazil."
+        },
+        {
+          "front": "O email foi enviado ontem.",
+          "back": "The email was sent yesterday."
+        },
+        {
+          "front": "Os resultados foram publicados.",
+          "back": "The results were published."
+        },
+        {
+          "front": "Meu carro foi roubado.",
+          "back": "My car was stolen."
+        },
+        {
+          "front": "Esse filme foi dirigido por Spielberg.",
+          "back": "This movie was directed by Spielberg."
+        },
+        {
+          "front": "A ponte foi construída em 1990.",
+          "back": "The bridge was built in 1990."
+        },
+        {
+          "front": "O arroz é vendido em todo supermercado.",
+          "back": "Rice is sold in every supermarket."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The Eiffel Tower ___ in 1889.",
+          "options": [
+            "built",
+            "was built",
+            "is built",
+            "were built"
+          ],
+          "answer": 1,
+          "explanation": "Passado simples passivo com sujeito singular: 'was built'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Portuguese ___ in Brazil.",
+          "options": [
+            "speaks",
+            "is spoken",
+            "was spoken",
+            "are spoken"
+          ],
+          "answer": 1,
+          "explanation": "Presente simples passivo para fatos gerais com sujeito singular: 'is spoken'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The emails ___ (send) every morning.",
+          "answer": "are sent",
+          "explanation": "Presente simples passivo com sujeito plural: 'are sent'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase está na voz passiva?",
+          "options": [
+            "She wrote the report.",
+            "The report was written by her.",
+            "She was writing the report.",
+            "She has written the report."
+          ],
+          "answer": 1,
+          "explanation": "'The report was written by her' = voz passiva (to be + particípio passado)."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Three people ___ (injure) in the accident.",
+          "answer": "were injured",
+          "explanation": "Passado simples passivo com sujeito plural: 'were injured'."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "level": "A2",
+      "sub_level": "A2.2",
+      "topic": "Conditionals Type 0 and 1",
+      "title_pt": "Condicionais Tipo 0 e 1",
+      "explanation": "Os condicionais são frases com 'if' (se) que expressam condições e suas consequências. No nível A2, focamos nos Tipos 0 e 1. O TIPO 0 (Zero Conditional) é usado para verdades universais, fatos científicos e situações que SEMPRE acontecem: 'If you heat water to 100°C, it boils.' Não importa quando — sempre que você aquecer água a 100°C, ela vai ferver. Estrutura: If + present simple, present simple. O TIPO 1 (First Conditional) é usado para situações REAIS e POSSÍVEIS no futuro — coisas que podem realmente acontecer: 'If it rains tomorrow, I will stay home.' É possível chover amanhã, e SE isso acontecer, vou ficar em casa. Estrutura: If + present simple, will + verbo base. Uma dica importante: a cláusula com 'if' pode vir no início ou no final da frase! 'If it rains, I will stay home' = 'I will stay home if it rains.' Quando o 'if' vem no início, use vírgula. Quando vem no final, não precisa de vírgula.",
+      "tips": [
+        "Tipo 0 (verdades): If + presente, presente. 'If you freeze water, it becomes ice.' — sempre verdade",
+        "Tipo 1 (futuro possível): If + presente, will + verbo. NUNCA use 'will' depois de 'if': 'If it will rain' está errado!",
+        "Posição do 'if': pode vir antes ou depois. Com vírgula quando 'if' é a primeira palavra: 'If it rains, I'll stay.' Sem vírgula quando 'if' é a segunda parte: 'I'll stay if it rains.'",
+        "Contrações são muito comuns na fala: 'I'll' (I will), 'you'll', 'it'll', 'won't' (will not)",
+        "Palavras de alerta para Tipo 1: tomorrow, next week, soon, this weekend — indicam futuro possível"
+      ],
+      "rules": [
+        "Tipo 0: If + presente simples, presente simples (fatos e verdades universais)",
+        "Tipo 1: If + presente simples, will + verbo base (situações reais e possíveis no futuro)",
+        "NUNCA use 'will' na cláusula com 'if': 'If it rains' (correto), 'If it will rain' (errado)",
+        "A ordem das cláusulas pode ser invertida: 'I'll call you if I'm late' = 'If I'm late, I'll call you'",
+        "Com vírgula quando 'if' inicia a frase; sem vírgula quando 'will' inicia"
+      ],
+      "examples": [
+        {
+          "en": "If you heat ice, it melts.",
+          "pt": "Se você aquecer gelo, ele derrete.",
+          "note": "Tipo 0 — verdade universal"
+        },
+        {
+          "en": "If it rains tomorrow, I will stay home.",
+          "pt": "Se chover amanhã, vou ficar em casa.",
+          "note": "Tipo 1 — situação futura possível"
+        },
+        {
+          "en": "If you don't sleep enough, you feel tired.",
+          "pt": "Se você não dorme o suficiente, você fica cansado.",
+          "note": "Tipo 0 — consequência habitual"
+        },
+        {
+          "en": "If she studies hard, she will pass the exam.",
+          "pt": "Se ela estudar bastante, ela vai passar na prova.",
+          "note": "Tipo 1 — resultado futuro provável"
+        },
+        {
+          "en": "I will call you if I'm late.",
+          "pt": "Vou te ligar se eu me atrasar.",
+          "note": "Tipo 1 — 'if' no final, sem vírgula"
+        },
+        {
+          "en": "If you mix red and blue, you get purple.",
+          "pt": "Se você misturar vermelho e azul, você obtém roxo.",
+          "note": "Tipo 0 — fato científico"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "If it will rain, I will stay home.",
+          "correct": "If it rains, I will stay home.",
+          "explanation": "Nunca use 'will' na cláusula com 'if' no Tipo 1. Use presente simples após 'if'."
+        },
+        {
+          "wrong": "If she studies hard, she pass the exam.",
+          "correct": "If she studies hard, she will pass the exam.",
+          "explanation": "No Tipo 1, a cláusula resultado usa 'will + verbo base'."
+        },
+        {
+          "wrong": "If you will mix red and blue, you get purple.",
+          "correct": "If you mix red and blue, you get purple.",
+          "explanation": "No Tipo 0, use presente simples em ambas as cláusulas. Sem 'will'."
+        },
+        {
+          "wrong": "If I'm late, I will called you.",
+          "correct": "If I'm late, I will call you.",
+          "explanation": "Após 'will', use o verbo na forma base (infinitivo): 'call', não 'called'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Se chover amanhã, vou ficar em casa.",
+          "back": "If it rains tomorrow, I will stay home."
+        },
+        {
+          "front": "Se você aquecer gelo, ele derrete. (Tipo 0)",
+          "back": "If you heat ice, it melts."
+        },
+        {
+          "front": "Se ela estudar muito, vai passar.",
+          "back": "If she studies hard, she will pass."
+        },
+        {
+          "front": "Se você não comer, vai ficar com fome.",
+          "back": "If you don't eat, you will be hungry."
+        },
+        {
+          "front": "Vou te ligar se eu me atrasar.",
+          "back": "I will call you if I'm late."
+        },
+        {
+          "front": "Se você misturar vermelho e azul, obtém roxo.",
+          "back": "If you mix red and blue, you get purple."
+        },
+        {
+          "front": "Se ele não sair agora, vai perder o ônibus.",
+          "back": "If he doesn't leave now, he will miss the bus."
+        },
+        {
+          "front": "Se você não dormir bem, fica cansado. (Tipo 0)",
+          "back": "If you don't sleep well, you feel tired."
+        },
+        {
+          "front": "Vou comprar o ingresso se o show não estiver lotado.",
+          "back": "I will buy the ticket if the show isn't sold out."
+        },
+        {
+          "front": "Se você pressionar esse botão, a luz acende. (Tipo 0)",
+          "back": "If you press this button, the light turns on."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "If it ___ tomorrow, we will cancel the picnic.",
+          "options": [
+            "will rain",
+            "rains",
+            "rained",
+            "is raining"
+          ],
+          "answer": 1,
+          "explanation": "No Tipo 1, use presente simples após 'if': 'rains'. Nunca 'will rain' após 'if'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "If you heat water to 100°C, it ___. (Tipo 0)",
+          "options": [
+            "will boil",
+            "boils",
+            "boiled",
+            "boiling"
+          ],
+          "answer": 1,
+          "explanation": "Tipo 0 usa presente simples em ambas as partes: 'boils'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "If she ___ (study) every day, she will speak English fluently.",
+          "answer": "studies",
+          "explanation": "Presente simples na cláusula 'if': 'she studies' (3ª pessoa + s)."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I ___ you if I need help.",
+          "options": [
+            "call",
+            "will call",
+            "called",
+            "am calling"
+          ],
+          "answer": 1,
+          "explanation": "Na cláusula resultado do Tipo 1: 'will + verbo base' = 'will call'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "If you mix yellow and blue, you ___ (get) green. (Tipo 0)",
+          "answer": "get",
+          "explanation": "Tipo 0 — fato universal: presente simples em ambas as partes: 'you get'."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "level": "A2",
+      "sub_level": "A2.2",
+      "topic": "Common Phrasal Verbs",
+      "title_pt": "Phrasal Verbs Comuns",
+      "explanation": "Phrasal verbs são combinações de um VERBO + uma PREPOSIÇÃO ou ADVÉRBIO que juntos criam um significado NOVO e diferente do verbo original. Eles são onipresentes no inglês cotidiano — nativos os usam constantemente! 'Look' significa 'olhar', mas 'look for' significa 'procurar'. 'Give' é 'dar', mas 'give up' é 'desistir'. 'Turn' é 'girar', mas 'turn on' é 'ligar (aparelho)'. É como se fossem expressões idiomáticas — você não pode adivinhar o significado só pelas partes. Por isso é fundamental aprendê-los em contexto. Os mais importantes para o A2 incluem: look for (procurar), give up (desistir), turn on/off (ligar/desligar), put off (adiar), find out (descobrir), pick up (pegar/buscar), wake up (acordar), run out of (ficar sem), get on/off (embarcar/desembarcar), look forward to (estar ansioso para), take off (decolar/tirar), break down (quebrar/parar de funcionar). Muitos phrasal verbs são SEPARÁVEIS — o objeto pode vir entre o verbo e a partícula: 'Turn the TV on' ou 'Turn on the TV'. Mas com pronomes, SEMPRE separe: 'Turn it on' (nunca 'Turn on it').",
+      "tips": [
+        "Aprenda phrasal verbs em contexto e em frases completas, não isolados — fica muito mais fácil memorizar",
+        "Separáveis: 'Turn on the TV' = 'Turn the TV on'. Com pronome, SEMPRE entre: 'Turn it on' (nunca 'turn on it')",
+        "Inseparáveis: o objeto SEMPRE vem depois da partícula: 'look for my keys' (nunca 'look my keys for')",
+        "Os mais frequentes do dia a dia: wake up, pick up, give up, find out, turn on/off, put off, look for, run out of",
+        "Uma boa estratégia: quando aprender um verbo novo, pesquise os phrasal verbs mais comuns que ele forma"
+      ],
+      "rules": [
+        "Estrutura: verbo + preposição/advérbio = novo significado (look + for = procurar)",
+        "Separáveis: objeto pode vir antes ou depois da partícula (turn on the TV / turn the TV on)",
+        "Com pronomes, sempre separe: 'turn it on', 'pick it up', 'give it up' (NUNCA 'turn on it')",
+        "Inseparáveis: objeto sempre após a partícula (look for something — nunca 'look something for')",
+        "O mesmo verbo pode ter significados diferentes com partículas diferentes (get up, get on, get off, get out)"
+      ],
+      "examples": [
+        {
+          "en": "I'm looking for my keys.",
+          "pt": "Estou procurando minhas chaves.",
+          "note": "look for = procurar (inseparável)"
+        },
+        {
+          "en": "Don't give up! You can do it.",
+          "pt": "Não desista! Você consegue.",
+          "note": "give up = desistir"
+        },
+        {
+          "en": "Can you turn on the lights, please?",
+          "pt": "Você pode ligar as luzes, por favor?",
+          "note": "turn on = ligar (separável)"
+        },
+        {
+          "en": "He put off the meeting until Friday.",
+          "pt": "Ele adiou a reunião para sexta.",
+          "note": "put off = adiar"
+        },
+        {
+          "en": "I found out she was moving to London.",
+          "pt": "Descobri que ela estava se mudando para Londres.",
+          "note": "find out = descobrir"
+        },
+        {
+          "en": "We ran out of coffee this morning.",
+          "pt": "Ficamos sem café esta manhã.",
+          "note": "run out of = ficar sem algo"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "I'm looking my keys for.",
+          "correct": "I'm looking for my keys.",
+          "explanation": "'Look for' é inseparável — o objeto sempre vem depois: 'looking for my keys'."
+        },
+        {
+          "wrong": "Turn on it.",
+          "correct": "Turn it on.",
+          "explanation": "Com pronomes, phrasal verbs separáveis sempre ficam divididos: 'turn it on', não 'turn on it'."
+        },
+        {
+          "wrong": "She gave up to study.",
+          "correct": "She gave up studying.",
+          "explanation": "Após 'give up', use gerúndio (-ing): 'gave up studying', não 'gave up to study'."
+        },
+        {
+          "wrong": "I put off it.",
+          "correct": "I put it off.",
+          "explanation": "Com pronomes, separe o phrasal verb: 'put it off', não 'put off it'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "procurar (phrasal verb)",
+          "back": "look for"
+        },
+        {
+          "front": "desistir (phrasal verb)",
+          "back": "give up"
+        },
+        {
+          "front": "ligar (aparelho)",
+          "back": "turn on"
+        },
+        {
+          "front": "desligar (aparelho)",
+          "back": "turn off"
+        },
+        {
+          "front": "adiar",
+          "back": "put off"
+        },
+        {
+          "front": "descobrir (informação)",
+          "back": "find out"
+        },
+        {
+          "front": "ficar sem (algo)",
+          "back": "run out of"
+        },
+        {
+          "front": "pegar / buscar alguém",
+          "back": "pick up"
+        },
+        {
+          "front": "acordar",
+          "back": "wake up"
+        },
+        {
+          "front": "decolar (avião) / tirar (roupa)",
+          "back": "take off"
+        },
+        {
+          "front": "estar ansioso para",
+          "back": "look forward to"
+        },
+        {
+          "front": "quebrar / parar de funcionar",
+          "back": "break down"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I can't find my phone. I've been ___ it for an hour.",
+          "options": [
+            "looking for",
+            "looking after",
+            "looking up",
+            "looking at"
+          ],
+          "answer": 0,
+          "explanation": "'Look for' = procurar. 'Looking for it for an hour' = procurando há uma hora."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The meeting was ___ because the manager was sick.",
+          "options": [
+            "put on",
+            "put off",
+            "put up",
+            "put in"
+          ],
+          "answer": 1,
+          "explanation": "'Put off' = adiar. A reunião foi adiada."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The TV is too loud. Can you turn ___ ___? (desligar)",
+          "answer": "it off",
+          "explanation": "Com pronome, separe o phrasal verb: 'turn it off'. Não 'turn off it'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ smoking after the doctor's advice.",
+          "options": [
+            "gave up",
+            "gave off",
+            "gave in",
+            "gave out"
+          ],
+          "answer": 0,
+          "explanation": "'Give up' = desistir/parar de fazer algo. 'She gave up smoking' = ela parou de fumar."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We ___ (run out of) milk. Can you buy some?",
+          "answer": "ran out of",
+          "explanation": "'Run out of' = ficar sem. Passado: 'ran out of'."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "level": "A2",
+      "sub_level": "A2.2",
+      "topic": "Reported Speech — Introduction",
+      "title_pt": "Discurso Indireto — Introdução",
+      "explanation": "O Reported Speech (Discurso Indireto) é como repetimos o que alguém disse, sem usar as palavras exatas da pessoa. Em português: João disse: 'Estou cansado' → João disse que ESTAVA cansado. Em inglês funciona de forma similar, mas com algumas mudanças importantes! Quando usamos o verbo 'say' ou 'tell' no passado ('said', 'told'), os tempos verbais geralmente 'recuam' um passo no passado: Present Simple → Past Simple ('I am tired' → He said he WAS tired), Present Continuous → Past Continuous ('I am working' → She said she WAS WORKING), Past Simple → Past Perfect ('I went' → He said he HAD GONE). Os pronomes também mudam: 'I' pode virar 'he/she/they', 'my' vira 'his/her/their', etc. Uma diferença importante: 'say' vs 'tell'. 'Tell' SEMPRE precisa de objeto (pessoa): 'She told ME she was tired'. 'Say' não precisa de objeto ou usa 'to': 'She said (to me) she was tired'. Para o nível A2, foque principalmente na mudança de Present Simple para Past Simple.",
+      "tips": [
+        "Regra principal: presente vira passado no discurso indireto. 'I am' → he/she said he/she WAS. 'I work' → she said she WORKED",
+        "SAY vs TELL: 'tell' exige a pessoa (told me, told her). 'Say' não exige: 'She said she was tired' ou 'She said to me she was tired'",
+        "Os pronomes mudam: 'I am tired' (direto) → he said he was tired (indireto). 'My' → his/her, 'you' → I/he/she",
+        "No inglês conversacional, às vezes a mudança de tempo não acontece quando a informação ainda é verdadeira: 'She said she IS from Brazil' (ainda é verdade)",
+        "Verbos mais usados para introduzir discurso indireto: said, told, asked, mentioned, explained, added"
+      ],
+      "rules": [
+        "Estrutura: said/told + (that) + frase (o 'that' é opcional: 'She said she was tired' = 'She said that she was tired')",
+        "Mudança de tempo: presente simples → passado simples (am/is/are → was/were; work → worked)",
+        "Mudança de pronomes: 'I' → he/she; 'my' → his/her; 'we' → they; 'you' → I/he/she",
+        "TELL sempre com objeto (pessoa): told me, told him, told them. Nunca 'told that...' sem pessoa",
+        "SAY: sem objeto direto ou com 'to + pessoa': said, said to me, said to her"
+      ],
+      "examples": [
+        {
+          "en": "Direct: \"I am tired.\" Reported: He said he was tired.",
+          "pt": "Direto: 'Estou cansado.' Indireto: Ele disse que estava cansado.",
+          "note": "am → was (presente → passado)"
+        },
+        {
+          "en": "Direct: \"I love pizza.\" Reported: She said she loved pizza.",
+          "pt": "Direto: 'Eu amo pizza.' Indireto: Ela disse que amava pizza.",
+          "note": "love → loved"
+        },
+        {
+          "en": "She told me she was working late.",
+          "pt": "Ela me disse que estava trabalhando até tarde.",
+          "note": "told + objeto (me) + discurso indireto"
+        },
+        {
+          "en": "He said he didn't understand the question.",
+          "pt": "Ele disse que não entendia a pergunta.",
+          "note": "don't → didn't"
+        },
+        {
+          "en": "They said they were going to the party.",
+          "pt": "Eles disseram que iam para a festa.",
+          "note": "are going → were going"
+        },
+        {
+          "en": "My teacher told us the exam was on Friday.",
+          "pt": "Minha professora nos disse que a prova era na sexta.",
+          "note": "told + us (objeto) + discurso indireto"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "He said me he was tired.",
+          "correct": "He told me he was tired. / He said he was tired.",
+          "explanation": "'Say' não leva objeto direto (pessoa). Use 'told me' ou 'said (to me)'."
+        },
+        {
+          "wrong": "She said that she is tired.",
+          "correct": "She said that she was tired.",
+          "explanation": "No discurso indireto, o presente vira passado: 'is' → 'was'."
+        },
+        {
+          "wrong": "He told that he was hungry.",
+          "correct": "He said that he was hungry. / He told me that he was hungry.",
+          "explanation": "'Tell' exige objeto (pessoa): 'told me/him/her'. Sem pessoa, use 'said'."
+        },
+        {
+          "wrong": "She said she didn't went to the party.",
+          "correct": "She said she didn't go to the party.",
+          "explanation": "Após 'didn't', use o verbo na forma base: 'go', não 'went'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "\"I am tired.\" → Discurso indireto",
+          "back": "He said he was tired."
+        },
+        {
+          "front": "\"I love coffee.\" → Discurso indireto (ela)",
+          "back": "She said she loved coffee."
+        },
+        {
+          "front": "\"We are leaving.\" → Discurso indireto",
+          "back": "They said they were leaving."
+        },
+        {
+          "front": "\"I don't know the answer.\" → Discurso indireto (ele)",
+          "back": "He said he didn't know the answer."
+        },
+        {
+          "front": "Ela me disse que estava trabalhando.",
+          "back": "She told me she was working."
+        },
+        {
+          "front": "\"I work here.\" → Discurso indireto (ele)",
+          "back": "He said he worked there."
+        },
+        {
+          "front": "Ele disse que estava com fome.",
+          "back": "He said he was hungry."
+        },
+        {
+          "front": "Eles nos disseram que a reunião foi cancelada.",
+          "back": "They told us the meeting was cancelled."
+        },
+        {
+          "front": "\"My name is Ana.\" → Discurso indireto",
+          "back": "She said her name was Ana."
+        },
+        {
+          "front": "Minha amiga disse que amava viajar.",
+          "back": "My friend said she loved travelling."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Direct speech: \"I am happy.\" Reported: She said she ___ happy.",
+          "options": [
+            "is",
+            "was",
+            "were",
+            "be"
+          ],
+          "answer": 1,
+          "explanation": "No discurso indireto, 'am/is' → 'was': 'she said she WAS happy'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "He ___ me he was going to be late.",
+          "options": [
+            "said",
+            "told",
+            "speak",
+            "tell"
+          ],
+          "answer": 1,
+          "explanation": "'Tell' exige objeto (me, him, her, us): 'told me'. 'Said me' é incorreto."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Direct: \"I work in London.\" Reported: He said he ___ in London.",
+          "answer": "worked",
+          "explanation": "No discurso indireto, presente simples → passado simples: 'work' → 'worked'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Direct: \"We love this city.\" Reported: They said they ___ the city.",
+          "options": [
+            "love",
+            "loved",
+            "are loving",
+            "have loved"
+          ],
+          "answer": 1,
+          "explanation": "Presente simples 'love' → passado simples 'loved' no discurso indireto."
+        },
+        {
+          "type": "fill_blank",
+          "question": "My friend ___ (tell) me she ___ (be) tired after the trip.",
+          "answer": "told ... was",
+          "explanation": "'Tell' com objeto: 'told me'. Presente 'is' → passado 'was' no discurso indireto."
+        }
+      ]
     }
   ]
 }

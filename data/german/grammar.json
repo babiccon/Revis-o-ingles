@@ -1983,6 +1983,732 @@
           "explanation": "denn é conjunção coordenativa — o verbo continua em segunda posição"
         }
       ]
+    },
+    {
+      "id": 23,
+      "sub_level": "A1.3",
+      "title": "Adjectives — Predicative vs Attributive",
+      "title_pt": "Adjetivos — Predicativos vs Atributivos",
+      "explanation": "Em alemão, adjetivos podem ser usados de duas formas: predicativa (após o verbo 'sein') ou atributiva (antes do substantivo). Na forma predicativa, o adjetivo não muda; na forma atributiva, o adjetivo recebe uma terminação que depende do gênero, número e caso do substantivo.",
+      "rules": [
+        "Predicativo (após sein/werden): o adjetivo não tem terminação — 'Das Haus ist groß.'",
+        "Atributivo (antes do substantivo): o adjetivo recebe terminação — 'ein großes Haus'",
+        "Terminações atributivas com artigo definido (Nominativo): der alte Mann, die alte Frau, das alte Haus",
+        "Terminações atributivas com artigo indefinido (Nominativo): ein alter Mann, eine alte Frau, ein altes Haus",
+        "A terminação forte (-er, -e, -es) aparece quando o artigo não indica o gênero claramente"
+      ],
+      "tips": [
+        "Para A1, foque primeiro no predicativo — é mais simples e muito comum no dia a dia",
+        "Lembre: após 'sein' o adjetivo nunca muda: 'Er ist müde', 'Sie ist müde', 'Es ist müde'"
+      ],
+      "examples": [
+        {
+          "de": "Das Haus ist groß.",
+          "pt": "A casa é grande.",
+          "note": "predicativo — sem terminação"
+        },
+        {
+          "de": "Das ist ein großes Haus.",
+          "pt": "Esta é uma casa grande.",
+          "note": "atributivo — terminação -es (neutro, indefinido)"
+        },
+        {
+          "de": "Der Mann ist alt.",
+          "pt": "O homem é velho.",
+          "note": "predicativo"
+        },
+        {
+          "de": "Ein alter Mann sitzt dort.",
+          "pt": "Um homem velho está sentado ali.",
+          "note": "atributivo — terminação -er (masculino, indefinido)"
+        },
+        {
+          "de": "Die Suppe ist heiß.",
+          "pt": "A sopa está quente.",
+          "note": "predicativo"
+        },
+        {
+          "de": "Ich esse eine heiße Suppe.",
+          "pt": "Eu como uma sopa quente.",
+          "note": "atributivo — terminação -e (feminino, indefinido, acusativo)"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Das Haus ist großes.",
+          "correct": "Das Haus ist groß.",
+          "explanation": "Na posição predicativa (após sein), o adjetivo nunca recebe terminação"
+        },
+        {
+          "wrong": "Ein groß Haus.",
+          "correct": "Ein großes Haus.",
+          "explanation": "Na posição atributiva antes do substantivo, o adjetivo SEMPRE precisa de terminação"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Como se diz 'a casa é grande' em alemão?",
+          "back": "Das Haus ist groß. (predicativo — sem terminação)"
+        },
+        {
+          "front": "Como se diz 'uma casa grande' em alemão?",
+          "back": "ein großes Haus (atributivo — terminação -es para neutro)"
+        },
+        {
+          "front": "Qual é a terminação de adjetivo atributivo para masculino com artigo indefinido no Nominativo?",
+          "back": "-er → ein alter Mann"
+        },
+        {
+          "front": "O adjetivo predicativo muda conforme o gênero?",
+          "back": "Não! 'Er ist müde', 'Sie ist müde', 'Es ist müde' — sempre igual"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase usa o adjetivo de forma PREDICATIVA?",
+          "options": [
+            "Ein kaltes Bier.",
+            "Das Bier ist kalt.",
+            "Ich trinke ein kaltes Bier.",
+            "Der kalte Mann."
+          ],
+          "answer": 1,
+          "explanation": "Predicativo = após o verbo 'sein'. 'Das Bier ist kalt' — o adjetivo 'kalt' não tem terminação."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Das ist ein ___ (klein) Kind. (atributivo, neutro, indefinido)",
+          "answer": "kleines",
+          "explanation": "Atributivo com artigo indefinido para neutro no Nominativo: terminação -es → kleines"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "sub_level": "A1.3",
+      "title": "Comparative and Superlative",
+      "title_pt": "Comparativo e Superlativo",
+      "explanation": "Em alemão, o comparativo é formado adicionando '-er' ao adjetivo, e o superlativo usa 'am ...-(e)sten'. Muitos adjetivos curtos e comuns têm formas irregulares que precisam ser memorizadas. O comparativo pode ser usado de forma predicativa (após sein) ou atributiva (antes do substantivo, com terminações).",
+      "rules": [
+        "Comparativo: adjetivo + -er → klein → kleiner, schnell → schneller",
+        "Superlativo predicativo: am + adjetivo + -(e)sten → am kleinsten, am schnellsten",
+        "Comparativo com 'als' para comparar: 'Er ist größer als sie.' (Ele é mais alto que ela.)",
+        "Igualdade com 'so...wie': 'Er ist so groß wie sie.' (Ele é tão alto quanto ela.)",
+        "Irregulares comuns: gut → besser → am besten | viel → mehr → am meisten | groß → größer → am größten | alt → älter → am ältesten",
+        "Adjetivos terminados em -d, -t, -s, -ß, -z formam superlativo com -(e)sten: heiß → am heißesten"
+      ],
+      "tips": [
+        "Muitos adjetivos curtos com vogal a/o/u fazem Umlaut no comparativo: alt→älter, groß→größer, jung→jünger",
+        "Para A1, foque no comparativo predicativo (após sein) — é o uso mais frequente no início"
+      ],
+      "examples": [
+        {
+          "de": "Das Auto ist schnell.",
+          "pt": "O carro é rápido.",
+          "note": "positivo"
+        },
+        {
+          "de": "Das Motorrad ist schneller.",
+          "pt": "A moto é mais rápida.",
+          "note": "comparativo predicativo"
+        },
+        {
+          "de": "Das Flugzeug ist am schnellsten.",
+          "pt": "O avião é o mais rápido.",
+          "note": "superlativo predicativo"
+        },
+        {
+          "de": "Er ist größer als sein Bruder.",
+          "pt": "Ele é mais alto que seu irmão.",
+          "note": "comparativo com 'als'"
+        },
+        {
+          "de": "Sie ist so alt wie er.",
+          "pt": "Ela tem a mesma idade que ele.",
+          "note": "igualdade com 'so...wie'"
+        },
+        {
+          "de": "Dieses Buch ist besser als jenes.",
+          "pt": "Este livro é melhor que aquele.",
+          "note": "irregular: gut → besser"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Er ist mehr groß als sie.",
+          "correct": "Er ist größer als sie.",
+          "explanation": "Em alemão, o comparativo é formado com o sufixo -er, não com 'mehr' (exceto para adjetivos longos em contextos específicos)"
+        },
+        {
+          "wrong": "Das ist am gutsten.",
+          "correct": "Das ist am besten.",
+          "explanation": "'gut' tem superlativo irregular: am besten"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Como formar o comparativo em alemão?",
+          "back": "adjetivo + -er: schnell → schneller, klein → kleiner"
+        },
+        {
+          "front": "Como formar o superlativo predicativo?",
+          "back": "am + adjetivo + -(e)sten: am schnellsten, am kleinsten"
+        },
+        {
+          "front": "Qual é o comparativo de 'gut'?",
+          "back": "besser (irregular)"
+        },
+        {
+          "front": "Como dizer 'maior que' em alemão?",
+          "back": "größer als → Er ist größer als sie."
+        },
+        {
+          "front": "Como dizer 'tão grande quanto'?",
+          "back": "so groß wie → Er ist so groß wie sie."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é o superlativo de 'groß'?",
+          "options": [
+            "am großsten",
+            "am größten",
+            "am größesten",
+            "am meistgroßen"
+          ],
+          "answer": 1,
+          "explanation": "'groß' faz Umlaut no comparativo e superlativo: größer → am größten"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Dieses Restaurant ist ___ (gut) als das andere.",
+          "answer": "besser",
+          "explanation": "'gut' tem comparativo irregular: besser"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "sub_level": "A1.3",
+      "title": "Prepositions with Accusative",
+      "title_pt": "Preposições com Acusativo",
+      "explanation": "Em alemão, certas preposições exigem sempre o caso Acusativo. As principais são: durch (por/através de), für (para), gegen (contra), ohne (sem) e um (em volta de / às [horas]). Essas preposições devem ser memorizadas como um grupo, pois sempre governam o Acusativo.",
+      "rules": [
+        "Preposições acusativas fixas: durch, für, gegen, ohne, um (+ bis, entlang, wider)",
+        "Com artigo definido: der → den (masc.), die → die (fem.), das → das (neut.), die → die (pl.)",
+        "Com artigo indefinido: ein → einen (masc.), eine → eine (fem.), ein → ein (neut.)",
+        "durch = por, através de: 'durch den Park' (pelo parque)",
+        "für = para: 'für meinen Vater' (para meu pai)",
+        "gegen = contra: 'gegen die Wand' (contra a parede)",
+        "ohne = sem: 'ohne einen Grund' (sem um motivo)",
+        "um = em volta de / às: 'um den See' (ao redor do lago), 'um 8 Uhr' (às 8 horas)"
+      ],
+      "tips": [
+        "Memorize com uma frase: 'durch für gegen ohne um' — são sempre acusativo, sem exceção",
+        "A mudança mais visível é no masculino: der → den, ein → einen"
+      ],
+      "examples": [
+        {
+          "de": "Ich gehe durch den Park.",
+          "pt": "Eu vou pelo parque.",
+          "note": "durch + Acusativo: der Park → den Park"
+        },
+        {
+          "de": "Das ist ein Geschenk für dich.",
+          "pt": "Este é um presente para você.",
+          "note": "für + pronome acusativo"
+        },
+        {
+          "de": "Er kämpft gegen den Wind.",
+          "pt": "Ele luta contra o vento.",
+          "note": "gegen + Acusativo"
+        },
+        {
+          "de": "Sie geht ohne ihren Bruder.",
+          "pt": "Ela vai sem seu irmão.",
+          "note": "ohne + Acusativo"
+        },
+        {
+          "de": "Wir laufen um den See.",
+          "pt": "Nós corremos ao redor do lago.",
+          "note": "um + Acusativo"
+        },
+        {
+          "de": "Der Zug fährt um 9 Uhr ab.",
+          "pt": "O trem parte às 9 horas.",
+          "note": "um = às (horas)"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Das ist für der Mann.",
+          "correct": "Das ist für den Mann.",
+          "explanation": "'für' exige Acusativo: der Mann → den Mann"
+        },
+        {
+          "wrong": "Ich gehe ohne mein Bruder.",
+          "correct": "Ich gehe ohne meinen Bruder.",
+          "explanation": "'ohne' exige Acusativo: mein Bruder → meinen Bruder (masculino)"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Quais são as 5 preposições principais que exigem Acusativo?",
+          "back": "durch, für, gegen, ohne, um"
+        },
+        {
+          "front": "Como 'der' muda no Acusativo?",
+          "back": "der → den (apenas masculino muda)"
+        },
+        {
+          "front": "Como dizer 'para minha mãe'?",
+          "back": "für meine Mutter (feminino não muda no Acusativo)"
+        },
+        {
+          "front": "Como dizer 'sem um carro'?",
+          "back": "ohne ein Auto (neutro não muda no Acusativo)"
+        },
+        {
+          "front": "Como dizer 'através do túnel'?",
+          "back": "durch den Tunnel (der Tunnel → den Tunnel)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma correta? 'Das ist ein Geschenk ___ mein Vater.'",
+          "options": [
+            "für mein Vater",
+            "für meinen Vater",
+            "für meinem Vater",
+            "für meine Vater"
+          ],
+          "answer": 1,
+          "explanation": "'für' exige Acusativo. 'mein Vater' (masculino) → 'meinen Vater' no Acusativo"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Wir fahren ___ (durch) ___ (der) Tunnel.",
+          "answer": "durch den",
+          "explanation": "'durch' exige Acusativo: der Tunnel → den Tunnel"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "sub_level": "A1.3",
+      "title": "Subordinating Conjunctions: weil, dass, wenn",
+      "title_pt": "Conjunções Subordinativas: weil, dass, wenn",
+      "explanation": "As conjunções subordinativas 'weil' (porque), 'dass' (que) e 'wenn' (quando/se) introduzem orações subordinadas em alemão. A regra mais importante é que nas orações subordinadas o verbo conjugado vai sempre para o final da oração — diferente da ordem normal do alemão.",
+      "rules": [
+        "weil = porque: introduz causa — 'Ich lerne Deutsch, weil es interessant ist.'",
+        "dass = que: introduz complemento — 'Ich glaube, dass er kommt.'",
+        "wenn = quando (presente/futuro) ou se (condicional): 'Wenn ich Zeit habe, komme ich.'",
+        "REGRA PRINCIPAL: nas orações com conjunção subordinativa, o verbo conjugado vai para o FINAL",
+        "A vírgula sempre separa a oração principal da subordinada",
+        "Se a subordinada vier primeiro, a principal começa com o verbo: 'Weil es regnet, bleibe ich zuhause.'"
+      ],
+      "tips": [
+        "Lembre da regrinha: conjunção subordinativa = verbo no final da oração subordinada",
+        "Diferença: 'wenn' é sempre quando/se; 'als' é usado para passado único (será visto em A2)"
+      ],
+      "examples": [
+        {
+          "de": "Ich lerne Deutsch, weil es Spaß macht.",
+          "pt": "Eu aprendo alemão porque é divertido.",
+          "note": "weil → verbo 'macht' no final"
+        },
+        {
+          "de": "Er bleibt zuhause, weil er krank ist.",
+          "pt": "Ele fica em casa porque está doente.",
+          "note": "weil → 'ist' no final"
+        },
+        {
+          "de": "Ich weiß, dass du Recht hast.",
+          "pt": "Eu sei que você tem razão.",
+          "note": "dass → 'hast' no final"
+        },
+        {
+          "de": "Sie sagt, dass das Essen gut ist.",
+          "pt": "Ela diz que a comida é boa.",
+          "note": "dass → 'ist' no final"
+        },
+        {
+          "de": "Wenn ich Zeit habe, rufe ich an.",
+          "pt": "Quando eu tiver tempo, ligo.",
+          "note": "wenn primeiro → verbo 'rufe' inicia a principal"
+        },
+        {
+          "de": "Ich kaufe es, wenn es billig ist.",
+          "pt": "Eu compro se estiver barato.",
+          "note": "wenn = se (condicional)"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich lerne Deutsch, weil es ist interessant.",
+          "correct": "Ich lerne Deutsch, weil es interessant ist.",
+          "explanation": "Com 'weil', o verbo conjugado vai para o FINAL da oração subordinada"
+        },
+        {
+          "wrong": "Ich glaube, dass er kommt nicht.",
+          "correct": "Ich glaube, dass er nicht kommt.",
+          "explanation": "Com 'dass', todos os elementos incluindo 'nicht' vêm antes do verbo final"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "O que acontece com o verbo em orações com 'weil'?",
+          "back": "O verbo conjugado vai para o FINAL: 'weil es interessant ist'"
+        },
+        {
+          "front": "Como dizer 'porque estou cansado'?",
+          "back": "weil ich müde bin (verbo 'bin' no final)"
+        },
+        {
+          "front": "Como dizer 'eu sei que ela vem'?",
+          "back": "Ich weiß, dass sie kommt. (verbo 'kommt' no final)"
+        },
+        {
+          "front": "Quando usar 'wenn'?",
+          "back": "Para 'quando' no presente/futuro ou 'se' condicional: 'wenn ich Zeit habe'"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma CORRETA?",
+          "options": [
+            "Ich bleibe zuhause, weil es regnet kalt.",
+            "Ich bleibe zuhause, weil es kalt regnet.",
+            "Ich bleibe zuhause, weil es kalt ist.",
+            "Ich bleibe zuhause, weil ist es kalt."
+          ],
+          "answer": 2,
+          "explanation": "Com 'weil', o verbo conjugado ('ist') vai para o final da oração subordinada"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Er sagt, dass er morgen ___ (kommen).",
+          "answer": "kommt",
+          "explanation": "Com 'dass', o verbo conjugado vai para o final: 'dass er morgen kommt'"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "sub_level": "A1.3",
+      "title": "Präteritum of sein and haben (war, hatte)",
+      "title_pt": "Pretérito de sein e haben (war, hatte)",
+      "explanation": "Em alemão falado, o passado é geralmente expresso com o Perfekt. Porém, 'sein' e 'haben' são exceções — eles são usados quase sempre no Präteritum (passado simples) mesmo na fala cotidiana. 'war' é o passado de 'sein' (ser/estar) e 'hatte' é o passado de 'haben' (ter).",
+      "rules": [
+        "sein (ser/estar) no Präteritum: ich war, du warst, er/sie/es war, wir waren, ihr wart, sie/Sie waren",
+        "haben (ter) no Präteritum: ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie/Sie hatten",
+        "Usar Präteritum de sein/haben é preferível ao Perfekt mesmo na fala: 'Ich war müde' (não 'Ich bin müde gewesen')",
+        "Forma negativa: war nicht (não era/estava), hatte nicht (não tinha)",
+        "Pergunta: Warst du...? Hattest du...?"
+      ],
+      "tips": [
+        "Memorize 'war' e 'hatte' como palavras novas — elas são irregulares e muito frequentes",
+        "Sempre que quiser falar de algo no passado com sein/haben, use Präteritum diretamente: 'Ich war krank' = Eu estava doente"
+      ],
+      "examples": [
+        {
+          "de": "Ich war gestern krank.",
+          "pt": "Eu estava doente ontem.",
+          "note": "war = passado de sein"
+        },
+        {
+          "de": "Warst du in Berlin?",
+          "pt": "Você esteve em Berlim?",
+          "note": "pergunta com war"
+        },
+        {
+          "de": "Wir waren sehr müde.",
+          "pt": "Nós estávamos muito cansados.",
+          "note": "waren = plural de war"
+        },
+        {
+          "de": "Er hatte keine Zeit.",
+          "pt": "Ele não tinha tempo.",
+          "note": "hatte = passado de haben"
+        },
+        {
+          "de": "Hattest du Hunger?",
+          "pt": "Você estava com fome?",
+          "note": "pergunta com hatte"
+        },
+        {
+          "de": "Sie hatten viel Geld.",
+          "pt": "Eles tinham muito dinheiro.",
+          "note": "hatten = plural de hatte"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich bin gewesen krank.",
+          "correct": "Ich war krank.",
+          "explanation": "Para sein e haben, usa-se o Präteritum diretamente, não o Perfekt no cotidiano"
+        },
+        {
+          "wrong": "Wir war müde.",
+          "correct": "Wir waren müde.",
+          "explanation": "Com 'wir', a forma correta é 'waren', não 'war'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Como conjugar 'sein' no passado (Präteritum)?",
+          "back": "ich war, du warst, er/sie/es war, wir waren, ihr wart, sie waren"
+        },
+        {
+          "front": "Como conjugar 'haben' no passado (Präteritum)?",
+          "back": "ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie hatten"
+        },
+        {
+          "front": "Como dizer 'eu estava cansado'?",
+          "back": "Ich war müde."
+        },
+        {
+          "front": "Como dizer 'nós tínhamos fome'?",
+          "back": "Wir hatten Hunger."
+        },
+        {
+          "front": "Como perguntar 'você estava em casa?'",
+          "back": "Warst du zuhause?"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma correta de 'sein' no passado para 'wir'?",
+          "options": [
+            "wir war",
+            "wir warst",
+            "wir waren",
+            "wir wart"
+          ],
+          "answer": 2,
+          "explanation": "A conjugação de 'sein' no Präteritum para 'wir' é 'waren'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Er ___ (haben) gestern keine Zeit.",
+          "answer": "hatte",
+          "explanation": "O Präteritum de 'haben' para 'er' é 'hatte'"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "sub_level": "A1.3",
+      "title": "Two-way Prepositions (Wechselpräpositionen) — an, auf, in",
+      "title_pt": "Preposições de Dois Casos (Wechselpräpositionen) — an, auf, in",
+      "explanation": "As Wechselpräpositionen são preposições que podem governar tanto o Dativo quanto o Acusativo, dependendo do contexto. A regra fundamental é: Dativo responde à pergunta 'wo?' (onde? — posição/localização) e Acusativo responde à pergunta 'wohin?' (para onde? — movimento com destino). Para A1, as principais são: an, auf, in.",
+      "rules": [
+        "wo? (onde/posição) → Dativo: Das Buch liegt auf dem Tisch. (O livro está sobre a mesa.)",
+        "wohin? (para onde/movimento) → Acusativo: Ich lege das Buch auf den Tisch. (Eu coloco o livro sobre a mesa.)",
+        "an = junto a / na borda de: Das Bild hängt an der Wand (wo?). / Ich hänge das Bild an die Wand (wohin?).",
+        "auf = sobre (superfície horizontal): Das Handy liegt auf dem Tisch (wo?). / Ich lege das Handy auf den Tisch (wohin?).",
+        "in = dentro de: Das Kind ist im Zimmer (wo?). / Das Kind geht ins Zimmer (wohin?).",
+        "Contrações comuns: in + dem = im, in + das = ins, an + dem = am, an + das = ans"
+      ],
+      "tips": [
+        "Pergunte-se: o objeto está parado (wo? → Dativo) ou está se movendo para um lugar (wohin? → Acusativo)?",
+        "Verbos de posição (liegen, stehen, hängen, sein) → wo? → Dativo. Verbos de colocação (legen, stellen, hängen, gehen) → wohin? → Acusativo"
+      ],
+      "examples": [
+        {
+          "de": "Das Buch liegt auf dem Tisch.",
+          "pt": "O livro está sobre a mesa.",
+          "note": "wo? → Dativo: dem Tisch"
+        },
+        {
+          "de": "Ich lege das Buch auf den Tisch.",
+          "pt": "Eu coloco o livro sobre a mesa.",
+          "note": "wohin? → Acusativo: den Tisch"
+        },
+        {
+          "de": "Sie ist in der Küche.",
+          "pt": "Ela está na cozinha.",
+          "note": "wo? → Dativo: der Küche"
+        },
+        {
+          "de": "Sie geht in die Küche.",
+          "pt": "Ela vai para a cozinha.",
+          "note": "wohin? → Acusativo: die Küche"
+        },
+        {
+          "de": "Das Bild hängt an der Wand.",
+          "pt": "O quadro está pendurado na parede.",
+          "note": "wo? → Dativo"
+        },
+        {
+          "de": "Wir fahren in die Stadt.",
+          "pt": "Nós vamos para a cidade.",
+          "note": "wohin? → Acusativo: die Stadt"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Ich gehe in dem Park.",
+          "correct": "Ich gehe in den Park.",
+          "explanation": "'gehen in' indica movimento (wohin?), portanto usa Acusativo: dem → den"
+        },
+        {
+          "wrong": "Das Buch ist auf den Tisch.",
+          "correct": "Das Buch ist auf dem Tisch.",
+          "explanation": "'sein' indica posição (wo?), portanto usa Dativo: den → dem"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Quando usar Dativo com Wechselpräpositionen?",
+          "back": "Quando responde a 'wo?' (onde?) — posição/localização: 'auf dem Tisch'"
+        },
+        {
+          "front": "Quando usar Acusativo com Wechselpräpositionen?",
+          "back": "Quando responde a 'wohin?' (para onde?) — movimento com destino: 'auf den Tisch'"
+        },
+        {
+          "front": "Como dizer 'ela está na escola'?",
+          "back": "Sie ist in der Schule. (wo? → Dativo)"
+        },
+        {
+          "front": "Como dizer 'ela vai para a escola'?",
+          "back": "Sie geht in die Schule. (wohin? → Acusativo)"
+        },
+        {
+          "front": "Quais são as contrações de 'in + dem' e 'in + das'?",
+          "back": "in + dem = im | in + das = ins"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma correta? 'Das Kind spielt ___ Garten.'",
+          "options": [
+            "in den",
+            "in dem",
+            "in die",
+            "in der"
+          ],
+          "answer": 1,
+          "explanation": "'spielen' indica posição (wo?), portanto Dativo: der Garten (masc.) → in dem Garten (= im Garten)"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Ich gehe ___ (in + das) Kino.",
+          "answer": "ins",
+          "explanation": "'gehen ins Kino' — movimento (wohin?) + contração in + das = ins"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "sub_level": "A1.3",
+      "title": "Reflexive Verbs",
+      "title_pt": "Verbos Reflexivos",
+      "explanation": "Os verbos reflexivos em alemão são acompanhados de um pronome reflexivo que se refere ao próprio sujeito da oração. Em alemão, há muito mais verbos reflexivos do que em português, e alguns deles são reflexivos apenas na forma — o significado não é literalmente 'a si mesmo'. O pronome reflexivo mais comum no cotidiano é 'sich', usado para a 3ª pessoa.",
+      "rules": [
+        "Pronomes reflexivos no Acusativo: ich → mich, du → dich, er/sie/es → sich, wir → uns, ihr → euch, sie/Sie → sich",
+        "Verbos reflexivos comuns: sich waschen (lavar-se), sich anziehen (vestir-se), sich setzen (sentar-se), sich freuen (alegrar-se), sich fühlen (sentir-se), sich vorstellen (apresentar-se / imaginar)",
+        "O pronome reflexivo vem geralmente logo após o verbo conjugado",
+        "Com verbos modais, 'sich' fica antes do infinitivo: 'Er will sich waschen.'",
+        "Alguns verbos existem somente na forma reflexiva: sich beeilen (apressar-se), sich ereignen (acontecer)"
+      ],
+      "tips": [
+        "Ao aprender um verbo reflexivo, aprenda junto com 'sich': 'sich freuen', 'sich waschen' — assim você sabe que é reflexivo",
+        "Na fala do dia a dia, os mais usados para iniciantes são: sich vorstellen (apresentar-se), sich fühlen (sentir-se), sich setzen (sentar-se)"
+      ],
+      "examples": [
+        {
+          "de": "Ich wasche mich.",
+          "pt": "Eu me lavo.",
+          "note": "mich = pronome reflexivo acusativo de 'ich'"
+        },
+        {
+          "de": "Du wäschst dich.",
+          "pt": "Você se lava.",
+          "note": "dich = pronome reflexivo de 'du'"
+        },
+        {
+          "de": "Er wäscht sich.",
+          "pt": "Ele se lava.",
+          "note": "sich = pronome reflexivo de 'er/sie/es'"
+        },
+        {
+          "de": "Ich freue mich sehr.",
+          "pt": "Estou muito feliz / alegro-me muito.",
+          "note": "sich freuen = alegrar-se"
+        },
+        {
+          "de": "Bitte setzen Sie sich.",
+          "pt": "Por favor, sente-se.",
+          "note": "formal: sich setzen = sentar-se"
+        },
+        {
+          "de": "Wie fühlen Sie sich?",
+          "pt": "Como você se sente?",
+          "note": "sich fühlen = sentir-se"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "Er wäscht ihm.",
+          "correct": "Er wäscht sich.",
+          "explanation": "Com verbos reflexivos, usa-se o pronome reflexivo 'sich' para a 3ª pessoa, não 'ihm'"
+        },
+        {
+          "wrong": "Ich freue sehr mich.",
+          "correct": "Ich freue mich sehr.",
+          "explanation": "O pronome reflexivo 'mich' vem logo após o verbo conjugado, antes de outros complementos"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Quais são os pronomes reflexivos acusativos?",
+          "back": "mich, dich, sich, uns, euch, sich"
+        },
+        {
+          "front": "Como dizer 'eu me sinto bem'?",
+          "back": "Ich fühle mich gut."
+        },
+        {
+          "front": "Como dizer 'ele se lava'?",
+          "back": "Er wäscht sich."
+        },
+        {
+          "front": "Como dizer 'nós nos alegramos'?",
+          "back": "Wir freuen uns."
+        },
+        {
+          "front": "Como usar verbo reflexivo com modal?",
+          "back": "Er will sich waschen. ('sich' fica antes do infinitivo)"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual pronome reflexivo usar para 'wir'?",
+          "options": [
+            "mich",
+            "dich",
+            "uns",
+            "sich"
+          ],
+          "answer": 2,
+          "explanation": "O pronome reflexivo acusativo para 'wir' é 'uns': 'Wir freuen uns.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Complete: Ich ___ ___ (sich fühlen) heute nicht gut.",
+          "answer": "fühle mich",
+          "explanation": "'sich fühlen' para 'ich': o verbo conjuga como 'fühle' e o pronome reflexivo é 'mich'"
+        }
+      ]
     }
   ]
 }

@@ -687,6 +687,343 @@
           "pt": "atualmente"
         }
       ]
+    },
+    {
+      "id": 5,
+      "level": "A2",
+      "sub_level": "A2.1",
+      "category": "Travel & Tourism",
+      "title_pt": "Viagem e Turismo",
+      "related_grammar": [
+        6
+      ],
+      "words": [
+        {
+          "en": "passport",
+          "pt": "passaporte",
+          "example": "Don't forget your passport at the airport."
+        },
+        {
+          "en": "luggage",
+          "pt": "bagagem",
+          "example": "My luggage was too heavy."
+        },
+        {
+          "en": "departure",
+          "pt": "partida/saída",
+          "example": "The departure is at 6 am."
+        },
+        {
+          "en": "arrival",
+          "pt": "chegada",
+          "example": "The arrival gate is B12."
+        },
+        {
+          "en": "boarding pass",
+          "pt": "cartão de embarque",
+          "example": "Please have your boarding pass ready."
+        },
+        {
+          "en": "check in",
+          "pt": "fazer o check-in",
+          "example": "We need to check in two hours before the flight."
+        },
+        {
+          "en": "hotel",
+          "pt": "hotel",
+          "example": "We stayed at a beautiful hotel by the beach."
+        },
+        {
+          "en": "reservation",
+          "pt": "reserva",
+          "example": "I made a reservation for two nights."
+        },
+        {
+          "en": "tourist",
+          "pt": "turista",
+          "example": "The city gets millions of tourists every year."
+        },
+        {
+          "en": "souvenir",
+          "pt": "lembrança/souvenir",
+          "example": "I bought a souvenir for my family."
+        },
+        {
+          "en": "sightseeing",
+          "pt": "turismo/visita a pontos turísticos",
+          "example": "We went sightseeing in Paris."
+        },
+        {
+          "en": "customs",
+          "pt": "alfândega",
+          "example": "You have to go through customs at the border."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "passaporte",
+          "back": "passport"
+        },
+        {
+          "front": "bagagem",
+          "back": "luggage"
+        },
+        {
+          "front": "partida/saída (viagem)",
+          "back": "departure"
+        },
+        {
+          "front": "chegada (viagem)",
+          "back": "arrival"
+        },
+        {
+          "front": "cartão de embarque",
+          "back": "boarding pass"
+        },
+        {
+          "front": "fazer o check-in",
+          "back": "check in"
+        },
+        {
+          "front": "reserva",
+          "back": "reservation"
+        },
+        {
+          "front": "turista",
+          "back": "tourist"
+        },
+        {
+          "front": "lembrança (de viagem)",
+          "back": "souvenir"
+        },
+        {
+          "front": "visitar pontos turísticos",
+          "back": "go sightseeing"
+        },
+        {
+          "front": "alfândega",
+          "back": "customs"
+        },
+        {
+          "front": "hotel",
+          "back": "hotel"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "You need to show your ___ at the airport check-in.",
+          "options": [
+            "souvenir",
+            "passport",
+            "luggage",
+            "departure"
+          ],
+          "answer": 1,
+          "explanation": "'Passport' = passaporte, documento obrigatório para viajar internacionalmente."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I made a ___ at the hotel for three nights. (reserva)",
+          "answer": "reservation",
+          "explanation": "'Reservation' = reserva. Também aceito: 'booking'."
+        }
+      ],
+      "association_pairs": [
+        {
+          "en": "passport",
+          "pt": "passaporte"
+        },
+        {
+          "en": "luggage",
+          "pt": "bagagem"
+        },
+        {
+          "en": "departure",
+          "pt": "partida/saída"
+        },
+        {
+          "en": "arrival",
+          "pt": "chegada"
+        },
+        {
+          "en": "reservation",
+          "pt": "reserva"
+        },
+        {
+          "en": "customs",
+          "pt": "alfândega"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "A2",
+      "sub_level": "A2.2",
+      "category": "Emotions & Feelings",
+      "title_pt": "Emoções e Sentimentos",
+      "related_grammar": [
+        3,
+        7
+      ],
+      "words": [
+        {
+          "en": "anxious",
+          "pt": "ansioso",
+          "example": "I feel anxious before exams."
+        },
+        {
+          "en": "relieved",
+          "pt": "aliviado",
+          "example": "She was relieved when she passed the test."
+        },
+        {
+          "en": "proud",
+          "pt": "orgulhoso",
+          "example": "His parents are very proud of him."
+        },
+        {
+          "en": "ashamed",
+          "pt": "envergonhado/com vergonha",
+          "example": "He felt ashamed of his behavior."
+        },
+        {
+          "en": "jealous",
+          "pt": "ciumento/com inveja",
+          "example": "She was jealous of her sister's success."
+        },
+        {
+          "en": "grateful",
+          "pt": "grato/agradecido",
+          "example": "I'm very grateful for your help."
+        },
+        {
+          "en": "frustrated",
+          "pt": "frustrado",
+          "example": "I get frustrated when I can't understand something."
+        },
+        {
+          "en": "confused",
+          "pt": "confuso",
+          "example": "I was confused by the instructions."
+        },
+        {
+          "en": "bored",
+          "pt": "entediado",
+          "example": "The children were bored on the long trip."
+        },
+        {
+          "en": "embarrassed",
+          "pt": "envergonhado (por situação constrangedora)",
+          "example": "I was so embarrassed when I fell in public."
+        },
+        {
+          "en": "excited",
+          "pt": "animado/empolgado",
+          "example": "She was excited about her trip to Japan."
+        },
+        {
+          "en": "lonely",
+          "pt": "solitário/só",
+          "example": "He felt lonely in the new city."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "ansioso",
+          "back": "anxious"
+        },
+        {
+          "front": "aliviado",
+          "back": "relieved"
+        },
+        {
+          "front": "orgulhoso",
+          "back": "proud"
+        },
+        {
+          "front": "envergonhado (por algo que fez)",
+          "back": "ashamed"
+        },
+        {
+          "front": "ciumento / com inveja",
+          "back": "jealous"
+        },
+        {
+          "front": "grato / agradecido",
+          "back": "grateful"
+        },
+        {
+          "front": "frustrado",
+          "back": "frustrated"
+        },
+        {
+          "front": "confuso",
+          "back": "confused"
+        },
+        {
+          "front": "entediado",
+          "back": "bored"
+        },
+        {
+          "front": "envergonhado (situação embaraçosa)",
+          "back": "embarrassed"
+        },
+        {
+          "front": "animado / empolgado",
+          "back": "excited"
+        },
+        {
+          "front": "solitário / só",
+          "back": "lonely"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She passed her exam! She felt very ___ when she saw her grade.",
+          "options": [
+            "lonely",
+            "relieved",
+            "ashamed",
+            "bored"
+          ],
+          "answer": 1,
+          "explanation": "'Relieved' = aliviado — sentimento de alívio após uma preocupação."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I'm so ___ for your help. Thank you! (grato)",
+          "answer": "grateful",
+          "explanation": "'Grateful' = grato/agradecido por algo."
+        }
+      ],
+      "association_pairs": [
+        {
+          "en": "anxious",
+          "pt": "ansioso"
+        },
+        {
+          "en": "relieved",
+          "pt": "aliviado"
+        },
+        {
+          "en": "proud",
+          "pt": "orgulhoso"
+        },
+        {
+          "en": "grateful",
+          "pt": "grato/agradecido"
+        },
+        {
+          "en": "frustrated",
+          "pt": "frustrado"
+        },
+        {
+          "en": "embarrassed",
+          "pt": "envergonhado (situação constrangedora)"
+        }
+      ]
     }
   ]
 }

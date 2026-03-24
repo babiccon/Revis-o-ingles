@@ -8,26 +8,116 @@
       "title": "Family and People",
       "title_pt": "Família e Pessoas",
       "words": [
-        { "word": "der Vater", "translation": "o pai", "plural": "die Väter", "example": "Mein Vater ist Arzt.", "example_pt": "Meu pai é médico." },
-        { "word": "die Mutter", "translation": "a mãe", "plural": "die Mütter", "example": "Meine Mutter kocht gut.", "example_pt": "Minha mãe cozinha bem." },
-        { "word": "der Bruder", "translation": "o irmão", "plural": "die Brüder", "example": "Ich habe einen Bruder.", "example_pt": "Eu tenho um irmão." },
-        { "word": "die Schwester", "translation": "a irmã", "plural": "die Schwestern", "example": "Meine Schwester wohnt in Berlin.", "example_pt": "Minha irmã mora em Berlim." },
-        { "word": "der Mann", "translation": "o homem / o marido", "plural": "die Männer", "example": "Ihr Mann ist sehr nett.", "example_pt": "O marido dela é muito simpático." },
-        { "word": "die Frau", "translation": "a mulher / a esposa", "plural": "die Frauen", "example": "Seine Frau heißt Maria.", "example_pt": "A esposa dele se chama Maria." },
-        { "word": "das Kind", "translation": "a criança", "plural": "die Kinder", "example": "Die Kinder spielen im Park.", "example_pt": "As crianças brincam no parque." },
-        { "word": "der Sohn", "translation": "o filho", "plural": "die Söhne", "example": "Ihr Sohn ist fünf Jahre alt.", "example_pt": "O filho dela tem cinco anos." },
-        { "word": "die Tochter", "translation": "a filha", "plural": "die Töchter", "example": "Er hat zwei Töchter.", "example_pt": "Ele tem duas filhas." },
-        { "word": "die Großeltern", "translation": "os avós", "plural": "die Großeltern", "example": "Meine Großeltern wohnen auf dem Land.", "example_pt": "Meus avós moram no campo." },
-        { "word": "der Freund", "translation": "o amigo / o namorado", "plural": "die Freunde", "example": "Er ist mein bester Freund.", "example_pt": "Ele é meu melhor amigo." },
-        { "word": "die Familie", "translation": "a família", "plural": "die Familien", "example": "Meine Familie ist sehr groß.", "example_pt": "Minha família é muito grande." }
+        {
+          "word": "der Vater",
+          "translation": "o pai",
+          "plural": "die Väter",
+          "example": "Mein Vater ist Arzt.",
+          "example_pt": "Meu pai é médico."
+        },
+        {
+          "word": "die Mutter",
+          "translation": "a mãe",
+          "plural": "die Mütter",
+          "example": "Meine Mutter kocht gut.",
+          "example_pt": "Minha mãe cozinha bem."
+        },
+        {
+          "word": "der Bruder",
+          "translation": "o irmão",
+          "plural": "die Brüder",
+          "example": "Ich habe einen Bruder.",
+          "example_pt": "Eu tenho um irmão."
+        },
+        {
+          "word": "die Schwester",
+          "translation": "a irmã",
+          "plural": "die Schwestern",
+          "example": "Meine Schwester wohnt in Berlin.",
+          "example_pt": "Minha irmã mora em Berlim."
+        },
+        {
+          "word": "der Mann",
+          "translation": "o homem / o marido",
+          "plural": "die Männer",
+          "example": "Ihr Mann ist sehr nett.",
+          "example_pt": "O marido dela é muito simpático."
+        },
+        {
+          "word": "die Frau",
+          "translation": "a mulher / a esposa",
+          "plural": "die Frauen",
+          "example": "Seine Frau heißt Maria.",
+          "example_pt": "A esposa dele se chama Maria."
+        },
+        {
+          "word": "das Kind",
+          "translation": "a criança",
+          "plural": "die Kinder",
+          "example": "Die Kinder spielen im Park.",
+          "example_pt": "As crianças brincam no parque."
+        },
+        {
+          "word": "der Sohn",
+          "translation": "o filho",
+          "plural": "die Söhne",
+          "example": "Ihr Sohn ist fünf Jahre alt.",
+          "example_pt": "O filho dela tem cinco anos."
+        },
+        {
+          "word": "die Tochter",
+          "translation": "a filha",
+          "plural": "die Töchter",
+          "example": "Er hat zwei Töchter.",
+          "example_pt": "Ele tem duas filhas."
+        },
+        {
+          "word": "die Großeltern",
+          "translation": "os avós",
+          "plural": "die Großeltern",
+          "example": "Meine Großeltern wohnen auf dem Land.",
+          "example_pt": "Meus avós moram no campo."
+        },
+        {
+          "word": "der Freund",
+          "translation": "o amigo / o namorado",
+          "plural": "die Freunde",
+          "example": "Er ist mein bester Freund.",
+          "example_pt": "Ele é meu melhor amigo."
+        },
+        {
+          "word": "die Familie",
+          "translation": "a família",
+          "plural": "die Familien",
+          "example": "Meine Familie ist sehr groß.",
+          "example_pt": "Minha família é muito grande."
+        }
       ],
       "association_pairs": [
-        { "de": "der Vater", "pt": "o pai" },
-        { "de": "die Mutter", "pt": "a mãe" },
-        { "de": "das Kind", "pt": "a criança" },
-        { "de": "die Schwester", "pt": "a irmã" },
-        { "de": "der Bruder", "pt": "o irmão" },
-        { "de": "die Familie", "pt": "a família" }
+        {
+          "de": "der Vater",
+          "pt": "o pai"
+        },
+        {
+          "de": "die Mutter",
+          "pt": "a mãe"
+        },
+        {
+          "de": "das Kind",
+          "pt": "a criança"
+        },
+        {
+          "de": "die Schwester",
+          "pt": "a irmã"
+        },
+        {
+          "de": "der Bruder",
+          "pt": "o irmão"
+        },
+        {
+          "de": "die Familie",
+          "pt": "a família"
+        }
       ]
     },
     {
@@ -36,26 +126,116 @@
       "title": "Home and Everyday Objects",
       "title_pt": "Casa e Objetos do Cotidiano",
       "words": [
-        { "word": "das Haus", "translation": "a casa", "plural": "die Häuser", "example": "Unser Haus hat drei Zimmer.", "example_pt": "Nossa casa tem três quartos." },
-        { "word": "die Wohnung", "translation": "o apartamento", "plural": "die Wohnungen", "example": "Ich suche eine Wohnung.", "example_pt": "Estou procurando um apartamento." },
-        { "word": "das Zimmer", "translation": "o quarto / o cômodo", "plural": "die Zimmer", "example": "Das Zimmer ist sehr sauber.", "example_pt": "O quarto está muito limpo." },
-        { "word": "die Küche", "translation": "a cozinha", "plural": "die Küchen", "example": "In der Küche ist ein Herd.", "example_pt": "Na cozinha tem um fogão." },
-        { "word": "das Bad", "translation": "o banheiro", "plural": "die Bäder", "example": "Das Bad ist rechts.", "example_pt": "O banheiro fica à direita." },
-        { "word": "der Tisch", "translation": "a mesa", "plural": "die Tische", "example": "Das Buch liegt auf dem Tisch.", "example_pt": "O livro está em cima da mesa." },
-        { "word": "der Stuhl", "translation": "a cadeira", "plural": "die Stühle", "example": "Bitte nehmen Sie Platz auf dem Stuhl.", "example_pt": "Por favor, sente-se na cadeira." },
-        { "word": "das Bett", "translation": "a cama", "plural": "die Betten", "example": "Ich gehe jetzt ins Bett.", "example_pt": "Estou indo dormir agora." },
-        { "word": "das Fenster", "translation": "a janela", "plural": "die Fenster", "example": "Bitte mach das Fenster zu.", "example_pt": "Por favor, feche a janela." },
-        { "word": "die Tür", "translation": "a porta", "plural": "die Türen", "example": "Die Tür ist offen.", "example_pt": "A porta está aberta." },
-        { "word": "das Handy", "translation": "o celular", "plural": "die Handys", "example": "Mein Handy ist kaputt.", "example_pt": "Meu celular está quebrado." },
-        { "word": "der Schlüssel", "translation": "a chave", "plural": "die Schlüssel", "example": "Wo ist mein Schlüssel?", "example_pt": "Onde está minha chave?" }
+        {
+          "word": "das Haus",
+          "translation": "a casa",
+          "plural": "die Häuser",
+          "example": "Unser Haus hat drei Zimmer.",
+          "example_pt": "Nossa casa tem três quartos."
+        },
+        {
+          "word": "die Wohnung",
+          "translation": "o apartamento",
+          "plural": "die Wohnungen",
+          "example": "Ich suche eine Wohnung.",
+          "example_pt": "Estou procurando um apartamento."
+        },
+        {
+          "word": "das Zimmer",
+          "translation": "o quarto / o cômodo",
+          "plural": "die Zimmer",
+          "example": "Das Zimmer ist sehr sauber.",
+          "example_pt": "O quarto está muito limpo."
+        },
+        {
+          "word": "die Küche",
+          "translation": "a cozinha",
+          "plural": "die Küchen",
+          "example": "In der Küche ist ein Herd.",
+          "example_pt": "Na cozinha tem um fogão."
+        },
+        {
+          "word": "das Bad",
+          "translation": "o banheiro",
+          "plural": "die Bäder",
+          "example": "Das Bad ist rechts.",
+          "example_pt": "O banheiro fica à direita."
+        },
+        {
+          "word": "der Tisch",
+          "translation": "a mesa",
+          "plural": "die Tische",
+          "example": "Das Buch liegt auf dem Tisch.",
+          "example_pt": "O livro está em cima da mesa."
+        },
+        {
+          "word": "der Stuhl",
+          "translation": "a cadeira",
+          "plural": "die Stühle",
+          "example": "Bitte nehmen Sie Platz auf dem Stuhl.",
+          "example_pt": "Por favor, sente-se na cadeira."
+        },
+        {
+          "word": "das Bett",
+          "translation": "a cama",
+          "plural": "die Betten",
+          "example": "Ich gehe jetzt ins Bett.",
+          "example_pt": "Estou indo dormir agora."
+        },
+        {
+          "word": "das Fenster",
+          "translation": "a janela",
+          "plural": "die Fenster",
+          "example": "Bitte mach das Fenster zu.",
+          "example_pt": "Por favor, feche a janela."
+        },
+        {
+          "word": "die Tür",
+          "translation": "a porta",
+          "plural": "die Türen",
+          "example": "Die Tür ist offen.",
+          "example_pt": "A porta está aberta."
+        },
+        {
+          "word": "das Handy",
+          "translation": "o celular",
+          "plural": "die Handys",
+          "example": "Mein Handy ist kaputt.",
+          "example_pt": "Meu celular está quebrado."
+        },
+        {
+          "word": "der Schlüssel",
+          "translation": "a chave",
+          "plural": "die Schlüssel",
+          "example": "Wo ist mein Schlüssel?",
+          "example_pt": "Onde está minha chave?"
+        }
       ],
       "association_pairs": [
-        { "de": "das Haus", "pt": "a casa" },
-        { "de": "die Küche", "pt": "a cozinha" },
-        { "de": "der Tisch", "pt": "a mesa" },
-        { "de": "das Bett", "pt": "a cama" },
-        { "de": "die Tür", "pt": "a porta" },
-        { "de": "das Fenster", "pt": "a janela" }
+        {
+          "de": "das Haus",
+          "pt": "a casa"
+        },
+        {
+          "de": "die Küche",
+          "pt": "a cozinha"
+        },
+        {
+          "de": "der Tisch",
+          "pt": "a mesa"
+        },
+        {
+          "de": "das Bett",
+          "pt": "a cama"
+        },
+        {
+          "de": "die Tür",
+          "pt": "a porta"
+        },
+        {
+          "de": "das Fenster",
+          "pt": "a janela"
+        }
       ]
     },
     {
@@ -64,26 +244,116 @@
       "title": "Food and Drinks",
       "title_pt": "Comida e Bebidas",
       "words": [
-        { "word": "das Brot", "translation": "o pão", "plural": "die Brote", "example": "Ich esse Brot zum Frühstück.", "example_pt": "Eu como pão no café da manhã." },
-        { "word": "die Milch", "translation": "o leite", "plural": "(sem plural)", "example": "Möchtest du Milch im Kaffee?", "example_pt": "Você quer leite no café?" },
-        { "word": "das Wasser", "translation": "a água", "plural": "(sem plural)", "example": "Ich trinke viel Wasser.", "example_pt": "Eu bebo muita água." },
-        { "word": "der Kaffee", "translation": "o café", "plural": "die Kaffees", "example": "Ein Kaffee, bitte.", "example_pt": "Um café, por favor." },
-        { "word": "das Fleisch", "translation": "a carne", "plural": "(sem plural)", "example": "Er isst kein Fleisch.", "example_pt": "Ele não come carne." },
-        { "word": "das Gemüse", "translation": "o legume/verdura", "plural": "(sem plural)", "example": "Gemüse ist gesund.", "example_pt": "Legumes são saudáveis." },
-        { "word": "das Obst", "translation": "a fruta", "plural": "(sem plural)", "example": "Ich esse gerne Obst.", "example_pt": "Eu gosto de comer frutas." },
-        { "word": "der Apfel", "translation": "a maçã", "plural": "die Äpfel", "example": "Ein Apfel täglich hält den Arzt fern.", "example_pt": "Uma maçã por dia mantém o médico longe." },
-        { "word": "das Ei", "translation": "o ovo", "plural": "die Eier", "example": "Ich esse zwei Eier zum Frühstück.", "example_pt": "Eu como dois ovos no café da manhã." },
-        { "word": "die Suppe", "translation": "a sopa", "plural": "die Suppen", "example": "Die Suppe ist heiß.", "example_pt": "A sopa está quente." },
-        { "word": "der Wein", "translation": "o vinho", "plural": "die Weine", "example": "Möchten Sie ein Glas Wein?", "example_pt": "Gostaria de uma taça de vinho?" },
-        { "word": "das Bier", "translation": "a cerveja", "plural": "die Biere", "example": "Ein Bier, bitte.", "example_pt": "Uma cerveja, por favor." }
+        {
+          "word": "das Brot",
+          "translation": "o pão",
+          "plural": "die Brote",
+          "example": "Ich esse Brot zum Frühstück.",
+          "example_pt": "Eu como pão no café da manhã."
+        },
+        {
+          "word": "die Milch",
+          "translation": "o leite",
+          "plural": "(sem plural)",
+          "example": "Möchtest du Milch im Kaffee?",
+          "example_pt": "Você quer leite no café?"
+        },
+        {
+          "word": "das Wasser",
+          "translation": "a água",
+          "plural": "(sem plural)",
+          "example": "Ich trinke viel Wasser.",
+          "example_pt": "Eu bebo muita água."
+        },
+        {
+          "word": "der Kaffee",
+          "translation": "o café",
+          "plural": "die Kaffees",
+          "example": "Ein Kaffee, bitte.",
+          "example_pt": "Um café, por favor."
+        },
+        {
+          "word": "das Fleisch",
+          "translation": "a carne",
+          "plural": "(sem plural)",
+          "example": "Er isst kein Fleisch.",
+          "example_pt": "Ele não come carne."
+        },
+        {
+          "word": "das Gemüse",
+          "translation": "o legume/verdura",
+          "plural": "(sem plural)",
+          "example": "Gemüse ist gesund.",
+          "example_pt": "Legumes são saudáveis."
+        },
+        {
+          "word": "das Obst",
+          "translation": "a fruta",
+          "plural": "(sem plural)",
+          "example": "Ich esse gerne Obst.",
+          "example_pt": "Eu gosto de comer frutas."
+        },
+        {
+          "word": "der Apfel",
+          "translation": "a maçã",
+          "plural": "die Äpfel",
+          "example": "Ein Apfel täglich hält den Arzt fern.",
+          "example_pt": "Uma maçã por dia mantém o médico longe."
+        },
+        {
+          "word": "das Ei",
+          "translation": "o ovo",
+          "plural": "die Eier",
+          "example": "Ich esse zwei Eier zum Frühstück.",
+          "example_pt": "Eu como dois ovos no café da manhã."
+        },
+        {
+          "word": "die Suppe",
+          "translation": "a sopa",
+          "plural": "die Suppen",
+          "example": "Die Suppe ist heiß.",
+          "example_pt": "A sopa está quente."
+        },
+        {
+          "word": "der Wein",
+          "translation": "o vinho",
+          "plural": "die Weine",
+          "example": "Möchten Sie ein Glas Wein?",
+          "example_pt": "Gostaria de uma taça de vinho?"
+        },
+        {
+          "word": "das Bier",
+          "translation": "a cerveja",
+          "plural": "die Biere",
+          "example": "Ein Bier, bitte.",
+          "example_pt": "Uma cerveja, por favor."
+        }
       ],
       "association_pairs": [
-        { "de": "das Brot", "pt": "o pão" },
-        { "de": "das Wasser", "pt": "a água" },
-        { "de": "der Kaffee", "pt": "o café" },
-        { "de": "das Obst", "pt": "a fruta" },
-        { "de": "das Fleisch", "pt": "a carne" },
-        { "de": "das Gemüse", "pt": "o legume" }
+        {
+          "de": "das Brot",
+          "pt": "o pão"
+        },
+        {
+          "de": "das Wasser",
+          "pt": "a água"
+        },
+        {
+          "de": "der Kaffee",
+          "pt": "o café"
+        },
+        {
+          "de": "das Obst",
+          "pt": "a fruta"
+        },
+        {
+          "de": "das Fleisch",
+          "pt": "a carne"
+        },
+        {
+          "de": "das Gemüse",
+          "pt": "o legume"
+        }
       ]
     },
     {
@@ -92,26 +362,116 @@
       "title": "City and Transport",
       "title_pt": "Cidade e Transporte",
       "words": [
-        { "word": "die Stadt", "translation": "a cidade", "plural": "die Städte", "example": "Berlin ist eine große Stadt.", "example_pt": "Berlim é uma cidade grande." },
-        { "word": "der Bahnhof", "translation": "a estação de trem", "plural": "die Bahnhöfe", "example": "Der Zug fährt vom Bahnhof ab.", "example_pt": "O trem parte da estação." },
-        { "word": "der Bus", "translation": "o ônibus", "plural": "die Busse", "example": "Ich fahre mit dem Bus.", "example_pt": "Eu vou de ônibus." },
-        { "word": "die U-Bahn", "translation": "o metrô", "plural": "die U-Bahnen", "example": "Die U-Bahn ist schnell.", "example_pt": "O metrô é rápido." },
-        { "word": "das Auto", "translation": "o carro", "plural": "die Autos", "example": "Hast du ein Auto?", "example_pt": "Você tem carro?" },
-        { "word": "das Fahrrad", "translation": "a bicicleta", "plural": "die Fahrräder", "example": "Ich fahre gerne Fahrrad.", "example_pt": "Eu gosto de andar de bicicleta." },
-        { "word": "die Straße", "translation": "a rua", "plural": "die Straßen", "example": "Die Straße ist sehr lang.", "example_pt": "A rua é muito comprida." },
-        { "word": "der Supermarkt", "translation": "o supermercado", "plural": "die Supermärkte", "example": "Ich gehe in den Supermarkt.", "example_pt": "Vou ao supermercado." },
-        { "word": "das Krankenhaus", "translation": "o hospital", "plural": "die Krankenhäuser", "example": "Das Krankenhaus ist in der Nähe.", "example_pt": "O hospital fica perto." },
-        { "word": "die Post", "translation": "o correio", "plural": "die Posten", "example": "Wo ist die Post?", "example_pt": "Onde fica o correio?" },
-        { "word": "die Apotheke", "translation": "a farmácia", "plural": "die Apotheken", "example": "Ich brauche eine Apotheke.", "example_pt": "Preciso de uma farmácia." },
-        { "word": "links / rechts", "translation": "à esquerda / à direita", "plural": "-", "example": "Biegen Sie links ab.", "example_pt": "Vire à esquerda." }
+        {
+          "word": "die Stadt",
+          "translation": "a cidade",
+          "plural": "die Städte",
+          "example": "Berlin ist eine große Stadt.",
+          "example_pt": "Berlim é uma cidade grande."
+        },
+        {
+          "word": "der Bahnhof",
+          "translation": "a estação de trem",
+          "plural": "die Bahnhöfe",
+          "example": "Der Zug fährt vom Bahnhof ab.",
+          "example_pt": "O trem parte da estação."
+        },
+        {
+          "word": "der Bus",
+          "translation": "o ônibus",
+          "plural": "die Busse",
+          "example": "Ich fahre mit dem Bus.",
+          "example_pt": "Eu vou de ônibus."
+        },
+        {
+          "word": "die U-Bahn",
+          "translation": "o metrô",
+          "plural": "die U-Bahnen",
+          "example": "Die U-Bahn ist schnell.",
+          "example_pt": "O metrô é rápido."
+        },
+        {
+          "word": "das Auto",
+          "translation": "o carro",
+          "plural": "die Autos",
+          "example": "Hast du ein Auto?",
+          "example_pt": "Você tem carro?"
+        },
+        {
+          "word": "das Fahrrad",
+          "translation": "a bicicleta",
+          "plural": "die Fahrräder",
+          "example": "Ich fahre gerne Fahrrad.",
+          "example_pt": "Eu gosto de andar de bicicleta."
+        },
+        {
+          "word": "die Straße",
+          "translation": "a rua",
+          "plural": "die Straßen",
+          "example": "Die Straße ist sehr lang.",
+          "example_pt": "A rua é muito comprida."
+        },
+        {
+          "word": "der Supermarkt",
+          "translation": "o supermercado",
+          "plural": "die Supermärkte",
+          "example": "Ich gehe in den Supermarkt.",
+          "example_pt": "Vou ao supermercado."
+        },
+        {
+          "word": "das Krankenhaus",
+          "translation": "o hospital",
+          "plural": "die Krankenhäuser",
+          "example": "Das Krankenhaus ist in der Nähe.",
+          "example_pt": "O hospital fica perto."
+        },
+        {
+          "word": "die Post",
+          "translation": "o correio",
+          "plural": "die Posten",
+          "example": "Wo ist die Post?",
+          "example_pt": "Onde fica o correio?"
+        },
+        {
+          "word": "die Apotheke",
+          "translation": "a farmácia",
+          "plural": "die Apotheken",
+          "example": "Ich brauche eine Apotheke.",
+          "example_pt": "Preciso de uma farmácia."
+        },
+        {
+          "word": "links / rechts",
+          "translation": "à esquerda / à direita",
+          "plural": "-",
+          "example": "Biegen Sie links ab.",
+          "example_pt": "Vire à esquerda."
+        }
       ],
       "association_pairs": [
-        { "de": "der Bahnhof", "pt": "a estação de trem" },
-        { "de": "die U-Bahn", "pt": "o metrô" },
-        { "de": "das Auto", "pt": "o carro" },
-        { "de": "die Straße", "pt": "a rua" },
-        { "de": "der Supermarkt", "pt": "o supermercado" },
-        { "de": "das Krankenhaus", "pt": "o hospital" }
+        {
+          "de": "der Bahnhof",
+          "pt": "a estação de trem"
+        },
+        {
+          "de": "die U-Bahn",
+          "pt": "o metrô"
+        },
+        {
+          "de": "das Auto",
+          "pt": "o carro"
+        },
+        {
+          "de": "die Straße",
+          "pt": "a rua"
+        },
+        {
+          "de": "der Supermarkt",
+          "pt": "o supermercado"
+        },
+        {
+          "de": "das Krankenhaus",
+          "pt": "o hospital"
+        }
       ]
     },
     {
@@ -120,26 +480,116 @@
       "title": "Work and School",
       "title_pt": "Trabalho e Escola",
       "words": [
-        { "word": "die Arbeit", "translation": "o trabalho", "plural": "die Arbeiten", "example": "Ich gehe zur Arbeit.", "example_pt": "Vou ao trabalho." },
-        { "word": "der Beruf", "translation": "a profissão", "plural": "die Berufe", "example": "Was ist Ihr Beruf?", "example_pt": "Qual é a sua profissão?" },
-        { "word": "das Büro", "translation": "o escritório", "plural": "die Büros", "example": "Das Büro ist im dritten Stock.", "example_pt": "O escritório fica no terceiro andar." },
-        { "word": "die Schule", "translation": "a escola", "plural": "die Schulen", "example": "Die Kinder gehen in die Schule.", "example_pt": "As crianças vão para a escola." },
-        { "word": "der Lehrer / die Lehrerin", "translation": "o professor / a professora", "plural": "die Lehrer", "example": "Der Lehrer erklärt die Grammatik.", "example_pt": "O professor explica a gramática." },
-        { "word": "der Student / die Studentin", "translation": "o estudante", "plural": "die Studenten", "example": "Sie ist Studentin an der Uni.", "example_pt": "Ela é estudante na universidade." },
-        { "word": "das Wörterbuch", "translation": "o dicionário", "plural": "die Wörterbücher", "example": "Hast du ein Wörterbuch?", "example_pt": "Você tem um dicionário?" },
-        { "word": "der Stift", "translation": "o lápis / a caneta", "plural": "die Stifte", "example": "Kann ich deinen Stift haben?", "example_pt": "Posso pegar sua caneta?" },
-        { "word": "das Heft", "translation": "o caderno", "plural": "die Hefte", "example": "Schreib das ins Heft.", "example_pt": "Escreva isso no caderno." },
-        { "word": "die Hausaufgabe", "translation": "a tarefa de casa", "plural": "die Hausaufgaben", "example": "Ich mache meine Hausaufgaben.", "example_pt": "Estou fazendo minha tarefa." },
-        { "word": "das Meeting", "translation": "a reunião", "plural": "die Meetings", "example": "Das Meeting beginnt um 9 Uhr.", "example_pt": "A reunião começa às 9h." },
-        { "word": "der Chef / die Chefin", "translation": "o chefe / a chefe", "plural": "die Chefs", "example": "Der Chef ist im Urlaub.", "example_pt": "O chefe está de férias." }
+        {
+          "word": "die Arbeit",
+          "translation": "o trabalho",
+          "plural": "die Arbeiten",
+          "example": "Ich gehe zur Arbeit.",
+          "example_pt": "Vou ao trabalho."
+        },
+        {
+          "word": "der Beruf",
+          "translation": "a profissão",
+          "plural": "die Berufe",
+          "example": "Was ist Ihr Beruf?",
+          "example_pt": "Qual é a sua profissão?"
+        },
+        {
+          "word": "das Büro",
+          "translation": "o escritório",
+          "plural": "die Büros",
+          "example": "Das Büro ist im dritten Stock.",
+          "example_pt": "O escritório fica no terceiro andar."
+        },
+        {
+          "word": "die Schule",
+          "translation": "a escola",
+          "plural": "die Schulen",
+          "example": "Die Kinder gehen in die Schule.",
+          "example_pt": "As crianças vão para a escola."
+        },
+        {
+          "word": "der Lehrer / die Lehrerin",
+          "translation": "o professor / a professora",
+          "plural": "die Lehrer",
+          "example": "Der Lehrer erklärt die Grammatik.",
+          "example_pt": "O professor explica a gramática."
+        },
+        {
+          "word": "der Student / die Studentin",
+          "translation": "o estudante",
+          "plural": "die Studenten",
+          "example": "Sie ist Studentin an der Uni.",
+          "example_pt": "Ela é estudante na universidade."
+        },
+        {
+          "word": "das Wörterbuch",
+          "translation": "o dicionário",
+          "plural": "die Wörterbücher",
+          "example": "Hast du ein Wörterbuch?",
+          "example_pt": "Você tem um dicionário?"
+        },
+        {
+          "word": "der Stift",
+          "translation": "o lápis / a caneta",
+          "plural": "die Stifte",
+          "example": "Kann ich deinen Stift haben?",
+          "example_pt": "Posso pegar sua caneta?"
+        },
+        {
+          "word": "das Heft",
+          "translation": "o caderno",
+          "plural": "die Hefte",
+          "example": "Schreib das ins Heft.",
+          "example_pt": "Escreva isso no caderno."
+        },
+        {
+          "word": "die Hausaufgabe",
+          "translation": "a tarefa de casa",
+          "plural": "die Hausaufgaben",
+          "example": "Ich mache meine Hausaufgaben.",
+          "example_pt": "Estou fazendo minha tarefa."
+        },
+        {
+          "word": "das Meeting",
+          "translation": "a reunião",
+          "plural": "die Meetings",
+          "example": "Das Meeting beginnt um 9 Uhr.",
+          "example_pt": "A reunião começa às 9h."
+        },
+        {
+          "word": "der Chef / die Chefin",
+          "translation": "o chefe / a chefe",
+          "plural": "die Chefs",
+          "example": "Der Chef ist im Urlaub.",
+          "example_pt": "O chefe está de férias."
+        }
       ],
       "association_pairs": [
-        { "de": "die Arbeit", "pt": "o trabalho" },
-        { "de": "das Büro", "pt": "o escritório" },
-        { "de": "die Schule", "pt": "a escola" },
-        { "de": "der Lehrer", "pt": "o professor" },
-        { "de": "das Heft", "pt": "o caderno" },
-        { "de": "der Chef", "pt": "o chefe" }
+        {
+          "de": "die Arbeit",
+          "pt": "o trabalho"
+        },
+        {
+          "de": "das Büro",
+          "pt": "o escritório"
+        },
+        {
+          "de": "die Schule",
+          "pt": "a escola"
+        },
+        {
+          "de": "der Lehrer",
+          "pt": "o professor"
+        },
+        {
+          "de": "das Heft",
+          "pt": "o caderno"
+        },
+        {
+          "de": "der Chef",
+          "pt": "o chefe"
+        }
       ]
     },
     {
@@ -148,26 +598,470 @@
       "title": "Body and Health",
       "title_pt": "Corpo e Saúde",
       "words": [
-        { "word": "der Kopf", "translation": "a cabeça", "plural": "die Köpfe", "example": "Ich habe Kopfschmerzen.", "example_pt": "Estou com dor de cabeça." },
-        { "word": "der Bauch", "translation": "a barriga", "plural": "die Bäuche", "example": "Mein Bauch tut weh.", "example_pt": "Minha barriga está doendo." },
-        { "word": "der Rücken", "translation": "as costas", "plural": "die Rücken", "example": "Er hat Rückenschmerzen.", "example_pt": "Ele está com dor nas costas." },
-        { "word": "das Bein", "translation": "a perna", "plural": "die Beine", "example": "Sie hat das Bein gebrochen.", "example_pt": "Ela quebrou a perna." },
-        { "word": "der Arm", "translation": "o braço", "plural": "die Arme", "example": "Mein Arm ist müde.", "example_pt": "Meu braço está cansado." },
-        { "word": "die Hand", "translation": "a mão", "plural": "die Hände", "example": "Wasch dir die Hände!", "example_pt": "Lave as mãos!" },
-        { "word": "der Hals", "translation": "o pescoço / a garganta", "plural": "die Hälse", "example": "Ich habe Halsschmerzen.", "example_pt": "Estou com dor de garganta." },
-        { "word": "das Fieber", "translation": "a febre", "plural": "(sem plural)", "example": "Das Kind hat Fieber.", "example_pt": "A criança está com febre." },
-        { "word": "der Arzt / die Ärztin", "translation": "o médico / a médica", "plural": "die Ärzte", "example": "Ich gehe zum Arzt.", "example_pt": "Vou ao médico." },
-        { "word": "das Medikament", "translation": "o medicamento", "plural": "die Medikamente", "example": "Nehmen Sie das Medikament nach dem Essen.", "example_pt": "Tome o medicamento depois de comer." },
-        { "word": "krank", "translation": "doente", "plural": "-", "example": "Ich bin krank.", "example_pt": "Estou doente." },
-        { "word": "gesund", "translation": "saudável / bom", "plural": "-", "example": "Ich bin wieder gesund.", "example_pt": "Estou bem de novo." }
+        {
+          "word": "der Kopf",
+          "translation": "a cabeça",
+          "plural": "die Köpfe",
+          "example": "Ich habe Kopfschmerzen.",
+          "example_pt": "Estou com dor de cabeça."
+        },
+        {
+          "word": "der Bauch",
+          "translation": "a barriga",
+          "plural": "die Bäuche",
+          "example": "Mein Bauch tut weh.",
+          "example_pt": "Minha barriga está doendo."
+        },
+        {
+          "word": "der Rücken",
+          "translation": "as costas",
+          "plural": "die Rücken",
+          "example": "Er hat Rückenschmerzen.",
+          "example_pt": "Ele está com dor nas costas."
+        },
+        {
+          "word": "das Bein",
+          "translation": "a perna",
+          "plural": "die Beine",
+          "example": "Sie hat das Bein gebrochen.",
+          "example_pt": "Ela quebrou a perna."
+        },
+        {
+          "word": "der Arm",
+          "translation": "o braço",
+          "plural": "die Arme",
+          "example": "Mein Arm ist müde.",
+          "example_pt": "Meu braço está cansado."
+        },
+        {
+          "word": "die Hand",
+          "translation": "a mão",
+          "plural": "die Hände",
+          "example": "Wasch dir die Hände!",
+          "example_pt": "Lave as mãos!"
+        },
+        {
+          "word": "der Hals",
+          "translation": "o pescoço / a garganta",
+          "plural": "die Hälse",
+          "example": "Ich habe Halsschmerzen.",
+          "example_pt": "Estou com dor de garganta."
+        },
+        {
+          "word": "das Fieber",
+          "translation": "a febre",
+          "plural": "(sem plural)",
+          "example": "Das Kind hat Fieber.",
+          "example_pt": "A criança está com febre."
+        },
+        {
+          "word": "der Arzt / die Ärztin",
+          "translation": "o médico / a médica",
+          "plural": "die Ärzte",
+          "example": "Ich gehe zum Arzt.",
+          "example_pt": "Vou ao médico."
+        },
+        {
+          "word": "das Medikament",
+          "translation": "o medicamento",
+          "plural": "die Medikamente",
+          "example": "Nehmen Sie das Medikament nach dem Essen.",
+          "example_pt": "Tome o medicamento depois de comer."
+        },
+        {
+          "word": "krank",
+          "translation": "doente",
+          "plural": "-",
+          "example": "Ich bin krank.",
+          "example_pt": "Estou doente."
+        },
+        {
+          "word": "gesund",
+          "translation": "saudável / bom",
+          "plural": "-",
+          "example": "Ich bin wieder gesund.",
+          "example_pt": "Estou bem de novo."
+        }
       ],
       "association_pairs": [
-        { "de": "der Kopf", "pt": "a cabeça" },
-        { "de": "das Fieber", "pt": "a febre" },
-        { "de": "der Arzt", "pt": "o médico" },
-        { "de": "krank", "pt": "doente" },
-        { "de": "das Medikament", "pt": "o medicamento" },
-        { "de": "gesund", "pt": "saudável" }
+        {
+          "de": "der Kopf",
+          "pt": "a cabeça"
+        },
+        {
+          "de": "das Fieber",
+          "pt": "a febre"
+        },
+        {
+          "de": "der Arzt",
+          "pt": "o médico"
+        },
+        {
+          "de": "krank",
+          "pt": "doente"
+        },
+        {
+          "de": "das Medikament",
+          "pt": "o medicamento"
+        },
+        {
+          "de": "gesund",
+          "pt": "saudável"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sub_level": "A1.2",
+      "title": "Natur und Wetter",
+      "title_pt": "Natureza e Clima",
+      "words": [
+        {
+          "word": "die Sonne",
+          "translation": "o sol",
+          "plural": "die Sonnen",
+          "example": "Die Sonne scheint heute.",
+          "example_pt": "O sol está brilhando hoje."
+        },
+        {
+          "word": "der Regen",
+          "translation": "a chuva",
+          "plural": "die Regen",
+          "example": "Es gibt heute viel Regen.",
+          "example_pt": "Hoje tem muita chuva."
+        },
+        {
+          "word": "der Wind",
+          "translation": "o vento",
+          "plural": "die Winde",
+          "example": "Der Wind ist sehr stark.",
+          "example_pt": "O vento está muito forte."
+        },
+        {
+          "word": "der Schnee",
+          "translation": "a neve",
+          "plural": "(sem plural)",
+          "example": "Im Winter gibt es Schnee.",
+          "example_pt": "No inverno há neve."
+        },
+        {
+          "word": "die Wolke",
+          "translation": "a nuvem",
+          "plural": "die Wolken",
+          "example": "Am Himmel sind viele Wolken.",
+          "example_pt": "Há muitas nuvens no céu."
+        },
+        {
+          "word": "das Gewitter",
+          "translation": "a tempestade",
+          "plural": "die Gewitter",
+          "example": "Heute Nacht gibt es ein Gewitter.",
+          "example_pt": "Esta noite haverá uma tempestade."
+        },
+        {
+          "word": "der Baum",
+          "translation": "a árvore",
+          "plural": "die Bäume",
+          "example": "Der Baum ist sehr alt.",
+          "example_pt": "A árvore é muito velha."
+        },
+        {
+          "word": "der Fluss",
+          "translation": "o rio",
+          "plural": "die Flüsse",
+          "example": "Der Fluss ist kalt.",
+          "example_pt": "O rio está frio."
+        },
+        {
+          "word": "der Berg",
+          "translation": "a montanha",
+          "plural": "die Berge",
+          "example": "Die Berge sind wunderschön.",
+          "example_pt": "As montanhas são lindíssimas."
+        },
+        {
+          "word": "das Meer",
+          "translation": "o mar",
+          "plural": "die Meere",
+          "example": "Wir fahren ans Meer.",
+          "example_pt": "Vamos ao mar."
+        },
+        {
+          "word": "warm / kalt",
+          "translation": "quente / frio",
+          "plural": "-",
+          "example": "Es ist heute warm.",
+          "example_pt": "Hoje está quente."
+        },
+        {
+          "word": "das Wetter",
+          "translation": "o tempo / o clima",
+          "plural": "(sem plural)",
+          "example": "Wie ist das Wetter heute?",
+          "example_pt": "Como está o tempo hoje?"
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "die Sonne",
+          "pt": "o sol"
+        },
+        {
+          "de": "der Regen",
+          "pt": "a chuva"
+        },
+        {
+          "de": "der Schnee",
+          "pt": "a neve"
+        },
+        {
+          "de": "der Berg",
+          "pt": "a montanha"
+        },
+        {
+          "de": "das Meer",
+          "pt": "o mar"
+        },
+        {
+          "de": "das Wetter",
+          "pt": "o clima"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sub_level": "A1.3",
+      "title": "Reisen und Verkehr",
+      "title_pt": "Viagem e Transporte",
+      "words": [
+        {
+          "word": "das Flugzeug",
+          "translation": "o avião",
+          "plural": "die Flugzeuge",
+          "example": "Das Flugzeug startet um 10 Uhr.",
+          "example_pt": "O avião decola às 10h."
+        },
+        {
+          "word": "der Zug",
+          "translation": "o trem",
+          "plural": "die Züge",
+          "example": "Der Zug kommt um 8 Uhr an.",
+          "example_pt": "O trem chega às 8h."
+        },
+        {
+          "word": "der Flughafen",
+          "translation": "o aeroporto",
+          "plural": "die Flughäfen",
+          "example": "Wir fahren zum Flughafen.",
+          "example_pt": "Vamos ao aeroporto."
+        },
+        {
+          "word": "das Ticket",
+          "translation": "o bilhete / a passagem",
+          "plural": "die Tickets",
+          "example": "Ich kaufe ein Ticket.",
+          "example_pt": "Estou comprando uma passagem."
+        },
+        {
+          "word": "der Koffer",
+          "translation": "a mala",
+          "plural": "die Koffer",
+          "example": "Mein Koffer ist sehr schwer.",
+          "example_pt": "Minha mala está muito pesada."
+        },
+        {
+          "word": "das Hotel",
+          "translation": "o hotel",
+          "plural": "die Hotels",
+          "example": "Wir wohnen im Hotel.",
+          "example_pt": "Estamos hospedados no hotel."
+        },
+        {
+          "word": "die Reise",
+          "translation": "a viagem",
+          "plural": "die Reisen",
+          "example": "Die Reise war sehr schön.",
+          "example_pt": "A viagem foi muito boa."
+        },
+        {
+          "word": "der Pass",
+          "translation": "o passaporte",
+          "plural": "die Pässe",
+          "example": "Vergiss nicht deinen Pass!",
+          "example_pt": "Não esqueça seu passaporte!"
+        },
+        {
+          "word": "die Haltestelle",
+          "translation": "o ponto de ônibus",
+          "plural": "die Haltestellen",
+          "example": "Die Haltestelle ist um die Ecke.",
+          "example_pt": "O ponto de ônibus fica na esquina."
+        },
+        {
+          "word": "abfahren",
+          "translation": "partir / sair",
+          "plural": "-",
+          "example": "Der Bus fährt um 9 Uhr ab.",
+          "example_pt": "O ônibus parte às 9h."
+        },
+        {
+          "word": "ankommen",
+          "translation": "chegar",
+          "plural": "-",
+          "example": "Wann kommen wir an?",
+          "example_pt": "Quando chegamos?"
+        },
+        {
+          "word": "der Urlaub",
+          "translation": "as férias",
+          "plural": "die Urlaube",
+          "example": "Im August machen wir Urlaub.",
+          "example_pt": "Em agosto tiramos férias."
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "das Flugzeug",
+          "pt": "o avião"
+        },
+        {
+          "de": "der Zug",
+          "pt": "o trem"
+        },
+        {
+          "de": "der Koffer",
+          "pt": "a mala"
+        },
+        {
+          "de": "das Hotel",
+          "pt": "o hotel"
+        },
+        {
+          "de": "der Pass",
+          "pt": "o passaporte"
+        },
+        {
+          "de": "der Urlaub",
+          "pt": "as férias"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sub_level": "A1.2",
+      "title": "Datum und Jahreszeiten",
+      "title_pt": "Datas e Estações",
+      "words": [
+        {
+          "word": "der Frühling",
+          "translation": "a primavera",
+          "plural": "die Frühlinge",
+          "example": "Im Frühling blühen die Blumen.",
+          "example_pt": "Na primavera as flores florescem."
+        },
+        {
+          "word": "der Sommer",
+          "translation": "o verão",
+          "plural": "die Sommer",
+          "example": "Im Sommer ist es sehr heiß.",
+          "example_pt": "No verão está muito quente."
+        },
+        {
+          "word": "der Herbst",
+          "translation": "o outono",
+          "plural": "die Herbste",
+          "example": "Im Herbst fallen die Blätter.",
+          "example_pt": "No outono as folhas caem."
+        },
+        {
+          "word": "der Winter",
+          "translation": "o inverno",
+          "plural": "die Winter",
+          "example": "Im Winter ist es kalt.",
+          "example_pt": "No inverno está frio."
+        },
+        {
+          "word": "der Monat",
+          "translation": "o mês",
+          "plural": "die Monate",
+          "example": "Ein Jahr hat zwölf Monate.",
+          "example_pt": "Um ano tem doze meses."
+        },
+        {
+          "word": "die Woche",
+          "translation": "a semana",
+          "plural": "die Wochen",
+          "example": "Diese Woche bin ich beschäftigt.",
+          "example_pt": "Esta semana estou ocupado."
+        },
+        {
+          "word": "der Tag",
+          "translation": "o dia",
+          "plural": "die Tage",
+          "example": "Heute ist ein schöner Tag.",
+          "example_pt": "Hoje é um belo dia."
+        },
+        {
+          "word": "das Jahr",
+          "translation": "o ano",
+          "plural": "die Jahre",
+          "example": "Dieses Jahr lerne ich Deutsch.",
+          "example_pt": "Este ano estou aprendendo alemão."
+        },
+        {
+          "word": "der Geburtstag",
+          "translation": "o aniversário",
+          "plural": "die Geburtstage",
+          "example": "Wann ist dein Geburtstag?",
+          "example_pt": "Quando é o seu aniversário?"
+        },
+        {
+          "word": "heute / morgen / gestern",
+          "translation": "hoje / amanhã / ontem",
+          "plural": "-",
+          "example": "Morgen habe ich keine Zeit.",
+          "example_pt": "Amanhã não tenho tempo."
+        },
+        {
+          "word": "der Kalender",
+          "translation": "o calendário",
+          "plural": "die Kalender",
+          "example": "Schauen wir im Kalender nach.",
+          "example_pt": "Vamos verificar no calendário."
+        },
+        {
+          "word": "das Datum",
+          "translation": "a data",
+          "plural": "die Daten",
+          "example": "Welches Datum ist heute?",
+          "example_pt": "Qual é a data de hoje?"
+        }
+      ],
+      "association_pairs": [
+        {
+          "de": "der Frühling",
+          "pt": "a primavera"
+        },
+        {
+          "de": "der Sommer",
+          "pt": "o verão"
+        },
+        {
+          "de": "der Winter",
+          "pt": "o inverno"
+        },
+        {
+          "de": "der Geburtstag",
+          "pt": "o aniversário"
+        },
+        {
+          "de": "die Woche",
+          "pt": "a semana"
+        },
+        {
+          "de": "das Jahr",
+          "pt": "o ano"
+        }
       ]
     }
   ]
