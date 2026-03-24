@@ -6,6 +6,43 @@
 import { Router } from './js/core/router.js';
 import { ProgressStore } from './js/core/progress.js';
 
+// ─── Auth ─────────────────────────────────────────────────────────────────────
+const AUTH_HASH = '05d1b50ba52e573d1e8609bbe413afb9f75d2e641326d3bcffcf4f17031cdefc';
+const AUTH_KEY  = 'ls_auth_v1';
+
+async function sha256(str) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+function checkAuth() {
+  if (sessionStorage.getItem(AUTH_KEY) === '1') return Promise.resolve();
+
+  return new Promise((resolve) => {
+    const overlay = document.getElementById('loginOverlay');
+    const form    = document.getElementById('loginForm');
+    const input   = document.getElementById('loginInput');
+    const error   = document.getElementById('loginError');
+
+    overlay.style.display = 'flex';
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const hash = await sha256(input.value);
+      if (hash === AUTH_HASH) {
+        sessionStorage.setItem(AUTH_KEY, '1');
+        overlay.style.display = 'none';
+        resolve();
+      } else {
+        error.style.display = 'block';
+        input.value = '';
+        input.focus();
+      }
+    });
+  });
+}
+// ──────────────────────────────────────────────────────────────────────────────
+
 /** @type {Array<{ id: string, label: string }>} */
 const MODULES = [
   { id: 'grammar',       label: 'Gramática'   },
@@ -90,6 +127,9 @@ const App = {
   },
 };
 
-document.addEventListener('DOMContentLoaded', () => App.init());
+document.addEventListener('DOMContentLoaded', async () => {
+  await checkAuth();
+  App.init();
+});
 
 export { App, MODULES };

@@ -8,6 +8,26 @@
 </head>
 <body>
 
+  <!-- Login overlay — shown before app initialises if not authenticated -->
+  <div id="loginOverlay" class="login-overlay" style="display:none;">
+    <div class="login-card">
+      <div class="login-logo">LinguaStudy</div>
+      <p class="login-subtitle">Área privada</p>
+      <form id="loginForm" class="login-form" autocomplete="off">
+        <input
+          type="password"
+          id="loginInput"
+          class="login-input"
+          placeholder="Senha"
+          autocomplete="current-password"
+          autofocus
+        >
+        <button type="submit" class="btn btn-primary login-btn">Entrar</button>
+        <p class="login-error" id="loginError">Senha incorreta. Tente novamente.</p>
+      </form>
+    </div>
+  </div>
+
   <header class="header">
     <h1>LinguaStudy</h1>
     <nav class="lang-nav" aria-label="Selecionar idioma">
