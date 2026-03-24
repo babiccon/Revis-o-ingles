@@ -1,0 +1,692 @@
+{
+  "language": "english",
+  "level": "A2",
+  "categories": [
+    {
+      "id": 1,
+      "level": "A2",
+      "category": "Everyday Actions (Past Tense)",
+      "related_grammar": [
+        1
+      ],
+      "words": [
+        {
+          "en": "arrive",
+          "pt": "chegar",
+          "past": "arrived",
+          "example": "I arrived at 8 am."
+        },
+        {
+          "en": "leave",
+          "pt": "sair/partir",
+          "past": "left",
+          "example": "She left the office early."
+        },
+        {
+          "en": "forget",
+          "pt": "esquecer",
+          "past": "forgot",
+          "example": "I forgot my keys at home."
+        },
+        {
+          "en": "remember",
+          "pt": "lembrar",
+          "past": "remembered",
+          "example": "He remembered her name."
+        },
+        {
+          "en": "lose",
+          "pt": "perder",
+          "past": "lost",
+          "example": "They lost the game."
+        },
+        {
+          "en": "find",
+          "pt": "encontrar",
+          "past": "found",
+          "example": "We found a great restaurant."
+        },
+        {
+          "en": "spend",
+          "pt": "gastar/passar (tempo)",
+          "past": "spent",
+          "example": "I spent the weekend at home."
+        },
+        {
+          "en": "choose",
+          "pt": "escolher",
+          "past": "chose",
+          "example": "She chose the red dress."
+        },
+        {
+          "en": "begin",
+          "pt": "começar",
+          "past": "began",
+          "example": "The movie began at 7."
+        },
+        {
+          "en": "break",
+          "pt": "quebrar",
+          "past": "broke",
+          "example": "He broke the window."
+        },
+        {
+          "en": "catch",
+          "pt": "pegar/capturar",
+          "past": "caught",
+          "example": "I caught the bus just in time."
+        },
+        {
+          "en": "build",
+          "pt": "construir",
+          "past": "built",
+          "example": "They built a new house."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "arrive → past",
+          "back": "arrived"
+        },
+        {
+          "front": "leave → past",
+          "back": "left"
+        },
+        {
+          "front": "forget → past",
+          "back": "forgot"
+        },
+        {
+          "front": "lose → past",
+          "back": "lost"
+        },
+        {
+          "front": "find → past",
+          "back": "found"
+        },
+        {
+          "front": "spend → past",
+          "back": "spent"
+        },
+        {
+          "front": "choose → past",
+          "back": "chose"
+        },
+        {
+          "front": "begin → past",
+          "back": "began"
+        },
+        {
+          "front": "break → past",
+          "back": "broke"
+        },
+        {
+          "front": "catch → past",
+          "back": "caught"
+        },
+        {
+          "front": "build → past",
+          "back": "built"
+        },
+        {
+          "front": "remember → past",
+          "back": "remembered"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ my wallet on the bus. (lose)",
+          "options": [
+            "losed",
+            "lost",
+            "losted",
+            "lose"
+          ],
+          "answer": 1,
+          "explanation": "'Lose' é irregular. Past simple: 'lost'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "She ___ (choose) the blue shirt.",
+          "answer": "chose",
+          "explanation": "'Choose' é irregular: choose → chose → chosen."
+        }
+      ],
+      "sub_level": "A2.1",
+      "title_pt": "Ações do Dia a Dia",
+      "association_pairs": [
+        {
+          "en": "arrive",
+          "pt": "chegar"
+        },
+        {
+          "en": "leave",
+          "pt": "sair/partir"
+        },
+        {
+          "en": "forget",
+          "pt": "esquecer"
+        },
+        {
+          "en": "remember",
+          "pt": "lembrar"
+        },
+        {
+          "en": "lose",
+          "pt": "perder"
+        },
+        {
+          "en": "find",
+          "pt": "encontrar"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "A2",
+      "category": "Daily Routines & Activities",
+      "related_grammar": [
+        2,
+        4
+      ],
+      "words": [
+        {
+          "en": "wake up",
+          "pt": "acordar",
+          "example": "I wake up at 6 every day."
+        },
+        {
+          "en": "get dressed",
+          "pt": "se vestir",
+          "example": "She gets dressed quickly."
+        },
+        {
+          "en": "commute",
+          "pt": "ir e voltar do trabalho",
+          "example": "I commute by bus."
+        },
+        {
+          "en": "attend",
+          "pt": "participar/comparecer",
+          "example": "He attends meetings every Monday."
+        },
+        {
+          "en": "schedule",
+          "pt": "agendar/horário",
+          "example": "I need to schedule an appointment."
+        },
+        {
+          "en": "deadline",
+          "pt": "prazo final",
+          "example": "The deadline is Friday."
+        },
+        {
+          "en": "overtime",
+          "pt": "hora extra",
+          "example": "She works overtime on Thursdays."
+        },
+        {
+          "en": "break",
+          "pt": "intervalo/pausa",
+          "example": "Let's take a break."
+        },
+        {
+          "en": "manage",
+          "pt": "gerenciar/conseguir",
+          "example": "He manages a team of 10 people."
+        },
+        {
+          "en": "achieve",
+          "pt": "alcançar/conquistar",
+          "example": "She achieved her goals."
+        },
+        {
+          "en": "improve",
+          "pt": "melhorar",
+          "example": "I want to improve my English."
+        },
+        {
+          "en": "struggle",
+          "pt": "lutar/ter dificuldade",
+          "example": "I struggle with grammar."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "acordar",
+          "back": "wake up"
+        },
+        {
+          "front": "se vestir",
+          "back": "get dressed"
+        },
+        {
+          "front": "ir ao trabalho (transporte)",
+          "back": "commute"
+        },
+        {
+          "front": "prazo final",
+          "back": "deadline"
+        },
+        {
+          "front": "hora extra",
+          "back": "overtime"
+        },
+        {
+          "front": "conquistar/alcançar",
+          "back": "achieve"
+        },
+        {
+          "front": "melhorar",
+          "back": "improve"
+        },
+        {
+          "front": "ter dificuldade",
+          "back": "struggle"
+        },
+        {
+          "front": "gerenciar",
+          "back": "manage"
+        },
+        {
+          "front": "agendar",
+          "back": "schedule"
+        },
+        {
+          "front": "comparecer/participar",
+          "back": "attend"
+        },
+        {
+          "front": "pausa/intervalo",
+          "back": "break"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ to work by subway every day.",
+          "options": [
+            "commute",
+            "commutes",
+            "commuting",
+            "commuted"
+          ],
+          "answer": 0,
+          "explanation": "Sujeito 'I' → verbo sem -s: 'commute'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The ___ for the project is next Monday. (prazo final)",
+          "answer": "deadline",
+          "explanation": "'Deadline' = prazo final."
+        }
+      ],
+      "sub_level": "A2.1",
+      "title_pt": "Rotinas e Atividades",
+      "association_pairs": [
+        {
+          "en": "wake up",
+          "pt": "acordar"
+        },
+        {
+          "en": "get dressed",
+          "pt": "se vestir"
+        },
+        {
+          "en": "commute",
+          "pt": "ir e voltar do trabalho"
+        },
+        {
+          "en": "attend",
+          "pt": "participar/comparecer"
+        },
+        {
+          "en": "schedule",
+          "pt": "agendar/horário"
+        },
+        {
+          "en": "deadline",
+          "pt": "prazo final"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "A2",
+      "category": "Descriptions & Comparisons",
+      "related_grammar": [
+        3
+      ],
+      "words": [
+        {
+          "en": "huge",
+          "pt": "enorme",
+          "example": "The house is huge."
+        },
+        {
+          "en": "tiny",
+          "pt": "minúsculo",
+          "example": "The apartment is tiny."
+        },
+        {
+          "en": "crowded",
+          "pt": "lotado",
+          "example": "The bus was crowded."
+        },
+        {
+          "en": "empty",
+          "pt": "vazio",
+          "example": "The restaurant was empty."
+        },
+        {
+          "en": "ancient",
+          "pt": "antigo/milenar",
+          "example": "The city has ancient buildings."
+        },
+        {
+          "en": "modern",
+          "pt": "moderno",
+          "example": "It's a very modern design."
+        },
+        {
+          "en": "wealthy",
+          "pt": "rico/abastado",
+          "example": "They live in a wealthy neighborhood."
+        },
+        {
+          "en": "affordable",
+          "pt": "acessível (preço)",
+          "example": "This restaurant is affordable."
+        },
+        {
+          "en": "convenient",
+          "pt": "conveniente/prático",
+          "example": "The location is very convenient."
+        },
+        {
+          "en": "comfortable",
+          "pt": "confortável",
+          "example": "This chair is really comfortable."
+        },
+        {
+          "en": "disappointed",
+          "pt": "decepcionado",
+          "example": "I was disappointed with the result."
+        },
+        {
+          "en": "exhausted",
+          "pt": "exausto",
+          "example": "I'm exhausted after the workout."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "enorme",
+          "back": "huge"
+        },
+        {
+          "front": "minúsculo",
+          "back": "tiny"
+        },
+        {
+          "front": "lotado",
+          "back": "crowded"
+        },
+        {
+          "front": "vazio",
+          "back": "empty"
+        },
+        {
+          "front": "antigo/milenar",
+          "back": "ancient"
+        },
+        {
+          "front": "rico/abastado",
+          "back": "wealthy"
+        },
+        {
+          "front": "acessível (preço)",
+          "back": "affordable"
+        },
+        {
+          "front": "conveniente",
+          "back": "convenient"
+        },
+        {
+          "front": "confortável",
+          "back": "comfortable"
+        },
+        {
+          "front": "decepcionado",
+          "back": "disappointed"
+        },
+        {
+          "front": "exausto",
+          "back": "exhausted"
+        },
+        {
+          "front": "moderno",
+          "back": "modern"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "The subway was very ___. There were too many people.",
+          "options": [
+            "empty",
+            "crowded",
+            "tiny",
+            "convenient"
+          ],
+          "answer": 1,
+          "explanation": "'Crowded' = lotado, com muitas pessoas."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I'm ___ after running 10 km. (muito cansado)",
+          "answer": "exhausted",
+          "explanation": "'Exhausted' = extremamente cansado/exausto."
+        }
+      ],
+      "sub_level": "A2.2",
+      "title_pt": "Descrições e Comparações",
+      "association_pairs": [
+        {
+          "en": "huge",
+          "pt": "enorme"
+        },
+        {
+          "en": "tiny",
+          "pt": "minúsculo"
+        },
+        {
+          "en": "crowded",
+          "pt": "lotado"
+        },
+        {
+          "en": "empty",
+          "pt": "vazio"
+        },
+        {
+          "en": "ancient",
+          "pt": "antigo/milenar"
+        },
+        {
+          "en": "modern",
+          "pt": "moderno"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "A2",
+      "category": "Time Expressions",
+      "related_grammar": [
+        5,
+        6
+      ],
+      "words": [
+        {
+          "en": "recently",
+          "pt": "recentemente",
+          "example": "I recently moved to a new city."
+        },
+        {
+          "en": "eventually",
+          "pt": "eventualmente/finalmente",
+          "example": "He eventually found a job."
+        },
+        {
+          "en": "immediately",
+          "pt": "imediatamente",
+          "example": "Call me immediately."
+        },
+        {
+          "en": "gradually",
+          "pt": "gradualmente",
+          "example": "The weather is gradually getting warmer."
+        },
+        {
+          "en": "meanwhile",
+          "pt": "enquanto isso",
+          "example": "Meanwhile, she was cooking dinner."
+        },
+        {
+          "en": "currently",
+          "pt": "atualmente",
+          "example": "I'm currently learning English."
+        },
+        {
+          "en": "nowadays",
+          "pt": "hoje em dia",
+          "example": "Nowadays, everyone uses smartphones."
+        },
+        {
+          "en": "former",
+          "pt": "ex/anterior",
+          "example": "My former boss was great."
+        },
+        {
+          "en": "upcoming",
+          "pt": "próximo/que vai acontecer",
+          "example": "The upcoming event is exciting."
+        },
+        {
+          "en": "throughout",
+          "pt": "ao longo de/durante todo",
+          "example": "It rained throughout the day."
+        },
+        {
+          "en": "whenever",
+          "pt": "sempre que/quando quer que",
+          "example": "Call me whenever you need."
+        },
+        {
+          "en": "within",
+          "pt": "dentro de (prazo)",
+          "example": "I'll reply within 24 hours."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "recentemente",
+          "back": "recently"
+        },
+        {
+          "front": "eventualmente/finalmente",
+          "back": "eventually"
+        },
+        {
+          "front": "imediatamente",
+          "back": "immediately"
+        },
+        {
+          "front": "gradualmente",
+          "back": "gradually"
+        },
+        {
+          "front": "enquanto isso",
+          "back": "meanwhile"
+        },
+        {
+          "front": "atualmente",
+          "back": "currently"
+        },
+        {
+          "front": "hoje em dia",
+          "back": "nowadays"
+        },
+        {
+          "front": "ex/anterior",
+          "back": "former"
+        },
+        {
+          "front": "que vai acontecer",
+          "back": "upcoming"
+        },
+        {
+          "front": "ao longo de",
+          "back": "throughout"
+        },
+        {
+          "front": "sempre que",
+          "back": "whenever"
+        },
+        {
+          "front": "dentro de (prazo)",
+          "back": "within"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ found a new apartment after months of searching.",
+          "options": [
+            "eventually",
+            "recently",
+            "immediately",
+            "currently"
+          ],
+          "answer": 0,
+          "explanation": "'Eventually' = finalmente, depois de muito tempo."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I'll finish the report ___ 48 hours. (dentro de)",
+          "answer": "within",
+          "explanation": "'Within' = dentro de (prazo): 'within 48 hours'."
+        }
+      ],
+      "sub_level": "A2.2",
+      "title_pt": "Expressões de Tempo",
+      "association_pairs": [
+        {
+          "en": "recently",
+          "pt": "recentemente"
+        },
+        {
+          "en": "eventually",
+          "pt": "eventualmente/finalmente"
+        },
+        {
+          "en": "immediately",
+          "pt": "imediatamente"
+        },
+        {
+          "en": "gradually",
+          "pt": "gradualmente"
+        },
+        {
+          "en": "meanwhile",
+          "pt": "enquanto isso"
+        },
+        {
+          "en": "currently",
+          "pt": "atualmente"
+        }
+      ]
+    }
+  ]
+}

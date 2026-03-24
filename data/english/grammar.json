@@ -1,0 +1,1272 @@
+{
+  "language": "english",
+  "level": "A2",
+  "topics": [
+    {
+      "id": 1,
+      "level": "A2",
+      "topic": "Past Simple (Regular & Irregular)",
+      "explanation": "O Past Simple é o tempo verbal que usamos para falar de ações que aconteceram e terminaram no passado. Pense nele como uma 'história encerrada' — algo que começou, aconteceu e acabou. Em português, é bem parecido com o nosso pretérito perfeito ('eu trabalhei', 'ela foi'). A grande diferença é que em inglês existem dois tipos de verbos: os REGULARES, que seguem um padrão simples (adicionar -ed: work→worked, play→played), e os IRREGULARES, que têm formas próprias que precisam ser memorizadas (go→went, eat→ate, buy→bought). Uma dica importante: na NEGATIVA e na INTERROGATIVA, o verbo volta para a forma base! Isso acontece porque o auxiliar 'did/didn't' já carrega a informação de passado. Então é 'I didn't GO' (não 'I didn't went') e 'Did you SEE?' (não 'Did you saw?'). Esse é o erro mais comum de brasileiros. Palavras como 'yesterday', 'last week', 'ago', 'in 2020' são pistas de que você deve usar o Past Simple.",
+      "tips": [
+        "Dica mental: se você consegue colocar 'ontem' ou 'semana passada' na frase e faz sentido, provavelmente é Past Simple",
+        "Os 20 verbos irregulares mais usados cobrem 80% das situações do dia a dia — foque neles primeiro (go, eat, buy, see, take, make, come, give, think, write, speak, run, know, get, say, tell, find, leave, feel, meet)",
+        "Na fala, 'didn't' é muito mais comum que 'did not' — pratique a contração",
+        "Cuidado: em português dizemos 'eu não fui' (verbo conjugado), mas em inglês é 'I didn't go' (verbo na forma base após didn't)"
+      ],
+      "rules": [
+        "Afirmativa regular: sujeito + verbo-ed (I worked, she played)",
+        "Afirmativa irregular: sujeito + forma irregular (I went, she ate)",
+        "Negativa: sujeito + didn't + verbo base (I didn't work, she didn't go)",
+        "Interrogativa: Did + sujeito + verbo base? (Did you work? Did she go?)",
+        "Marcadores de tempo: yesterday, last week, ago, in 2020"
+      ],
+      "examples": [
+        {
+          "en": "I worked here last year.",
+          "pt": "Eu trabalhei aqui ano passado."
+        },
+        {
+          "en": "She went to Paris in 2019.",
+          "pt": "Ela foi a Paris em 2019."
+        },
+        {
+          "en": "They didn't finish the project.",
+          "pt": "Eles não terminaram o projeto."
+        },
+        {
+          "en": "Did you see the movie?",
+          "pt": "Você viu o filme?"
+        },
+        {
+          "en": "He bought a new car yesterday.",
+          "pt": "Ele comprou um carro novo ontem."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "I didn't went.",
+          "correct": "I didn't go.",
+          "explanation": "Após 'didn't', o verbo fica na forma base (infinitivo sem 'to')."
+        },
+        {
+          "wrong": "Did she went?",
+          "correct": "Did she go?",
+          "explanation": "Após 'Did', o verbo fica na forma base."
+        },
+        {
+          "wrong": "I goed to school.",
+          "correct": "I went to school.",
+          "explanation": "'Go' é irregular. A forma no passado é 'went', não 'goed'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "go (past simple)",
+          "back": "went"
+        },
+        {
+          "front": "eat (past simple)",
+          "back": "ate"
+        },
+        {
+          "front": "buy (past simple)",
+          "back": "bought"
+        },
+        {
+          "front": "see (past simple)",
+          "back": "saw"
+        },
+        {
+          "front": "take (past simple)",
+          "back": "took"
+        },
+        {
+          "front": "make (past simple)",
+          "back": "made"
+        },
+        {
+          "front": "come (past simple)",
+          "back": "came"
+        },
+        {
+          "front": "give (past simple)",
+          "back": "gave"
+        },
+        {
+          "front": "think (past simple)",
+          "back": "thought"
+        },
+        {
+          "front": "write (past simple)",
+          "back": "wrote"
+        },
+        {
+          "front": "speak (past simple)",
+          "back": "spoke"
+        },
+        {
+          "front": "run (past simple)",
+          "back": "ran"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ to the store yesterday.",
+          "options": [
+            "go",
+            "goes",
+            "went",
+            "goed"
+          ],
+          "answer": 2,
+          "explanation": "'Go' é irregular. No Past Simple, usamos 'went'. 'Yesterday' indica passado."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "They ___ the homework last night.",
+          "options": [
+            "didn't finished",
+            "didn't finish",
+            "not finished",
+            "don't finish"
+          ],
+          "answer": 1,
+          "explanation": "Na negativa do Past Simple, usamos 'didn't' + verbo na forma base: 'didn't finish'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you ___ the email? (receive - interrogativa no passado)",
+          "answer": "Did you receive",
+          "explanation": "Interrogativa no Past Simple: Did + sujeito + verbo base."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I ___ a great book last weekend.",
+          "options": [
+            "readed",
+            "red",
+            "read",
+            "reading"
+          ],
+          "answer": 2,
+          "explanation": "'Read' é irregular. No passado, a escrita é igual ('read'), mas a pronúncia muda para /rɛd/."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We ___ (play) soccer when we were kids.",
+          "answer": "played",
+          "explanation": "'Play' é regular. No Past Simple, adicionamos -ed: 'played'."
+        }
+      ],
+      "sub_level": "A2.1",
+      "title_pt": "Past Simple"
+    },
+    {
+      "id": 2,
+      "level": "A2",
+      "topic": "Present Continuous",
+      "explanation": "O Present Continuous descreve ações que estão acontecendo AGORA, neste exato momento. Quando alguém te liga e pergunta 'What are you doing?', a resposta usa Present Continuous: 'I'm studying'. A formação é simples: sujeito + am/is/are + verbo com -ing. Em português, é parecido com o nosso gerúndio ('estou fazendo', 'ela está dormindo'). Mas atenção: o Present Continuous tem TRÊS usos principais que brasileiros costumam confundir. Primeiro: ações acontecendo agora ('I'm eating lunch'). Segundo: situações temporárias ('I'm living with my parents until I find an apartment' — é temporário, não permanente). Terceiro: planos futuros JÁ CONFIRMADOS ('I'm meeting John tomorrow at 3pm' — já está combinado). Um ponto crucial: existe uma categoria de verbos chamados STATIVE VERBS (verbos de estado) que NÃO aceitam o -ing. São verbos de emoção, pensamento e posse: love, hate, know, believe, understand, want, need, have (posse), belong. Você NÃO diz 'I am loving this' em inglês correto — o certo é 'I love this'. Essa é uma armadilha comum porque em português dizemos 'estou amando' naturalmente.",
+      "tips": [
+        "Se alguém te perguntar 'What are you doing?' no WhatsApp, responda SEMPRE com Present Continuous: 'I'm watching TV', 'I'm cooking', etc.",
+        "Para diferenciar Present Simple de Present Continuous: Simple = rotina/sempre ('I work at Google'), Continuous = agora/temporário ('I'm working on a project')",
+        "Stative verbs para memorizar: LOVE, HATE, KNOW, BELIEVE, WANT, NEED, UNDERSTAND, BELONG, OWN — esses NUNCA levam -ing",
+        "Quando usar para futuro: só funciona para planos já organizados com hora/data. 'I'm flying to London on Friday' (passagem comprada). Não funciona para intenções vagas."
+      ],
+      "rules": [
+        "Afirmativa: sujeito + am/is/are + verbo-ing (I am working, she is eating)",
+        "Negativa: sujeito + am/is/are + not + verbo-ing (I am not working)",
+        "Interrogativa: Am/Is/Are + sujeito + verbo-ing? (Are you working?)",
+        "Usado para: ações acontecendo agora, planos futuros definidos, situações temporárias",
+        "Marcadores: now, right now, at the moment, currently, today"
+      ],
+      "examples": [
+        {
+          "en": "I am studying English right now.",
+          "pt": "Eu estou estudando inglês agora."
+        },
+        {
+          "en": "She is working from home today.",
+          "pt": "Ela está trabalhando de casa hoje."
+        },
+        {
+          "en": "They aren't listening to me.",
+          "pt": "Eles não estão me ouvindo."
+        },
+        {
+          "en": "Are you coming to the party tonight?",
+          "pt": "Você vai vir à festa hoje à noite?"
+        },
+        {
+          "en": "He is living in London temporarily.",
+          "pt": "Ele está morando em Londres temporariamente."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "I am agree with you.",
+          "correct": "I agree with you.",
+          "explanation": "'Agree' é um verbo de estado (stative verb). Não usamos Present Continuous com verbos de estado."
+        },
+        {
+          "wrong": "She is have lunch.",
+          "correct": "She is having lunch.",
+          "explanation": "Devemos adicionar -ing ao verbo principal: 'having'."
+        },
+        {
+          "wrong": "I'm study now.",
+          "correct": "I'm studying now.",
+          "explanation": "O Present Continuous exige verbo-ing após am/is/are."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Eu estou comendo",
+          "back": "I am eating"
+        },
+        {
+          "front": "Ela está dormindo",
+          "back": "She is sleeping"
+        },
+        {
+          "front": "Eles estão trabalhando",
+          "back": "They are working"
+        },
+        {
+          "front": "Nós estamos aprendendo",
+          "back": "We are learning"
+        },
+        {
+          "front": "Você está ouvindo?",
+          "back": "Are you listening?"
+        },
+        {
+          "front": "Ele não está correndo",
+          "back": "He is not running"
+        },
+        {
+          "front": "Estou morando aqui temporariamente",
+          "back": "I am living here temporarily"
+        },
+        {
+          "front": "O que você está fazendo?",
+          "back": "What are you doing?"
+        },
+        {
+          "front": "Está chovendo agora",
+          "back": "It is raining now"
+        },
+        {
+          "front": "Eles estão vindo amanhã",
+          "back": "They are coming tomorrow"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Look! The children ___ in the park.",
+          "options": [
+            "play",
+            "plays",
+            "are playing",
+            "is playing"
+          ],
+          "answer": 2,
+          "explanation": "'Look!' indica algo acontecendo agora → Present Continuous. 'Children' é plural → 'are playing'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ a book at the moment.",
+          "options": [
+            "reads",
+            "is reading",
+            "read",
+            "reading"
+          ],
+          "answer": 1,
+          "explanation": "'At the moment' indica ação em progresso → Present Continuous: 'is reading'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I ___ (not/watch) TV right now.",
+          "answer": "am not watching",
+          "explanation": "Negativa do Present Continuous: am/is/are + not + verbo-ing."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase está correta?",
+          "options": [
+            "I am knowing the answer.",
+            "I know the answer.",
+            "I am know the answer.",
+            "I knowing the answer."
+          ],
+          "answer": 1,
+          "explanation": "'Know' é um verbo de estado (stative verb). Não se usa com Present Continuous. O correto é 'I know'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ they ___ (come) to the meeting tomorrow?",
+          "answer": "Are they coming",
+          "explanation": "Present Continuous também expressa planos futuros definidos: Are + sujeito + verbo-ing."
+        }
+      ],
+      "sub_level": "A2.1",
+      "title_pt": "Present Continuous"
+    },
+    {
+      "id": 4,
+      "level": "A2",
+      "topic": "Subject-Verb Agreement",
+      "explanation": "A concordância sujeito-verbo em inglês funciona de forma diferente do português. Em português, conjugamos o verbo para cada pessoa (eu trabalho, tu trabalhas, ele trabalha, nós trabalhamos...). Em inglês, no Present Simple, o verbo só muda em UMA situação: na terceira pessoa do singular (he/she/it), onde adicionamos -s ou -es. Para todas as outras pessoas (I/you/we/they), o verbo fica na forma base. Então: 'I work, you work, we work, they work' — mas 'he WORKS, she WORKS, it WORKS'. Parece simples, mas é um dos erros mais persistentes de brasileiros, justamente porque em português o verbo muda mais e temos a tendência de esquecer esse -s solitário. Existem regras de ortografia: verbos terminados em -s, -sh, -ch, -x, -o ganham -ES (goes, watches, washes). Verbos terminados em consoante + y trocam o y por -IES (study→studies, carry→carries). Os verbos 'be', 'have' e 'do' são especiais: 'I am / he is', 'I have / he has', 'I do / he does'. Na NEGATIVA e INTERROGATIVA com he/she/it, usamos 'does/doesn't' e o verbo volta para a forma base: 'She doesn't LIKE' (não 'She doesn't likes').",
+      "tips": [
+        "Crie o hábito mental: toda vez que o sujeito for he/she/it ou um nome próprio, adicione o -s no verbo. 'Maria works', 'The dog runs', 'My father drives'",
+        "Na negativa/interrogativa, o -s 'migra' para o auxiliar: 'She likes' → 'She doesn't like' → 'Does she like?' O -s some do verbo e aparece no does",
+        "Cuidado com sujeitos que parecem plural mas são singular: 'The news IS' (notícia), 'Everyone HAS' (todo mundo), 'Nobody KNOWS' (ninguém)",
+        "Sujeitos que parecem singular mas são plural: 'The police ARE' (a polícia), 'The children PLAY' (as crianças), 'People THINK' (pessoas)"
+      ],
+      "rules": [
+        "I/you/we/they + verbo base: I work, they play",
+        "He/she/it + verbo-s: He works, she plays",
+        "Verbos terminados em -s/-sh/-ch/-x/-o: adicionar -es: he goes, she watches",
+        "Verbos terminados em consoante+y: trocar y por -ies: he studies, she carries",
+        "Be: I am, you/we/they are, he/she/it is",
+        "Have: I/you/we/they have, he/she/it has",
+        "Do: I/you/we/they do, he/she/it does"
+      ],
+      "examples": [
+        {
+          "en": "She works at a bank.",
+          "pt": "Ela trabalha em um banco."
+        },
+        {
+          "en": "He has two brothers.",
+          "pt": "Ele tem dois irmãos."
+        },
+        {
+          "en": "The dog runs fast.",
+          "pt": "O cachorro corre rápido."
+        },
+        {
+          "en": "My parents live in Brazil.",
+          "pt": "Meus pais moram no Brasil."
+        },
+        {
+          "en": "It doesn't matter.",
+          "pt": "Não importa."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "She have a car.",
+          "correct": "She has a car.",
+          "explanation": "Com he/she/it, 'have' vira 'has'."
+        },
+        {
+          "wrong": "He don't like it.",
+          "correct": "He doesn't like it.",
+          "explanation": "Com he/she/it, 'do' vira 'does' → negativa: 'doesn't'."
+        },
+        {
+          "wrong": "The children plays outside.",
+          "correct": "The children play outside.",
+          "explanation": "'Children' é plural → verbo sem -s: 'play'."
+        },
+        {
+          "wrong": "She go to school.",
+          "correct": "She goes to school.",
+          "explanation": "Com 'she', o verbo precisa de -s/-es: 'goes'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "She ___ (have)",
+          "back": "She has"
+        },
+        {
+          "front": "He ___ (do)",
+          "back": "He does"
+        },
+        {
+          "front": "It ___ (be)",
+          "back": "It is"
+        },
+        {
+          "front": "They ___ (be)",
+          "back": "They are"
+        },
+        {
+          "front": "She ___ (go)",
+          "back": "She goes"
+        },
+        {
+          "front": "He ___ (study)",
+          "back": "He studies"
+        },
+        {
+          "front": "It ___ (watch)",
+          "back": "It watches"
+        },
+        {
+          "front": "She ___ (not/like)",
+          "back": "She doesn't like"
+        },
+        {
+          "front": "___ he ___ (know)?",
+          "back": "Does he know?"
+        },
+        {
+          "front": "The team ___ (play) well.",
+          "back": "The team plays well."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ English every day.",
+          "options": [
+            "study",
+            "studies",
+            "studys",
+            "studying"
+          ],
+          "answer": 1,
+          "explanation": "'Study' com he/she/it: consoante + y → troca y por -ies: 'studies'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The children ___ in the garden.",
+          "options": [
+            "plays",
+            "is playing",
+            "play",
+            "does play"
+          ],
+          "answer": 2,
+          "explanation": "'Children' é plural → verbo sem -s: 'play'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "He ___ (not/have) any money.",
+          "answer": "doesn't have",
+          "explanation": "Negativa com he/she/it: doesn't + verbo base."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "My mother ___ cooking.",
+          "options": [
+            "love",
+            "loves",
+            "loving",
+            "are loving"
+          ],
+          "answer": 1,
+          "explanation": "'My mother' = she → verbo com -s: 'loves'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ your father ___ (work) here?",
+          "answer": "Does your father work",
+          "explanation": "Interrogativa com he/she/it: Does + sujeito + verbo base."
+        }
+      ],
+      "sub_level": "A2.1",
+      "title_pt": "Concordância Sujeito-Verbo"
+    },
+    {
+      "id": 5,
+      "level": "A2",
+      "topic": "Prepositions of Time (in/on/at)",
+      "explanation": "As preposições de tempo (in, on, at) são um dos pontos mais confusos para brasileiros porque em português usamos praticamente só 'em' para tudo: 'em janeiro', 'em segunda', 'em 2020', 'às 3 horas'. Em inglês, cada preposição tem seu território bem definido. Pense assim, do MAIOR para o MENOR: IN é para períodos GRANDES e abertos (meses: in January, anos: in 2024, estações: in summer, períodos do dia: in the morning/afternoon/evening, décadas: in the 90s, séculos: in the 21st century). ON é para dias ESPECÍFICOS e datas (dias da semana: on Monday, datas: on July 4th, dias especiais: on Christmas Day, on my birthday). AT é para momentos PONTUAIS e horas exatas (at 3 o'clock, at noon, at midnight, at the weekend). Uma boa analogia: IN é como um círculo grande (um mês inteiro), ON é como um ponto no calendário (um dia), e AT é como uma seta apontando para um momento exato (uma hora). EXCEÇÃO IMPORTANTE que pega muita gente: dizemos 'at NIGHT' (sem artigo), mas 'in THE morning/afternoon/evening' (com artigo). E palavras como today, tomorrow, yesterday, tonight, last/next/every + tempo NÃO usam preposição nenhuma: 'See you tomorrow' (não 'See you in tomorrow').",
+      "tips": [
+        "Memorize a escala: IN (grande: mês, ano, estação) → ON (médio: dia, data) → AT (pequeno: hora, momento exato)",
+        "Exceção que cai em prova: 'at night' mas 'in the morning'. Memorize como exceção única",
+        "Palavras que NUNCA levam preposição: today, tomorrow, yesterday, tonight, last Monday, next week, every day, this morning",
+        "Na dúvida entre in e on, pergunte: 'é um DIA específico?'. Se sim, use ON. Se é algo mais amplo (mês, ano), use IN"
+      ],
+      "rules": [
+        "AT: horas (at 5 o'clock), momentos (at noon, at midnight, at night, at the weekend)",
+        "ON: dias da semana (on Monday), datas (on July 4th), dias especiais (on Christmas Day)",
+        "IN: meses (in January), anos (in 2024), estações (in summer), períodos do dia (in the morning/afternoon/evening)",
+        "Sem preposição: today, tomorrow, yesterday, tonight, last/next/every + tempo",
+        "Exceção importante: AT night, mas IN the morning/afternoon/evening"
+      ],
+      "examples": [
+        {
+          "en": "The meeting is at 3 o'clock.",
+          "pt": "A reunião é às 3 horas."
+        },
+        {
+          "en": "I was born on March 15th.",
+          "pt": "Eu nasci em 15 de março."
+        },
+        {
+          "en": "She arrived in January.",
+          "pt": "Ela chegou em janeiro."
+        },
+        {
+          "en": "We go to the gym on Mondays.",
+          "pt": "Nós vamos à academia nas segundas."
+        },
+        {
+          "en": "I study in the morning and work at night.",
+          "pt": "Eu estudo de manhã e trabalho à noite."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "I wake up in 7 o'clock.",
+          "correct": "I wake up at 7 o'clock.",
+          "explanation": "Horas usam 'at', não 'in'."
+        },
+        {
+          "wrong": "She was born in Monday.",
+          "correct": "She was born on Monday.",
+          "explanation": "Dias da semana usam 'on', não 'in'."
+        },
+        {
+          "wrong": "I'll see you in tomorrow.",
+          "correct": "I'll see you tomorrow.",
+          "explanation": "'Tomorrow' não precisa de preposição."
+        },
+        {
+          "wrong": "He studies on the night.",
+          "correct": "He studies at night.",
+          "explanation": "Usamos 'at night' (sem artigo), é uma exceção."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "___ Monday (preposição)",
+          "back": "on Monday"
+        },
+        {
+          "front": "___ 9 o'clock (preposição)",
+          "back": "at 9 o'clock"
+        },
+        {
+          "front": "___ January (preposição)",
+          "back": "in January"
+        },
+        {
+          "front": "___ the morning (preposição)",
+          "back": "in the morning"
+        },
+        {
+          "front": "___ night (preposição)",
+          "back": "at night"
+        },
+        {
+          "front": "___ 2024 (preposição)",
+          "back": "in 2024"
+        },
+        {
+          "front": "___ Christmas Day (preposição)",
+          "back": "on Christmas Day"
+        },
+        {
+          "front": "___ summer (preposição)",
+          "back": "in summer"
+        },
+        {
+          "front": "___ the weekend (preposição)",
+          "back": "at the weekend"
+        },
+        {
+          "front": "___ July 4th (preposição)",
+          "back": "on July 4th"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I have a meeting ___ Wednesday.",
+          "options": [
+            "in",
+            "at",
+            "on",
+            "to"
+          ],
+          "answer": 2,
+          "explanation": "Dias da semana usam 'on': on Wednesday."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She was born ___ 1995.",
+          "options": [
+            "on",
+            "at",
+            "in",
+            "by"
+          ],
+          "answer": 2,
+          "explanation": "Anos usam 'in': in 1995."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The class starts ___ 8:30 ___ the morning.",
+          "answer": "at 8:30 in the morning",
+          "explanation": "Horas usam 'at'. Períodos do dia usam 'in': at 8:30 in the morning."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "We don't work ___ Sundays.",
+          "options": [
+            "in",
+            "at",
+            "on",
+            "during"
+          ],
+          "answer": 2,
+          "explanation": "Dias da semana usam 'on': on Sundays."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I like to read ___ night.",
+          "options": [
+            "in",
+            "on",
+            "in the",
+            "at"
+          ],
+          "answer": 3,
+          "explanation": "'Night' é exceção: usamos 'at night' (não 'in the night')."
+        }
+      ],
+      "sub_level": "A2.1",
+      "title_pt": "Preposições de Tempo (in/on/at)"
+    },
+    {
+      "id": 3,
+      "level": "A2",
+      "topic": "Comparatives & Superlatives",
+      "explanation": "Comparativos e superlativos são como você compara coisas em inglês. O comparativo compara DUAS coisas ('A é maior que B'), e o superlativo destaca o EXTREMO de um grupo ('A é o maior de todos'). A grande diferença do português é que em inglês existem DUAS formas de fazer isso, e a escolha depende do TAMANHO do adjetivo. Para adjetivos CURTOS (1 sílaba como tall, fast, old, e 2 sílabas terminados em -y como happy, easy): você adiciona -er para comparativo e -est para superlativo (tall→taller→tallest, happy→happier→happiest). Para adjetivos LONGOS (3+ sílabas como beautiful, interesting, expensive): você usa 'more' para comparativo e 'most' para superlativo (more beautiful, most interesting). Pense assim: se o adjetivo é curto e fácil de falar, grude o -er/-est nele. Se é longo, use more/most separado. NUNCA misture os dois! 'More taller' está ERRADO. Alguns adjetivos são irregulares e fogem de tudo: good→better→best, bad→worse→worst. O comparativo sempre usa 'than' (equivalente ao nosso 'que/do que'): 'She is taller THAN me'. O superlativo sempre usa 'the' antes: 'She is THE tallest'.",
+      "tips": [
+        "Truque para saber se é curto ou longo: bata palma para cada sílaba. 1 palma (tall, big, old) = -er/-est. 3+ palmas (beau-ti-ful, in-te-res-ting) = more/most",
+        "Adjetivos de 2 sílabas são a 'zona cinza': terminados em -y usam -er/-est (happy→happier), outros geralmente usam more/most (modern→more modern)",
+        "Memorize os 3 irregulares principais: good→better→best, bad→worse→worst, far→farther→farthest",
+        "Erro clássico de brasileiro: 'more better'. NUNCA use 'more' com uma forma que já termina em -er"
+      ],
+      "rules": [
+        "Curtos (1 sílaba): tall → taller → tallest",
+        "Terminados em -e: nice → nicer → nicest",
+        "Terminados em consoante+vogal+consoante: big → bigger → biggest",
+        "Terminados em -y: happy → happier → happiest",
+        "Longos (3+ sílabas): beautiful → more beautiful → most beautiful",
+        "Irregulares: good→better→best, bad→worse→worst, far→farther→farthest",
+        "Comparativo: adjetivo-er + than / more + adjetivo + than",
+        "Superlativo: the + adjetivo-est / the most + adjetivo"
+      ],
+      "examples": [
+        {
+          "en": "She is taller than her brother.",
+          "pt": "Ela é mais alta que o irmão dela."
+        },
+        {
+          "en": "This is the most expensive restaurant in town.",
+          "pt": "Este é o restaurante mais caro da cidade."
+        },
+        {
+          "en": "My car is faster than yours.",
+          "pt": "Meu carro é mais rápido que o seu."
+        },
+        {
+          "en": "English is easier than Chinese.",
+          "pt": "Inglês é mais fácil que chinês."
+        },
+        {
+          "en": "He is the best player on the team.",
+          "pt": "Ele é o melhor jogador do time."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "She is more tall than me.",
+          "correct": "She is taller than me.",
+          "explanation": "'Tall' tem uma sílaba. Adjetivos curtos usam -er, não 'more'."
+        },
+        {
+          "wrong": "This is the most good.",
+          "correct": "This is the best.",
+          "explanation": "'Good' é irregular: good → better → best."
+        },
+        {
+          "wrong": "He is more better.",
+          "correct": "He is better.",
+          "explanation": "Nunca use 'more' com formas comparativas que já terminam em -er. É redundante."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "good → comparativo → superlativo",
+          "back": "good → better → best"
+        },
+        {
+          "front": "bad → comparativo → superlativo",
+          "back": "bad → worse → worst"
+        },
+        {
+          "front": "far → comparativo → superlativo",
+          "back": "far → farther → farthest"
+        },
+        {
+          "front": "happy → comparativo",
+          "back": "happier"
+        },
+        {
+          "front": "beautiful → superlativo",
+          "back": "the most beautiful"
+        },
+        {
+          "front": "big → comparativo",
+          "back": "bigger"
+        },
+        {
+          "front": "interesting → comparativo",
+          "back": "more interesting"
+        },
+        {
+          "front": "hot → superlativo",
+          "back": "the hottest"
+        },
+        {
+          "front": "little → comparativo → superlativo",
+          "back": "little → less → least"
+        },
+        {
+          "front": "many/much → comparativo → superlativo",
+          "back": "many/much → more → most"
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "This book is ___ than that one.",
+          "options": [
+            "interestinger",
+            "more interesting",
+            "most interesting",
+            "interesting"
+          ],
+          "answer": 1,
+          "explanation": "'Interesting' tem 4 sílabas → usamos 'more interesting' para o comparativo."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She is the ___ student in the class.",
+          "options": [
+            "more smart",
+            "smartest",
+            "most smart",
+            "smarter"
+          ],
+          "answer": 1,
+          "explanation": "'Smart' tem 1 sílaba → superlativo com -est: 'the smartest'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Today is ___ (bad) than yesterday.",
+          "answer": "worse",
+          "explanation": "'Bad' é irregular. O comparativo é 'worse', não 'badder' ou 'more bad'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Mount Everest is the ___ mountain in the world.",
+          "options": [
+            "higher",
+            "highest",
+            "most high",
+            "more high"
+          ],
+          "answer": 1,
+          "explanation": "'High' tem 1 sílaba → superlativo com -est: 'the highest'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "This exercise is ___ (easy) than the last one.",
+          "answer": "easier",
+          "explanation": "'Easy' termina em -y → troca por -ier: 'easier'."
+        }
+      ],
+      "sub_level": "A2.2",
+      "title_pt": "Comparativos e Superlativos"
+    },
+    {
+      "id": 6,
+      "level": "A2",
+      "topic": "Future (will / going to)",
+      "explanation": "Em português, temos basicamente uma forma de falar sobre o futuro: 'eu vou fazer' ou 'eu farei'. Em inglês, existem DUAS formas principais, e cada uma tem situações específicas. WILL é usado para: (1) decisões tomadas NO MOMENTO da fala — alguém te pede ajuda e você diz 'I'll help you!' (decidiu agora); (2) promessas — 'I won't tell anyone, I promise'; (3) ofertas — 'I'll carry that for you'; (4) previsões baseadas em OPINIÃO — 'I think it will rain tomorrow' (você acha, mas não tem certeza). GOING TO é usado para: (1) planos e intenções que você JÁ DECIDIU ANTES — 'I'm going to visit my parents next week' (já planejou); (2) previsões baseadas em EVIDÊNCIA VISÍVEL — 'Look at those clouds! It's going to rain!' (você está vendo as nuvens, tem evidência). A diferença-chave é: WILL = decisão/reação no momento, GOING TO = decisão já tomada antes. Imagine: você está num restaurante. O garçom pergunta o que você quer. Você olha o menu e diz 'I'll have the pasta' (decisão agora, no momento). Mas se antes de sair de casa você já sabia o que ia pedir, seria 'I'm going to have the pasta'. Na prática do dia a dia, muitas vezes os dois são intercambiáveis e nativos misturam — mas em provas e contextos formais, a distinção importa.",
+      "tips": [
+        "Teste rápido: 'Eu já tinha planejado isso antes?' → Se sim, use GOING TO. 'Estou decidindo agora?' → Use WILL",
+        "WILL é muito usado em reações: telefone toca → 'I'll answer it!'. Alguém derruba algo → 'I'll pick it up!'",
+        "GOING TO é muito usado para planos: 'What are you going to do this weekend?' 'I'm going to study for the exam'",
+        "Na fala informal, 'gonna' = 'going to': 'I'm gonna eat' = 'I'm going to eat'. Mas NUNCA escreva 'gonna' em contextos formais",
+        "NUNCA combine os dois: 'I will going to' está ERRADO. Use um ou outro"
+      ],
+      "rules": [
+        "Will: sujeito + will + verbo base (I will help you)",
+        "Will negativa: sujeito + won't + verbo base (I won't forget)",
+        "Going to: sujeito + am/is/are + going to + verbo base (I'm going to study)",
+        "Will: decisões no momento, promessas, ofertas, previsões opinativas",
+        "Going to: planos/intenções anteriores, previsões com evidência",
+        "Contrações: I'll, you'll, he'll, she'll, we'll, they'll, won't"
+      ],
+      "examples": [
+        {
+          "en": "I'll help you with that. (decisão no momento)",
+          "pt": "Eu vou te ajudar com isso."
+        },
+        {
+          "en": "I'm going to visit my parents next week. (plano)",
+          "pt": "Eu vou visitar meus pais semana que vem."
+        },
+        {
+          "en": "Look at those clouds! It's going to rain. (evidência)",
+          "pt": "Olha aquelas nuvens! Vai chover."
+        },
+        {
+          "en": "I think Brazil will win the World Cup. (opinião)",
+          "pt": "Eu acho que o Brasil vai ganhar a Copa."
+        },
+        {
+          "en": "I won't tell anyone. (promessa)",
+          "pt": "Eu não vou contar para ninguém."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "I will going to study.",
+          "correct": "I'm going to study. / I will study.",
+          "explanation": "Nunca combine 'will' com 'going to'. Use um ou outro."
+        },
+        {
+          "wrong": "She will goes.",
+          "correct": "She will go.",
+          "explanation": "Após 'will', o verbo fica na forma base, sem -s."
+        },
+        {
+          "wrong": "I gonna do it.",
+          "correct": "I'm gonna do it. / I'm going to do it.",
+          "explanation": "'Gonna' é informal para 'going to', mas sempre precisa do verbo 'to be' antes."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Eu vou te ligar amanhã. (plano)",
+          "back": "I'm going to call you tomorrow."
+        },
+        {
+          "front": "Eu te ajudo! (decisão agora)",
+          "back": "I'll help you!"
+        },
+        {
+          "front": "Vai chover. (evidência)",
+          "back": "It's going to rain."
+        },
+        {
+          "front": "Eu acho que ela vai gostar. (opinião)",
+          "back": "I think she'll like it."
+        },
+        {
+          "front": "Eu não vou esquecer. (promessa)",
+          "back": "I won't forget."
+        },
+        {
+          "front": "O que você vai fazer no sábado? (plano)",
+          "back": "What are you going to do on Saturday?"
+        },
+        {
+          "front": "Espere, eu abro a porta. (oferta)",
+          "back": "Wait, I'll open the door."
+        },
+        {
+          "front": "Eles vão se casar em junho. (plano)",
+          "back": "They're going to get married in June."
+        },
+        {
+          "front": "Será que vai nevar? (previsão)",
+          "back": "Will it snow? / Is it going to snow?"
+        },
+        {
+          "front": "Eu prometo que não vou me atrasar.",
+          "back": "I promise I won't be late."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Look out! The vase ___ fall! (evidência visual)",
+          "options": [
+            "will",
+            "is going to",
+            "shall",
+            "does"
+          ],
+          "answer": 1,
+          "explanation": "Com evidência visível (Look out!), usamos 'going to': 'is going to fall'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "\"The phone is ringing!\" \"I ___ answer it.\" (decisão espontânea)",
+          "options": [
+            "am going to",
+            "will",
+            "going to",
+            "am"
+          ],
+          "answer": 1,
+          "explanation": "Decisão tomada no momento → 'will': 'I'll answer it'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We ___ (visit) our grandparents next Sunday. It's already planned.",
+          "answer": "are going to visit",
+          "explanation": "Plano já decidido → 'going to': 'are going to visit'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I think it ___ be a great party.",
+          "options": [
+            "is going to",
+            "will",
+            "going to",
+            "is"
+          ],
+          "answer": 1,
+          "explanation": "Opinião/previsão sem evidência concreta ('I think') → 'will'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Don't worry, I ___ (not/tell) anyone your secret.",
+          "answer": "won't tell",
+          "explanation": "Promessa → 'will' (negativa: won't): 'won't tell'."
+        }
+      ],
+      "sub_level": "A2.2",
+      "title_pt": "Futuro (will / going to)"
+    },
+    {
+      "id": 7,
+      "level": "A2",
+      "topic": "Modal Verbs (can/could/must)",
+      "explanation": "Verbos modais são verbos 'especiais' que funcionam de forma completamente diferente dos verbos normais em inglês. Eles expressam ideias como habilidade, permissão, obrigação e possibilidade. Os três principais neste nível são CAN, COULD e MUST. O que torna os modais especiais? Três regras de ouro: (1) eles NUNCA recebem -s na terceira pessoa — é 'he CAN', nunca 'he cans'; (2) o verbo depois deles vem na forma base SEM 'to' — é 'I can SWIM', nunca 'I can to swim'; (3) a negativa é feita direto, sem auxiliar — 'I can't', não 'I don't can'. CAN tem dois significados principais: habilidade ('I can speak English' = sei/consigo falar) e permissão ('Can I go?' = posso ir?). COULD funciona de três formas: como passado de can ('When I was young, I could run fast' = eu conseguia correr), como pedido educado ('Could you help me?' = você poderia me ajudar? — mais polido que 'can'), e como possibilidade ('It could rain' = pode ser que chova). MUST expressa obrigação forte ('You must wear a seatbelt' = você DEVE usar cinto) e dedução/conclusão lógica ('He must be tired — he worked 12 hours' = ele deve estar cansado). Cuidado: MUSTN'T não significa 'não precisa', significa PROIBIÇÃO ('You mustn't smoke here' = é proibido fumar aqui). Para 'não precisa', use 'don't have to'.",
+      "tips": [
+        "Grau de certeza: must (quase certeza) > could/may (possibilidade) > might (pouca chance). 'He must be at home' (tenho quase certeza) vs 'He could be at home' (talvez)",
+        "Grau de educação em pedidos: Can you...? (informal) < Could you...? (educado) < Would you mind...? (muito formal)",
+        "MUSTN'T = proibido (You mustn't steal). DON'T HAVE TO = não precisa (You don't have to come if you don't want). São MUITO diferentes!",
+        "Em português dizemos 'posso ir ao banheiro?' e a piada em inglês é responder 'You CAN, but you MAY not' — porque can = habilidade e may = permissão formal"
+      ],
+      "rules": [
+        "Modais + verbo base (sem 'to'): I can swim, she must go",
+        "Sem -s na terceira pessoa: He can (não 'cans'), she must (não 'musts')",
+        "Negativa: modal + not: can't, couldn't, mustn't",
+        "Can: habilidade (I can drive), permissão (Can I go?), possibilidade",
+        "Could: habilidade no passado (I could swim as a child), pedido educado (Could you help?)",
+        "Must: obrigação forte (You must study), dedução (He must be tired)",
+        "Mustn't = proibição (You mustn't smoke here)"
+      ],
+      "examples": [
+        {
+          "en": "I can speak three languages.",
+          "pt": "Eu consigo falar três idiomas."
+        },
+        {
+          "en": "She couldn't come to the party.",
+          "pt": "Ela não pôde vir à festa."
+        },
+        {
+          "en": "You must wear a seatbelt.",
+          "pt": "Você deve usar cinto de segurança."
+        },
+        {
+          "en": "Could you open the window, please?",
+          "pt": "Você poderia abrir a janela, por favor?"
+        },
+        {
+          "en": "He must be very rich. (dedução)",
+          "pt": "Ele deve ser muito rico. (dedução)"
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "She cans swim.",
+          "correct": "She can swim.",
+          "explanation": "Modais nunca recebem -s. É 'she can', não 'she cans'."
+        },
+        {
+          "wrong": "I can to drive.",
+          "correct": "I can drive.",
+          "explanation": "Após modais, o verbo vem na forma base sem 'to'."
+        },
+        {
+          "wrong": "I must to go.",
+          "correct": "I must go.",
+          "explanation": "Após 'must', não se usa 'to'. O verbo vem na forma base."
+        },
+        {
+          "wrong": "He not can come.",
+          "correct": "He can't come.",
+          "explanation": "A negativa é modal + not: can't, couldn't, mustn't."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Eu sei nadar.",
+          "back": "I can swim."
+        },
+        {
+          "front": "Ela não conseguia dormir.",
+          "back": "She couldn't sleep."
+        },
+        {
+          "front": "Você deve estudar mais.",
+          "back": "You must study more."
+        },
+        {
+          "front": "Posso ir ao banheiro?",
+          "back": "Can I go to the bathroom?"
+        },
+        {
+          "front": "Você poderia me ajudar?",
+          "back": "Could you help me?"
+        },
+        {
+          "front": "Você não pode fumar aqui.",
+          "back": "You mustn't smoke here."
+        },
+        {
+          "front": "Eu conseguia correr rápido quando criança.",
+          "back": "I could run fast when I was a child."
+        },
+        {
+          "front": "Ele deve estar em casa. (dedução)",
+          "back": "He must be at home."
+        },
+        {
+          "front": "Posso usar seu telefone?",
+          "back": "Can I use your phone?"
+        },
+        {
+          "front": "Eles não conseguem nos ver.",
+          "back": "They can't see us."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "She ___ play the piano very well.",
+          "options": [
+            "cans",
+            "can",
+            "could to",
+            "can to"
+          ],
+          "answer": 1,
+          "explanation": "Modais não recebem -s e são seguidos de verbo base: 'can play'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "You ___ drive without a license. It's illegal.",
+          "options": [
+            "mustn't",
+            "don't must",
+            "can",
+            "must"
+          ],
+          "answer": 0,
+          "explanation": "Proibição → 'mustn't': 'You mustn't drive without a license.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you help me with this bag, please? (pedido educado)",
+          "answer": "Could",
+          "explanation": "'Could' é mais educado que 'can' para pedidos."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "When I was young, I ___ climb trees easily.",
+          "options": [
+            "can",
+            "must",
+            "could",
+            "should"
+          ],
+          "answer": 2,
+          "explanation": "Habilidade no passado → 'could': 'I could climb trees.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "He's been working all day. He ___ be exhausted. (dedução)",
+          "answer": "must",
+          "explanation": "Dedução com certeza forte → 'must': 'He must be exhausted.'"
+        }
+      ],
+      "sub_level": "A2.2",
+      "title_pt": "Verbos Modais (can/could/must)"
+    },
+    {
+      "id": 8,
+      "level": "B1",
+      "topic": "Present Perfect (have done vs did)",
+      "explanation": "O Present Perfect é provavelmente o tópico MAIS difícil para brasileiros, porque ele simplesmente não existe da mesma forma em português. Em português, dizemos 'eu nunca fui ao Japão' usando passado simples. Em inglês, DEVE ser Present Perfect: 'I have never BEEN to Japan'. Por quê? Porque o Present Perfect não fala apenas do passado — ele CONECTA o passado ao presente. Pense nele como uma ponte entre o que aconteceu e o que importa AGORA. Existem três situações principais: (1) EXPERIÊNCIAS DE VIDA — coisas que você já fez (ou nunca fez) até agora: 'Have you ever eaten sushi?' Não importa quando, importa se a experiência existe. (2) AÇÕES RECENTES COM EFEITO NO PRESENTE — 'I have lost my keys' significa que eu perdi as chaves E AINDA NÃO ACHEI (o efeito continua agora). Se eu disse 'I lost my keys', já implica que a história acabou (talvez já achei). (3) AÇÕES QUE COMEÇARAM NO PASSADO E CONTINUAM — 'I have lived here for 5 years' (moro aqui há 5 anos E AINDA MORO). A regra de ouro para não confundir com Past Simple: se a frase tem um TEMPO DEFINIDO (yesterday, last week, in 2020, when I was a child), use PAST SIMPLE. Se o tempo é INDEFINIDO ou conectado ao presente (ever, never, already, yet, just, since, for), use PRESENT PERFECT. 'I went to Paris in 2019' (tempo definido) vs 'I have been to Paris' (experiência, sem tempo definido).",
+      "tips": [
+        "REGRA DE OURO: tem 'yesterday/last week/in 2020/when I was...' na frase? → Past Simple. Tem 'ever/never/already/yet/just/since/for'? → Present Perfect",
+        "FOR = duração (for 3 years, for a long time). SINCE = ponto de início (since 2020, since Monday, since I was born). Nunca troque os dois!",
+        "Teste mental: 'o resultado dessa ação ainda importa agora?' Se sim → Present Perfect. 'I've broken my leg' (ainda está quebrada). 'I broke my leg last year' (já sarou)",
+        "Em português BR, usamos passado simples onde o inglês exige Present Perfect. Traduza mentalmente: 'Eu já comi sushi' → 'I HAVE eaten sushi' (não 'I ate sushi')",
+        "Just/already/yet: 'I've JUST arrived' (acabei de chegar), 'I've ALREADY finished' (já terminei), 'I haven't finished YET' (ainda não terminei)"
+      ],
+      "rules": [
+        "Formação: have/has + past participle (I have worked, she has gone)",
+        "Usado para: experiências de vida (I have been to London), ações recentes com efeito no presente (I have lost my keys), ações que começaram no passado e continuam (I have lived here for 5 years)",
+        "Marcadores: ever, never, already, yet, just, since, for, recently",
+        "Past Simple: tempo definido (yesterday, last week, in 2020)",
+        "Present Perfect: tempo indefinido ou conectado ao presente (ever, never, already)",
+        "Since + ponto no tempo (since 2020, since Monday)",
+        "For + duração (for 3 years, for a long time)"
+      ],
+      "examples": [
+        {
+          "en": "I have never been to Japan.",
+          "pt": "Eu nunca fui ao Japão."
+        },
+        {
+          "en": "She has already finished her homework.",
+          "pt": "Ela já terminou a lição de casa."
+        },
+        {
+          "en": "I have lived here since 2018.",
+          "pt": "Eu moro aqui desde 2018."
+        },
+        {
+          "en": "Have you ever eaten sushi?",
+          "pt": "Você já comeu sushi?"
+        },
+        {
+          "en": "I've just arrived.",
+          "pt": "Eu acabei de chegar."
+        },
+        {
+          "en": "He has worked here for 10 years.",
+          "pt": "Ele trabalha aqui há 10 anos."
+        }
+      ],
+      "common_mistakes": [
+        {
+          "wrong": "I have been to London last year.",
+          "correct": "I went to London last year.",
+          "explanation": "Com tempo definido (last year), use Past Simple, não Present Perfect."
+        },
+        {
+          "wrong": "I live here since 2018.",
+          "correct": "I have lived here since 2018.",
+          "explanation": "Com 'since' (ação que continua), use Present Perfect."
+        },
+        {
+          "wrong": "Did you ever eat sushi?",
+          "correct": "Have you ever eaten sushi?",
+          "explanation": "Com 'ever' (experiência de vida), use Present Perfect."
+        },
+        {
+          "wrong": "I have went there.",
+          "correct": "I have gone there. / I have been there.",
+          "explanation": "Após have/has, use o particípio passado: 'gone', não 'went'."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Eu nunca vi neve.",
+          "back": "I have never seen snow."
+        },
+        {
+          "front": "Ela já saiu.",
+          "back": "She has already left."
+        },
+        {
+          "front": "Você já viajou para fora do país?",
+          "back": "Have you ever traveled abroad?"
+        },
+        {
+          "front": "Eu moro aqui há 5 anos.",
+          "back": "I have lived here for 5 years."
+        },
+        {
+          "front": "Ele acabou de ligar.",
+          "back": "He has just called."
+        },
+        {
+          "front": "Nós nos conhecemos desde 2015.",
+          "back": "We have known each other since 2015."
+        },
+        {
+          "front": "Eu perdi minhas chaves. (ainda não achei)",
+          "back": "I have lost my keys."
+        },
+        {
+          "front": "Quantos livros você já leu este ano?",
+          "back": "How many books have you read this year?"
+        },
+        {
+          "front": "Ela ainda não respondeu.",
+          "back": "She hasn't replied yet."
+        },
+        {
+          "front": "Eu já assisti esse filme.",
+          "back": "I've already watched that movie."
+        }
+      ],
+      "quiz_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "I ___ to Paris three times in my life.",
+          "options": [
+            "went",
+            "have been",
+            "have went",
+            "was"
+          ],
+          "answer": 1,
+          "explanation": "Experiência de vida (in my life) → Present Perfect: 'have been'."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "She ___ her homework yet.",
+          "options": [
+            "didn't finish",
+            "hasn't finished",
+            "haven't finished",
+            "not finished"
+          ],
+          "answer": 1,
+          "explanation": "'Yet' indica Present Perfect negativo: 'hasn't finished yet'."
+        },
+        {
+          "type": "fill_blank",
+          "question": "I ___ (live) in this city ___ 10 years.",
+          "answer": "have lived ... for",
+          "explanation": "Ação que começou no passado e continua → Present Perfect + 'for' (duração)."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase está correta?",
+          "options": [
+            "I have seen him yesterday.",
+            "I saw him yesterday.",
+            "I have saw him yesterday.",
+            "I did see him yesterday."
+          ],
+          "answer": 1,
+          "explanation": "'Yesterday' é tempo definido → Past Simple: 'I saw him yesterday.'"
+        },
+        {
+          "type": "fill_blank",
+          "question": "___ you ever ___ (try) Thai food?",
+          "answer": "Have you ever tried",
+          "explanation": "Experiência de vida com 'ever' → Present Perfect: 'Have you ever tried.'"
+        }
+      ],
+      "sub_level": "A2.2",
+      "title_pt": "Present Perfect"
+    }
+  ]
+}
