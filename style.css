@@ -839,6 +839,72 @@ body {
   line-height: 1.7;
 }
 
+/* Explanation box */
+.explanation-box {
+  background: #eff6ff;
+  border-left: 4px solid var(--primary);
+  border-radius: 0 10px 10px 0;
+  padding: 1rem 1.25rem;
+}
+
+.explanation-para {
+  font-size: 0.95rem;
+  color: var(--gray-700);
+  line-height: 1.75;
+  margin-bottom: 0.6rem;
+}
+
+.explanation-para:last-child {
+  margin-bottom: 0;
+}
+
+/* Phoneme description */
+.phoneme-description {
+  margin-bottom: 0.75rem;
+}
+
+.phoneme-description .explanation-para {
+  font-size: 0.9rem;
+  color: var(--gray-600);
+  margin-bottom: 0.4rem;
+}
+
+/* Rule sub-headers */
+.rules-list .rule-header {
+  background: none;
+  border-left: none;
+  padding: 0.5rem 0 0.15rem;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--primary-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid var(--gray-200);
+  margin-bottom: 0.25rem;
+}
+
+/* Inline code in rules */
+.rule-code {
+  background: #e0e7ff;
+  color: #3730a3;
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+/* Example note badge */
+.example-note {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  background: var(--gray-100);
+  border-radius: 999px;
+  padding: 0.1rem 0.5rem;
+  margin-top: 0.15rem;
+  font-style: italic;
+}
+
 .tips-list {
   list-style: none;
   padding: 0;

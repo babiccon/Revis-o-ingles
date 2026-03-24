@@ -112,22 +112,24 @@ const GrammarModule = {
         </div>
 
         ${topic.explanation ? `
-        <div class="content-section">
+        <div class="content-section explanation-section">
           <h3>📖 Explicação</h3>
-          <p>${escapeHtml(topic.explanation)}</p>
+          <div class="explanation-box">
+            ${this._formatExplanation(topic.explanation)}
+          </div>
         </div>` : ''}
 
         ${topic.rules?.length ? `
         <div class="content-section">
           <h3>📏 Regras</h3>
           <ul class="rules-list">
-            ${topic.rules.map(r => `<li>${escapeHtml(r)}</li>`).join('')}
+            ${topic.rules.map(r => this._formatRule(r)).join('')}
           </ul>
         </div>` : ''}
 
         ${topic.tips?.length ? `
         <div class="content-section">
-          <h3>💡 Dicas</h3>
+          <h3>💡 Dicas Práticas</h3>
           <ul class="tips-list">
             ${topic.tips.map(tip => `<li>${escapeHtml(tip)}</li>`).join('')}
           </ul>
@@ -140,6 +142,7 @@ const GrammarModule = {
             <div class="example-card">
               <span class="en">${escapeHtml(ex[targetLang] || ex.de || ex.en || '')}</span>
               <span class="pt">${escapeHtml(ex.pt || '')}</span>
+              ${ex.note ? `<span class="example-note">${escapeHtml(ex.note)}</span>` : ''}
             </div>`).join('')}
         </div>` : ''}
 
@@ -338,6 +341,34 @@ const GrammarModule = {
   },
 
   // ─── Helpers ──────────────────────────────────────────────────────────────
+
+  /**
+   * Format an explanation string into readable paragraphs.
+   * Splits on sentence boundaries before capital letters.
+   * @param {string} text
+   * @returns {string} HTML
+   */
+  _formatExplanation(text) {
+    if (!text) return '';
+    // Split into sentences: break after '. ' followed by uppercase or number
+    const sentences = text.split(/(?<=[.!?])\s+(?=[A-ZÁÀÂÃÉÈÊÍÏÓÕÔÚÜ0-9"'])/u);
+    return sentences.map(s => `<p class="explanation-para">${escapeHtml(s.trim())}</p>`).join('');
+  },
+
+  /**
+   * Format a rule string — items ending in ':' become sub-headers.
+   * @param {string} rule
+   * @returns {string} HTML <li>
+   */
+  _formatRule(rule) {
+    const trimmed = rule.trim();
+    if (trimmed.endsWith(':') || (trimmed.endsWith(':') && trimmed.length < 50)) {
+      return `<li class="rule-header">${escapeHtml(trimmed)}</li>`;
+    }
+    // Highlight text in single quotes as code-like span
+    const html = escapeHtml(trimmed).replace(/'([^']+)'/g, '<code class="rule-code">$1</code>');
+    return `<li>${html}</li>`;
+  },
 
   /**
    * @param {string} lang

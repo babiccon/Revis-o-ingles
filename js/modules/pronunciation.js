@@ -136,10 +136,20 @@ const PronunciationModule = {
           <span class="phoneme-symbol">${escapeHtml(p.symbol)}</span>
           <span class="ipa-notation">${escapeHtml(p.ipa)}</span>
         </div>
-        <p style="font-size:.9rem;color:var(--gray-600);margin-bottom:.75rem;">${escapeHtml(p.description)}</p>
+        <div class="phoneme-description">${this._formatDescription(p.description)}</div>
         <div style="margin-bottom:.5rem;">${examplesHtml}</div>
         ${linksHtml ? `<div style="display:flex;gap:.5rem;flex-wrap:wrap;margin-top:.5rem;">${linksHtml}</div>` : ''}
       </div>`;
+  },
+  /**
+   * Format a phoneme description into readable paragraphs.
+   * @param {string} text
+   * @returns {string} HTML
+   */
+  _formatDescription(text) {
+    if (!text) return '';
+    const sentences = text.split(/(?<=[.!?])\s+(?=[A-ZÁÀÂÃÉÈÊÍÏÓÕÔÚÜ"'])/u);
+    return sentences.map(s => `<p class="explanation-para">${escapeHtml(s.trim())}</p>`).join('');
   },
 };
 
