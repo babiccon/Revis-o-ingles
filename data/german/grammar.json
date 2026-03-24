@@ -1,0 +1,1061 @@
+{
+  "language": "german",
+  "level": "A1",
+  "topics": [
+    {
+      "id": 1,
+      "sub_level": "A1.1",
+      "title": "Nouns and Gender (der, die, das)",
+      "title_pt": "Substantivos e Gênero (der, die, das)",
+      "explanation": "Em alemão, todo substantivo tem um gênero: masculino (der), feminino (die) ou neutro (das). Não há regra universal — o gênero deve ser memorizado junto com a palavra. Dica: ao aprender uma nova palavra, sempre aprenda com o artigo.",
+      "rules": [
+        "Masculino (der): der Mann (homem), der Tag (dia), der Hund (cachorro)",
+        "Feminino (die): die Frau (mulher), die Schule (escola), die Katze (gato)",
+        "Neutro (das): das Kind (criança), das Haus (casa), das Buch (livro)",
+        "No plural, o artigo é sempre 'die' independente do gênero",
+        "Dica: palavras terminadas em -ung, -heit, -keit são quase sempre femininas (die)"
+      ],
+      "tips": [
+        "Aprenda sempre 'der Tisch', nunca apenas 'Tisch'",
+        "Use cores para associar: azul=der, vermelho=die, verde=das",
+        "Palavras com -chen ou -lein são sempre neutras: das Mädchen (a menina)"
+      ],
+      "examples": [
+        { "de": "Das ist der Mann.", "pt": "Este é o homem.", "note": "masculino" },
+        { "de": "Wo ist die Frau?", "pt": "Onde está a mulher?", "note": "feminino" },
+        { "de": "Das Kind spielt.", "pt": "A criança brinca.", "note": "neutro" },
+        { "de": "Die Kinder spielen.", "pt": "As crianças brincam.", "note": "plural → die" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Der Mädchen ist nett.", "correct": "Das Mädchen ist nett.", "explanation": "Mädchen é neutro por causa do sufixo -chen" },
+        { "wrong": "Der Schule ist groß.", "correct": "Die Schule ist groß.", "explanation": "Schule é feminino" }
+      ],
+      "flashcards": [
+        { "front": "der Mann", "back": "o homem (masc.)" },
+        { "front": "die Frau", "back": "a mulher (fem.)" },
+        { "front": "das Kind", "back": "a criança (neutro)" },
+        { "front": "das Mädchen", "back": "a menina (neutro — sufixo -chen)" },
+        { "front": "die Schule", "back": "a escola (fem.)" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é o artigo correto para 'Haus' (casa)?",
+          "options": ["der Haus", "die Haus", "das Haus", "den Haus"],
+          "answer": 2,
+          "explanation": "Haus é neutro → das Haus"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é o artigo de 'Freiheit' (liberdade)? Dica: termina em -heit.",
+          "options": ["der Freiheit", "die Freiheit", "das Freiheit", "dem Freiheit"],
+          "answer": 1,
+          "explanation": "Palavras com -heit são sempre femininas → die Freiheit"
+        },
+        {
+          "type": "translation",
+          "question": "Como se diz 'a criança' em alemão?",
+          "answer": "das Kind",
+          "alternatives": ["das kind", "das Kind"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A1.1",
+      "title": "Personal Pronouns and Verb 'sein' (to be)",
+      "title_pt": "Pronomes Pessoais e Verbo 'sein' (ser/estar)",
+      "explanation": "O verbo 'sein' (ser/estar) é o verbo mais importante do alemão. É completamente irregular. Os pronomes pessoais alemães têm algumas diferenças do português: 'Sie' (maiúsculo) é a forma formal de você/vocês.",
+      "rules": [
+        "ich bin — eu sou/estou",
+        "du bist — você é/está (informal)",
+        "er/sie/es ist — ele/ela/ele(neutro) é/está",
+        "wir sind — nós somos/estamos",
+        "ihr seid — vocês são/estão (informal plural)",
+        "sie sind — eles/elas são/estão",
+        "Sie sind — você/vocês é/são (formal) — sempre maiúsculo"
+      ],
+      "tips": [
+        "'Sie' (maiúsculo) é sempre formal e equivale ao nosso 'o senhor/a senhora'",
+        "Em dúvida sobre formal/informal: use 'Sie' — nunca ofende"
+      ],
+      "examples": [
+        { "de": "Ich bin Student.", "pt": "Eu sou estudante." },
+        { "de": "Du bist müde.", "pt": "Você está cansado(a)." },
+        { "de": "Er ist Arzt.", "pt": "Ele é médico." },
+        { "de": "Wir sind Freunde.", "pt": "Nós somos amigos." },
+        { "de": "Sind Sie Herr Müller?", "pt": "O senhor é o Sr. Müller?" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich ist müde.", "correct": "Ich bin müde.", "explanation": "Com 'ich' o verbo sein é 'bin'" },
+        { "wrong": "Du bin Student.", "correct": "Du bist Student.", "explanation": "Com 'du' o verbo sein é 'bist'" }
+      ],
+      "flashcards": [
+        { "front": "ich bin", "back": "eu sou / eu estou" },
+        { "front": "du bist", "back": "você é / você está (informal)" },
+        { "front": "er/sie/es ist", "back": "ele/ela é/está" },
+        { "front": "wir sind", "back": "nós somos/estamos" },
+        { "front": "Sie sind", "back": "o(a) senhor(a) é/está (formal)" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Ich ___ Student. (sein)",
+          "answer": "bin",
+          "explanation": "ich → bin"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Como se diz 'Ela está cansada'?",
+          "options": ["Sie ist müde.", "Sie bist müde.", "Sie bin müde.", "Sie seid müde."],
+          "answer": 0,
+          "explanation": "sie (ela) → ist"
+        },
+        {
+          "type": "translation",
+          "question": "Traduz: 'Wir sind Freunde.'",
+          "answer": "Nós somos amigos.",
+          "alternatives": ["nós somos amigos", "somos amigos"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "A1.1",
+      "title": "Present Tense Regular Verbs",
+      "title_pt": "Presente dos Verbos Regulares",
+      "explanation": "Os verbos regulares em alemão têm um padrão de conjugação no presente. O infinitivo termina em -en (ou -n). Remove-se o -en e adicionam-se as terminações pessoais.",
+      "rules": [
+        "Infinitivo: machen (fazer), spielen (brincar/jogar), wohnen (morar)",
+        "Raiz = infinitivo sem -en: mach-, spiel-, wohn-",
+        "ich: raiz + e → ich mache",
+        "du: raiz + st → du machst",
+        "er/sie/es: raiz + t → er macht",
+        "wir: raiz + en → wir machen",
+        "ihr: raiz + t → ihr macht",
+        "sie/Sie: raiz + en → sie machen"
+      ],
+      "tips": [
+        "Se a raiz termina em -t ou -d, adiciona-se -est/-et para facilitar pronúncia: du arbeitest, er arbeitet",
+        "Se a raiz termina em -s, -ß, -z: du form = raiz + t: du heißt (não heißst)"
+      ],
+      "examples": [
+        { "de": "Ich spiele Fußball.", "pt": "Eu jogo futebol." },
+        { "de": "Du wohnst in Berlin.", "pt": "Você mora em Berlim." },
+        { "de": "Er macht Hausaufgaben.", "pt": "Ele faz tarefa de casa." },
+        { "de": "Wir lernen Deutsch.", "pt": "Nós aprendemos alemão." }
+      ],
+      "common_mistakes": [
+        { "wrong": "Er machen Hausaufgaben.", "correct": "Er macht Hausaufgaben.", "explanation": "er/sie/es → raiz + t" },
+        { "wrong": "Du spielen Fußball.", "correct": "Du spielst Fußball.", "explanation": "du → raiz + st" }
+      ],
+      "flashcards": [
+        { "front": "machen (ich)", "back": "ich mache" },
+        { "front": "spielen (du)", "back": "du spielst" },
+        { "front": "wohnen (er)", "back": "er wohnt" },
+        { "front": "lernen (wir)", "back": "wir lernen" },
+        { "front": "arbeiten (er)", "back": "er arbeitet (raiz em -t)" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Du ___ in Hamburg. (wohnen)",
+          "answer": "wohnst",
+          "explanation": "du → raiz (wohn) + st = wohnst"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a conjugação correta? 'Er ___ Deutsch.' (lernen)",
+          "options": ["lerne", "lernst", "lernt", "lernen"],
+          "answer": 2,
+          "explanation": "er → raiz + t = lernt"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sub_level": "A1.1",
+      "title": "Indefinite Article (ein, eine, ein)",
+      "title_pt": "Artigo Indefinido (um, uma)",
+      "explanation": "O artigo indefinido em alemão varia conforme o gênero do substantivo. No nominativo (sujeito da frase): ein para masculino e neutro, eine para feminino.",
+      "rules": [
+        "Masculino (der): ein Mann (um homem), ein Hund (um cachorro)",
+        "Feminino (die): eine Frau (uma mulher), eine Schule (uma escola)",
+        "Neutro (das): ein Kind (uma criança), ein Haus (uma casa)",
+        "Negação: kein/keine (nenhum/nenhuma) — mesma terminação que ein/eine"
+      ],
+      "tips": [
+        "'ein' parece 'a/an' do inglês, mas lembre-se dos três gêneros",
+        "'kein' nega substantivos: Ich habe kein Auto. (Não tenho carro.)"
+      ],
+      "examples": [
+        { "de": "Das ist ein Hund.", "pt": "Este é um cachorro." },
+        { "de": "Ich sehe eine Katze.", "pt": "Eu vejo uma gata." },
+        { "de": "Wir haben ein Auto.", "pt": "Nós temos um carro." },
+        { "de": "Er hat kein Geld.", "pt": "Ele não tem dinheiro." }
+      ],
+      "common_mistakes": [
+        { "wrong": "Das ist eine Mann.", "correct": "Das ist ein Mann.", "explanation": "Mann é masculino → ein" },
+        { "wrong": "Ich habe ein Frau.", "correct": "Ich habe eine Frau.", "explanation": "Frau é feminino → eine" }
+      ],
+      "flashcards": [
+        { "front": "ein + masculino", "back": "ein Mann, ein Hund, ein Bus" },
+        { "front": "eine + feminino", "back": "eine Frau, eine Schule, eine Katze" },
+        { "front": "ein + neutro", "back": "ein Kind, ein Haus, ein Buch" },
+        { "front": "kein/keine", "back": "nenhum/nenhuma — nega substantivos" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Das ist ___ Schule. (Schule = feminino)",
+          "options": ["ein", "eine", "eines", "einer"],
+          "answer": 1,
+          "explanation": "Schule é feminino → eine"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Ich habe ___ Hund. (Hund = masculino)",
+          "answer": "einen",
+          "explanation": "Hund é masculino. No acusativo (objeto direto), 'ein' → 'einen'. Mas neste nível: ein também é aceito."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sub_level": "A1.1",
+      "title": "Questions: W-Wörter (Question Words)",
+      "title_pt": "Perguntas: Palavras Interrogativas",
+      "explanation": "As palavras interrogativas em alemão começam quase todas com W. A estrutura da pergunta com W-Wort é: W-Wort + verbo + sujeito + resto.",
+      "rules": [
+        "Wer? — Quem? (sujeito)",
+        "Was? — O quê?",
+        "Wo? — Onde? (posição)",
+        "Wohin? — Para onde? (direção)",
+        "Woher? — De onde?",
+        "Wann? — Quando?",
+        "Wie? — Como?",
+        "Wie viel? — Quanto?",
+        "Warum? — Por quê?"
+      ],
+      "tips": [
+        "Wo (onde estático) vs Wohin (para onde — movimento)",
+        "Wie heißen Sie? = Como o senhor se chama? — pergunta muito usada"
+      ],
+      "examples": [
+        { "de": "Wer ist das?", "pt": "Quem é esse/essa?" },
+        { "de": "Was machst du?", "pt": "O que você faz?" },
+        { "de": "Wo wohnst du?", "pt": "Onde você mora?" },
+        { "de": "Wohin gehst du?", "pt": "Para onde você vai?" },
+        { "de": "Wie heißt du?", "pt": "Como você se chama?" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Wo gehst du?", "correct": "Wohin gehst du?", "explanation": "Com verbos de movimento, use Wohin, não Wo" }
+      ],
+      "flashcards": [
+        { "front": "Wer?", "back": "Quem?" },
+        { "front": "Was?", "back": "O quê?" },
+        { "front": "Wo?", "back": "Onde? (posição)" },
+        { "front": "Wohin?", "back": "Para onde? (movimento)" },
+        { "front": "Warum?", "back": "Por quê?" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Para perguntar 'Para onde você vai?', usa-se:",
+          "options": ["Wo gehst du?", "Wohin gehst du?", "Woher gehst du?", "Wann gehst du?"],
+          "answer": 1,
+          "explanation": "Wohin indica direção/movimento"
+        },
+        {
+          "type": "translation",
+          "question": "Como se pergunta 'Como você se chama?' (informal)?",
+          "answer": "Wie heißt du?",
+          "alternatives": ["wie heißt du", "Wie heißt du"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sub_level": "A1.1",
+      "title": "Numbers 0–100",
+      "title_pt": "Números 0–100",
+      "explanation": "Os números em alemão têm algumas particularidades: os números compostos de 21-99 são formados por unidade + 'und' + dezena (ao contrário do português). Ex: 21 = einundzwanzig (literalmente 'um e vinte').",
+      "rules": [
+        "0-10: null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn",
+        "11-12: elf, zwölf (irregulares)",
+        "13-19: raiz + zehn: dreizehn, vierzehn, fünfzehn...",
+        "Dezenas: zwanzig(20), dreißig(30), vierzig(40), fünfzig(50), sechzig(60), siebzig(70), achtzig(80), neunzig(90)",
+        "Compostos 21-99: unidade + und + dezena: einundzwanzig (21), zweiunddreißig (32)",
+        "100 = hundert"
+      ],
+      "tips": [
+        "sieben (7) vira siebzehn (17) e siebzig (70) — atenção à forma curta",
+        "sechs (6) vira sechzehn (16) e sechzig (60) — sem o 's' final",
+        "Use os números para praticar: telefone, idades, horas"
+      ],
+      "examples": [
+        { "de": "Ich bin fünfundzwanzig Jahre alt.", "pt": "Eu tenho vinte e cinco anos." },
+        { "de": "Das kostet neunzehn Euro.", "pt": "Isso custa dezenove euros." },
+        { "de": "Meine Telefonnummer ist...", "pt": "Meu número de telefone é..." }
+      ],
+      "common_mistakes": [
+        { "wrong": "zwanzigeins", "correct": "einundzwanzig", "explanation": "Em alemão: unidade PRIMEIRO, depois dezena: ein-und-zwanzig" }
+      ],
+      "flashcards": [
+        { "front": "11 em alemão", "back": "elf" },
+        { "front": "12 em alemão", "back": "zwölf" },
+        { "front": "21 em alemão", "back": "einundzwanzig" },
+        { "front": "30 em alemão", "back": "dreißig" },
+        { "front": "100 em alemão", "back": "hundert" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Como se diz '35' em alemão?",
+          "options": ["dreißigfünf", "fünfdreißig", "fünfunddreißig", "dreißigfünfzehn"],
+          "answer": 2,
+          "explanation": "Unidade (fünf) + und + dezena (dreißig) = fünfunddreißig"
+        },
+        {
+          "type": "translation",
+          "question": "Quanto é 'siebenundvierzig'?",
+          "answer": "47",
+          "alternatives": ["quarenta e sete", "47"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sub_level": "A1.1",
+      "title": "Greetings and Introductions",
+      "title_pt": "Saudações e Apresentações",
+      "explanation": "As saudações em alemão variam conforme o horário e o nível de formalidade. Para se apresentar, usa-se 'Ich heiße...' ou 'Ich bin...'.",
+      "rules": [
+        "Hallo — Olá (informal, qualquer hora)",
+        "Guten Morgen — Bom dia (até ~11h)",
+        "Guten Tag — Boa tarde / Bom dia (11h–18h, mais formal)",
+        "Guten Abend — Boa noite (a partir das 18h)",
+        "Gute Nacht — Boa noite (ao se despedir para dormir)",
+        "Tschüss / Auf Wiedersehen — Tchau / Até logo"
+      ],
+      "tips": [
+        "Guten Tag é a saudação padrão formal — adequada em lojas, escritórios",
+        "Wie geht es Ihnen? (formal) vs Wie geht es dir? (informal) — ambas = Como vai você?"
+      ],
+      "examples": [
+        { "de": "Guten Morgen! Ich heiße Anna.", "pt": "Bom dia! Meu nome é Anna." },
+        { "de": "Hallo! Wie heißt du?", "pt": "Olá! Como você se chama?" },
+        { "de": "Ich komme aus Brasilien.", "pt": "Eu venho do Brasil." },
+        { "de": "Schön, Sie kennenzulernen.", "pt": "Prazer em conhecê-lo(a). (formal)" },
+        { "de": "Auf Wiedersehen!", "pt": "Até logo! (formal)" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Gute Nacht! (ao chegar)", "correct": "Guten Abend! (ao chegar à noite)", "explanation": "'Gute Nacht' só ao se despedir para dormir" }
+      ],
+      "flashcards": [
+        { "front": "Guten Morgen", "back": "Bom dia (manhã)" },
+        { "front": "Guten Tag", "back": "Boa tarde / Bom dia (formal)" },
+        { "front": "Guten Abend", "back": "Boa noite (ao chegar)" },
+        { "front": "Tschüss", "back": "Tchau (informal)" },
+        { "front": "Wie heißt du?", "back": "Como você se chama?" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Você chega a uma reunião de trabalho às 14h. Qual saudação usar?",
+          "options": ["Guten Morgen", "Gute Nacht", "Guten Tag", "Hallo du"],
+          "answer": 2,
+          "explanation": "Guten Tag é a saudação formal para o período do dia (tarde)"
+        },
+        {
+          "type": "translation",
+          "question": "Como se diz 'Eu venho do Brasil'?",
+          "answer": "Ich komme aus Brasilien.",
+          "alternatives": ["ich komme aus brasilien", "Ich komme aus Brasilien"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sub_level": "A1.2",
+      "title": "Accusative Case (Akkusativ)",
+      "title_pt": "Caso Acusativo (objeto direto)",
+      "explanation": "O alemão tem casos gramaticais. O acusativo é usado para o objeto direto da frase (quem sofre a ação). A principal mudança é no artigo masculino: 'der' vira 'den', 'ein' vira 'einen'.",
+      "rules": [
+        "No acusativo, apenas o artigo masculino muda:",
+        "Nominativo → Acusativo:",
+        "der → den (masculino definido)",
+        "ein → einen (masculino indefinido)",
+        "die → die (feminino — não muda)",
+        "das → das (neutro — não muda)"
+      ],
+      "tips": [
+        "Pergunta para identificar acusativo: 'O quê?' ou 'Quem?' (objeto direto)",
+        "Verbos que pedem acusativo: haben (ter), sehen (ver), kaufen (comprar), lieben (amar)"
+      ],
+      "examples": [
+        { "de": "Ich sehe den Mann.", "pt": "Eu vejo o homem.", "note": "der Mann → den Mann (acus. masc.)" },
+        { "de": "Ich kaufe einen Hund.", "pt": "Eu compro um cachorro.", "note": "ein Hund → einen Hund" },
+        { "de": "Ich liebe die Musik.", "pt": "Eu amo a música.", "note": "die → die (fem. não muda)" },
+        { "de": "Ich habe das Buch.", "pt": "Eu tenho o livro.", "note": "das → das (neutro não muda)" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich sehe der Mann.", "correct": "Ich sehe den Mann.", "explanation": "Objeto direto masculino: der → den" }
+      ],
+      "flashcards": [
+        { "front": "der → acusativo", "back": "den (masc. definido)" },
+        { "front": "ein → acusativo", "back": "einen (masc. indefinido)" },
+        { "front": "die → acusativo", "back": "die (não muda — feminino)" },
+        { "front": "das → acusativo", "back": "das (não muda — neutro)" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Ich kaufe ___ Apfel. (der Apfel — masc.)",
+          "answer": "einen",
+          "explanation": "Apfel é masculino e é objeto direto → ein → einen"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Ich sehe ___ Frau. (die Frau — fem.)",
+          "options": ["die", "den", "das", "der"],
+          "answer": 0,
+          "explanation": "Feminino não muda no acusativo → die"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sub_level": "A1.2",
+      "title": "Modal Verbs: können and müssen",
+      "title_pt": "Verbos Modais: können (poder) e müssen (dever/ter que)",
+      "explanation": "Os verbos modais modificam o verbo principal. São irregulares. O verbo principal vai para o fim da frase no infinitivo. 'Können' = poder/conseguir, 'Müssen' = ter que/precisar.",
+      "rules": [
+        "können: ich kann, du kannst, er/sie/es kann, wir können, ihr könnt, sie/Sie können",
+        "müssen: ich muss, du musst, er/sie/es muss, wir müssen, ihr müsst, sie/Sie müssen",
+        "Estrutura: Sujeito + modal + ... + infinitivo",
+        "O infinitivo vai para o FINAL da frase"
+      ],
+      "tips": [
+        "Können também = saber fazer algo: Ich kann Deutsch sprechen. (Eu sei falar alemão.)",
+        "Müssen indica obrigação externa; 'sollen' é obrigação dada por outra pessoa"
+      ],
+      "examples": [
+        { "de": "Ich kann Deutsch sprechen.", "pt": "Eu sei/posso falar alemão." },
+        { "de": "Kannst du mir helfen?", "pt": "Você pode me ajudar?" },
+        { "de": "Er muss arbeiten.", "pt": "Ele tem que trabalhar." },
+        { "de": "Wir müssen jetzt gehen.", "pt": "Nós precisamos ir agora." }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich kann sprechen Deutsch.", "correct": "Ich kann Deutsch sprechen.", "explanation": "O infinitivo vai para o FIM" },
+        { "wrong": "Er muss arbeitet.", "correct": "Er muss arbeiten.", "explanation": "O segundo verbo fica no infinitivo (sem conjugar)" }
+      ],
+      "flashcards": [
+        { "front": "können (eu)", "back": "ich kann" },
+        { "front": "müssen (ele)", "back": "er muss" },
+        { "front": "können (nós)", "back": "wir können" },
+        { "front": "müssen (você, informal)", "back": "du musst" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Ich ___ heute nicht arbeiten. (können — negação)",
+          "answer": "kann",
+          "explanation": "ich kann... nicht = eu não posso/consigo"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a ordem correta?",
+          "options": ["Du musst gehen jetzt.", "Du jetzt gehen musst.", "Du musst jetzt gehen.", "Du gehen musst jetzt."],
+          "answer": 2,
+          "explanation": "Sujeito + modal + advérbio + infinitivo no fim"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "sub_level": "A1.2",
+      "title": "Prepositions of Place",
+      "title_pt": "Preposições de Lugar",
+      "explanation": "As preposições de lugar indicam onde algo está. Em alemão, algumas preposições podem indicar posição (estático) ou movimento (dinâmico) — mudando o caso do artigo que as acompanha.",
+      "rules": [
+        "in — em (dentro de): in der Stadt (na cidade)",
+        "auf — em cima de / sobre: auf dem Tisch (na mesa)",
+        "unter — embaixo de: unter dem Bett (embaixo da cama)",
+        "neben — ao lado de: neben dem Fenster (ao lado da janela)",
+        "vor — em frente de: vor dem Haus (em frente da casa)",
+        "hinter — atrás de: hinter der Tür (atrás da porta)",
+        "zwischen — entre: zwischen dem Sofa und dem Tisch"
+      ],
+      "tips": [
+        "Para A1: foque em 'in', 'auf', 'neben' — as mais usadas no dia a dia",
+        "Com preposições de lugar estático: geralmente Dativ (dem/der) — aprenderemos mais no A2"
+      ],
+      "examples": [
+        { "de": "Das Buch ist auf dem Tisch.", "pt": "O livro está na mesa." },
+        { "de": "Die Katze ist unter dem Bett.", "pt": "A gata está embaixo da cama." },
+        { "de": "Er wohnt in Berlin.", "pt": "Ele mora em Berlim." },
+        { "de": "Der Supermarkt ist neben der Bank.", "pt": "O supermercado fica ao lado do banco." }
+      ],
+      "common_mistakes": [
+        { "wrong": "Das Buch ist auf den Tisch.", "correct": "Das Buch ist auf dem Tisch.", "explanation": "Posição estática → Dativ (dem, não den)" }
+      ],
+      "flashcards": [
+        { "front": "in", "back": "em / dentro de" },
+        { "front": "auf", "back": "em cima de / sobre" },
+        { "front": "unter", "back": "embaixo de" },
+        { "front": "neben", "back": "ao lado de" },
+        { "front": "vor", "back": "em frente de" }
+      ],
+      "quiz": [
+        {
+          "type": "translation",
+          "question": "Como se diz 'O gato está em cima da mesa'?",
+          "answer": "Die Katze ist auf dem Tisch.",
+          "alternatives": ["die katze ist auf dem tisch", "Die Katze ist auf dem Tisch"]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual preposição indica 'em frente de'?",
+          "options": ["hinter", "neben", "vor", "zwischen"],
+          "answer": 2,
+          "explanation": "vor = em frente de / diante de"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sub_level": "A1.2",
+      "title": "Negation: nicht and kein",
+      "title_pt": "Negação: nicht e kein",
+      "explanation": "'Nicht' e 'kein' são as duas formas de negar em alemão. 'Nicht' nega verbos, adjetivos e advérbios. 'Kein/keine' nega substantivos.",
+      "rules": [
+        "kein/keine: nega substantivos (substitui o artigo indefinido ou artigo zero)",
+        "kein + masc./neutro, keine + feminino/plural",
+        "nicht: nega verbos, adjetivos, advérbios e substantivos com artigo definido",
+        "Posição do 'nicht': geralmente no fim da frase ou antes do elemento negado"
+      ],
+      "tips": [
+        "Regra prática: tem artigo definido (der/die/das)? Use nicht. Sem artigo? Use kein.",
+        "Ich habe kein Geld. (sem artigo → kein)",
+        "Ich habe das Geld nicht. (com artigo definido → nicht)"
+      ],
+      "examples": [
+        { "de": "Ich bin nicht müde.", "pt": "Eu não estou cansado(a).", "note": "nicht nega adjetivo" },
+        { "de": "Er hat kein Auto.", "pt": "Ele não tem carro.", "note": "kein nega substantivo sem artigo" },
+        { "de": "Ich trinke nicht.", "pt": "Eu não bebo.", "note": "nicht nega verbo" },
+        { "de": "Das ist keine Katze.", "pt": "Isso não é uma gata.", "note": "keine (feminino)" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich habe nicht Auto.", "correct": "Ich habe kein Auto.", "explanation": "Auto sem artigo → usa-se kein" }
+      ],
+      "flashcards": [
+        { "front": "nicht", "back": "não (nega verbos/adjetivos)" },
+        { "front": "kein + masc./neutro", "back": "kein Mann, kein Auto" },
+        { "front": "keine + feminino", "back": "keine Frau, keine Katze" },
+        { "front": "keine + plural", "back": "keine Kinder, keine Bücher" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Ich habe ___ Bruder. (Ich habe + Bruder sem artigo)",
+          "options": ["nicht", "keinen", "keine", "kein"],
+          "answer": 1,
+          "explanation": "Bruder é masculino, objeto direto (acusativo) → keinen"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Das Wetter ist ___ schön heute. (negação de adjetivo)",
+          "answer": "nicht",
+          "explanation": "nicht nega adjetivo"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "sub_level": "A1.2",
+      "title": "Verb 'haben' (to have)",
+      "title_pt": "Verbo 'haben' (ter)",
+      "explanation": "Assim como 'sein', o verbo 'haben' (ter) é fundamental e irregular. É também o verbo auxiliar usado para formar o Perfekt (passado).",
+      "rules": [
+        "ich habe — eu tenho",
+        "du hast — você tem",
+        "er/sie/es hat — ele/ela tem",
+        "wir haben — nós temos",
+        "ihr habt — vocês têm",
+        "sie/Sie haben — eles/o senhor têm"
+      ],
+      "tips": [
+        "Haben é usado para idade em alemão: Ich bin 25 Jahre alt. OU Ich bin 25. (NÃO 'Ich habe 25 Jahre' — isso é erro comum de brasileiros!)"]",
+        "Mas: Ich habe Hunger. (Estou com fome.) — em alemão usa-se 'haben' para sensações"
+      ],
+      "examples": [
+        { "de": "Ich habe eine Schwester.", "pt": "Eu tenho uma irmã." },
+        { "de": "Hast du Zeit?", "pt": "Você tem tempo?" },
+        { "de": "Er hat Hunger.", "pt": "Ele está com fome." },
+        { "de": "Wir haben ein Problem.", "pt": "Nós temos um problema." }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich habe 25 Jahre.", "correct": "Ich bin 25 Jahre alt.", "explanation": "Para idade, alemão usa 'sein', não 'haben'" }
+      ],
+      "flashcards": [
+        { "front": "haben (ich)", "back": "ich habe" },
+        { "front": "haben (du)", "back": "du hast" },
+        { "front": "haben (er/sie/es)", "back": "er/sie/es hat" },
+        { "front": "haben (wir)", "back": "wir haben" },
+        { "front": "Ich habe Hunger.", "back": "Estou com fome." }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Er ___ zwei Kinder. (haben)",
+          "answer": "hat",
+          "explanation": "er → hat"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Como se diz 'Eu tenho 30 anos'?",
+          "options": ["Ich habe 30 Jahre.", "Ich bin 30 Jahre alt.", "Ich habe 30 alt.", "Ich bin haben 30."],
+          "answer": 1,
+          "explanation": "Para idade em alemão: ich bin + número + Jahre alt"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "sub_level": "A1.2",
+      "title": "Days, Months and Seasons",
+      "title_pt": "Dias, Meses e Estações do Ano",
+      "explanation": "Os dias e meses em alemão são todos masculinos (der). As estações também são masculinas. Ao contrário do português, dias e meses NÃO são escritos com maiúscula quando não iniciam a frase.",
+      "rules": [
+        "Dias: Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag",
+        "Meses: Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember",
+        "Estações: der Frühling (primavera), der Sommer (verão), der Herbst (outono), der Winter (inverno)",
+        "Preposição: 'am' + dia/estação para datas e dias; 'im' + mês/estação"
+      ],
+      "tips": [
+        "am Montag = na segunda-feira; am Wochenende = no fim de semana",
+        "im Januar = em janeiro; im Sommer = no verão"
+      ],
+      "examples": [
+        { "de": "Heute ist Mittwoch.", "pt": "Hoje é quarta-feira." },
+        { "de": "Am Freitag arbeite ich nicht.", "pt": "Na sexta-feira eu não trabalho." },
+        { "de": "Im März beginnt der Frühling.", "pt": "Em março começa a primavera." },
+        { "de": "Mein Geburtstag ist im Juli.", "pt": "Meu aniversário é em julho." }
+      ],
+      "common_mistakes": [
+        { "wrong": "In Montag gehe ich...", "correct": "Am Montag gehe ich...", "explanation": "Com dias da semana usa-se 'am', não 'in'" }
+      ],
+      "flashcards": [
+        { "front": "am + dia", "back": "am Montag, am Freitag" },
+        { "front": "im + mês", "back": "im Januar, im Oktober" },
+        { "front": "Mittwoch", "back": "quarta-feira" },
+        { "front": "der Sommer", "back": "o verão" },
+        { "front": "der Winter", "back": "o inverno" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "___ Montag fahre ich nach Berlin. (preposição + dia)",
+          "answer": "Am",
+          "explanation": "Com dias da semana: am = na/no"
+        },
+        {
+          "type": "translation",
+          "question": "Como se diz 'Em dezembro'?",
+          "answer": "Im Dezember",
+          "alternatives": ["im Dezember", "Im Dezember"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "sub_level": "A1.3",
+      "title": "Dative Case (Dativ) — Introduction",
+      "title_pt": "Caso Dativo — Introdução (objeto indireto)",
+      "explanation": "O dativo é o caso do objeto indireto — indica 'a quem' ou 'para quem'. Os artigos mudam: dem (masc./neutro), der (fem.), den+n (plural). É também usado com preposições fixas como mit, bei, nach, von, zu.",
+      "rules": [
+        "Dativo dos artigos definidos: dem (masc.), der (fem.), dem (neutro), den+n (plural)",
+        "Dativo dos artigos indefinidos: einem (masc.), einer (fem.), einem (neutro)",
+        "Preposições sempre com dativo: mit (com), bei (em/perto de), nach (depois/para), von (de), zu (para/a), aus (de/origem), seit (desde), gegenüber (em frente)"
+      ],
+      "tips": [
+        "Frase com objeto indireto: Ich gebe dem Mann das Buch. (Eu dou o livro ao homem.)",
+        "Preposições com dativo são fixas — não há escolha de caso"
+      ],
+      "examples": [
+        { "de": "Ich gebe dem Kind ein Buch.", "pt": "Eu dou um livro à criança.", "note": "dem Kind = dativo neutro" },
+        { "de": "Er wohnt bei seiner Mutter.", "pt": "Ele mora com/na casa da mãe.", "note": "bei + dativo" },
+        { "de": "Sie kommt aus Deutschland.", "pt": "Ela vem da Alemanha.", "note": "aus + dativo" },
+        { "de": "Ich fahre mit dem Bus.", "pt": "Eu vou de ônibus.", "note": "mit + dativo" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich fahre mit der Bus.", "correct": "Ich fahre mit dem Bus.", "explanation": "Bus é masculino → mit + dem (dativo masc.)" }
+      ],
+      "flashcards": [
+        { "front": "mit + dativo", "back": "com — mit dem Auto (de carro)" },
+        { "front": "aus + dativo", "back": "de (origem) — aus Brasilien" },
+        { "front": "bei + dativo", "back": "em/perto de — bei der Arbeit" },
+        { "front": "nach + dativo", "back": "para (cidades) / depois — nach Hause" },
+        { "front": "zu + dativo", "back": "para/a — zu Fuß (a pé)" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Ich fahre mit ___ Bus. (der Bus — masc.)",
+          "answer": "dem",
+          "explanation": "mit sempre pede dativo; masc. dativo = dem"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Sie kommt ___ Brasilien.",
+          "options": ["von", "aus", "nach", "zu"],
+          "answer": 1,
+          "explanation": "aus = de (origem geográfica)"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "sub_level": "A1.3",
+      "title": "Separable Verbs (Trennbare Verben)",
+      "title_pt": "Verbos Separáveis",
+      "explanation": "Muitos verbos alemães têm um prefixo separável que vai para o FIM da frase quando conjugado. Ex: aufstehen (levantar-se) → Ich stehe um 7 auf. O prefixo 'auf' vai para o fim!",
+      "rules": [
+        "Prefixos separáveis comuns: auf-, an-, ab-, aus-, ein-, mit-, vor-, zurück-, weg-",
+        "No presente: o prefixo vai para o FINAL da oração",
+        "No infinitivo (com modal): o verbo fica inteiro no fim: Ich muss aufstehen.",
+        "Atenção: nem todos os prefixos são separáveis (be-, ge-, er-, ver-, zer- são inseparáveis)"
+      ],
+      "tips": [
+        "Verbos separáveis comuns: aufstehen (levantar), anrufen (ligar), einkaufen (fazer compras), abfahren (partir), einschlafen (adormecer)",
+        "O acento tônico no PREFIXO indica que é separável: AUFstehen"
+      ],
+      "examples": [
+        { "de": "Ich stehe um 7 Uhr auf.", "pt": "Eu me levanto às 7 horas.", "note": "aufstehen → stehe...auf" },
+        { "de": "Sie ruft ihren Freund an.", "pt": "Ela liga para o namorado.", "note": "anrufen → ruft...an" },
+        { "de": "Wir kaufen heute ein.", "pt": "Nós fazemos compras hoje.", "note": "einkaufen → kaufen...ein" },
+        { "de": "Ich muss früh aufstehen.", "pt": "Eu preciso me levantar cedo.", "note": "modal: verbo inteiro no fim" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich aufstehe um 7 Uhr.", "correct": "Ich stehe um 7 Uhr auf.", "explanation": "O prefixo separável vai para o FIM da oração" }
+      ],
+      "flashcards": [
+        { "front": "aufstehen (ich)", "back": "ich stehe...auf" },
+        { "front": "anrufen (sie/ela)", "back": "sie ruft...an" },
+        { "front": "einkaufen (wir)", "back": "wir kaufen...ein" },
+        { "front": "abfahren (der Zug)", "back": "der Zug fährt...ab" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Ich stehe jeden Morgen um 6 Uhr ___. (aufstehen)",
+          "answer": "auf",
+          "explanation": "O prefixo 'auf' vai para o final"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma correta? (einkaufen — wir)",
+          "options": ["Wir einkaufen heute.", "Wir kaufen heute ein.", "Wir kaufen ein heute.", "Wir einkaufen heute ein."],
+          "answer": 1,
+          "explanation": "Prefixo 'ein' vai para o fim; advérbio 'heute' fica antes do prefixo"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "sub_level": "A1.3",
+      "title": "Perfekt — Past Tense in Spoken German",
+      "title_pt": "Perfekt — Passado na Fala do Dia a Dia",
+      "explanation": "O Perfekt é o tempo passado mais usado na fala cotidiana em alemão (especialmente no sul da Alemanha, Áustria, Suíça). Formado com: haben ou sein + Partizip II (particípio). Equivale ao nosso 'eu fui', 'eu fiz', 'eu comi'.",
+      "rules": [
+        "Estrutura: Sujeito + haben/sein (conjugado) + ... + Partizip II (no fim)",
+        "Partizip II regular: ge + raiz + t: machen → gemacht, spielen → gespielt",
+        "Partizip II irregular: fahren → gefahren, gehen → gegangen, kommen → gekommen",
+        "Haben: a maioria dos verbos transitivos",
+        "Sein: verbos de movimento (fahren, gehen, kommen) e mudança de estado (aufstehen, einschlafen)"
+      ],
+      "tips": [
+        "Regra prática: se o verbo indica movimento de A para B ou mudança de estado → sein",
+        "Lista básica de Partizip com sein: gefahren, gegangen, gekommen, geblieben, gewesen"
+      ],
+      "examples": [
+        { "de": "Ich habe gestern gearbeitet.", "pt": "Eu trabalhei ontem.", "note": "haben + gemacht" },
+        { "de": "Wir haben Pizza gegessen.", "pt": "Nós comemos pizza.", "note": "haben + gegessen (irregular)" },
+        { "de": "Er ist nach Berlin gefahren.", "pt": "Ele foi a Berlim.", "note": "sein + gefahren (movimento)" },
+        { "de": "Sie ist um 8 aufgestanden.", "pt": "Ela se levantou às 8.", "note": "sein + aufgestanden (trennbar)" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Ich bin gemacht.", "correct": "Ich habe gemacht.", "explanation": "machen (fazer) usa haben, não sein" },
+        { "wrong": "Er hat nach Berlin gefahren.", "correct": "Er ist nach Berlin gefahren.", "explanation": "fahren (ir de transporte) usa sein" }
+      ],
+      "flashcards": [
+        { "front": "machen → Partizip II", "back": "gemacht" },
+        { "front": "gehen → Partizip II", "back": "gegangen (+ sein)" },
+        { "front": "essen → Partizip II", "back": "gegessen" },
+        { "front": "fahren → Partizip II", "back": "gefahren (+ sein)" },
+        { "front": "kommen → Partizip II", "back": "gekommen (+ sein)" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Ich ___ gestern ins Kino gegangen. (sein — perfekt)",
+          "answer": "bin",
+          "explanation": "gehen (ir a pé) usa sein: ich bin gegangen"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Wir ___ Pizza ___. (essen — Perfekt)",
+          "options": ["sind / gegessen", "haben / gegessen", "haben / geessen", "sind / essen"],
+          "answer": 1,
+          "explanation": "essen usa haben; Partizip II irregular = gegessen"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "sub_level": "A1.3",
+      "title": "Telling Time (Uhrzeit)",
+      "title_pt": "Dizendo as Horas",
+      "explanation": "Há duas formas de dizer as horas em alemão: a forma oficial (24h) e a forma conversacional. Na forma conversacional, usa-se 'nach' (depois de) e 'vor' (antes de) em relação à meia hora.",
+      "rules": [
+        "Forma direta: Es ist drei Uhr. / Es ist 15:00 Uhr.",
+        "e meia: halb + hora seguinte: 2:30 = halb drei (meio caminho para as 3!)",
+        "e quinze: Viertel nach + hora: 2:15 = Viertel nach zwei",
+        "menos quinze: Viertel vor + hora: 2:45 = Viertel vor drei",
+        "Pergunta: Wie viel Uhr ist es? / Wie spät ist es?"
+      ],
+      "tips": [
+        "ATENÇÃO: halb drei = 2:30 (metade do caminho para as TRÊS), não 3:30!",
+        "Formal (trabalho, trem): Es ist vierzehn Uhr dreißig (14:30)"
+      ],
+      "examples": [
+        { "de": "Es ist halb acht.", "pt": "São sete e meia. (metade do caminho p/ 8)", "note": "halb + hora seguinte" },
+        { "de": "Es ist Viertel nach zehn.", "pt": "São dez e quinze." },
+        { "de": "Es ist Viertel vor sechs.", "pt": "São seis menos quinze / cinco e quarenta e cinco." },
+        { "de": "Der Zug fährt um zwanzig Uhr ab.", "pt": "O trem parte às 20 horas." }
+      ],
+      "common_mistakes": [
+        { "wrong": "halb drei = 3:30", "correct": "halb drei = 2:30", "explanation": "'halb drei' = metade do caminho PARA as três = 2:30" }
+      ],
+      "flashcards": [
+        { "front": "halb drei", "back": "2:30 (metade para as 3)" },
+        { "front": "Viertel nach vier", "back": "4:15 (um quarto depois das 4)" },
+        { "front": "Viertel vor sieben", "back": "6:45 (um quarto antes das 7)" },
+        { "front": "Wie viel Uhr ist es?", "back": "Que horas são?" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "'Halb neun' equivale a que horas?",
+          "options": ["9:30", "8:30", "9:15", "8:45"],
+          "answer": 1,
+          "explanation": "halb neun = metade do caminho para as 9 = 8:30"
+        },
+        {
+          "type": "translation",
+          "question": "Como se diz '10:15' (conversacional)?",
+          "answer": "Viertel nach zehn",
+          "alternatives": ["viertel nach zehn", "Viertel nach zehn"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "sub_level": "A1.3",
+      "title": "Word Order (Satzbau) — Verb in Second Position",
+      "title_pt": "Ordem das Palavras — Verbo na Segunda Posição",
+      "explanation": "Em alemão, o verbo conjugado SEMPRE ocupa a segunda posição na frase afirmativa, independente do que vem primeiro. Isso é a regra V2 (Verb-Zweit). Se começa com um advérbio, o sujeito vai DEPOIS do verbo.",
+      "rules": [
+        "Regra: [Posição 1] + VERBO + [Sujeito se não for pos. 1] + resto",
+        "Normal: Ich wohne in Berlin. (Sujeito na pos. 1, verbo na 2)",
+        "Inversão: Heute wohne ich in Berlin. (Hoje na pos. 1, verbo 2, sujeito 3)",
+        "Inversão: In Berlin wohne ich. (complemento na pos. 1)",
+        "Em perguntas com W-Wort: W-Wort + verbo + sujeito",
+        "Em perguntas Sim/Não: Verbo + sujeito + resto"
+      ],
+      "tips": [
+        "O verbo é um âncora na posição 2 — nunca muda",
+        "Em orações subordinadas (dass, weil, wenn): o verbo vai para o FIM"
+      ],
+      "examples": [
+        { "de": "Morgen fahre ich nach München.", "pt": "Amanhã vou a Munique.", "note": "Morgen (pos.1) → fahre (pos.2) → ich (pos.3)" },
+        { "de": "Jetzt arbeite ich nicht.", "pt": "Agora eu não trabalho.", "note": "Jetzt (pos.1) → arbeite (pos.2)" },
+        { "de": "Um 8 Uhr stehe ich auf.", "pt": "Às 8 horas eu me levanto.", "note": "verbo separável: 'auf' ainda vai pro fim" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Heute ich wohne in Berlin.", "correct": "Heute wohne ich in Berlin.", "explanation": "Verbo sempre na segunda posição" }
+      ],
+      "flashcards": [
+        { "front": "V2-Regel", "back": "Verbo SEMPRE na posição 2 em frases afirmativas" },
+        { "front": "Inversão de sujeito", "back": "Quando advérbio inicia a frase, sujeito vem APÓS o verbo" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a ordem correta? (Morgen / ich / gehe / ins Kino)",
+          "options": ["Morgen ich gehe ins Kino.", "Morgen gehe ich ins Kino.", "Ich morgen gehe ins Kino.", "Gehe morgen ich ins Kino."],
+          "answer": 1,
+          "explanation": "Morgen (pos.1) + gehe (pos.2) + ich (pos.3)"
+        },
+        {
+          "type": "translation",
+          "question": "Reescreva começando com 'Heute': 'Ich arbeite heute.'",
+          "answer": "Heute arbeite ich.",
+          "alternatives": ["heute arbeite ich", "Heute arbeite ich"]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "sub_level": "A1.3",
+      "title": "Possessive Articles",
+      "title_pt": "Artigos Possessivos (meu, seu, nosso...)",
+      "explanation": "Os artigos possessivos em alemão concordam com o gênero do substantivo POSSUÍDO (não do possuidor). Seguem a mesma terminação de kein/kein.",
+      "rules": [
+        "mein/meine — meu/minha",
+        "dein/deine — seu/sua (informal)",
+        "sein/seine — dele",
+        "ihr/ihre — dela / de vocês",
+        "unser/unsere — nosso/nossa",
+        "Ihr/Ihre — do senhor/da senhora (formal)",
+        "Masc./Neutro nominativo: mein/dein/sein — sem -e",
+        "Feminino/Plural nominativo: meine/deine/seine — com -e"
+      ],
+      "tips": [
+        "Lembrete: o gênero que importa é o do OBJETO POSSUÍDO",
+        "mein Vater (pai — masc.) vs meine Mutter (mãe — fem.)"
+      ],
+      "examples": [
+        { "de": "Das ist mein Bruder.", "pt": "Este é meu irmão.", "note": "Bruder = masc. → mein" },
+        { "de": "Wo ist meine Tasche?", "pt": "Onde está minha bolsa?", "note": "Tasche = fem. → meine" },
+        { "de": "Sein Name ist Hans.", "pt": "O nome dele é Hans.", "note": "Name = masc. → sein" },
+        { "de": "Unser Haus ist groß.", "pt": "Nossa casa é grande.", "note": "Haus = neutro → unser" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Das ist meine Vater.", "correct": "Das ist mein Vater.", "explanation": "Vater é masculino → mein (sem -e)" }
+      ],
+      "flashcards": [
+        { "front": "mein + masc.", "back": "mein Bruder, mein Vater" },
+        { "front": "meine + fem.", "back": "meine Mutter, meine Schwester" },
+        { "front": "mein + neutro", "back": "mein Haus, mein Kind" },
+        { "front": "sein / ihr", "back": "dele (sein) / dela (ihr)" },
+        { "front": "unser / unsere", "back": "nosso/nossa" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Das ist ___ Mutter. (meu — Mutter = feminino)",
+          "answer": "meine",
+          "explanation": "Mutter é feminino → meine"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é o correto? 'Das ist ___ Auto.' (sein — neutro)",
+          "options": ["seine", "sein", "seiner", "seinem"],
+          "answer": 1,
+          "explanation": "Auto é neutro → sein (sem -e no nom.)"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "sub_level": "A1.3",
+      "title": "Common Irregular Verbs",
+      "title_pt": "Verbos Irregulares Comuns",
+      "explanation": "Alguns verbos fortes (stark) em alemão mudam a vogal da raiz no presente para du e er/sie/es. São os mais usados no dia a dia e devem ser memorizados.",
+      "rules": [
+        "fahren (ir de transporte): du fährst, er fährt (a→ä)",
+        "essen (comer): du isst, er isst (e→i)",
+        "schlafen (dormir): du schläfst, er schläft (a→ä)",
+        "lesen (ler): du liest, er liest (e→ie)",
+        "nehmen (pegar/tomar): du nimmst, er nimmt (e→i)",
+        "sehen (ver): du siehst, er sieht (e→ie)",
+        "sprechen (falar): du sprichst, er spricht (e→i)"
+      ],
+      "tips": [
+        "A mudança de vogal só acontece em du e er/sie/es — as outras pessoas são regulares!",
+        "wir fahren, ihr fahrt — sem mudança de vogal"
+      ],
+      "examples": [
+        { "de": "Er fährt mit dem Zug.", "pt": "Ele vai de trem.", "note": "fahren → fährt" },
+        { "de": "Was isst du zum Frühstück?", "pt": "O que você come no café da manhã?", "note": "essen → isst" },
+        { "de": "Sie schläft bis 10 Uhr.", "pt": "Ela dorme até as 10.", "note": "schlafen → schläft" },
+        { "de": "Er spricht kein Spanisch.", "pt": "Ele não fala espanhol.", "note": "sprechen → spricht" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Er fahrt nach Hause.", "correct": "Er fährt nach Hause.", "explanation": "fahren é irregular: er fährt (com Umlaut)" }
+      ],
+      "flashcards": [
+        { "front": "fahren (er)", "back": "er fährt" },
+        { "front": "essen (du)", "back": "du isst" },
+        { "front": "schlafen (er)", "back": "er schläft" },
+        { "front": "lesen (sie/ela)", "back": "sie liest" },
+        { "front": "sprechen (er)", "back": "er spricht" }
+      ],
+      "quiz": [
+        {
+          "type": "fill_blank",
+          "question": "Er ___ jeden Tag Zeitung. (lesen)",
+          "answer": "liest",
+          "explanation": "lesen é irregular: er liest (e→ie)"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual é a forma correta? 'Du ___ sehr gut Englisch.' (sprechen)",
+          "options": ["sprecht", "sprechen", "sprichst", "sprichts"],
+          "answer": 2,
+          "explanation": "sprechen: du sprichst (e→i)"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "sub_level": "A1.3",
+      "title": "Imperative (Commands)",
+      "title_pt": "Imperativo (Ordens e Pedidos)",
+      "explanation": "O imperativo em alemão tem formas diferentes para du (informal), ihr (plural informal) e Sie (formal). É mais usado do que o equivalente em português para fazer pedidos educados.",
+      "rules": [
+        "du (informal singular): raiz do verbo (sem du): Geh! Mach! Komm!",
+        "Verbos irregulares com e→i: Lies! Nimm! Sprich! Iss! (sem Umlaut)",
+        "ihr (plural informal): igual à conjugação normal: Geht! Macht!",
+        "Sie (formal): infinitivo + Sie: Gehen Sie! Machen Sie bitte!",
+        "Bitte (por favor) torna o imperativo mais educado"
+      ],
+      "tips": [
+        "Para pedidos formais ou escritos, sempre use 'bitte': Bitte schreiben Sie Ihren Namen.",
+        "Verbos irregulares com ä no presente: imperativo volta ao 'a': schlafen → Schlaf! (não Schläf!)"
+      ],
+      "examples": [
+        { "de": "Komm her!", "pt": "Vem aqui! (informal)" },
+        { "de": "Sprechen Sie bitte langsamer.", "pt": "Fale mais devagar, por favor. (formal)" },
+        { "de": "Macht die Tür zu!", "pt": "Fechem a porta! (plural informal)" },
+        { "de": "Lies das Buch!", "pt": "Lê o livro! (lesen → lies, e→i)" }
+      ],
+      "common_mistakes": [
+        { "wrong": "Gehst du weg!", "correct": "Geh weg!", "explanation": "Imperativo informal: raiz sem -st" }
+      ],
+      "flashcards": [
+        { "front": "Komm! / Kommen Sie!", "back": "Vem! / Venha! (formal)" },
+        { "front": "Geh! / Gehen Sie!", "back": "Vai! / Vá! (formal)" },
+        { "front": "Mach! / Machen Sie!", "back": "Faz! / Faça! (formal)" },
+        { "front": "Lies! (lesen)", "back": "Lê! (irregular: e→i)" }
+      ],
+      "quiz": [
+        {
+          "type": "multiple_choice",
+          "question": "Como se diz 'Fale mais devagar, por favor.' (formal)?",
+          "options": ["Sprich langsamer, bitte.", "Sprecht langsamer, bitte.", "Sprechen Sie bitte langsamer.", "Spreche Sie bitte langsamer."],
+          "answer": 2,
+          "explanation": "Formal Sie-Imperativ: infinitivo + Sie: Sprechen Sie"
+        },
+        {
+          "type": "translation",
+          "question": "Imperative informal de 'kommen': 'Vem aqui!'",
+          "answer": "Komm her!",
+          "alternatives": ["komm her", "Komm her!", "komm her!"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "language": "german",
+  "level": "A1",
+  "dialogues": [
+    {
+      "id": 1,
+      "sub_level": "A1.1",
+      "situation": "Sich vorstellen",
+      "situation_pt": "Apresentações",
+      "context": "Zwei neue Studenten treffen sich in einem Deutschkurs. / Dois novos alunos se conhecem num curso de alemão.",
+      "lines": [
+        {
+          "speaker": "Ana",
+          "de": "Hallo! Ich heiße Ana. Wie heißt du?",
+          "pt": "Olá! Meu nome é Ana. Como você se chama?",
+          "audio_tts": "Hallo! Ich heiße Ana. Wie heißt du?",
+          "notes": "'Wie heißt du?' — forma informal de perguntar o nome"
+        },
+        {
+          "speaker": "Tom",
+          "de": "Hi Ana! Ich heiße Tom. Woher kommst du?",
+          "pt": "Oi Ana! Meu nome é Tom. De onde você é?",
+          "audio_tts": "Hi Ana! Ich heiße Tom. Woher kommst du?",
+          "notes": "'Woher kommst du?' — pergunta de origem"
+        },
+        {
+          "speaker": "Ana",
+          "de": "Ich komme aus Brasilien. Und du?",
+          "pt": "Venho do Brasil. E você?",
+          "audio_tts": "Ich komme aus Brasilien. Und du?",
+          "notes": "'aus' para origem de país"
+        },
+        {
+          "speaker": "Tom",
+          "de": "Ich bin aus Portugal. Wie alt bist du?",
+          "pt": "Sou de Portugal. Quantos anos você tem?",
+          "audio_tts": "Ich bin aus Portugal. Wie alt bist du?",
+          "notes": "'Wie alt bist du?' — forma informal de perguntar idade"
+        },
+        {
+          "speaker": "Ana",
+          "de": "Ich bin siebenundzwanzig Jahre alt. Und du?",
+          "pt": "Tenho vinte e sete anos. E você?",
+          "audio_tts": "Ich bin siebenundzwanzig Jahre alt. Und du?",
+          "notes": "'Ich bin X Jahre alt' — idade em alemão com 'sein'"
+        },
+        {
+          "speaker": "Tom",
+          "de": "Ich bin dreißig. Schön, dich kennenzulernen, Ana!",
+          "pt": "Tenho trinta. Prazer em te conhecer, Ana!",
+          "audio_tts": "Ich bin dreißig. Schön, dich kennenzulernen, Ana!",
+          "notes": "'Schön, dich kennenzulernen' — prazer em conhecer (informal)"
+        }
+      ],
+      "key_phrases": [
+        { "de": "Wie heißt du?", "pt": "Como você se chama?" },
+        { "de": "Ich heiße...", "pt": "Meu nome é..." },
+        { "de": "Woher kommst du?", "pt": "De onde você é?" },
+        { "de": "Ich komme aus...", "pt": "Venho de..." },
+        { "de": "Wie alt bist du?", "pt": "Quantos anos você tem?" },
+        { "de": "Schön, dich kennenzulernen!", "pt": "Prazer em te conhecer!" }
+      ],
+      "forvo_links": [
+        { "word": "heiße", "url": "https://forvo.com/word/ich_hei%C3%9Fe/#de" },
+        { "word": "kennenzulernen", "url": "https://forvo.com/word/kennenzulernen/#de" }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A1.2",
+      "situation": "Im Café bestellen",
+      "situation_pt": "Pedindo no Café",
+      "context": "Klara und Marco sind in einem Café in Wien. / Klara e Marco estão num café em Viena.",
+      "lines": [
+        {
+          "speaker": "Kellner",
+          "de": "Guten Tag! Was möchten Sie trinken?",
+          "pt": "Boa tarde! O que os senhores gostariam de beber?",
+          "audio_tts": "Guten Tag! Was möchten Sie trinken?",
+          "notes": "möchten = gostariam (forma educada de wollen)"
+        },
+        {
+          "speaker": "Klara",
+          "de": "Ich möchte einen Kaffee, bitte.",
+          "pt": "Gostaria de um café, por favor.",
+          "audio_tts": "Ich möchte einen Kaffee, bitte.",
+          "notes": "'einen' — Kaffee é masculino, objeto direto (acusativo)"
+        },
+        {
+          "speaker": "Marco",
+          "de": "Und ich nehme ein Mineralwasser und ein Stück Kuchen.",
+          "pt": "E eu vou querer uma água mineral e um pedaço de bolo.",
+          "audio_tts": "Und ich nehme ein Mineralwasser und ein Stück Kuchen.",
+          "notes": "'nehmen' = levar/pedir (em restaurante)"
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Gerne. Haben Sie schon gewählt, was Sie essen möchten?",
+          "pt": "Claro. Os senhores já escolheram o que gostariam de comer?",
+          "audio_tts": "Gerne. Haben Sie schon gewählt, was Sie essen möchten?",
+          "notes": "'gerne' = com prazer / claro — resposta educada"
+        },
+        {
+          "speaker": "Klara",
+          "de": "Ja, ich hätte gerne den Apfelstrudel.",
+          "pt": "Sim, eu gostaria do strudel de maçã.",
+          "audio_tts": "Ja, ich hätte gerne den Apfelstrudel.",
+          "notes": "'hätte gerne' = forma muito educada de pedir"
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Sehr gut. Einen Moment, bitte.",
+          "pt": "Muito bem. Um momento, por favor.",
+          "audio_tts": "Sehr gut. Einen Moment, bitte.",
+          "notes": "'Sehr gut' — resposta positiva formal"
+        }
+      ],
+      "key_phrases": [
+        { "de": "Ich möchte..., bitte.", "pt": "Gostaria de..., por favor." },
+        { "de": "Ich nehme...", "pt": "Vou querer... / Vou pegar..." },
+        { "de": "Hätten Sie gerne...?", "pt": "Gostariam de...?" },
+        { "de": "Die Rechnung, bitte.", "pt": "A conta, por favor." },
+        { "de": "Gerne!", "pt": "Com prazer! / Claro!" }
+      ],
+      "forvo_links": [
+        { "word": "Apfelstrudel", "url": "https://forvo.com/word/apfelstrudel/#de" },
+        { "word": "möchten", "url": "https://forvo.com/word/m%C3%B6chten/#de" }
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "A1.3",
+      "situation": "Beim Arzt",
+      "situation_pt": "No Médico",
+      "context": "Felix fühlt sich nicht wohl und geht zum Arzt. / Felix não está se sentindo bem e vai ao médico.",
+      "lines": [
+        {
+          "speaker": "Arzt",
+          "de": "Guten Morgen. Was kann ich für Sie tun?",
+          "pt": "Bom dia. O que posso fazer pelo senhor?",
+          "audio_tts": "Guten Morgen. Was kann ich für Sie tun?",
+          "notes": "Saudação formal com modal 'kann'"
+        },
+        {
+          "speaker": "Felix",
+          "de": "Ich fühle mich nicht gut. Ich habe Halsschmerzen und Fieber.",
+          "pt": "Não estou me sentindo bem. Estou com dor de garganta e febre.",
+          "audio_tts": "Ich fühle mich nicht gut. Ich habe Halsschmerzen und Fieber.",
+          "notes": "'sich fühlen' = sentir-se (verbo reflexivo)"
+        },
+        {
+          "speaker": "Arzt",
+          "de": "Seit wann haben Sie die Beschwerden?",
+          "pt": "Desde quando o senhor tem os sintomas?",
+          "audio_tts": "Seit wann haben Sie die Beschwerden?",
+          "notes": "'seit wann?' = desde quando? / seit + dativo"
+        },
+        {
+          "speaker": "Felix",
+          "de": "Seit gestern Abend. Ich habe auch Kopfschmerzen.",
+          "pt": "Desde ontem à noite. Também estou com dor de cabeça.",
+          "audio_tts": "Seit gestern Abend. Ich habe auch Kopfschmerzen.",
+          "notes": "'seit gestern' = desde ontem"
+        },
+        {
+          "speaker": "Arzt",
+          "de": "Ich verschreibe Ihnen ein Antibiotikum. Sie müssen viel Wasser trinken und sich ausruhen.",
+          "pt": "Vou prescrever um antibiótico para o senhor. O senhor precisa beber muita água e descansar.",
+          "audio_tts": "Ich verschreibe Ihnen ein Antibiotikum. Sie müssen viel Wasser trinken und sich ausruhen.",
+          "notes": "'müssen' = ter que / precisar; 'sich ausruhen' = descansar"
+        },
+        {
+          "speaker": "Felix",
+          "de": "Muss ich ins Krankenhaus?",
+          "pt": "Preciso ir ao hospital?",
+          "audio_tts": "Muss ich ins Krankenhaus?",
+          "notes": "'ins' = in + das (acusativo): movimento → ins Krankenhaus"
+        },
+        {
+          "speaker": "Arzt",
+          "de": "Nein, das ist nicht nötig. Bleiben Sie zwei Tage zu Hause.",
+          "pt": "Não, isso não é necessário. Fique dois dias em casa.",
+          "audio_tts": "Nein, das ist nicht nötig. Bleiben Sie zwei Tage zu Hause.",
+          "notes": "'zu Hause bleiben' = ficar em casa"
+        }
+      ],
+      "key_phrases": [
+        { "de": "Ich fühle mich nicht gut.", "pt": "Não estou me sentindo bem." },
+        { "de": "Ich habe Halsschmerzen.", "pt": "Estou com dor de garganta." },
+        { "de": "Ich habe Kopfschmerzen.", "pt": "Estou com dor de cabeça." },
+        { "de": "Seit wann?", "pt": "Desde quando?" },
+        { "de": "Sie müssen sich ausruhen.", "pt": "O senhor precisa descansar." }
+      ],
+      "forvo_links": [
+        { "word": "Halsschmerzen", "url": "https://forvo.com/word/halsschmerzen/#de" },
+        { "word": "Antibiotikum", "url": "https://forvo.com/word/antibiotikum/#de" }
+      ]
+    }
+  ]
+}

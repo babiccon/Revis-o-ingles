@@ -1,0 +1,232 @@
+{
+  "language": "german",
+  "level": "A1",
+  "texts": [
+    {
+      "id": 1,
+      "sub_level": "A1.1",
+      "title": "Ich heiße Lena",
+      "title_pt": "Meu nome é Lena",
+      "content": [
+        {
+          "sentence": "Hallo! Ich heiße Lena und ich bin aus Brasilien.",
+          "translation": "Olá! Meu nome é Lena e sou do Brasil.",
+          "vocabulary": [
+            { "word": "heiße", "translation": "me chamo", "note": "heißen = chamar-se" },
+            { "word": "aus", "translation": "de (origem)", "note": "preposição de origem" }
+          ]
+        },
+        {
+          "sentence": "Ich bin 28 Jahre alt und ich wohne in São Paulo.",
+          "translation": "Tenho 28 anos e moro em São Paulo.",
+          "vocabulary": [
+            { "word": "Jahre alt", "translation": "anos de idade", "note": "sein + Jahre alt para idade" },
+            { "word": "wohne", "translation": "moro", "note": "wohnen = morar" }
+          ]
+        },
+        {
+          "sentence": "Ich lerne Deutsch, weil ich nach Deutschland reisen möchte.",
+          "translation": "Estou aprendendo alemão porque quero viajar para a Alemanha.",
+          "vocabulary": [
+            { "word": "lerne", "translation": "aprendo / estou aprendendo", "note": "lernen = aprender" },
+            { "word": "weil", "translation": "porque", "note": "conjunção — verbo vai para o fim" },
+            { "word": "reisen", "translation": "viajar", "note": "infinitivo no fim com modal" }
+          ]
+        },
+        {
+          "sentence": "Ich habe einen Bruder und eine Schwester.",
+          "translation": "Tenho um irmão e uma irmã.",
+          "vocabulary": [
+            { "word": "einen Bruder", "translation": "um irmão", "note": "acusativo masculino: einen" },
+            { "word": "eine Schwester", "translation": "uma irmã", "note": "acusativo feminino: eine" }
+          ]
+        },
+        {
+          "sentence": "Mein Bruder wohnt in Berlin und meine Schwester ist Ärztin.",
+          "translation": "Meu irmão mora em Berlim e minha irmã é médica.",
+          "vocabulary": [
+            { "word": "mein / meine", "translation": "meu / minha", "note": "possessivo: masc.→mein, fem.→meine" },
+            { "word": "Ärztin", "translation": "médica", "note": "feminino de Arzt" }
+          ]
+        },
+        {
+          "sentence": "Am Wochenende lerne ich Deutsch und höre deutsche Musik.",
+          "translation": "No fim de semana estudo alemão e ouço música alemã.",
+          "vocabulary": [
+            { "word": "am Wochenende", "translation": "no fim de semana", "note": "am + dia/período" },
+            { "word": "höre", "translation": "ouço", "note": "hören = ouvir" },
+            { "word": "deutsche", "translation": "alemã (adj.)", "note": "adjetivo + substantivo feminino" }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Woher kommt Lena?",
+          "options": ["Aus Deutschland", "Aus Österreich", "Aus Brasilien", "Aus der Schweiz"],
+          "answer": 2,
+          "explanation": "'Ich bin aus Brasilien.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Wie alt ist Lena?",
+          "options": ["25 Jahre alt", "28 Jahre alt", "30 Jahre alt", "22 Jahre alt"],
+          "answer": 1,
+          "explanation": "'Ich bin 28 Jahre alt.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Lena hat zwei Brüder.",
+          "answer": false,
+          "explanation": "'Ich habe einen Bruder und eine Schwester.' — sie hat nur einen Bruder."
+        },
+        {
+          "type": "true_false",
+          "question": "Lenas Schwester ist Ärztin.",
+          "answer": true,
+          "explanation": "'meine Schwester ist Ärztin'"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A1.2",
+      "title": "Ein Tag in Berlin",
+      "title_pt": "Um Dia em Berlim",
+      "content": [
+        {
+          "sentence": "Heute ist Samstag und das Wetter ist wunderschön.",
+          "translation": "Hoje é sábado e o tempo está maravilhoso.",
+          "vocabulary": [
+            { "word": "das Wetter", "translation": "o tempo / o clima", "note": "substantivo neutro" },
+            { "word": "wunderschön", "translation": "maravilhoso", "note": "wunder = maravilha + schön = bonito" }
+          ]
+        },
+        {
+          "sentence": "Ich stehe um acht Uhr auf und frühstücke schnell.",
+          "translation": "Levanto-me às oito horas e tomo café da manhã rapidamente.",
+          "vocabulary": [
+            { "word": "aufstehe", "translation": "levanto", "note": "aufstehen — verbo separável" },
+            { "word": "frühstücke", "translation": "tomo café da manhã", "note": "frühstücken = tomar café da manhã" }
+          ]
+        },
+        {
+          "sentence": "Dann fahre ich mit der U-Bahn zum Brandenburger Tor.",
+          "translation": "Depois vou de metrô até o Portão de Brandemburgo.",
+          "vocabulary": [
+            { "word": "mit der U-Bahn", "translation": "de metrô", "note": "mit + dativo" },
+            { "word": "zum", "translation": "para o / ao", "note": "zu + dem (dativo masc.) = zum" }
+          ]
+        },
+        {
+          "sentence": "Dort kaufe ich ein Souvenir und trinke einen Kaffee.",
+          "translation": "Lá compro uma lembrança e tomo um café.",
+          "vocabulary": [
+            { "word": "dort", "translation": "lá / ali", "note": "advérbio de lugar" },
+            { "word": "ein Souvenir", "translation": "uma lembrança", "note": "neutro → ein" }
+          ]
+        },
+        {
+          "sentence": "Am Abend gehe ich in ein Restaurant und esse Schnitzel.",
+          "translation": "À noite vou a um restaurante e como schnitzel.",
+          "vocabulary": [
+            { "word": "am Abend", "translation": "à noite", "note": "am + período do dia" },
+            { "word": "das Schnitzel", "translation": "o escalope / schnitzel", "note": "prato típico alemão" }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Welcher Tag ist es?",
+          "options": ["Freitag", "Sonntag", "Samstag", "Montag"],
+          "answer": 2,
+          "explanation": "'Heute ist Samstag.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Wie fährt die Person zum Brandenburger Tor?",
+          "options": ["Mit dem Bus", "Mit der U-Bahn", "Mit dem Auto", "Zu Fuß"],
+          "answer": 1,
+          "explanation": "'Ich fahre mit der U-Bahn zum Brandenburger Tor.'"
+        },
+        {
+          "type": "true_false",
+          "question": "Am Abend isst die Person zu Hause.",
+          "answer": false,
+          "explanation": "'Am Abend gehe ich in ein Restaurant' — sie geht ins Restaurant."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "A1.3",
+      "title": "Mein letztes Wochenende",
+      "title_pt": "Meu Último Fim de Semana",
+      "content": [
+        {
+          "sentence": "Letztes Wochenende habe ich viel gemacht.",
+          "translation": "No último fim de semana fiz muitas coisas.",
+          "vocabulary": [
+            { "word": "letztes", "translation": "último", "note": "adjetivo: letzt-" },
+            { "word": "habe...gemacht", "translation": "fiz", "note": "Perfekt: haben + Partizip II (machen → gemacht)" }
+          ]
+        },
+        {
+          "sentence": "Am Samstag bin ich in die Stadt gefahren und habe eingekauft.",
+          "translation": "No sábado fui à cidade e fui às compras.",
+          "vocabulary": [
+            { "word": "bin...gefahren", "translation": "fui (de transporte)", "note": "Perfekt: sein + gefahren" },
+            { "word": "habe eingekauft", "translation": "fiz compras", "note": "einkaufen (verbo sep.) → eingekauft" }
+          ]
+        },
+        {
+          "sentence": "Ich habe ein neues Buch und einen Wintermantel gekauft.",
+          "translation": "Comprei um livro novo e um casaco de inverno.",
+          "vocabulary": [
+            { "word": "neues Buch", "translation": "livro novo", "note": "adjetivo com artigo indefinido neutro" },
+            { "word": "Wintermantel", "translation": "casaco de inverno", "note": "composição: Winter + Mantel" }
+          ]
+        },
+        {
+          "sentence": "Am Abend habe ich Freunde getroffen und wir haben zusammen gegessen.",
+          "translation": "À noite encontrei amigos e comemos juntos.",
+          "vocabulary": [
+            { "word": "habe...getroffen", "translation": "encontrei", "note": "treffen → getroffen (irregular)" },
+            { "word": "zusammen", "translation": "juntos", "note": "advérbio" }
+          ]
+        },
+        {
+          "sentence": "Am Sonntag bin ich zu Hause geblieben und habe ein bisschen Deutsch gelernt.",
+          "translation": "No domingo fiquei em casa e estudei um pouco de alemão.",
+          "vocabulary": [
+            { "word": "bin...geblieben", "translation": "fiquei", "note": "bleiben → geblieben (+ sein)" },
+            { "word": "ein bisschen", "translation": "um pouco", "note": "expressão muito usada" }
+          ]
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Was hat die Person am Samstag gemacht?",
+          "options": ["Zu Hause geblieben", "Freunde besucht", "Eingekauft", "Deutsch gelernt"],
+          "answer": 2,
+          "explanation": "'bin ich in die Stadt gefahren und habe eingekauft'"
+        },
+        {
+          "type": "true_false",
+          "question": "Am Sonntag ist die Person ausgegangen.",
+          "answer": false,
+          "explanation": "'Am Sonntag bin ich zu Hause geblieben.'"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Was hat die Person am Samstag gekauft?",
+          "options": ["Ein Buch und einen Mantel", "Ein Handy", "Lebensmittel", "Schuhe"],
+          "answer": 0,
+          "explanation": "'ein neues Buch und einen Wintermantel gekauft'"
+        }
+      ]
+    }
+  ]
+}

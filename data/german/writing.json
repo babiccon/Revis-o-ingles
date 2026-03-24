@@ -1,0 +1,102 @@
+{
+  "language": "german",
+  "level": "A1",
+  "exercises": [
+    {
+      "id": 1,
+      "sub_level": "A1.1",
+      "title": "Meine Familie",
+      "title_pt": "Minha Família",
+      "prompt_pt": "Escreva sobre a sua família. Use o verbo 'sein' e o vocabulário de família. Inclua: quantas pessoas há na sua família, os nomes, as idades e as profissões.",
+      "prompt_de": "Schreiben Sie über Ihre Familie. Benutzen Sie das Verb 'sein' und Familienvokabular.",
+      "min_words": 30,
+      "grammar_focus": [
+        "Verbo sein (bin, ist, sind)",
+        "Artigos: der, die, das / ein, eine",
+        "Possessivos: mein, meine",
+        "Números para idades"
+      ],
+      "vocabulary_hints": [
+        { "pt": "Minha família tem... pessoas.", "de": "Meine Familie hat... Personen." },
+        { "pt": "Meu pai se chama...", "de": "Mein Vater heißt..." },
+        { "pt": "Minha mãe tem... anos.", "de": "Meine Mutter ist... Jahre alt." },
+        { "pt": "Meu irmão é estudante.", "de": "Mein Bruder ist Student." },
+        { "pt": "Ela trabalha como...", "de": "Sie arbeitet als..." },
+        { "pt": "Somos muito unidos.", "de": "Wir sind sehr eng." }
+      ],
+      "example_answer": "Meine Familie ist nicht sehr groß. Ich habe einen Bruder und eine Schwester. Mein Bruder heißt Lucas und er ist 25 Jahre alt. Er ist Ingenieur. Meine Schwester heißt Clara und sie ist 22 Jahre alt. Sie ist Studentin. Meine Mutter ist 55 Jahre alt und sie arbeitet als Lehrerin. Mein Vater ist 57 und er ist Arzt. Wir sind eine glückliche Familie!",
+      "example_translation": "Minha família não é muito grande. Tenho um irmão e uma irmã. Meu irmão se chama Lucas e tem 25 anos. Ele é engenheiro. Minha irmã se chama Clara e tem 22 anos. Ela é estudante. Minha mãe tem 55 anos e trabalha como professora. Meu pai tem 57 e é médico. Somos uma família feliz!",
+      "checklist": [
+        "Usei o verbo 'sein' corretamente (bin, ist, sind)?",
+        "Usei possessivos corretos (mein com masc./neutro, meine com fem.)?",
+        "Incluí pelo menos 3 membros da família?",
+        "Mencionei idades e/ou profissões?",
+        "Escrevi pelo menos 30 palavras?"
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A1.2",
+      "title": "Mein Tagesablauf",
+      "title_pt": "Minha Rotina Diária",
+      "prompt_pt": "Descreva sua rotina diária. Use verbos regulares e irregulares no presente. Inclua horários, atividades da manhã, tarde e noite.",
+      "prompt_de": "Beschreiben Sie Ihren Tagesablauf. Benutzen Sie das Präsens und Zeitangaben.",
+      "min_words": 50,
+      "grammar_focus": [
+        "Presente dos verbos regulares (machen, gehen, arbeiten)",
+        "Verbos irregulares: aufstehen, essen, fahren",
+        "Verbos separáveis: aufstehen, einkaufen, anrufen",
+        "Expressões de tempo: um X Uhr, morgens, abends, dann, danach"
+      ],
+      "vocabulary_hints": [
+        { "pt": "Levanto-me às...", "de": "Ich stehe um... Uhr auf." },
+        { "pt": "Tomo café da manhã", "de": "Ich frühstücke." },
+        { "pt": "Vou ao trabalho / à escola de...", "de": "Ich fahre mit dem/der... zur Arbeit / zur Schule." },
+        { "pt": "Às... horas como...", "de": "Um... Uhr esse ich..." },
+        { "pt": "À noite eu...", "de": "Abends..." },
+        { "pt": "Vou dormir às...", "de": "Ich gehe um... Uhr ins Bett." }
+      ],
+      "example_answer": "Mein Tagesablauf ist immer gleich. Ich stehe um sieben Uhr auf und dusche schnell. Dann frühstücke ich — ich esse Brot mit Käse und trinke Kaffee. Um acht Uhr fahre ich mit der U-Bahn zur Arbeit. Ich arbeite von neun bis achtzehn Uhr. In der Mittagspause esse ich in der Kantine. Nach der Arbeit kaufe ich manchmal ein. Abends koche ich und sehe fern. Um elf Uhr gehe ich ins Bett.",
+      "example_translation": "Minha rotina é sempre a mesma. Levanto às sete horas e tomo banho rápido. Depois tomo café da manhã — como pão com queijo e bebo café. Às oito vou de metrô para o trabalho. Trabalho das nove às dezoito horas. No intervalo do almoço como no refeitório. Depois do trabalho às vezes faço compras. À noite cozinho e assisto TV. Às onze vou dormir.",
+      "checklist": [
+        "Usei verbos separáveis corretamente (aufstehen → stehe...auf)?",
+        "Incluí horários com 'um X Uhr'?",
+        "Usei verbos irregulares (essen, fahren, schlafen)?",
+        "Descrevi manhã, tarde e noite?",
+        "Escrevi pelo menos 50 palavras?"
+      ]
+    },
+    {
+      "id": 3,
+      "sub_level": "A1.3",
+      "title": "Mein letztes Wochenende",
+      "title_pt": "Meu Último Fim de Semana",
+      "prompt_pt": "Escreva sobre o que você fez no último fim de semana. Use o Perfekt (passado). Inclua o que fez no sábado e no domingo.",
+      "prompt_de": "Schreiben Sie über Ihr letztes Wochenende. Benutzen Sie das Perfekt.",
+      "min_words": 60,
+      "grammar_focus": [
+        "Perfekt: haben/sein + Partizip II",
+        "Partizip II regular: ge- + raiz + -t (gemacht, gespielt, gelernt)",
+        "Partizip II irregular: gegangen, gefahren, gegessen, getrunken, geschlafen",
+        "Verbos com sein: gehen → gegangen, fahren → gefahren, bleiben → geblieben"
+      ],
+      "vocabulary_hints": [
+        { "pt": "No sábado eu...", "de": "Am Samstag habe ich... / bin ich..." },
+        { "pt": "Fui ao / à...", "de": "Ich bin in/zum/zur... gegangen / gefahren." },
+        { "pt": "Encontrei meus amigos", "de": "Ich habe meine Freunde getroffen." },
+        { "pt": "Comemos juntos", "de": "Wir haben zusammen gegessen." },
+        { "pt": "No domingo fiquei em casa", "de": "Am Sonntag bin ich zu Hause geblieben." },
+        { "pt": "Foi muito divertido", "de": "Es war sehr schön / toll." }
+      ],
+      "example_answer": "Letztes Wochenende war sehr schön. Am Samstag bin ich mit meiner Freundin in die Stadt gefahren. Wir haben eingekauft und viel Spaß gehabt. Ich habe ein neues Buch gekauft. Am Abend haben wir in einem Restaurant gegessen und Wein getrunken. Das Essen war sehr lecker! Am Sonntag bin ich zu Hause geblieben. Ich habe aufgeräumt und Deutsch gelernt. Dann habe ich einen Film gesehen. Es war ein entspanntes Wochenende.",
+      "example_translation": "O último fim de semana foi muito bom. No sábado fui com minha namorada à cidade. Fizemos compras e nos divertimos muito. Comprei um livro novo. À noite jantamos num restaurante e bebemos vinho. A comida estava deliciosa! No domingo fiquei em casa. Arrumei a casa e estudei alemão. Depois assisti um filme. Foi um fim de semana relaxante.",
+      "checklist": [
+        "Usei o Perfekt com haben E sein?",
+        "Usei Partizip II corretos (regulares e irregulares)?",
+        "Descrevi atividades de sábado E domingo?",
+        "Incluí pelo menos 3 atividades diferentes?",
+        "Escrevi pelo menos 60 palavras?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "language": "german",
+  "level": "A1",
+  "sections": [
+    {
+      "id": 1,
+      "sub_level": "A1.1",
+      "title": "Umlauts — Os Sons Especiais do Alemão",
+      "phoneme_groups": [
+        {
+          "group": "Ä, Ö, Ü — Os Umlauts",
+          "phonemes": [
+            {
+              "symbol": "ä",
+              "ipa": "/ɛ/",
+              "description": "Como o 'é' aberto do português em 'pé', 'café'. É a versão modificada do 'a'. Aparece em plural (Väter, Äpfel) e em formas verbais irregulares (er fährt, er trägt). Pense em 'é' brasileiro.",
+              "examples": [
+                { "word": "Äpfel", "translation": "maçãs", "phonetic": "/ˈɛpfəl/" },
+                { "word": "Väter", "translation": "pais", "phonetic": "/ˈfɛtər/" },
+                { "word": "fährt", "translation": "vai (de transporte)", "phonetic": "/fɛːrt/" },
+                { "word": "Mädchen", "translation": "menina", "phonetic": "/ˈmɛːtçən/" }
+              ],
+              "forvo_url": "https://forvo.com/word/%C3%A4pfel/#de",
+              "youtube_url": null
+            },
+            {
+              "symbol": "ö",
+              "ipa": "/ø/",
+              "description": "Não existe em português! Forme o 'e' com os lábios arredondados como para dizer 'o'. É como dizer 'e' e 'o' ao mesmo tempo. Palavra-chave: schön (bonito). Tente: diga 'e' e arredonde os lábios sem mudar a língua.",
+              "examples": [
+                { "word": "schön", "translation": "bonito", "phonetic": "/ʃøːn/" },
+                { "word": "Öl", "translation": "óleo", "phonetic": "/øːl/" },
+                { "word": "möchten", "translation": "gostariam", "phonetic": "/ˈmœçtən/" },
+                { "word": "zwölf", "translation": "doze", "phonetic": "/tsvœlf/" }
+              ],
+              "forvo_url": "https://forvo.com/word/sch%C3%B6n/#de",
+              "youtube_url": null
+            },
+            {
+              "symbol": "ü",
+              "ipa": "/y/",
+              "description": "Também não existe em português. Forme o 'i' com os lábios arredondados como para o 'u'. Língua na posição de 'i', lábios no formato de 'u'. Palavra-chave: über (sobre). É o som do 'u' do francês em 'tu'.",
+              "examples": [
+                { "word": "über", "translation": "sobre / acima", "phonetic": "/ˈyːbər/" },
+                { "word": "Büro", "translation": "escritório", "phonetic": "/ˈbyːro/" },
+                { "word": "Mütter", "translation": "mães", "phonetic": "/ˈmʏtər/" },
+                { "word": "fünf", "translation": "cinco", "phonetic": "/fʏnf/" }
+              ],
+              "forvo_url": "https://forvo.com/word/%C3%BCber/#de",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "ß (Eszett) e ss",
+          "phonemes": [
+            {
+              "symbol": "ß",
+              "ipa": "/s/",
+              "description": "O 'ß' (Eszett ou 's-zeto') é simplesmente um 'ss' — o som é idêntico ao 's' surdo. Aparece depois de vogal longa ou ditongo. Nas maiúsculas, escreve-se 'SS'. Exemplos: heißen /haɪsən/, Straße /ˈʃtraːsə/. Não é um 'z'!",
+              "examples": [
+                { "word": "heißen", "translation": "chamar-se", "phonetic": "/ˈhaɪsən/" },
+                { "word": "Straße", "translation": "rua", "phonetic": "/ˈʃtraːsə/" },
+                { "word": "Fuß", "translation": "pé", "phonetic": "/fuːs/" },
+                { "word": "weiß", "translation": "branco / sei", "phonetic": "/vaɪs/" }
+              ],
+              "forvo_url": "https://forvo.com/word/stra%C3%9Fe/#de",
+              "youtube_url": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sub_level": "A1.2",
+      "title": "Sons Especiais: CH, SCH, ST/SP",
+      "phoneme_groups": [
+        {
+          "group": "CH — Dois sons diferentes",
+          "phonemes": [
+            {
+              "symbol": "ch (após a, o, u, au)",
+              "ipa": "/x/",
+              "description": "Som gutural — feito no fundo da garganta, como um rosnado suave. É o 'ch' de 'Buch', 'Nacht', 'auch'. Para brasileiros: como um 'r' bem forte do espanhol em 'jota', ou o 'rr' carioca exagerado. Não existe em português padrão.",
+              "examples": [
+                { "word": "Buch", "translation": "livro", "phonetic": "/buːx/" },
+                { "word": "Nacht", "translation": "noite", "phonetic": "/naxt/" },
+                { "word": "auch", "translation": "também", "phonetic": "/aʊx/" },
+                { "word": "kochen", "translation": "cozinhar", "phonetic": "/ˈkɔxən/" }
+              ],
+              "forvo_url": "https://forvo.com/word/buch/#de",
+              "youtube_url": null
+            },
+            {
+              "symbol": "ch (após e, i, ä, ö, ü, ei, eu)",
+              "ipa": "/ç/",
+              "description": "Som palatal suave — feito no meio da boca/palato. É como um 'x' brasileiro em 'xícara', mas mais sutil e sem arredondamento. Aparece em 'ich', 'mich', 'nicht', 'Mädchen'. ATENÇÃO: 'ich' não é pronunciado 'ish' — é /ɪç/.",
+              "examples": [
+                { "word": "ich", "translation": "eu", "phonetic": "/ɪç/" },
+                { "word": "nicht", "translation": "não", "phonetic": "/nɪçt/" },
+                { "word": "Mädchen", "translation": "menina", "phonetic": "/ˈmɛːtçən/" },
+                { "word": "sprechen", "translation": "falar", "phonetic": "/ˈʃprɛçən/" }
+              ],
+              "forvo_url": "https://forvo.com/word/ich/#de",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "SCH, ST, SP",
+          "phonemes": [
+            {
+              "symbol": "sch",
+              "ipa": "/ʃ/",
+              "description": "Igual ao 'ch' do português em 'chuva', 'chave'. Nunca é 's' + 'ch' separados. Exemplos: Schule (escola), schön, Deutsch. Este é um som que os brasileiros acertam facilmente!",
+              "examples": [
+                { "word": "Schule", "translation": "escola", "phonetic": "/ˈʃuːlə/" },
+                { "word": "schön", "translation": "bonito", "phonetic": "/ʃøːn/" },
+                { "word": "Deutsch", "translation": "alemão", "phonetic": "/dɔɪtʃ/" },
+                { "word": "Tisch", "translation": "mesa", "phonetic": "/tɪʃ/" }
+              ],
+              "forvo_url": "https://forvo.com/word/schule/#de",
+              "youtube_url": null
+            },
+            {
+              "symbol": "st / sp (início de sílaba)",
+              "ipa": "/ʃt/ /ʃp/",
+              "description": "No início de palavras ou sílabas, 'st' e 'sp' são pronunciados como 'sht' e 'shp'. Então: Stadt = /ʃtat/ (não 'stat'), sprechen = /ˈʃprɛçən/ (não 'sprechen'). No meio da palavra, pronuncia-se normalmente: gestern = /ˈɡɛstərn/.",
+              "examples": [
+                { "word": "Stadt", "translation": "cidade", "phonetic": "/ʃtat/" },
+                { "word": "sprechen", "translation": "falar", "phonetic": "/ˈʃprɛçən/" },
+                { "word": "Straße", "translation": "rua", "phonetic": "/ˈʃtraːsə/" },
+                { "word": "spielen", "translation": "brincar/jogar", "phonetic": "/ˈʃpiːlən/" }
+              ],
+              "forvo_url": "https://forvo.com/word/stadt/#de",
+              "youtube_url": null
+            }
+          ]
+        },
+        {
+          "group": "W, V e Z — Letras Enganosas",
+          "phonemes": [
+            {
+              "symbol": "w",
+              "ipa": "/v/",
+              "description": "O 'w' alemão tem som de 'v' — como em 'vela', 'voz'. NÃO é o 'w' inglês (labial). 'Wasser' = /ˈvasər/, 'wohnen' = /ˈvoːnən/. Brasileiros acertam fácil pois o som de 'v' existe em português.",
+              "examples": [
+                { "word": "Wasser", "translation": "água", "phonetic": "/ˈvasər/" },
+                { "word": "wohnen", "translation": "morar", "phonetic": "/ˈvoːnən/" },
+                { "word": "wie", "translation": "como", "phonetic": "/viː/" },
+                { "word": "Winter", "translation": "inverno", "phonetic": "/ˈvɪntər/" }
+              ],
+              "forvo_url": "https://forvo.com/word/wasser/#de",
+              "youtube_url": null
+            },
+            {
+              "symbol": "v",
+              "ipa": "/f/",
+              "description": "O 'v' alemão tem som de 'f' na maioria das palavras alemãs nativas! 'Vater' = /ˈfaːtər/, 'vier' = /fiːr/. Em palavras estrangeiras (Hotel, Vase), pode ser /v/. Atenção: 'Vater' não é 'Vater' como em inglês — é 'Fater'!",
+              "examples": [
+                { "word": "Vater", "translation": "pai", "phonetic": "/ˈfaːtər/" },
+                { "word": "vier", "translation": "quatro", "phonetic": "/fiːr/" },
+                { "word": "verstehen", "translation": "entender", "phonetic": "/fɛrˈʃteːən/" },
+                { "word": "von", "translation": "de / por", "phonetic": "/fɔn/" }
+              ],
+              "forvo_url": "https://forvo.com/word/vater/#de",
+              "youtube_url": null
+            },
+            {
+              "symbol": "z",
+              "ipa": "/ts/",
+              "description": "O 'z' alemão é sempre pronunciado como 'ts' — como em 'pizza', 'tsé-tsé'. NUNCA como o 'z' do português. 'Zeit' = /tsaɪt/, 'zehn' = /tseːn/, 'zum' = /tsʊm/. Este é um erro muito comum de brasileiros.",
+              "examples": [
+                { "word": "Zeit", "translation": "tempo", "phonetic": "/tsaɪt/" },
+                { "word": "zehn", "translation": "dez", "phonetic": "/tseːn/" },
+                { "word": "Zimmer", "translation": "quarto", "phonetic": "/ˈtsɪmər/" },
+                { "word": "zum", "translation": "para o (dativo)", "phonetic": "/tsʊm/" }
+              ],
+              "forvo_url": "https://forvo.com/word/zeit/#de",
+              "youtube_url": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
