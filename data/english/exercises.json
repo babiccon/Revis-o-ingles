@@ -1,0 +1,120 @@
+{
+  "language": "english",
+  "level": "A2",
+  "exercises": [
+    {
+      "id": 1,
+      "sub_level": "A2.1",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "I have been living here for two years.",
+      "answer": "I have been living here for two years.",
+      "translation": "Eu moro aqui há dois anos."
+    },
+    {
+      "id": 2,
+      "sub_level": "A2.1",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["going", "are", "Where", "you", "?"],
+      "answer": "Where are you going?",
+      "translation": "Para onde você está indo?"
+    },
+    {
+      "id": 3,
+      "sub_level": "A2.1",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com a forma correta do verbo (Present Continuous)",
+      "sentence": "She ___ (read) a book right now.",
+      "answer": "is reading",
+      "alternatives": ["is reading", "Is reading"],
+      "translation": "Ela está lendo um livro agora."
+    },
+    {
+      "id": 4,
+      "sub_level": "A2.1",
+      "type": "translation",
+      "instruction_pt": "Traduza para o inglês",
+      "prompt_pt": "Eu já comi.",
+      "answer": "I have already eaten.",
+      "alternatives": ["i have already eaten", "I have already eaten", "I've already eaten", "i've already eaten"],
+      "translation": "I have already eaten."
+    },
+    {
+      "id": 5,
+      "sub_level": "A2.1",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "Could you help me, please?",
+      "answer": "Could you help me, please?",
+      "translation": "Você poderia me ajudar, por favor?"
+    },
+    {
+      "id": 6,
+      "sub_level": "A2.1",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["never", "I", "pizza.", "eaten", "have"],
+      "answer": "I have never eaten pizza.",
+      "translation": "Eu nunca comi pizza."
+    },
+    {
+      "id": 7,
+      "sub_level": "A2.2",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com a preposição correta (at, on, in)",
+      "sentence": "The meeting is ___ Monday morning.",
+      "answer": "on",
+      "alternatives": ["on", "On"],
+      "translation": "A reunião é na manhã de segunda-feira."
+    },
+    {
+      "id": 8,
+      "sub_level": "A2.2",
+      "type": "translation",
+      "instruction_pt": "Traduza para o inglês",
+      "prompt_pt": "Ela foi ao médico ontem.",
+      "answer": "She went to the doctor yesterday.",
+      "alternatives": ["she went to the doctor yesterday", "She went to the doctor yesterday"],
+      "translation": "She went to the doctor yesterday."
+    },
+    {
+      "id": 9,
+      "sub_level": "A2.2",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["you", "Were", "home", "at", "?", "yesterday"],
+      "answer": "Were you at home yesterday?",
+      "translation": "Você estava em casa ontem?"
+    },
+    {
+      "id": 10,
+      "sub_level": "A2.2",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "I used to play football when I was young.",
+      "answer": "I used to play football when I was young.",
+      "translation": "Eu costumava jogar futebol quando era jovem."
+    },
+    {
+      "id": 11,
+      "sub_level": "A2.2",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com a forma correta do comparativo",
+      "sentence": "This exercise is ___ (easy) than the last one.",
+      "answer": "easier",
+      "alternatives": ["easier", "Easier"],
+      "translation": "Este exercício é mais fácil que o último."
+    },
+    {
+      "id": 12,
+      "sub_level": "A2.2",
+      "type": "translation",
+      "instruction_pt": "Traduza para o inglês",
+      "prompt_pt": "Você pode falar mais devagar, por favor?",
+      "answer": "Can you speak more slowly, please?",
+      "alternatives": ["can you speak more slowly please", "Can you speak more slowly, please?", "Could you speak more slowly, please?"],
+      "translation": "Can you speak more slowly, please?"
+    }
+  ]
+}

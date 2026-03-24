@@ -1,0 +1,196 @@
+{
+  "language": "german",
+  "level": "A1",
+  "exercises": [
+    {
+      "id": 1,
+      "sub_level": "A1.1",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "Ich heiße Anna.",
+      "answer": "Ich heiße Anna.",
+      "translation": "Meu nome é Anna."
+    },
+    {
+      "id": 2,
+      "sub_level": "A1.1",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["bin", "Ich", "Student."],
+      "answer": "Ich bin Student.",
+      "translation": "Eu sou estudante."
+    },
+    {
+      "id": 3,
+      "sub_level": "A1.1",
+      "type": "fill_blank",
+      "instruction_pt": "Complete a lacuna com a forma correta do verbo",
+      "sentence": "Das ___ ein Buch. (sein)",
+      "answer": "ist",
+      "alternatives": ["Ist", "ist"],
+      "translation": "Isso é um livro."
+    },
+    {
+      "id": 4,
+      "sub_level": "A1.1",
+      "type": "translation",
+      "instruction_pt": "Traduza para o alemão",
+      "prompt_pt": "Onde está a mulher?",
+      "answer": "Wo ist die Frau?",
+      "alternatives": ["wo ist die frau", "Wo ist die Frau"],
+      "translation": "Wo ist die Frau?"
+    },
+    {
+      "id": 5,
+      "sub_level": "A1.1",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "Der Mann ist groß.",
+      "answer": "Der Mann ist groß.",
+      "translation": "O homem é alto."
+    },
+    {
+      "id": 6,
+      "sub_level": "A1.1",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["du", "Wie", "heißt", "?"],
+      "answer": "Wie heißt du?",
+      "translation": "Como você se chama?"
+    },
+    {
+      "id": 7,
+      "sub_level": "A1.1",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com o artigo correto (der, die, das)",
+      "sentence": "___ Kind spielt. (neutro)",
+      "answer": "Das",
+      "alternatives": ["das", "Das"],
+      "translation": "A criança brinca."
+    },
+    {
+      "id": 8,
+      "sub_level": "A1.2",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com a forma correta do verbo haben",
+      "sentence": "Er ___ einen Bruder.",
+      "answer": "hat",
+      "alternatives": ["hat", "Hat"],
+      "translation": "Ele tem um irmão."
+    },
+    {
+      "id": 9,
+      "sub_level": "A1.2",
+      "type": "translation",
+      "instruction_pt": "Traduza para o alemão",
+      "prompt_pt": "Eu não tenho tempo.",
+      "answer": "Ich habe keine Zeit.",
+      "alternatives": ["ich habe keine zeit", "Ich habe keine Zeit"],
+      "translation": "Ich habe keine Zeit."
+    },
+    {
+      "id": 10,
+      "sub_level": "A1.2",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["können", "Ich", "Deutsch", "sprechen."],
+      "answer": "Ich kann Deutsch sprechen.",
+      "translation": "Eu consigo falar alemão."
+    },
+    {
+      "id": 11,
+      "sub_level": "A1.2",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "Das Buch liegt auf dem Tisch.",
+      "answer": "Das Buch liegt auf dem Tisch.",
+      "translation": "O livro está sobre a mesa."
+    },
+    {
+      "id": 12,
+      "sub_level": "A1.2",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com nicht ou kein/keine",
+      "sentence": "Ich trinke ___ Kaffee.",
+      "answer": "keinen",
+      "alternatives": ["keinen", "Keinen"],
+      "translation": "Eu não bebo café."
+    },
+    {
+      "id": 13,
+      "sub_level": "A1.2",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["am", "Montag", "arbeite", "Ich", "nicht."],
+      "answer": "Ich arbeite am Montag nicht.",
+      "translation": "Eu não trabalho na segunda-feira."
+    },
+    {
+      "id": 14,
+      "sub_level": "A1.2",
+      "type": "translation",
+      "instruction_pt": "Traduza para o alemão",
+      "prompt_pt": "Você pode ajudar?",
+      "answer": "Kannst du helfen?",
+      "alternatives": ["kannst du helfen", "Kannst du helfen"],
+      "translation": "Kannst du helfen?"
+    },
+    {
+      "id": 15,
+      "sub_level": "A1.3",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com a forma correta do Perfekt",
+      "sentence": "Ich ___ gestern Kaffee getrunken. (haben)",
+      "answer": "habe",
+      "alternatives": ["habe", "Habe"],
+      "translation": "Eu tomei café ontem."
+    },
+    {
+      "id": 16,
+      "sub_level": "A1.3",
+      "type": "dictation",
+      "instruction_pt": "Ouça a frase e escreva o que ouviu",
+      "text": "Kannst du mir bitte helfen?",
+      "answer": "Kannst du mir bitte helfen?",
+      "translation": "Você pode me ajudar, por favor?"
+    },
+    {
+      "id": 17,
+      "sub_level": "A1.3",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["um", "Es", "Uhr.", "halb", "ist", "drei"],
+      "answer": "Es ist halb drei Uhr.",
+      "translation": "São duas e meia."
+    },
+    {
+      "id": 18,
+      "sub_level": "A1.3",
+      "type": "translation",
+      "instruction_pt": "Traduza para o alemão",
+      "prompt_pt": "Por favor, fale mais devagar.",
+      "answer": "Sprechen Sie bitte langsamer.",
+      "alternatives": ["sprechen sie bitte langsamer", "Sprechen Sie bitte langsamer", "Bitte sprechen Sie langsamer"],
+      "translation": "Sprechen Sie bitte langsamer."
+    },
+    {
+      "id": 19,
+      "sub_level": "A1.3",
+      "type": "fill_blank",
+      "instruction_pt": "Complete com o artigo dativo correto",
+      "sentence": "Ich fahre mit ___ Bus. (der Bus — masculino)",
+      "answer": "dem",
+      "alternatives": ["dem", "Dem"],
+      "translation": "Eu vou de ônibus."
+    },
+    {
+      "id": 20,
+      "sub_level": "A1.3",
+      "type": "word_order",
+      "instruction_pt": "Ordene as palavras para formar uma frase correta",
+      "words": ["meine", "Das", "Tasche.", "ist"],
+      "answer": "Das ist meine Tasche.",
+      "translation": "Essa é a minha bolsa."
+    }
+  ]
+}

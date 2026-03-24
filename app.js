@@ -51,6 +51,7 @@ const MODULES = [
   { id: 'conversation',  label: 'Conversação' },
   { id: 'writing',       label: 'Escrita'     },
   { id: 'pronunciation', label: 'Pronúncia'   },
+  { id: 'exercises',     label: 'Exercícios'  },
   { id: 'progress',      label: 'Progresso'   },
 ];
 

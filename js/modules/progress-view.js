@@ -14,6 +14,7 @@ const MODULE_LABELS = {
   conversation: 'Conversação',
   writing: 'Escrita',
   pronunciation: 'Pronúncia',
+  exercises: 'Exercícios',
 };
 
 const MODULE_ICONS = {
@@ -23,6 +24,7 @@ const MODULE_ICONS = {
   conversation: '💬',
   writing: '✏️',
   pronunciation: '🔊',
+  exercises: '🏋️',
 };
 const DATA_KEYS = {
   grammar: 'topics',
@@ -31,6 +33,7 @@ const DATA_KEYS = {
   conversation: 'dialogues',
   writing: 'exercises',
   pronunciation: 'sections',
+  exercises: 'exercises',
 };
 
 const ProgressView = {

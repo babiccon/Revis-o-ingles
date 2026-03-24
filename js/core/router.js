@@ -11,7 +11,7 @@
 import { DataLoader } from '../data-loader.js';
 
 const VALID_LANGS = ['german', 'english'];
-const VALID_MODULES = ['grammar', 'vocabulary', 'texts', 'conversation', 'writing', 'pronunciation', 'progress'];
+const VALID_MODULES = ['grammar', 'vocabulary', 'texts', 'conversation', 'writing', 'pronunciation', 'exercises', 'progress'];
 
 const Router = {
   /** @type {Object|null} Reference to the main App instance */
