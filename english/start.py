@@ -78,7 +78,7 @@ def main():
     else:
         print()
         print("  ╔════════════════════════════════════════════════════════╗")
-        print("  ║        ENGLISH STUDY TOOL  -  A2 → B2                 ║")
+        print("  ║        LinguaStudy — Alemão A1 + Inglês A2             ║")
         print("  ╚════════════════════════════════════════════════════════╝")
         print()
         print("  Como deseja estudar?")

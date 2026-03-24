@@ -91,6 +91,14 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.tabs::-webkit-scrollbar {
+  display: none;
 }
 
 .tab-btn {
@@ -103,6 +111,8 @@ body {
   cursor: pointer;
   border-bottom: 3px solid transparent;
   transition: all 0.2s;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .tab-btn:hover {
@@ -952,9 +962,13 @@ body {
   padding: 0.3rem 0.6rem;
   border-radius: 6px;
   font-size: 0.8rem;
-  white-space: nowrap;
+  white-space: normal;
+  max-width: min(260px, 80vw);
+  min-width: 100px;
   z-index: 200;
   pointer-events: none;
+  text-align: center;
+  line-height: 1.3;
 }
 
 .vocab-tooltip::after {
@@ -1333,18 +1347,50 @@ body {
 }
 
 /* ===== RESPONSIVE ===== */
+/* ===== TABLET (≤ 768px) ===== */
+@media (max-width: 768px) {
+  .container {
+    padding: 1.25rem;
+  }
+
+  .tabs {
+    justify-content: flex-start;
+  }
+
+  .topic-list {
+    grid-template-columns: 1fr;
+  }
+
+  .assoc-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .phoneme-card {
+    padding: 1rem;
+  }
+}
+
+/* ===== MOBILE (≤ 640px) ===== */
 @media (max-width: 640px) {
   .container {
-    padding: 1rem;
+    padding: 0.75rem;
+  }
+
+  .header {
+    padding: 0.75rem 1rem;
   }
 
   .header h1 {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
+  }
+
+  .header p {
+    font-size: 0.75rem;
   }
 
   .tab-btn {
-    padding: 0.75rem 1rem;
-    font-size: 0.85rem;
+    padding: 0.6rem 0.85rem;
+    font-size: 0.8rem;
   }
 
   .controls {
@@ -1356,8 +1402,13 @@ body {
   }
 
   .flashcard-face {
-    min-height: 180px;
-    padding: 1.5rem;
+    min-height: 160px;
+    padding: 1.25rem;
+    font-size: 1rem;
+  }
+
+  .flashcard-back .word-translation {
+    font-size: 0.85rem;
   }
 
   .rating-buttons {
@@ -1367,27 +1418,130 @@ body {
 
   .rating-btn {
     width: 100%;
+    padding: 0.6rem;
   }
 
   .stats-bar {
-    gap: 1rem;
-    font-size: 0.75rem;
+    gap: 0.75rem;
+    font-size: 0.72rem;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
   .progress-grid {
     grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
+  }
+
+  .progress-card {
+    padding: 0.875rem;
+  }
+
+  .progress-card .number {
+    font-size: 1.5rem;
   }
 
   .lang-btn {
-    padding: 0.35rem 0.9rem;
-    font-size: 0.8rem;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.78rem;
+  }
+
+  .lang-level {
+    display: none;
+  }
+
+  .dialogue-line {
+    gap: 0.4rem;
   }
 
   .dialogue-speaker {
-    min-width: 50px;
+    min-width: 44px;
+    font-size: 0.72rem;
+  }
+
+  .dialogue-bubble {
+    padding: 0.6rem 0.75rem;
+    font-size: 0.9rem;
   }
 
   .writing-textarea {
     min-height: 120px;
+    font-size: 0.9rem;
+  }
+
+  .content-detail {
+    padding: 0;
+  }
+
+  .detail-header {
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .detail-header h2 {
+    font-size: 1.1rem;
+    width: 100%;
+    order: 2;
+  }
+
+  .back-btn {
+    order: 1;
+  }
+
+  .phoneme-card {
+    padding: 0.875rem;
+  }
+
+  .phoneme-example {
+    flex-wrap: wrap;
+    gap: 0.2rem 0.5rem;
+  }
+
+  .quiz-card {
+    padding: 1rem;
+  }
+
+  .assoc-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.4rem;
+  }
+
+  .assoc-btn {
+    padding: 0.5rem 0.25rem;
+    font-size: 0.78rem;
+  }
+
+  .topic-item {
+    padding: 0.7rem 0.875rem;
+  }
+
+  .vocab-tooltip {
+    max-width: min(220px, 70vw);
+    font-size: 0.75rem;
+  }
+}
+
+/* ===== VERY SMALL (≤ 380px) ===== */
+@media (max-width: 380px) {
+  .header h1 {
+    font-size: 1rem;
+  }
+
+  .tab-btn {
+    padding: 0.5rem 0.7rem;
+    font-size: 0.75rem;
+  }
+
+  .progress-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .lang-nav {
+    gap: 0.35rem;
+  }
+
+  .lang-btn {
+    padding: 0.25rem 0.6rem;
+    font-size: 0.75rem;
   }
 }

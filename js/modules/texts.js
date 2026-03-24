@@ -77,7 +77,7 @@ const TextsModule = {
       (sentence.vocabulary || []).forEach(v => {
         const escaped = escapeHtml(v.word);
         const tooltip = escapeHtml(v.translation + (v.note ? ` — ${v.note}` : ''));
-        html = html.replace(escaped, `<span class="vocab-word">${escaped}<span class="vocab-tooltip">${tooltip}</span></span>`);
+        html = html.replace(escaped, `<span class="vocab-word" onclick="window._toggleVocab(this)">${escaped}<span class="vocab-tooltip">${tooltip}</span></span>`);
       });
 
       return `
@@ -114,6 +114,19 @@ const TextsModule = {
           <span>${isDone ? 'Lição concluída!' : 'Marcar como concluída'}</span>
         </label>
       </div>`;
+
+    // Close any open tooltip when clicking outside a vocab-word
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.vocab-word')) {
+        document.querySelectorAll('.vocab-word.active').forEach(w => w.classList.remove('active'));
+      }
+    }, { once: false, capture: true });
+
+    window._toggleVocab = (el) => {
+      const isActive = el.classList.contains('active');
+      document.querySelectorAll('.vocab-word.active').forEach(w => w.classList.remove('active'));
+      if (!isActive) el.classList.add('active');
+    };
 
     let allShown = false;
     window._toggleTranslation = (si) => {
