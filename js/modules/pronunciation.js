@@ -76,10 +76,60 @@ const PronunciationModule = {
     const langCode = getLangCode(lang);
     window._speak = (text) => speak(text, langCode);
 
-    const groupsHtml = (section.phoneme_groups || []).map(group => `
+    window._startSTT = (word, resultId) => {
+      const SpeechRecognition = window.webkitSpeechRecognition || window.SpeechRecognition;
+      const el = document.getElementById(resultId);
+      const btn = document.getElementById('sttBtn_' + resultId);
+      if (!el) return;
+
+      if (!SpeechRecognition) {
+        el.className = 'stt-result show stt-wrong';
+        el.textContent = 'STT não suportado neste navegador.';
+        return;
+      }
+
+      el.className = 'stt-result';
+      el.textContent = '';
+      if (btn) btn.classList.add('audio-btn--recording');
+
+      const rec = new SpeechRecognition();
+      rec.lang = langCode;
+      rec.interimResults = false;
+      rec.maxAlternatives = 3;
+
+      rec.onresult = (event) => {
+        const transcript = Array.from(event.results[0]).map(r => r.transcript).join(' ').trim();
+        if (btn) btn.classList.remove('audio-btn--recording');
+        const score = this._sttSimilarity(word, transcript);
+        if (score >= 0.85) {
+          el.className = 'stt-result show stt-correct';
+          el.innerHTML = `✓ Ótimo! Reconhecido: "<em>${escapeHtml(transcript)}</em>"`;
+        } else if (score >= 0.5) {
+          el.className = 'stt-result show stt-partial';
+          el.innerHTML = `~ Quase! Reconhecido: "<em>${escapeHtml(transcript)}</em>" — tente novamente.`;
+        } else {
+          el.className = 'stt-result show stt-wrong';
+          el.innerHTML = `✗ Tente novamente. Reconhecido: "<em>${escapeHtml(transcript)}</em>"`;
+        }
+      };
+
+      rec.onerror = (event) => {
+        if (btn) btn.classList.remove('audio-btn--recording');
+        el.className = 'stt-result show stt-wrong';
+        el.textContent = `Erro ao capturar áudio: ${event.error}.`;
+      };
+
+      rec.onend = () => {
+        if (btn) btn.classList.remove('audio-btn--recording');
+      };
+
+      rec.start();
+    };
+
+    const groupsHtml = (section.phoneme_groups || []).map((group, gi) => `
       <div class="content-section">
         <h3>${escapeHtml(group.group)}</h3>
-        ${(group.phonemes || []).map(p => this._renderPhoneme(p, langCode)).join('')}
+        ${(group.phonemes || []).map((p, pi) => this._renderPhoneme(p, langCode, gi, pi)).join('')}
       </div>`).join('');
 
     root.innerHTML = `
@@ -111,17 +161,22 @@ const PronunciationModule = {
    * Render a single phoneme card.
    * @param {Object} p - Phoneme object from JSON
    * @param {string} langCode - BCP-47 code for TTS
+   * @param {number} gi - Group index (for unique element IDs)
+   * @param {number} pi - Phoneme index within group
    * @returns {string}
    */
-  _renderPhoneme(p, langCode) {
-    const examplesHtml = (p.examples || []).map(ex => {
+  _renderPhoneme(p, langCode, gi = 0, pi = 0) {
+    const examplesHtml = (p.examples || []).map((ex, exI) => {
       const safeWord = ex.word.replace(/'/g, "\\'");
+      const resultId = `g${gi}_p${pi}_e${exI}`;
       return `
         <div class="phoneme-example">
           <strong>${escapeHtml(ex.word)}</strong>
           <span class="phoneme-ipa-small">${escapeHtml(ex.phonetic || '')}</span>
           <span class="phoneme-meaning">— ${escapeHtml(ex.translation)}</span>
           <button class="audio-btn" onclick="window._speak('${safeWord}')" title="Ouvir pronúncia">🔊</button>
+          <button class="audio-btn" id="sttBtn_${resultId}" onclick="window._startSTT('${safeWord}','${resultId}')" title="Praticar pronúncia">🎤</button>
+          <div class="stt-result" id="${resultId}"></div>
         </div>`;
     }).join('');
 
@@ -150,6 +205,28 @@ const PronunciationModule = {
     if (!text) return '';
     const sentences = text.split(/(?<=[.!?])\s+(?=[A-ZÁÀÂÃÉÈÊÍÏÓÕÔÚÜ"'])/u);
     return sentences.map(s => `<p class="explanation-para">${escapeHtml(s.trim())}</p>`).join('');
+  },
+
+  /**
+   * Compute a similarity score [0–1] between expected and recognized strings.
+   * @param {string} expected
+   * @param {string} recognized
+   * @returns {number}
+   */
+  _sttSimilarity(expected, recognized) {
+    const norm = s => s.toLowerCase().replace(/[^a-zäöüßàáâãéèêíïóõôúü]/g, '');
+    const a = norm(expected);
+    const b = norm(recognized);
+    if (!a || !b) return 0;
+    if (a === b) return 1;
+    if (b.includes(a) || a.includes(b)) return 0.85;
+    const longer = a.length >= b.length ? a : b;
+    const shorter = a.length < b.length ? a : b;
+    let matches = 0;
+    for (const ch of shorter) {
+      if (longer.includes(ch)) matches++;
+    }
+    return matches / longer.length;
   },
 };
 

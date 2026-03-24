@@ -77,4 +77,15 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;');
 }
 
-export { getToday, addDays, shuffleArray, speak, buildTTSUrl, getLangCode, escapeHtml };
+/**
+ * Check Web Speech API support in the current browser.
+ * @returns {{ tts: boolean, stt: boolean }}
+ */
+function checkAudioSupport() {
+  return {
+    tts: typeof window.speechSynthesis !== 'undefined',
+    stt: typeof window.webkitSpeechRecognition !== 'undefined' || typeof window.SpeechRecognition !== 'undefined',
+  };
+}
+
+export { getToday, addDays, shuffleArray, speak, buildTTSUrl, getLangCode, escapeHtml, checkAudioSupport };

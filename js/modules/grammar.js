@@ -3,7 +3,7 @@
  * Milestone 2 will implement the full lesson/quiz/flashcard rendering.
  */
 
-import { escapeHtml } from '../core/utils.js';
+import { escapeHtml, speak, getLangCode } from '../core/utils.js';
 import { ProgressStore } from '../core/progress.js';
 
 const LANG_NAMES = { german: 'Alemão', english: 'Inglês' };
@@ -102,6 +102,8 @@ const GrammarModule = {
 
     const isDone = ProgressStore.isLessonComplete(lang, 'grammar', subLevel, lessonId);
     const targetLang = lang === 'german' ? 'de' : 'en';
+    const langCode = getLangCode(lang);
+    window._speak = (text) => speak(text, langCode);
 
     root.innerHTML = `
       <div class="content-detail">
@@ -138,12 +140,17 @@ const GrammarModule = {
         ${topic.examples?.length ? `
         <div class="content-section">
           <h3>✏️ Exemplos</h3>
-          ${topic.examples.map(ex => `
+          ${topic.examples.map(ex => {
+            const exText = ex[targetLang] || ex.de || ex.en || '';
+            const safeEx = exText.replace(/'/g, "\\'");
+            return `
             <div class="example-card">
-              <span class="en">${escapeHtml(ex[targetLang] || ex.de || ex.en || '')}</span>
+              <span class="en">${escapeHtml(exText)}</span>
+              ${exText ? `<button class="audio-btn audio-btn--sm" onclick="window._speak('${safeEx}')" title="Ouvir exemplo">🔊</button>` : ''}
               <span class="pt">${escapeHtml(ex.pt || '')}</span>
               ${ex.note ? `<span class="example-note">${escapeHtml(ex.note)}</span>` : ''}
-            </div>`).join('')}
+            </div>`;
+          }).join('')}
         </div>` : ''}
 
         ${topic.common_mistakes?.length ? `

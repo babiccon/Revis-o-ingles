@@ -5,6 +5,7 @@
 
 import { Router } from './js/core/router.js';
 import { ProgressStore } from './js/core/progress.js';
+import { checkAudioSupport } from './js/core/utils.js';
 
 // ─── Auth ─────────────────────────────────────────────────────────────────────
 const AUTH_HASH = '05d1b50ba52e573d1e8609bbe413afb9f75d2e641326d3bcffcf4f17031cdefc';
@@ -70,6 +71,21 @@ const App = {
       location.hash = '#english/grammar';
     }
     this.updateStatsBar();
+    this._checkAudioCompat();
+  },
+
+  /**
+   * Show a compatibility banner if TTS is not supported.
+   */
+  _checkAudioCompat() {
+    const support = checkAudioSupport();
+    if (!support.tts) {
+      const banner = document.createElement('div');
+      banner.className = 'audio-compat-banner';
+      banner.style.display = 'block';
+      banner.textContent = '⚠️ Seu navegador não suporta síntese de voz (TTS). Os botões 🔊 não funcionarão.';
+      document.getElementById('appRoot')?.insertAdjacentElement('beforebegin', banner);
+    }
   },
 
   /**

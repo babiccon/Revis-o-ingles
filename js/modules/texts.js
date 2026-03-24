@@ -3,7 +3,7 @@
  * Shows reading texts with highlighted vocabulary tooltips and comprehension questions.
  */
 
-import { escapeHtml } from '../core/utils.js';
+import { escapeHtml, speak, getLangCode } from '../core/utils.js';
 import { ProgressStore } from '../core/progress.js';
 
 const LANG_NAMES = { german: 'Alemão', english: 'Inglês' };
@@ -71,6 +71,8 @@ const TextsModule = {
     }
 
     const isDone = ProgressStore.isLessonComplete(lang, 'texts', subLevel, textId);
+    const langCode = getLangCode(lang);
+    window._speak = (text) => speak(text, langCode);
 
     const paragraphsHtml = (text.content || []).map((sentence, si) => {
       let html = escapeHtml(sentence.sentence);
@@ -79,10 +81,11 @@ const TextsModule = {
         const tooltip = escapeHtml(v.translation + (v.note ? ` — ${v.note}` : ''));
         html = html.replace(escaped, `<span class="vocab-word" onclick="window._toggleVocab(this)">${escaped}<span class="vocab-tooltip">${tooltip}</span></span>`);
       });
+      const safeSentence = sentence.sentence.replace(/'/g, "\\'");
 
       return `
         <div class="text-sentence">
-          <p class="sentence-text">${html}</p>
+          <p class="sentence-text">${html} <button class="audio-btn audio-btn--sm" onclick="window._speak('${safeSentence}')" title="Ouvir frase">🔊</button></p>
           <button class="toggle-translation-btn" onclick="window._toggleTranslation(${si})">▸ Tradução</button>
           <p class="sentence-translation" id="tr_${si}" style="display:none;">${escapeHtml(sentence.translation)}</p>
         </div>`;

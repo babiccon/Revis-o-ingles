@@ -3,7 +3,7 @@
  * Shows themed word lists, flashcards, and association exercises.
  */
 
-import { escapeHtml, shuffleArray } from '../core/utils.js';
+import { escapeHtml, shuffleArray, speak, getLangCode } from '../core/utils.js';
 import { ProgressStore } from '../core/progress.js';
 
 const LANG_NAMES = { german: 'Alemão', english: 'Inglês' };
@@ -101,16 +101,25 @@ const VocabularyModule = {
 
     const targetLang = lang === 'german' ? 'de' : 'en';
     const isDone = ProgressStore.isLessonComplete(lang, 'vocabulary', subLevel, catId);
+    const langCode = getLangCode(lang);
+    window._speak = (text) => speak(text, langCode);
 
-    const wordsHtml = (cat.words || []).map(w => `
+    const wordsHtml = (cat.words || []).map(w => {
+      const wordText = w[targetLang] || w.de || w.en || '';
+      const exText = w[`example_${targetLang}`] || w.example_de || w.example_en || w.example || '';
+      const safeWord = wordText.replace(/'/g, "\\'");
+      const safeEx = exText.replace(/'/g, "\\'");
+      return `
       <div class="vocab-word-row">
         <div class="vocab-term">
-          ${w.article ? `<span class="vocab-article">${escapeHtml(w.article)}</span> ` : ''}${escapeHtml(w[targetLang] || w.de || w.en || '')}
+          ${w.article ? `<span class="vocab-article">${escapeHtml(w.article)}</span> ` : ''}${escapeHtml(wordText)}
           ${w.plural ? `<span class="vocab-plural">(pl: ${escapeHtml(w.plural)})</span>` : ''}
+          ${wordText ? `<button class="audio-btn audio-btn--sm" onclick="window._speak('${safeWord}')" title="Ouvir pronúncia">🔊</button>` : ''}
         </div>
         <div class="vocab-translation">${escapeHtml(w.pt)}</div>
-        <div class="vocab-example">${escapeHtml(w[`example_${targetLang}`] || w.example_de || w.example_en || w.example || '')}</div>
-      </div>`).join('');
+        <div class="vocab-example">${escapeHtml(exText)}${exText ? ` <button class="audio-btn audio-btn--sm" onclick="window._speak('${safeEx}')" title="Ouvir exemplo">🔊</button>` : ''}</div>
+      </div>`;
+    }).join('');
 
     root.innerHTML = `
       <div class="content-detail">
